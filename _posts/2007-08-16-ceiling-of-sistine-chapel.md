@@ -10,5 +10,6 @@ type: post
 published: true
 meta: {}
 ---
-The ceiling of the famous Sistine Chapel has the painting by <a href="http://en.wikipedia.org/wiki/Michelangelo_Buonarroti">Michaelangelo</a>... called the <a href="http://en.wikipedia.org/wiki/Creation_of_Adam">Creation of Adam</a>.
-<p align="center"><img src="/img/sis_chap_adam27489324.jpg" /></p>
+The ceiling of the famous Sistine Chapel has the painting by [Michaelangelo](http://en.wikipedia.org/wiki/Michelangelo_Buonarroti)... called the [Creation of Adam](http://en.wikipedia.org/wiki/Creation_of_Adam).
+
+![](/img/sis_chap_adam27489324.jpg)

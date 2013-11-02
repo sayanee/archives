@@ -8,7 +8,6 @@ type: post
 published: true
 meta: {}
 ---
-<p align="justify">I am supposed to be getting ready to leave soon for the sea expedition. But no, none of this is happening. I&#39;m in bed with fever. Why must the fever come NOW :mad:</p>
+I am supposed to be getting ready to leave soon for the sea expedition. But no, none of this is happening. I'm in bed with fever. Why must the fever come NOW :mad:
 
-<p align="justify">Weekend plan totally abandoned.
-Operation: Rest in bed</p>
+Weekend plan totally abandoned. Operation: Rest in bed

@@ -16,8 +16,4 @@ meta:
   _edit_last: '1'
   aktt_tweeted: '1'
 ---
-The <a class="vt-p" href="/definitions-of-i/">minimalist within me</a> will once in a while ditch all the features and find only space.
-
-<a class="vt-p" href="http://www.ommwriter.com/">Ommwriter </a> is the perfect space i have found. It is <em>only</em> for writing with soothing backgrounds and music. Aaaahhh...I love it!
-
-<img class="aligncenter size-full wp-image-680" title="ommwriter" src="/img/ommwriter.jpg" alt="" width="500" height="327" />
+The [minimalist within me](/definitions-of-i/) will once in a while ditch all the features and find only space. [Ommwriter ](http://www.ommwriter.com/) is the perfect space i have found. It is _only_ for writing with soothing backgrounds and music. Aaaahhh...I love it! ![](/img/ommwriter.jpg "ommwriter")

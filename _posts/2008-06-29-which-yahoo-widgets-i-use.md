@@ -12,10 +12,9 @@ meta:
   aktt_notify_twitter: 'yes'
 ---
 few of them on the desktop...
-<ol>
-	<li>analog clock</li>
-	<li><a href="http://widgets.yahoo.com/widgets/month-calendar">month calendar</a></li>
-	<li><a href="http://widgets.yahoo.com/widgets/countdown-tofrom">countdown</a></li>
-	<li>stock updates</li>
-	<li><a href="http://widgets.yahoo.com/widgets/world-clock-pro">world clocks</a></li>
-</ol>
+
+1. analog clock
+2. [month calendar](http://widgets.yahoo.com/widgets/month-calendar)
+3. [countdown](http://widgets.yahoo.com/widgets/countdown-tofrom)
+4. stock updates
+5. [world clocks](http://widgets.yahoo.com/widgets/world-clock-pro)

@@ -10,6 +10,4 @@ type: post
 published: true
 meta: {}
 ---
-a really <a href="http://paulstamatiou.com/2005/11/19/how-to-quickie-embedded-flickr-slideshows">helpful post from Paul</a>. And i had to test it out... using the <a href="http://flickrslidr.com/index.php">flickrSlidr</a>
-
-<iframe height="500" scrolling="no" width="500" frameBorder="0" src="http://www.flickr.com/slideShow/index.gne?group_id=&amp;user_id=57773342@N00&amp;set_id=&amp;text=" align="center"></iframe>
+a really [helpful post from Paul](http://paulstamatiou.com/2005/11/19/how-to-quickie-embedded-flickr-slideshows). And i had to test it out... using the [flickrSlidr](http://flickrslidr.com/index.php)

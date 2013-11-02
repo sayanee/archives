@@ -11,4 +11,4 @@ type: post
 published: true
 meta: {}
 ---
-it wasn't until 1800s that <a href="http://en.wikipedia.org/wiki/Okay">okay</a> came about... from different variations of stories. Interesting :P
+it wasn't until 1800s that [okay](http://en.wikipedia.org/wiki/Okay) came about... from different variations of stories. Interesting :P

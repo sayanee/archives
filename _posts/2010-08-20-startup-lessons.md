@@ -16,16 +16,15 @@ meta:
   _edit_last: '1'
   aktt_tweeted: '1'
 ---
-10 Lessons <a href="http://www.readwriteweb.com/start/2010/08/10-lessons-from-finlands-summe.php">learnt from startup from Finland</a>:
-<ol>
-	<li>Be contagious</li>
-	<li>Focus on a Vision</li>
-	<li>Stop Thinking - Deliver</li>
-	<li>Step Up to Your Role</li>
-	<li>Build a Great Team</li>
-	<li>Learn to Listen; Learn to Fail</li>
-	<li>Pitch With Passion</li>
-	<li>Don't Seek Funding (Yet)</li>
-	<li>Do Your Homework</li>
-	<li>Be Visible</li>
-</ol>
+10 Lessons [learnt from startup from Finland](http://www.readwriteweb.com/start/2010/08/10-lessons-from-finlands-summe.php):
+
+1. Be contagious
+2. Focus on a Vision
+3. Stop Thinking - Deliver
+4. Step Up to Your Role
+5. Build a Great Team
+6. Learn to Listen; Learn to Fail
+7. Pitch With Passion
+8. Don't Seek Funding (Yet)
+9. Do Your Homework
+10. Be Visible

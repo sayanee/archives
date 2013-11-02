@@ -10,12 +10,11 @@ published: true
 meta: {}
 ---
 Things to see...
-<ol>
-	<li>Berlin Dome</li>
-	<li>Reichstag</li>
-	<li>Berlin Wall</li>
-	<li>Checkpoint Charlie</li>
-	<li>Brandenburg Gate</li>
-	<li>Charlottenburg Castle</li>
-	<li>Unter den Linden</li>
-</ol>
+
+1. Berlin Dome
+2. Reichstag
+3. Berlin Wall
+4. Checkpoint Charlie
+5. Brandenburg Gate
+6. Charlottenburg Castle
+7. Unter den Linden

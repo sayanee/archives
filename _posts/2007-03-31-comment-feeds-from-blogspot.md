@@ -13,6 +13,4 @@ meta:
   _oembed_fee4bffd44b01fbd789c47bf32f962f3: ! '{{unknown}}'
   _oembed_d02bf0077dec23f4ebaa0ce75c70ddeb: ! '{{unknown}}'
 ---
-blogger blogspot has comments feeds now!! just replace the **** with the url blogspot name! Yeah ... now i can track my friends' blogger comments too!
-
-http://*********.blogspot.com/feeds/comments/default
+blogger blogspot has comments feeds now!! just replace the \*\*\*\* with the url blogspot name! Yeah ... now i can track my friends' blogger comments too! http://\*\*\*\*\*\*\*\*\*.blogspot.com/feeds/comments/default

@@ -10,20 +10,17 @@ published: true
 meta: {}
 ---
 for audio
-<ul>
-	<li><a href="http://en.wikipedia.org/wiki/MP3">mp3</a></li>
-	<li><a href="http://www.borg.com/~jglatt/tech/wave.htm">wav</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Audio_Interchange_File_Format">aiff</a></li>
-</ul>
-for <a href="http://en.wikipedia.org/wiki/Video_formats">video formats</a>
-<ul>
-	<li><a href="http://en.wikipedia.org/wiki/Moving_Picture_Experts_Group">mpeg</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Windows_Media_Video">wmv</a></li>
-</ul>
+
+- [mp3](http://en.wikipedia.org/wiki/MP3)
+- [wav](http://www.borg.com/~jglatt/tech/wave.htm)
+- [aiff](http://en.wikipedia.org/wiki/Audio_Interchange_File_Format)
+
+for [video formats](http://en.wikipedia.org/wiki/Video_formats)
+- [mpeg](http://en.wikipedia.org/wiki/Moving_Picture_Experts_Group)
+- [wmv](http://en.wikipedia.org/wiki/Windows_Media_Video)
+
 for pictures
-<ul>
-	<li><a href="http://en.wikipedia.org/wiki/JPEG">jpeg</a>, jpg</li>
-	<li><a href="http://en.wikipedia.org/wiki/TIFF">tiff</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Windows_bitmap">bmp</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Portable_Network_Graphics">png</a></li>
-</ul>
+- [jpeg](http://en.wikipedia.org/wiki/JPEG), jpg
+- [tiff](http://en.wikipedia.org/wiki/TIFF)
+- [bmp](http://en.wikipedia.org/wiki/Windows_bitmap)
+- [png](http://en.wikipedia.org/wiki/Portable_Network_Graphics)

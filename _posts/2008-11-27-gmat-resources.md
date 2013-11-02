@@ -11,4 +11,4 @@ meta:
   _edit_last: '1'
   aktt_notify_twitter: 'yes'
 ---
-my GMAT notes to share: <a href="http://share.sweska.net/files/gmat-notes.doc">gmat-notes</a> :)
+my GMAT notes to share: [gmat-notes](http://share.sweska.net/files/gmat-notes.doc) :)

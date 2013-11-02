@@ -2,15 +2,7 @@
 layout: post
 title: 30 books that changed my life
 categories:
-- Ideas
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
+- Books
 ---
 It's safe to say that I have passed my quarter-life crisis. And the single biggest factor was me reading so much.
 

@@ -11,56 +11,61 @@ type: post
 published: true
 meta: {}
 ---
-<p align="justify"><strong>Book Title:</strong> Night
-<strong>Author:</strong> <a href="http://en.wikipedia.org/wiki/Elie_Wiesel">Elie Wiesel</a> - a holocaust survivor, a nobel peace prize winner, author and political activist
-<strong>Year written/published:</strong> 1958
-<strong>Book Source:</strong> Library, <a href="http://books.google.com/books?id=CKK8_fD4qTQC&amp;pgis=1">Google Books
-</a><strong>Summary:</strong> A chilling and powerfully telling story of Elie's life as a 15 year old in the Jewish concentration camp during the World War.
-<strong>My Comments:</strong> My first holocaust literature... maybe Anne Frank too but this one tells of a survival story from the concentration camp.... too many questions... read it for yourself to find those answer... if we ever can!
-<strong>Some extracts:</strong>
-<p align="justify">A miraculous survival?</p>
+**Book Title:** Night **Author:** [Elie Wiesel](http://en.wikipedia.org/wiki/Elie_Wiesel) - a holocaust survivor, a nobel peace prize winner, author and political activist **Year written/published:** 1958 **Book Source:** Library, [Google Books ](http://books.google.com/books?id=CKK8_fD4qTQC&pgis=1)**Summary:** A chilling and powerfully telling story of Elie's life as a 15 year old in the Jewish concentration camp during the World War. **My Comments:** My first holocaust literature... maybe Anne Frank too but this one tells of a survival story from the concentration camp.... too many questions... read it for yourself to find those answer... if we ever can! **Some extracts:**
 
-<blockquote>
-<p align="justify">There are those who tell me that I survived in order to write this text. I am not convinced. I don’t know how I survived; I was weak, rather shy; I did nothing to save myself. A miracle? Certainly not. I heavens could or would perform a miracle for me, why not for others more deserving than myself? It was nothing more than a chance. However, having survived, I needed to give some meaning to my survival. Was it to protect that meaning that I set to paper an experience in which nothing made any sense?</p>
-</blockquote>
-<p align="justify">Why did we pray?</p>
+A miraculous survival?
 
-<blockquote>
-<p align="justify">From that day on, I saw him often. He explained to me, with great emphasis that every question possessed a power that was lost in the answer… Man comes closer to God through the questions he asks Him, he liked to say. Therein lies true dialogue. Man asks and God replies. But we don’t understand His replies. We cannot understand them. Because they dwell in the depths of our soul and remain there until we die. The real answers, Eliezer, you will find only within yourself.</p>
-</blockquote>
-<p align="justify">8 days of Passover…</p>
+>  
 
-<blockquote>
-<p align="justify">Almost every Rabbi’s home became a house of prayer. We drank, we ate, we sang. The Bible commands us to rejoice during the 8 days of celebration, but our hearts were not in it. We wished the holiday would end so as not to have to pretend.</p>
-</blockquote>
-<p align="justify">Living in ghetto guarded by Germans…</p>
+> There are those who tell me that I survived in order to write this text. I am not convinced. I don’t know how I survived; I was weak, rather shy; I did nothing to save myself. A miracle? Certainly not. I heavens could or would perform a miracle for me, why not for others more deserving than myself? It was nothing more than a chance. However, having survived, I needed to give some meaning to my survival. Was it to protect that meaning that I set to paper an experience in which nothing made any sense?
 
-<blockquote>
-<p align="justify">People thought it was a good thing. We could no longer have to look at those hostile faces, endure those stares…. … Most people thought we would remain in the ghetto until the end of war, until the arrival of the Red Army. Afterwards everything would be as before. The ghetto was neither ruled by German or Jews; it was ruled by delusion.</p>
-</blockquote>
-<p align="justify">Speaking of God </p>
+Why did we pray?
 
-<blockquote>
-<p align="justify">Some of the men spoke of God: His mysterious ways, the sins of the Jewish people, and the redemption to come. As for me, I had ceased to pray. I concurred with Job! I was not denying hi existence, but I doubted His absolute justice. … … “God is testing us. He wants to see whether we are capable of overcoming our base instincts, of killing the Satan within ourselves. We have no right to despair. And if He punishes us mercilessly, it is a sign that He loves us much more…”</p>
-</blockquote>
-<p align="justify">Marching in step…</p>
+>  
 
-<blockquote>
-<p align="justify">My father has never served in the military and could not march in step… … That presented Franek with the opportunity to torment him and on a daily basis, to thrash him savagely. Left, right: he punched him. Left, right: he slapped him. I decided to give my father lessons in marching in step, in keeping time. We began practising in front of our block. I would command, “Left! Right!” and my dad would try. The inmates made fun of us… “Look at the little office, teaching the old man to march… Hey little general, how many rations of bread does the old man give you for this?” But my father did not make any progress, and the blows continued to rain to him.</p>
-</blockquote>
-<p align="justify">Lost faith in God... </p>
+> From that day on, I saw him often. He explained to me, with great emphasis that every question possessed a power that was lost in the answer… Man comes closer to God through the questions he asks Him, he liked to say. Therein lies true dialogue. Man asks and God replies. But we don’t understand His replies. We cannot understand them. Because they dwell in the depths of our soul and remain there until we die. The real answers, Eliezer, you will find only within yourself.
 
-<blockquote>
-<p align="justify">He was not alone in having lost faith during those days of selection. I knew a rabbi, form a small town in Poland. He was old and bent, his lips constantly trembling. He was always praying in the block and at work, in the ranks. He recited the entire pages from the Talmud arguing with himself, asking and answering himself endless questions. One day he said to me, “It’s over. God is no longer with us.”… his broken voice, “I know . No one has the right to say things like that. I know that very well. Man is too insignificant, too limited, to even try to comprehend. God’s mysterious ways. But what can someone like me do? I’m not a saint. I'm a simple creature of flesh and bone. I suffer hell in my soul and my flesh. I also have eyes and I see what is being done here. Here is God’s mercy? Where’s God? How can I believe, how can anyone believe in this God of mercy?”</p>
-</blockquote>
-<p align="justify">Free at last??</p>
+8 days of Passover…
 
-<blockquote>
-<p align="justify">On April 10, there were still some 20,000 prisoners in the camp, among them a few hundred children. It was decided to evacuate all of us at once. By evening. Afterwards, they should blow up the camp…. … Hunger was tormenting us; we had not eaten for 6 days… … The battle did not last long. Around noon, everything was calm again. The SS fled and the resistance had taken charge of the camp. At 6 o’clock, the first American tank stood at the gates of Buchenwald.</p>
-</blockquote>
-<blockquote>
-<p align="justify">Our first act as free men was to throw ourselves onto the provisions. That’s all we thought about. No thought of revenge or of parents. Only of bread. And even when we were no longer hungry, not one of us thought of revenge.</p>
-</blockquote>
-<blockquote>
-<p align="justify">One day when I was able to get up, I decided to look myself in the mirror on the opposite wall… …  from the depths of the mirror, a corpse was contemplating me. The look in his eyes as he gazed at me has never left me.</p>
-</blockquote>
+>  
+
+> Almost every Rabbi’s home became a house of prayer. We drank, we ate, we sang. The Bible commands us to rejoice during the 8 days of celebration, but our hearts were not in it. We wished the holiday would end so as not to have to pretend.
+
+Living in ghetto guarded by Germans…
+
+>  
+
+> People thought it was a good thing. We could no longer have to look at those hostile faces, endure those stares…. … Most people thought we would remain in the ghetto until the end of war, until the arrival of the Red Army. Afterwards everything would be as before. The ghetto was neither ruled by German or Jews; it was ruled by delusion.
+
+Speaking of God 
+
+>  
+
+> Some of the men spoke of God: His mysterious ways, the sins of the Jewish people, and the redemption to come. As for me, I had ceased to pray. I concurred with Job! I was not denying hi existence, but I doubted His absolute justice. … … “God is testing us. He wants to see whether we are capable of overcoming our base instincts, of killing the Satan within ourselves. We have no right to despair. And if He punishes us mercilessly, it is a sign that He loves us much more…”
+
+Marching in step…
+
+>  
+
+> My father has never served in the military and could not march in step… … That presented Franek with the opportunity to torment him and on a daily basis, to thrash him savagely. Left, right: he punched him. Left, right: he slapped him. I decided to give my father lessons in marching in step, in keeping time. We began practising in front of our block. I would command, “Left! Right!” and my dad would try. The inmates made fun of us… “Look at the little office, teaching the old man to march… Hey little general, how many rations of bread does the old man give you for this?” But my father did not make any progress, and the blows continued to rain to him.
+
+Lost faith in God... 
+
+>  
+
+> He was not alone in having lost faith during those days of selection. I knew a rabbi, form a small town in Poland. He was old and bent, his lips constantly trembling. He was always praying in the block and at work, in the ranks. He recited the entire pages from the Talmud arguing with himself, asking and answering himself endless questions. One day he said to me, “It’s over. God is no longer with us.”… his broken voice, “I know . No one has the right to say things like that. I know that very well. Man is too insignificant, too limited, to even try to comprehend. God’s mysterious ways. But what can someone like me do? I’m not a saint. I'm a simple creature of flesh and bone. I suffer hell in my soul and my flesh. I also have eyes and I see what is being done here. Here is God’s mercy? Where’s God? How can I believe, how can anyone believe in this God of mercy?”
+
+Free at last??
+
+>  
+
+> On April 10, there were still some 20,000 prisoners in the camp, among them a few hundred children. It was decided to evacuate all of us at once. By evening. Afterwards, they should blow up the camp…. … Hunger was tormenting us; we had not eaten for 6 days… … The battle did not last long. Around noon, everything was calm again. The SS fled and the resistance had taken charge of the camp. At 6 o’clock, the first American tank stood at the gates of Buchenwald.
+
+>  
+
+> Our first act as free men was to throw ourselves onto the provisions. That’s all we thought about. No thought of revenge or of parents. Only of bread. And even when we were no longer hungry, not one of us thought of revenge.
+
+>  
+
+> One day when I was able to get up, I decided to look myself in the mirror on the opposite wall… …  from the depths of the mirror, a corpse was contemplating me. The look in his eyes as he gazed at me has never left me.
+

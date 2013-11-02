@@ -10,9 +10,9 @@ published: true
 meta: {}
 ---
 Just read this in 'The Success Principles' by Jack Canfield. He mentioned Azim Jamal talking about the hours of power which includes:
-<ul>
-	<li>20 minutes of visualisation of our dreams/meditation/self-time/prayer</li>
-	<li>20 minutes of exercise</li>
-	<li>20 minutes of reading inspirational / informational books</li>
-</ul>
+
+- 20 minutes of visualisation of our dreams/meditation/self-time/prayer
+- 20 minutes of exercise
+- 20 minutes of reading inspirational / informational books
+
 how true!! It's definitely an hour of power

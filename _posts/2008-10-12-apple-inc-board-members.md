@@ -11,14 +11,13 @@ published: true
 meta:
   _edit_last: '1'
 ---
-An interesting line up of talent within the <a href="http://www.apple.com/pr/bios/bod.html">board members of Apple</a>:
-<ul>
-	<li>Bill Campbell - Chairman and former CEO, Intuit Corp.</li>
-	<li>Millard Drexler - Chairman and CEO, J. Crew</li>
-	<li>Albert Gore Jr. - Former Vice President of the United States</li>
-	<li>Steve Jobs - CEO, Apple</li>
-	<li>Andrea Jung - Chairman and CEO, Avon Products</li>
-	<li>Arthur D. Levinson, Ph. D. - Chairman and CEO, Genentech</li>
-	<li>Dr. Eric Schmidt - CEO, Google</li>
-	<li>Jerry York - Chairman, President and CEO, Harwinton Capital</li>
-</ul>
+An interesting line up of talent within the [board members of Apple](http://www.apple.com/pr/bios/bod.html):
+
+- Bill Campbell - Chairman and former CEO, Intuit Corp.
+- Millard Drexler - Chairman and CEO, J. Crew
+- Albert Gore Jr. - Former Vice President of the United States
+- Steve Jobs - CEO, Apple
+- Andrea Jung - Chairman and CEO, Avon Products
+- Arthur D. Levinson, Ph. D. - Chairman and CEO, Genentech
+- Dr. Eric Schmidt - CEO, Google
+- Jerry York - Chairman, President and CEO, Harwinton Capital

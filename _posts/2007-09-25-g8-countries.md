@@ -10,14 +10,13 @@ type: post
 published: true
 meta: {}
 ---
-the <a href="http://en.wikipedia.org/wiki/G8">G8 countries </a>include...
-<ol>
-	<li>Canada</li>
-	<li>France</li>
-	<li>Germany</li>
-	<li>Italy</li>
-	<li>Japan</li>
-	<li>Russia</li>
-	<li>United Kingdom</li>
-	<li>United States</li>
-</ol>
+the [G8 countries ](http://en.wikipedia.org/wiki/G8)include...
+
+1. Canada
+2. France
+3. Germany
+4. Italy
+5. Japan
+6. Russia
+7. United Kingdom
+8. United States

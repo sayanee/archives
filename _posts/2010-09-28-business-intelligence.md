@@ -17,5 +17,4 @@ meta:
   _edit_last: '1'
   aktt_tweeted: '1'
 ---
-<img class="aligncenter size-full wp-image-1976" title="biz-intelligence" src="/img/biz-intelligence.jpg" alt="" width="550" height="412" />
-<p style="text-align: center;"><a href="http://flowingdata.com/2010/09/21/human-centric-analysis/">Image Credit: Flowing Data</a></p>
+![](/img/biz-intelligence.jpg "biz-intelligence") [Image Credit: Flowing Data](http://flowingdata.com/2010/09/21/human-centric-analysis/)

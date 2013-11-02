@@ -11,15 +11,15 @@ published: true
 meta: {}
 ---
 these are the few that catches my eye...
-<ol>
-	<li><a href="http://karencheng.com.au/">karen cheng </a>- white and simple</li>
-	<li><a href="http://photomatt.net/">matt</a> - love the header</li>
-	<li><a href="http://www.philsproof.com/">phil</a> - love the site design and how it's so lively and personal</li>
-	<li><a href="http://www.thepacificwest.com/">pacific west comm</a> - love the placards in flash!</li>
-	<li><a href="http://www.neave.com/">neave</a> - go through his <a href="http://www.neave.com/planetarium/">sky watch</a> and <a href="http://www.neave.com/imagination/">imagination</a>. Another integration of flash</li>
-	<li><a href="http://beccary.com/">Beccary </a>- love her every freaking <a href="http://beccary.com/goodies/wordpress-themes/">WP themes</a></li>
-	<li><a href="http://www.pearsonified.com/">Pearsonified</a> - bright colors! Energy and great contents!</li>
-	<li><a href="http://www.jkrowling.com/en/">J. K. Rowling </a>- she has definitely some Harry Potter magic in her site :P</li>
-	<li><a href="http://sparklette.net/">sparkllete</a> - and her violet fairy tale dreamy magic</li>
-</ol>
-notice how all of them has... <a href="http://en.wikipedia.org/wiki/KISS_principle">KISS </a>(Keep it Simple Stupid!!!)
+
+1. [karen cheng ](http://karencheng.com.au/)- white and simple
+2. [matt](http://photomatt.net/) - love the header
+3. [phil](http://www.philsproof.com/) - love the site design and how it's so lively and personal
+4. [pacific west comm](http://www.thepacificwest.com/) - love the placards in flash!
+5. [neave](http://www.neave.com/) - go through his [sky watch](http://www.neave.com/planetarium/) and [imagination](http://www.neave.com/imagination/). Another integration of flash
+6. [Beccary ](http://beccary.com/)- love her every freaking [WP themes](http://beccary.com/goodies/wordpress-themes/)
+7. [Pearsonified](http://www.pearsonified.com/) - bright colors! Energy and great contents!
+8. [J. K. Rowling ](http://www.jkrowling.com/en/)- she has definitely some Harry Potter magic in her site :P
+9. [sparkllete](http://sparklette.net/) - and her violet fairy tale dreamy magic
+
+notice how all of them has... [KISS ](http://en.wikipedia.org/wiki/KISS_principle)(Keep it Simple Stupid!!!)

@@ -11,4 +11,5 @@ meta:
   _edit_last: '1'
 ---
 how awesome is this pic :D
-<p style="text-align: center;"><img class="size-full wp-image-1235  aligncenter" title="rule_rock" src="/img/rule_rock.jpg" alt="" /></p>
+
+![](/img/rule_rock.jpg "rule_rock")

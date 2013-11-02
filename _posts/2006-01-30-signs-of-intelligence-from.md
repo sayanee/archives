@@ -10,7 +10,6 @@ published: true
 meta:
   _edit_last: '1'
 ---
-Mr. K!!! This is too funny...
+Mr. K!!! This is too funny...  ![](http://static.flickr.com/27/92228866_02563f841f.jpg)
 
-<img src="http://static.flickr.com/27/92228866_02563f841f.jpg" alt="" />
-<h6><span style="color: #000000;">Photo Credit: <a href="http://www.flickr.com/photos/kuriakonz/92228866/">Acne?</a> by <a href="http://www.flickr.com/photos/kuriakonz/">Kurien</a></span></h6>
+###### Photo Credit: [Acne?](http://www.flickr.com/photos/kuriakonz/92228866/) by [Kurien](http://www.flickr.com/photos/kuriakonz/)

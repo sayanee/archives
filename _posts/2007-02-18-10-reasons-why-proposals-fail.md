@@ -9,18 +9,15 @@ type: post
 published: true
 meta: {}
 ---
-from <a href="http://www.instigatorblog.com/top-10-reasons-why-proposals-fail/2007/02/07/">source:</a> Instigator Blog
+from [source:](http://www.instigatorblog.com/top-10-reasons-why-proposals-fail/2007/02/07/) Instigator Blog Here are 10 reasons why proposals fail:
 
-Here are 10 reasons why proposals fail:
-<ol>
-	<li>They’re too long.</li>
-	<li>They don’t reference the prospect’s pain.</li>
-	<li>They’re too technical.</li>
-	<li>They’re not selling benefits.</li>
-	<li>They’re not well structured</li>
-	<li>They’ve got spelling and grammatical problems.</li>
-	<li>They’re poorly formatted and packaged</li>
-	<li>They’re missing testimonials and client references.</li>
-	<li>They’re missing a thank you.</li>
-	<li>There’s no call to action.</li>
-</ol>
+1. They’re too long.
+2. They don’t reference the prospect’s pain.
+3. They’re too technical.
+4. They’re not selling benefits.
+5. They’re not well structured
+6. They’ve got spelling and grammatical problems.
+7. They’re poorly formatted and packaged
+8. They’re missing testimonials and client references.
+9. They’re missing a thank you.
+10. There’s no call to action.

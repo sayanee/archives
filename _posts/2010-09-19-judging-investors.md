@@ -14,14 +14,12 @@ meta:
   _edit_last: '1'
   aktt_tweeted: '1'
 ---
-<a href="http://www.metamorphblog.com/2010/03/how-i-judge-investors-.html">How I judge investors</a>... And this works even when you are looking for a mentor or even writing down the qualities of your next envisioned boss.
-<ol>
-	<li>Intelligence</li>
-	<li>Security &amp; Self-Confidence</li>
-	<li>Reverence for the Entrepreneur</li>
-	<li>Humility &amp; Self-knowledge</li>
-	<li>Does he understand what it means to be an operator?</li>
-	<li>Does he want me to lie to him?</li>
-	<li>Does he teach me things?</li>
-	<li>Is he a happy person?</li>
-</ol>
+[How I judge investors](http://www.metamorphblog.com/2010/03/how-i-judge-investors-.html)... And this works even when you are looking for a mentor or even writing down the qualities of your next envisioned boss.
+1. Intelligence
+2. Security & Self-Confidence
+3. Reverence for the Entrepreneur
+4. Humility & Self-knowledge
+5. Does he understand what it means to be an operator?
+6. Does he want me to lie to him?
+7. Does he teach me things?
+8. Is he a happy person?

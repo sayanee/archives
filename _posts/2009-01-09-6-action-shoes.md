@@ -11,18 +11,10 @@ published: true
 meta:
   _edit_last: '1'
 ---
-<strong>Book Title</strong>: 6 action shoes
-<strong> Author</strong>: Edward de Bono
-<strong> Year written/published</strong>: 1991
-<strong> Book Source</strong>: <a href="http://books.google.com/books?id=edniAAAACAAJ&amp;dq=6+action+shoes">Google Books</a>, <a href="http://catalogue.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+25137+3002+11900395+3+0">Library</a>
-<strong> Some extracts</strong>:
-
-6 pairs of action shoes:
-<ol>
-	<li>Navy Formal Shoes – Routines and Formality</li>
-	<li>Grey Sneakers – Thinking, Ideas and Investigation</li>
-	<li>Brown Brogues – Pragmatism, Effectiveness and Initiative</li>
-	<li>Orange Gumboots – Emergency, Courage, Risk</li>
-	<li>Pink Slippers - Caring</li>
-	<li>Purple Riding Boots - authority and role</li>
-</ol>
+**Book Title**: 6 action shoes ** Author**: Edward de Bono ** Year written/published**: 1991 ** Book Source**: [Google Books](http://books.google.com/books?id=edniAAAACAAJ&dq=6+action+shoes), [Library](http://catalogue.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+25137+3002+11900395+3+0) ** Some extracts**: 6 pairs of action shoes:
+1. Navy Formal Shoes – Routines and Formality
+2. Grey Sneakers – Thinking, Ideas and Investigation
+3. Brown Brogues – Pragmatism, Effectiveness and Initiative
+4. Orange Gumboots – Emergency, Courage, Risk
+5. Pink Slippers - Caring
+6. Purple Riding Boots - authority and role

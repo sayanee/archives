@@ -10,22 +10,17 @@ published: true
 meta:
   _edit_last: '1'
 ---
-I thought <a href="http://www.businessweek.com/smallbiz/content/mar2008/sb2008033_156351.htm">this article</a> is really good in disecting how Obama speaks so well...
-<ol>
-	<li>hold out hope</li>
-	<li>use rhetorical device
-<ol>
-	<li>parallel structures</li>
-	<li>alliteration</li>
-	<li>rich imagery</li>
-</ol>
-</li>
-	<li>exude body confidence</li>
-	<li>dynamic vocal delivery
-<ol>
-	<li>pacing</li>
-	<li>volume</li>
-	<li>pauses</li>
-</ol>
-</li>
-</ol>
+I thought [this article](http://www.businessweek.com/smallbiz/content/mar2008/sb2008033_156351.htm) is really good in disecting how Obama speaks so well...
+
+1. hold out hope
+2. use rhetorical device
+  1. parallel structures
+  2. alliteration
+  3. rich imagery
+
+4. exude body confidence
+5. dynamic vocal delivery
+  1. pacing
+  2. volume
+  3. pauses
+

@@ -2,17 +2,7 @@
 layout: post
 title: Anything You Want by @sivers
 categories:
-- Book Reviews
-- Life Skills
-- Share
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
+- Books
 ---
 - **Title**: [Anything You Want](http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118)
 - **Author**: Derek [Sivers](https://twitter.com/#!/sivers)

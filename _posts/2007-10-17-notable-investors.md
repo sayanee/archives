@@ -11,15 +11,14 @@ published: true
 meta: {}
 ---
 from whom we can all learn from...
-<ol>
-	<li><a href="http://en.wikipedia.org/wiki/Benjamin_Graham">Benjamin Graham</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/David_Dodd">David Dodd</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/John_Burr_Williams">John Burr Williams</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Warren_Buffett">Warren Buffett</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Bill_Miller_(finance)">Bill Miller</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Philip_Arthur_Fisher">Philip Fisher</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Charlie_Munger">Charlie Munger</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/George_soros">George Soros</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Peter_Lynch">Peter Lynch</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Charles_R._Schwab">Charles Schwab </a></li>
-</ol>
+
+1. [Benjamin Graham](http://en.wikipedia.org/wiki/Benjamin_Graham)
+2. [David Dodd](http://en.wikipedia.org/wiki/David_Dodd)
+3. [John Burr Williams](http://en.wikipedia.org/wiki/John_Burr_Williams)
+4. [Warren Buffett](http://en.wikipedia.org/wiki/Warren_Buffett)
+5. [Bill Miller](http://en.wikipedia.org/wiki/Bill_Miller_(finance))
+6. [Philip Fisher](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher)
+7. [Charlie Munger](http://en.wikipedia.org/wiki/Charlie_Munger)
+8. [George Soros](http://en.wikipedia.org/wiki/George_soros)
+9. [Peter Lynch](http://en.wikipedia.org/wiki/Peter_Lynch)
+10. [Charles Schwab ](http://en.wikipedia.org/wiki/Charles_R._Schwab)

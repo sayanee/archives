@@ -13,28 +13,26 @@ published: true
 meta:
   _edit_last: '1'
 ---
-<a href="http://en.wikipedia.org/wiki/Blend_modes">Blend modes</a> in digital image editing are used to determine how two Layers are blended into each other.
-<ol>
-	<li><span style="color: #993300;">Normal blend mode</span></li>
-	<li><span style="color: #993300;">Dissolve</span></li>
-	<li><span style="color: #0000ff;">Multiply</span></li>
-	<li><span style="color: #0000ff;">Screen</span></li>
-	<li><span style="color: #0000ff;">Overlay</span></li>
-	<li><span style="color: #0000ff;">Soft Light</span></li>
-	<li><span style="color: #0000ff;">Hard Light</span></li>
-	<li><span style="color: #0000ff;"><span style="color: #000000;">Color Dodge</span></span></li>
-	<li><span style="color: #0000ff;"><span style="color: #000000;">Linear Dodge</span></span></li>
-	<li><span style="color: #0000ff;"><span style="color: #000000;">Color Burn</span></span></li>
-	<li><span style="color: #0000ff;"><span style="color: #000000;">Linear Burn</span></span></li>
-	<li><span style="color: #0000ff;"><span style="color: #000000;">Hard Mix</span></span></li>
-	<li><span style="color: #0000ff;"><span><span style="color: #008000;">Divide</span></span></span></li>
-	<li><span style="color: #0000ff;"><span><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;">Addition</span></span></span></span></span></li>
-	<li><span style="color: #0000ff;"><span><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;">Subtract</span></span></span></span></span></span></span></li>
-	<li><span style="color: #0000ff;"><span><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;">Difference</span></span></span></span></span></span></span></span></span></li>
-	<li><span style="color: #0000ff;"><span><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;">Darken Only</span></span></span></span></span></span></span></span></span></span></span></li>
-	<li><span style="color: #0000ff;"><span><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;">Lighten Only</span></span></span></span></span></span></span></span></span></span></span></span></span></li>
-	<li><span style="color: #0000ff;"><span><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;">Hue</span></span></span></span></span></span></span></span></span></span></span></span></span></span></li>
-	<li><span style="color: #0000ff;"><span><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;">Saturation</span></span></span></span></span></span></span></span></span></span></span></span></span></span></li>
-	<li><span style="color: #0000ff;"><span><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;">Color</span></span></span></span></span></span></span></span></span></span></span></span></span></span></li>
-	<li><span style="color: #0000ff;"><span><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;"><span style="color: #008000;"><span style="color: #000000;">Luminosity</span></span></span></span></span></span></span></span></span></span></span></span></span></span></li>
-</ol>
+[Blend modes](http://en.wikipedia.org/wiki/Blend_modes) in digital image editing are used to determine how two Layers are blended into each other.
+1. Normal blend mode
+2. Dissolve
+3. Multiply
+4. Screen
+5. Overlay
+6. Soft Light
+7. Hard Light
+8. Color Dodge
+9. Linear Dodge
+10. Color Burn
+11. Linear Burn
+12. Hard Mix
+13. Divide
+14. Addition
+15. Subtract
+16. Difference
+17. Darken Only
+18. Lighten Only
+19. Hue
+20. Saturation
+21. Color
+22. Luminosity

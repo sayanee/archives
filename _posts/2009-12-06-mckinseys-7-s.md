@@ -11,12 +11,11 @@ meta:
   aktt_notify_twitter: 'no'
   _edit_last: '1'
 ---
-the <a href="http://www.valuebasedmanagement.net/methods_7S.html">7s of McKinsey</a> - Shared Values:
-<ol>
-	<li>Structure</li>
-	<li>System</li>
-	<li>Style</li>
-	<li>Staff</li>
-	<li>Skill</li>
-	<li>Strategy</li>
-</ol>
+the [7s of McKinsey](http://www.valuebasedmanagement.net/methods_7S.html) - Shared Values:
+
+1. Structure
+2. System
+3. Style
+4. Staff
+5. Skill
+6. Strategy

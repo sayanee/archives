@@ -10,26 +10,25 @@ type: post
 published: true
 meta: {}
 ---
-from the<a closure_hashCode_="524" target="_blank" href="http://money.cnn.com/magazines/fortune/fortune500/womenceos/"> full list</a>…
-<ul>
-	<li>Claire Babrowski  - RadioShack</li>
-	<li>Brenda C. Barnes - Sara Lee  </li>
-	<li>Dorrit J. Bern  - Charming Shoppes </li>
-	<li>Mary E. Burton   - Zale </li>
-	<li>Patricia Gallup  PC - Connection</li>
-	<li>Susan M. Ivey - Reynolds American </li>
-	<li>Andrea Jung - Avon Products </li>
-	<li>Kay Krill - AnnTaylor Stores </li>
-	<li>Linda A. Lang - Jack in the Box </li>
-	<li>Kathleen A. Ligocki - Tower Automotive </li>
-	<li>Anne Mulcahy - Xerox </li>
-	<li>Janet L. Robinson - New York Times </li>
-	<li>Paula G. Rosput Reynolds - Safeco </li>
-	<li>Patricia F. Russo - Lucent Technologies </li>
-	<li>Mary F. Sammons - Rite Aid </li>
-	<li>Marion O. Sandler - Golden West Financial </li>
-	<li>Stephanie A. Streeter - Banta </li>
-	<li>Margaret C. Whitman - eBay </li>
-	<li>Mary Agnes Wilderotter - Citizens Communications </li>
-	<li>Dona Davis Young - Phoenix </li>
-</ul>
+from the [ full list](http://money.cnn.com/magazines/fortune/fortune500/womenceos/)…
+
+- Claire Babrowski  - RadioShack
+- Brenda C. Barnes - Sara Lee  
+- Dorrit J. Bern  - Charming Shoppes 
+- Mary E. Burton   - Zale 
+- Patricia Gallup  PC - Connection
+- Susan M. Ivey - Reynolds American 
+- Andrea Jung - Avon Products 
+- Kay Krill - AnnTaylor Stores 
+- Linda A. Lang - Jack in the Box 
+- Kathleen A. Ligocki - Tower Automotive 
+- Anne Mulcahy - Xerox 
+- Janet L. Robinson - New York Times 
+- Paula G. Rosput Reynolds - Safeco 
+- Patricia F. Russo - Lucent Technologies 
+- Mary F. Sammons - Rite Aid 
+- Marion O. Sandler - Golden West Financial 
+- Stephanie A. Streeter - Banta 
+- Margaret C. Whitman - eBay 
+- Mary Agnes Wilderotter - Citizens Communications 
+- Dona Davis Young - Phoenix 

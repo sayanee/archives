@@ -10,16 +10,15 @@ type: post
 published: true
 meta: {}
 ---
-here's a list of the <a href="http://www.infoplease.com/ipa/A0001338.html">tallest buildings</a>... and top 10...
-<ol>
-	<li><strong>Taipei 101</strong>, Taipei, Taiwan 508m</li>
-	<li><strong>Petronas Tower 1</strong>, Kuala Lumpur, Malaysia 452m</li>
-	<li><strong>Petronas Tower 2</strong>, Kuala Lumpur, Malaysia 452m</li>
-	<li><strong>Sears Tower</strong>, Chicago 442m</li>
-	<li><strong>Jin Mao Building</strong>, Shanghai 421m</li>
-	<li><strong>Two International Finance Centre</strong>, Hong Kong 415m</li>
-	<li><strong>CITIC Plaza</strong>, Guangzhou, China 391m</li>
-	<li><strong>Shun Hing Square</strong>, Shenzhen, China 384m</li>
-	<li><strong>Empire State Building</strong>, New York 381m</li>
-	<li><strong>Central Plaza</strong>, Hong Kong 374m</li>
-</ol>
+here's a list of the [tallest buildings](http://www.infoplease.com/ipa/A0001338.html)... and top 10...
+
+1. **Taipei 101**, Taipei, Taiwan 508m
+2. **Petronas Tower 1**, Kuala Lumpur, Malaysia 452m
+3. **Petronas Tower 2**, Kuala Lumpur, Malaysia 452m
+4. **Sears Tower**, Chicago 442m
+5. **Jin Mao Building**, Shanghai 421m
+6. **Two International Finance Centre**, Hong Kong 415m
+7. **CITIC Plaza**, Guangzhou, China 391m
+8. **Shun Hing Square**, Shenzhen, China 384m
+9. **Empire State Building**, New York 381m
+10. **Central Plaza**, Hong Kong 374m

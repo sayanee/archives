@@ -14,41 +14,30 @@ published: true
 meta:
   _edit_last: '1'
 ---
-<strong>Book Title:</strong> Magic Ladder to Success
-<strong>Author</strong>: Napolean Hill
-<strong>Year written/published</strong>:
-<strong>Book Source:</strong> Google Books, Library
-<strong>Summary</strong>: A compiled
-<strong>Contents page</strong>:
-<ol>
-	<li>The master mind</li>
-	<li>a definite chief aim</li>
-	<li>self-confidence</li>
-	<li>habit of saving</li>
-	<li>initiative and leadership</li>
-	<li>imagination</li>
-	<li>enthusiasm</li>
-	<li>self-control</li>
-	<li>habit of doing more than paid for</li>
-	<li>pleasing personality</li>
-	<li>accurate thinking</li>
-	<li>concentration</li>
-	<li>cooperation</li>
-	<li>profiting by failure</li>
-	<li>tolerance</li>
-	<li>practising the Golden Rule</li>
-	<li>habit of health</li>
-</ol>
-Some extracts:
+**Book Title:** Magic Ladder to Success **Author**: Napolean Hill **Year written/published**: **Book Source:** Google Books, Library **Summary**: A compiled **Contents page**:
+1. The master mind
+2. a definite chief aim
+3. self-confidence
+4. habit of saving
+5. initiative and leadership
+6. imagination
+7. enthusiasm
+8. self-control
+9. habit of doing more than paid for
+10. pleasing personality
+11. accurate thinking
+12. concentration
+13. cooperation
+14. profiting by failure
+15. tolerance
+16. practising the Golden Rule
+17. habit of health
 
-Imagination
-<blockquote>Years before it became a reality, the alte John Wannamaker saw, in his own imaginsation, in practically all its details, the gigantic business which now bears his name and despite the fact the he then without the capital to create such a business, he managed to get it and to see the business he had dreamed of in his mind become a splendid reality</blockquote>
+Some extracts: Imagination > Years before it became a reality, the alte John Wannamaker saw, in his own imaginsation, in practically all its details, the gigantic business which now bears his name and despite the fact the he then without the capital to create such a business, he managed to get it and to see the business he had dreamed of in his mind become a splendid reality
 6 basic fears are:
-<ol>
-	<li>fear of criticism</li>
-	<li>fear of ill health</li>
-	<li>fear of poverty</li>
-	<li>fear of Old Age</li>
-	<li>fear of the loss of love</li>
-	<li>fear of death</li>
-</ol>
+1. fear of criticism
+2. fear of ill health
+3. fear of poverty
+4. fear of Old Age
+5. fear of the loss of love
+6. fear of death

@@ -1,16 +1,6 @@
 ---
 layout: post
 title: ! '#7 Pulse of Tech Evangelism with @preetamrai'
-categories:
-- Pulse
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
 ---
 When I first met Preetam more than 4 years back, I was struck by his travels and down-to-earth ways of connecting with people and technology everywhere he went. When he was back in Singapore recently, I had to nudge him for a meetup to know more about how he got started and his thoughts on his work for tomorrow.
 

@@ -10,21 +10,8 @@ published: true
 meta:
   _edit_last: '1'
 ---
-<strong>Book Title</strong>: The Little Prince
-<strong>Author</strong>: Antoine de Saint-Exupery
-<strong>Year written/published</strong>: 1943
-<strong>Book Source</strong>: <a href="http://wikilivres.info/wiki/The_Little_Prince">Wikilivres</a>
-<strong>Comments</strong>: Life's lessons are taught in this simple fantasy-like story! It's a short read.. but an amazing read!
-<strong>Some extracts</strong>:
-<blockquote>"Here is my secret. It is very simple: one sees well only with the heart. The essential is invisible to the eyes."</blockquote>
-<blockquote>“People have forgotten this truth,” said the fox. “But you mustn’t forget it. You become responsible forever for what you’ve tamed. You’re responsible for you rose…”</blockquote>
-<blockquote>“The stars are beautiful because of a flower you don’t see…”</blockquote>
-<blockquote>"The men where you live," said the little prince, "raise five thousand roses in the same garden — and they do not find in it what they are looking for."
-"They do not find it," I replied.
-"And yet what they are looking for could be found in one single rose, or in a little water."
-"Yes, that is true," I said.
-And the little prince added:
-"But the eyes are blind. One must look with the heart..."</blockquote>
-<blockquote>Here, then, is a great mystery. For you who also love the little prince, and for me, nothing in the universe can be the same if somewhere, we do not know where, a sheep that we never saw has — yes or no? — eaten a rose...
-Look up at the sky. Ask yourselves: is it yes or no? Has the sheep eaten the flower? And you will see how everything changes...
-And no grown-up will ever understand that this is a matter of so much importance!</blockquote>
+**Book Title**: The Little Prince **Author**: Antoine de Saint-Exupery **Year written/published**: 1943 **Book Source**: [Wikilivres](http://wikilivres.info/wiki/The_Little_Prince) **Comments**: Life's lessons are taught in this simple fantasy-like story! It's a short read.. but an amazing read! **Some extracts**: > "Here is my secret. It is very simple: one sees well only with the heart. The essential is invisible to the eyes."
+> “People have forgotten this truth,” said the fox. “But you mustn’t forget it. You become responsible forever for what you’ve tamed. You’re responsible for you rose…”
+> “The stars are beautiful because of a flower you don’t see…”
+> "The men where you live," said the little prince, "raise five thousand roses in the same garden — and they do not find in it what they are looking for." "They do not find it," I replied. "And yet what they are looking for could be found in one single rose, or in a little water." "Yes, that is true," I said. And the little prince added: "But the eyes are blind. One must look with the heart..."
+> Here, then, is a great mystery. For you who also love the little prince, and for me, nothing in the universe can be the same if somewhere, we do not know where, a sheep that we never saw has — yes or no? — eaten a rose... Look up at the sky. Ask yourselves: is it yes or no? Has the sheep eaten the flower? And you will see how everything changes... And no grown-up will ever understand that this is a matter of so much importance!

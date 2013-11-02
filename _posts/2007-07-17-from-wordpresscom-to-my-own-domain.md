@@ -9,27 +9,21 @@ type: post
 published: true
 meta: {}
 ---
-From using <a href="http://wordpress.com/">wordpress.com </a>to <a href="http://wordpress.org/">wordpress.org</a>
+From using [wordpress.com ](http://wordpress.com/)to [wordpress.org](http://wordpress.org/) Shifting the posts...
 
-Shifting the posts...
-<ul>
-	<li>Manage -&gt; Export -&gt; Wordpress in wordpress.com</li>
-	<li>Manage -&gt; Import in our own domain</li>
-</ul>
+- Manage -> Export -> Wordpress in wordpress.com
+- Manage -> Import in our own domain
+
 Shifting the images and files...
-<ul>
-	<li>relative linking</li>
-	<li>to a single folder</li>
-</ul>
+- relative linking
+- to a single folder
+
 Shifting Links
-<ul>
-	<li>from <a href="http://bloggersblurt.wordpress.com/2006/11/02/importing-from-one-wordpresscom-blog-to-another/">this post</a></li>
-</ul>
+- from [this post](http://bloggersblurt.wordpress.com/2006/11/02/importing-from-one-wordpresscom-blog-to-another/)
+
 Stats plugin for visitor tracking...
-<ol>
-	<li>Blog Stats</li>
-	<li>FeedStats</li>
-	<li>Feedburner and FeedSmith</li>
-	<li>Activemeter</li>
-	<li>Google Analytics</li>
-</ol>
+1. Blog Stats
+2. FeedStats
+3. Feedburner and FeedSmith
+4. Activemeter
+5. Google Analytics

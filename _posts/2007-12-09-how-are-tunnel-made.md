@@ -9,6 +9,8 @@ type: post
 published: true
 meta: {}
 ---
-<a href="http://en.wikipedia.org/wiki/Tunnel_boring_machine">Tunnel Boring Machines</a> are used to cut through huge underground tunnels up to 15 metres in diameter! it's so huge!
-<p align="center"><img src="/img/tbm.jpg" /></p>
-<p align="center"><a href="http://www.railway-technology.com/projects/dublin-metro/images/5-tunnel-boring-machine.jpg">picture credit</a></p>
+[Tunnel Boring Machines](http://en.wikipedia.org/wiki/Tunnel_boring_machine) are used to cut through huge underground tunnels up to 15 metres in diameter! it's so huge!
+
+![](/img/tbm.jpg)
+
+[picture credit](http://www.railway-technology.com/projects/dublin-metro/images/5-tunnel-boring-machine.jpg)

@@ -9,25 +9,17 @@ type: post
 published: true
 meta: {}
 ---
-<strong>Place</strong>: <a href="http://www.zaanseschans.nl/">Zaanse Schans</a> beside river Zaan, North Netherlands
-<strong>Famous</strong>: Windmills... there are still 6 working mills there
-<strong>Best Time to go</strong>: anytime
-<strong>How to go</strong>: some <a href="http://www.virtualtourist.com/travel/Europe/Netherlands/Provincie_Noord_Holland/Zaanse_Schans-2271918/Transportation-Zaanse_Schans-BR-1.html">suggestions</a>...
-<ol>
-	<li>Amsterdam Central station to Koog-Zaankijk station</li>
-	<li>15 min walk from the station by following the signs</li>
-</ol>
-<p align="center">or</p>
+**Place**: [Zaanse Schans](http://www.zaanseschans.nl/) beside river Zaan, North Netherlands **Famous**: Windmills... there are still 6 working mills there **Best Time to go**: anytime **How to go**: some [suggestions](http://www.virtualtourist.com/travel/Europe/Netherlands/Provincie_Noord_Holland/Zaanse_Schans-2271918/Transportation-Zaanse_Schans-BR-1.html)...
+1. Amsterdam Central station to Koog-Zaankijk station
+2. 15 min walk from the station by following the signs
 
-<ol>
-	<li>
-<p align="left">Take bus 91 from Amsterdam Central station in 50 min</p>
-</li>
-</ol>
-<strong>Cost</strong>: Round-trip in train costs about 7.5 Euro. Viewing the windmills is free.
-<strong>Some links</strong>:
-<ul>
-	<li><a href="http://www.amsterdam.info/excursions/zaanse-schans/">link 1</a></li>
-	<li><a href="http://notourist.wordpress.com/2007/07/11/zaanse-schans/">a blog entry</a></li>
-	<li><a href="http://www.uky.edu/OtherOrgs/KPS/pages/conferences/netherlands/pages/zaanseschans.htm">some more related links</a></li>
-</ul>
+or
+
+1.  
+
+Take bus 91 from Amsterdam Central station in 50 min
+
+**Cost**: Round-trip in train costs about 7.5 Euro. Viewing the windmills is free. **Some links**:
+- [link 1](http://www.amsterdam.info/excursions/zaanse-schans/)
+- [a blog entry](http://notourist.wordpress.com/2007/07/11/zaanse-schans/)
+- [some more related links](http://www.uky.edu/OtherOrgs/KPS/pages/conferences/netherlands/pages/zaanseschans.htm)

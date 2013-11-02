@@ -9,20 +9,18 @@ type: post
 published: true
 meta: {}
 ---
-A <a href="http://lifehacker.com/software/word/alpha-geek-make-microsoft-word-less-annoying-244859.php">handy article from lifehacker </a>on how to...
-<ul>
-	<li>Turn off unnecessary toolbars</li>
-	<li>Streamline the toolbars you keep</li>
-	<li>Add a word-count button</li>
-	<li>Expand the recently used documents list</li>
-	<li>Access full pull-down menus</li>
-	<li>Ditch Word altogether</li>
-</ul>
-The following can be done by - <font color="#808080">Tools -&gt; AutoCorrect Options</font>
-<ul>
-	<li>Turn off "smart quotes"</li>
-	<li>Turn off entire-word selection</li>
-	<li>Turn off automatic numbered lists</li>
-	<li>Turn off superscripting and fractions</li>
-	<li>Turn off hyperlinks</li>
-</ul>
+A [handy article from lifehacker ](http://lifehacker.com/software/word/alpha-geek-make-microsoft-word-less-annoying-244859.php)on how to...
+
+- Turn off unnecessary toolbars
+- Streamline the toolbars you keep
+- Add a word-count button
+- Expand the recently used documents list
+- Access full pull-down menus
+- Ditch Word altogether
+
+The following can be done by - Tools -> AutoCorrect Options
+- Turn off "smart quotes"
+- Turn off entire-word selection
+- Turn off automatic numbered lists
+- Turn off superscripting and fractions
+- Turn off hyperlinks

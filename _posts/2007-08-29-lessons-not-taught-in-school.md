@@ -9,27 +9,26 @@ type: post
 published: true
 meta: {}
 ---
-I like this article - <a href="http://johnplaceonline.com/achieve-balance/21-critical-life-lessons-you-didnt-learn-in-school/">21 Critical Life Lessons you didn't learn in School</a>... how true!
-<ol>
-	<li>Choosing a Mate</li>
-	<li>Evaluating Relationships</li>
-	<li>Conversation</li>
-	<li>Handling Difficult People</li>
-	<li>Networking</li>
-	<li>Compassion</li>
-	<li>Teamwork</li>
-	<li>Giving</li>
-	<li>The Material Myth</li>
-	<li>Saving</li>
-	<li>Debt</li>
-	<li>Frugality</li>
-	<li>Debtor Responsibility</li>
-	<li>Passion</li>
-	<li>Practicality</li>
-	<li>Politics of Advancement</li>
-	<li> Entrepreneurial</li>
-	<li>Positive Thinking</li>
-	<li>Personal Accountability</li>
-	<li>Setting and Achieving Goals</li>
-	<li>Health</li>
-</ol>
+I like this article - [21 Critical Life Lessons you didn't learn in School](http://johnplaceonline.com/achieve-balance/21-critical-life-lessons-you-didnt-learn-in-school/)... how true!
+
+1. Choosing a Mate
+2. Evaluating Relationships
+3. Conversation
+4. Handling Difficult People
+5. Networking
+6. Compassion
+7. Teamwork
+8. Giving
+9. The Material Myth
+10. Saving
+11. Debt
+12. Frugality
+13. Debtor Responsibility
+14. Passion
+15. Practicality
+16. Politics of Advancement
+17.  Entrepreneurial
+18. Positive Thinking
+19. Personal Accountability
+20. Setting and Achieving Goals
+21. Health

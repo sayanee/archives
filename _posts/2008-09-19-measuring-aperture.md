@@ -14,59 +14,56 @@ meta:
   _edit_last: '1'
 ---
 Modern lenses use a standard f-stop scale, which is an approximate of the powers of square-root 2:
-<blockquote><span>f/</span>1, <span>f/</span>1.4, <span>f/</span>2, <span>f/</span>2.8, <span>f/</span>4, <span>f/</span>5.6, <span>f/</span>8, <span>f/</span>11,<span>f/</span>16, <span>f/</span>22, <span>f/</span>32, <span>f/</span>45, <span>f/</span>64, <span>f/</span>90, <span>f/</span>128, etc.</blockquote>
-typical one-half-stop f-number scale
-<blockquote> </blockquote>
-<ul>
-	<li>f/1.0</li>
-	<li>f/1.2</li>
-	<li>f/1.4</li>
-	<li>f<span> </span>/1.7</li>
-	<li>f/2</li>
-	<li>f/2.4</li>
-	<li>f/2.8</li>
-	<li>f/3.3</li>
-	<li>f/4</li>
-	<li>f/4.8</li>
-	<li>f/5.6</li>
-	<li>f/6.7</li>
-	<li>f/8</li>
-	<li>f/9.5</li>
-	<li>f/11</li>
-	<li>f/13</li>
-	<li>f/16</li>
-	<li>f/19</li>
-	<li>f/22</li>
-</ul>
+
+> f/1, f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11,f/16, f/22, f/32, f/45, f/64, f/90, f/128, etc.
+typical one-half-stop f-number scale >  
+
+- f/1.0
+- f/1.2
+- f/1.4
+- f /1.7
+- f/2
+- f/2.4
+- f/2.8
+- f/3.3
+- f/4
+- f/4.8
+- f/5.6
+- f/6.7
+- f/8
+- f/9.5
+- f/11
+- f/13
+- f/16
+- f/19
+- f/22
+
 Typical one-third-stop f-number scale
-<ul>
-	<li>f/1.0</li>
-	<li>f/1.1</li>
-	<li>f/1.2</li>
-	<li>f/1.4</li>
-	<li>f/1.6</li>
-	<li>f/1.8</li>
-	<li>f/2</li>
-	<li>f/2.2</li>
-	<li>f/2.5</li>
-	<li>f/2.8</li>
-	<li>f/3.3</li>
-	<li>f/3.5</li>
-	<li>f/4</li>
-	<li>f/4.5</li>
-	<li>f/5.0</li>
-	<li>f/5.6</li>
-	<li>f/6.3</li>
-	<li>f/7.1</li>
-	<li>f/8</li>
-	<li>f/9</li>
-	<li>f/10</li>
-	<li>f/11</li>
-	<li>f/13</li>
-	<li>f/14</li>
-	<li>f/16</li>
-	<li>f/18</li>
-	<li>f/20</li>
-	<li>f/22</li>
-</ul>
-<div></div>
+- f/1.0
+- f/1.1
+- f/1.2
+- f/1.4
+- f/1.6
+- f/1.8
+- f/2
+- f/2.2
+- f/2.5
+- f/2.8
+- f/3.3
+- f/3.5
+- f/4
+- f/4.5
+- f/5.0
+- f/5.6
+- f/6.3
+- f/7.1
+- f/8
+- f/9
+- f/10
+- f/11
+- f/13
+- f/14
+- f/16
+- f/18
+- f/20
+- f/22

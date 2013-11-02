@@ -13,12 +13,10 @@ meta:
   _edit_last: '1'
   aktt_tweeted: '1'
 ---
-Another productivity hack is the tomato technique aka <a href="http://www.pomodorotechnique.com/">pomodoro technique</a>.
+Another productivity hack is the tomato technique aka [pomodoro technique](http://www.pomodorotechnique.com/). Here are some cool resources i found:
 
-Here are some cool resources i found:
-<ol>
-	<li><a href="http://itunes.apple.com/us/app/pomodoro-timer/id325610693?mt=8">iPhone app</a></li>
-	<li><a href="http://www.pomodorotechnique.com/resources/cirillo/ThePomodoroTechnique_v1-3.pdf">free e-book</a></li>
-	<li><a href="http://tomatoi.st/awkz">browser timer</a></li>
-</ol>
-<img class="aligncenter size-full wp-image-1744" title="pomodoro-technique" src="/img/pomodoro-technique.jpg"  />
+1. [iPhone app](http://itunes.apple.com/us/app/pomodoro-timer/id325610693?mt=8)
+2. [free e-book](http://www.pomodorotechnique.com/resources/cirillo/ThePomodoroTechnique_v1-3.pdf)
+3. [browser timer](http://tomatoi.st/awkz)
+
+![](/img/pomodoro-technique.jpg "pomodoro-technique")

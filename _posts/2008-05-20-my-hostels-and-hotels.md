@@ -15,28 +15,23 @@ meta:
   _edit_last: '1'
 ---
 I had a fabulous 3 months traveling in Europe and it would not have been complete with the amazing places i had stayed in...
-<ol>
-	<li>Valenciennes (Hotel ***) - <a href="http://www.grand-hotel-de-valenciennes.fr/">Le Grande Hotel de Valenciennes</a></li>
-	<li>Paris (Hostel) - <a href="http://www.aijparis.com/framea.htm">AIJ Paris</a></li>
-	<li>Paris (Hostel) - <a href="http://www.hihostels.com/dba/hostel020131.en.htm">Paris Jules Ferry</a></li>
-	<li>Paris (Hotel **) - <a href="http://www.france-hotel-guide.com/h75003picard.htm">Hotel Picard</a></li>
-	<li>Tours (Hostel) - <a href="http://www.grouphostels.com/dba/hostel020028.en.htm">AJ de 'Vieux Tours'</a></li>
-	<li>Amsterdam (Hostel) - <a href="http://www.shelter.nl/">Shelter Jordaan</a></li>
-	<li>Amsterdam (Hotel ****) - <a href="http://www.tulipinnamsterdamart.nl/">Tulip Inn Amsterdam Art</a></li>
-	<li>Lyon (Hostel) - <a href="http://www.hihostels.com/dba/hostel020042.en.htm">Lyon</a></li>
-	<li>Luxembourg City (Hotel) - <a href="http://hotelzurich.lu/">Hotel Zurich</a></li>
-	<li>Brugges (Hostel) - <a href="http://www.hihostels.com/dba/hostel008001.en.htm">Brugges Europa</a></li>
-	<li>Chamonix (Hostel) - <a href="http://www.cantina.fr/gb/hotel.asp">El Paso</a></li>
-	<li>Stuttgart (Hotel) - <a href="http://www.booking.com/hotel/de/hotelespenlaub.en.html">Hotel Espenlaub</a></li>
-</ol>
+
+1. Valenciennes (Hotel \*\*\*) - [Le Grande Hotel de Valenciennes](http://www.grand-hotel-de-valenciennes.fr/)
+2. Paris (Hostel) - [AIJ Paris](http://www.aijparis.com/framea.htm)
+3. Paris (Hostel) - [Paris Jules Ferry](http://www.hihostels.com/dba/hostel020131.en.htm)
+4. Paris (Hotel \*\*) - [Hotel Picard](http://www.france-hotel-guide.com/h75003picard.htm)
+5. Tours (Hostel) - [AJ de 'Vieux Tours'](http://www.grouphostels.com/dba/hostel020028.en.htm)
+6. Amsterdam (Hostel) - [Shelter Jordaan](http://www.shelter.nl/)
+7. Amsterdam (Hotel \*\*\*\*) - [Tulip Inn Amsterdam Art](http://www.tulipinnamsterdamart.nl/)
+8. Lyon (Hostel) - [Lyon](http://www.hihostels.com/dba/hostel020042.en.htm)
+9. Luxembourg City (Hotel) - [Hotel Zurich](http://hotelzurich.lu/)
+10. Brugges (Hostel) - [Brugges Europa](http://www.hihostels.com/dba/hostel008001.en.htm)
+11. Chamonix (Hostel) - [El Paso](http://www.cantina.fr/gb/hotel.asp)
+12. Stuttgart (Hotel) - [Hotel Espenlaub](http://www.booking.com/hotel/de/hotelespenlaub.en.html)
+
 Some websites that I used to book my hostels and hotels...
-<ol>
-	<li><a href="http://www.hihostels.com/">hihostels.com</a></li>
-	<li><a href="http://www.booking.com/">booking.com</a></li>
-	<li><a href="http://www.hostelworld.com/">hostelworld.com</a></li>
-</ol>
-And the map showing all the above-mentioned hotels and hostels:
+1. [hihostels.com](http://www.hihostels.com/)
+2. [booking.com](http://www.booking.com/)
+3. [hostelworld.com](http://www.hostelworld.com/)
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=http:%2F%2Fbbs.keyhole.com%2Fubb%2Fdownload.php%3FNumber%3D1203434&amp;t=k&amp;om=1&amp;ie=UTF8&amp;ll=49.075965,4.9332&amp;spn=6.633724,8.506387&amp;output=embed&amp;s=AARTsJowHJw83Dy78Fi0wHscmqIrlFSFOA"></iframe>
-
- 
+And the map showing all the above-mentioned hotels and hostels:  

@@ -16,26 +16,25 @@ published: true
 meta:
   _edit_last: '1'
 ---
-the 2008 listing for world cities in the <a href="http://www.mercer.com/referencecontent.htm?idContent=1307990">higest Quality of Living </a>is released... Europe cities dominate!
-<ol>
-	<li>Zurich</li>
-	<li>Vienna</li>
-	<li>Geneva</li>
-	<li>Vancouver</li>
-	<li>Auckland</li>
-	<li>Dusseldorf</li>
-	<li>Munich</li>
-	<li>Frankfurt</li>
-	<li>Bern</li>
-	<li>Sydney</li>
-	<li>Copenhagen</li>
-	<li>Wellington</li>
-	<li>Amsterdam</li>
-	<li>Brussels</li>
-	<li>Toronto</li>
-	<li>Berlin</li>
-	<li>Melbourne</li>
-	<li>Luxembourg</li>
-	<li>Ottawa</li>
-	<li>Stockholm</li>
-</ol>
+the 2008 listing for world cities in the [higest Quality of Living ](http://www.mercer.com/referencecontent.htm?idContent=1307990)is released... Europe cities dominate!
+
+1. Zurich
+2. Vienna
+3. Geneva
+4. Vancouver
+5. Auckland
+6. Dusseldorf
+7. Munich
+8. Frankfurt
+9. Bern
+10. Sydney
+11. Copenhagen
+12. Wellington
+13. Amsterdam
+14. Brussels
+15. Toronto
+16. Berlin
+17. Melbourne
+18. Luxembourg
+19. Ottawa
+20. Stockholm

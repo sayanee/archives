@@ -9,24 +9,23 @@ type: post
 published: true
 meta: {}
 ---
-Engineering - wireless communication and networks is filled with short forms! And here are some really cool ones... hahha.... and <a href="http://www.activexperts.com/activmonitor/windowsmanagement/misc/acronyms/">there are more here</a>!
-<ul>
-	<li>TRITON</li>
-	<li><a href="http://en.wikipedia.org/wiki/VANET">VANET</a> - Vehicular Ad Hoc Network</li>
-	<li><a href="http://en.wikipedia.org/wiki/Mobile_ad-hoc_network">MANET</a> - Mobile Ad Hoc Network</li>
-	<li>RAM - Random Access Memory</li>
-	<li>RIP - Routing Interface Protocol</li>
-	<li>SAM - Sequential Access Memory</li>
-	<li><a href="http://en.wikipedia.org/wiki/Pulse-amplitude_modulation">PAM</a> - pulse amplitude modulation</li>
-	<li><a href="http://en.wikipedia.org/wiki/Quadrature_amplitude_modulation">QAM</a> - Quadrature amplitude modulation</li>
-	<li>AMANDDA - Automated Messaging and Directory Assistance</li>
-	<li>BER - Bit Error Rate</li>
-	<li>CAM - Content Addressable Memory</li>
-	<li>CLIP - Calling Line Identification Presentation</li>
-	<li>TORA - Temporary Ordered Routing Algorithm</li>
-	<li>MAC - Media Access Control</li>
-	<li>POP - Post Office Protocol</li>
-	<li>DREAM - Distance Routing Effect Algorithm for Mobility</li>
-	<li>PAP - Password Authentication Protocol</li>
-	<li>PING - Packet INternet Groper</li>
-</ul>
+Engineering - wireless communication and networks is filled with short forms! And here are some really cool ones... hahha.... and [there are more here](http://www.activexperts.com/activmonitor/windowsmanagement/misc/acronyms/)!
+
+- TRITON
+- [VANET](http://en.wikipedia.org/wiki/VANET) - Vehicular Ad Hoc Network
+- [MANET](http://en.wikipedia.org/wiki/Mobile_ad-hoc_network) - Mobile Ad Hoc Network
+- RAM - Random Access Memory
+- RIP - Routing Interface Protocol
+- SAM - Sequential Access Memory
+- [PAM](http://en.wikipedia.org/wiki/Pulse-amplitude_modulation) - pulse amplitude modulation
+- [QAM](http://en.wikipedia.org/wiki/Quadrature_amplitude_modulation) - Quadrature amplitude modulation
+- AMANDDA - Automated Messaging and Directory Assistance
+- BER - Bit Error Rate
+- CAM - Content Addressable Memory
+- CLIP - Calling Line Identification Presentation
+- TORA - Temporary Ordered Routing Algorithm
+- MAC - Media Access Control
+- POP - Post Office Protocol
+- DREAM - Distance Routing Effect Algorithm for Mobility
+- PAP - Password Authentication Protocol
+- PING - Packet INternet Groper

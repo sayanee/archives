@@ -10,8 +10,7 @@ published: true
 meta: {}
 ---
 in windows XP... how to do it...
-<ol>
-	<li>Control Panel -&gt; System-&gt; Advanced<img src="/img/virmem1.jpg" /></li>
-	<li>Performance -&gt; Settings -&gt; Advanced<img src="/img/virmem2.jpg" /></li>
-	<li>Virtual Memory -&gt; Change -&gt; Custom Size -&gt; Set<img src="/img/virmem3.jpg" /></li>
-</ol>
+
+1. Control Panel -> System-> Advanced ![](/img/virmem1.jpg)
+2. Performance -> Settings -> Advanced ![](/img/virmem2.jpg)
+3. Virtual Memory -> Change -> Custom Size -> Set ![](/img/virmem3.jpg)

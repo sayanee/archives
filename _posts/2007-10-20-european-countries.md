@@ -9,59 +9,53 @@ type: post
 published: true
 meta: {}
 ---
-Europe can be viewed as divisions.... here's a list along with the countries' capital cities...
+Europe can be viewed as divisions.... here's a list along with the countries' capital cities... **Eastern Europe:**
 
-<strong>Eastern Europe:</strong>
-<ol>
-	<li>Belarus -Minsk</li>
-	<li>Bulgaria -Sofia</li>
-	<li>Czech Republic -Prague</li>
-	<li>Hungary -Budapest</li>
-	<li>Poland -Warsaw</li>
-	<li>Romania -Bucharest</li>
-	<li>Russia- Moscow</li>
-	<li>Slovakia -Bratislava</li>
-	<li>Ukraine -Kiev</li>
-</ol>
-<strong> Northern Europe:</strong>
-<ol>
-	<li>Finland- Mariehamn</li>
-	<li>Denmark -Copenhagen</li>
-	<li>Estonia -Tallinn</li>
-	<li>Finland -Helsinki</li>
-	<li>Iceland -Reykjavík</li>
-	<li>Ireland -Dublin</li>
-	<li>Latvia -Riga</li>
-	<li>Lithuania -Vilnius</li>
-	<li>Norway -Oslo</li>
-	<li>Sweden -Stockholm</li>
-	<li>United Kingdom -London</li>
-</ol>
-<strong>Southern Europe:</strong>
-<ol>
-	<li>Albania -Tirana</li>
-	<li>Andorra -Andorra la Vella</li>
-	<li>Bosnia and Herzegovina -Sarajevo</li>
-	<li>Croatia -Zagreb</li>
-	<li>Greece -Athens</li>
-	<li>Italy -Rome</li>
-	<li>Macedonia -Skopje</li>
-	<li>Portugal -Lisbon</li>
-	<li>San Marino -San Marino</li>
-	<li>Serbia -Belgrade</li>
-	<li>Slovenia -Ljubljana</li>
-	<li>Spain -Madrid</li>
-	<li>Vatican City -Vatican City</li>
-</ol>
-<strong>Western Europe:</strong>
-<ol>
-	<li>Austria -Vienna</li>
-	<li>Belgium - Brussels</li>
-	<li>France - Paris</li>
-	<li>Germany - Berlin</li>
-	<li>Liechtenstein - Vaduz</li>
-	<li>Luxembourg - Luxembourg</li>
-	<li>Monaco - Monaco</li>
-	<li>Netherlands - Amsterdam</li>
-	<li>Switzerland - Bern</li>
-</ol>
+1. Belarus -Minsk
+2. Bulgaria -Sofia
+3. Czech Republic -Prague
+4. Hungary -Budapest
+5. Poland -Warsaw
+6. Romania -Bucharest
+7. Russia- Moscow
+8. Slovakia -Bratislava
+9. Ukraine -Kiev
+
+** Northern Europe:**
+1. Finland- Mariehamn
+2. Denmark -Copenhagen
+3. Estonia -Tallinn
+4. Finland -Helsinki
+5. Iceland -Reykjavík
+6. Ireland -Dublin
+7. Latvia -Riga
+8. Lithuania -Vilnius
+9. Norway -Oslo
+10. Sweden -Stockholm
+11. United Kingdom -London
+
+**Southern Europe:**
+1. Albania -Tirana
+2. Andorra -Andorra la Vella
+3. Bosnia and Herzegovina -Sarajevo
+4. Croatia -Zagreb
+5. Greece -Athens
+6. Italy -Rome
+7. Macedonia -Skopje
+8. Portugal -Lisbon
+9. San Marino -San Marino
+10. Serbia -Belgrade
+11. Slovenia -Ljubljana
+12. Spain -Madrid
+13. Vatican City -Vatican City
+
+**Western Europe:**
+1. Austria -Vienna
+2. Belgium - Brussels
+3. France - Paris
+4. Germany - Berlin
+5. Liechtenstein - Vaduz
+6. Luxembourg - Luxembourg
+7. Monaco - Monaco
+8. Netherlands - Amsterdam
+9. Switzerland - Bern

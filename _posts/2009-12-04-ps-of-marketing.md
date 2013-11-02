@@ -11,30 +11,25 @@ meta:
   aktt_notify_twitter: 'no'
   _edit_last: '1'
 ---
-The <a href="http://www.valuebasedmanagement.net/methods_marketing_mix.html">Ps of marketing</a>...
+The [Ps of marketing](http://www.valuebasedmanagement.net/methods_marketing_mix.html)... The 4 Ps of marketing are:
 
-The 4 Ps of marketing are:
-<ol>
-	<li>Product</li>
-	<li>Place</li>
-	<li>Promotion</li>
-	<li>Price</li>
-</ol>
+1. Product
+2. Place
+3. Promotion
+4. Price
+
 The 5 Ps of marketing are:
-<ol>
-	<li>Product</li>
-	<li>Place</li>
-	<li>Promotion</li>
-	<li>Price</li>
-	<li>People</li>
-</ol>
+1. Product
+2. Place
+3. Promotion
+4. Price
+5. People
+
 The 7 Ps of marketing (Extended Marketing Mix of Booms and Bitner ) are:
-<ol>
-	<li>Product</li>
-	<li>Place</li>
-	<li>Promotion</li>
-	<li>Price</li>
-	<li>People</li>
-	<li>Process</li>
-	<li>Physical Evidence</li>
-</ol>
+1. Product
+2. Place
+3. Promotion
+4. Price
+5. People
+6. Process
+7. Physical Evidence

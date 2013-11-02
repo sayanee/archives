@@ -10,17 +10,16 @@ published: true
 meta: {}
 ---
 the 12 animals are:
-<ol>
-	<li>rat</li>
-	<li>ox</li>
-	<li>tiger</li>
-	<li>rabbit</li>
-	<li>dragon</li>
-	<li>snake</li>
-	<li>horse</li>
-	<li>sheep</li>
-	<li>monkey</li>
-	<li>rooster</li>
-	<li>dog</li>
-	<li>pig</li>
-</ol>
+
+1. rat
+2. ox
+3. tiger
+4. rabbit
+5. dragon
+6. snake
+7. horse
+8. sheep
+9. monkey
+10. rooster
+11. dog
+12. pig

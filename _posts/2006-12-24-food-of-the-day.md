@@ -8,7 +8,6 @@ type: post
 published: true
 meta: {}
 ---
-Food of the day goes to <em><a href="http://en.wikipedia.org/wiki/Phuchka">phuchka</a></em>.
+Food of the day goes to _ [phuchka](http://en.wikipedia.org/wiki/Phuchka)_. The crispy crunchy hollow _tikka masala_ with tamarind and potato fillings. Yummy!! ok... off for a delicious dinner cooked specially by _maima._
 
-The crispy crunchy hollow <em>tikka masala</em> with tamarind and potato fillings. Yummy!! ok... off for a delicious dinner cooked specially by <em>maima.</em>
-<p align="center"><img width="350" src="/img/phuchka980765434567jhujk.jpg" height="466" style="width: 350px; height: 466px" /></p>
+![](/img/phuchka980765434567jhujk.jpg)

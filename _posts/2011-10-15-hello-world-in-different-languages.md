@@ -1,14 +1,6 @@
 ---
 layout: post
 title: Hello World in different Languages
-categories:
-- Coding
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
 There's a pure joy of seeing a perfect "Hello World". I felt that today once again when I picked up Objective-C.
 

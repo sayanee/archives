@@ -17,6 +17,4 @@ meta:
   _edit_last: '1'
   aktt_tweeted: '1'
 ---
-Looks fun :) <a class="vt-p" href="http://mashable.com/2010/08/09/social-media-monopoly/">Social Media Monopoly</a>
-
-<a class="vt-p" href="http://share.sayan.ee/files/social_media_monopoly_board4.jpg"><img class="aligncenter size-full wp-image-1798" title="social_media_monopoly_board4" src="/img/social_media_monopoly_board4.jpg" alt="" width="500" height="500" /></a>
+Looks fun :) [Social Media Monopoly](http://mashable.com/2010/08/09/social-media-monopoly/) [ ![](/img/social_media_monopoly_board4.jpg "social_media_monopoly_board4") ](http://share.sayan.ee/files/social_media_monopoly_board4.jpg)

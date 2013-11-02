@@ -10,11 +10,10 @@ published: true
 meta: {}
 ---
 some sites...
-<ol>
-	<li><a href="http://www.w3.org/TR/REC-CSS1">w3 css </a>level 1</li>
-	<li><a href="http://www.w3.org/TR/REC-CSS2/">w3 css </a>level 2</li>
-	<li><a href="http://www.csszengarden.com/">css garden</a></li>
-	<li><a href="http://www.smashingmagazine.com/category/css">smashing magazine</a></li>
-	<li><a href="http://www.csstutorial.net/">css tutorial</a></li>
-	<li>CSS <a href="http://www.w3.org/TR/REC-CSS2/propidx.html">property index</a></li>
-</ol>
+
+1. [w3 css ](http://www.w3.org/TR/REC-CSS1)level 1
+2. [w3 css ](http://www.w3.org/TR/REC-CSS2/)level 2
+3. [css garden](http://www.csszengarden.com/)
+4. [smashing magazine](http://www.smashingmagazine.com/category/css)
+5. [css tutorial](http://www.csstutorial.net/)
+6. CSS [property index](http://www.w3.org/TR/REC-CSS2/propidx.html)

@@ -9,12 +9,12 @@ type: post
 published: true
 meta: {}
 ---
-And <a href="http://briankim.net/blog/2007/03/top-5-things-that-should-be-taught-in-every-school/">they are</a>...
-<ol>
-	<li>Personal Finance</li>
-	<li>Communicating effectively</li>
-	<li>Social Skills</li>
-	<li>Sales</li>
-	<li>Time Management</li>
-</ol>
+And [they are](http://briankim.net/blog/2007/03/top-5-things-that-should-be-taught-in-every-school/)...
+
+1. Personal Finance
+2. Communicating effectively
+3. Social Skills
+4. Sales
+5. Time Management
+
 and i couldn't agree more to this!

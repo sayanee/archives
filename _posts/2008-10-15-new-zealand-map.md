@@ -10,17 +10,17 @@ published: true
 meta:
   _edit_last: '1'
 ---
-<p style="text-align: center;"><img src="/img/new_zealand_map.gif" alt="" /></p>
-<p style="text-align: center;"><a class="vt-p" href="http://www.moxon.net/images/new_zealand/new_zealand_map.gif">picture credit</a></p>
-<p style="text-align: left;">8 largest cities of New Zealand include:</p>
+![](/img/new_zealand_map.gif)
 
-<ol>
-	<li>Wellington (capital)</li>
-	<li>Auckland (largest)</li>
-	<li>Christchurch</li>
-	<li>Hamilton</li>
-	<li>Dunedin</li>
-	<li>Napier-Hastings</li>
-	<li>Palmerston North</li>
-	<li>Tauranga</li>
-</ol>
+  [picture credit](http://www.moxon.net/images/new_zealand/new_zealand_map.gif)
+
+8 largest cities of New Zealand include:
+
+1. Wellington (capital)
+2. Auckland (largest)
+3. Christchurch
+4. Hamilton
+5. Dunedin
+6. Napier-Hastings
+7. Palmerston North
+8. Tauranga

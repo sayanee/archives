@@ -10,11 +10,10 @@ published: true
 meta: {}
 ---
 to do (faire)
-<ul>
-	<li>je fais</li>
-	<li>tu fais</li>
-	<li>il/elle/on fait</li>
-	<li>nous faisons</li>
-	<li>vous faites</li>
-	<li>ils/elles/ font</li>
-</ul>
+
+- je fais
+- tu fais
+- il/elle/on fait
+- nous faisons
+- vous faites
+- ils/elles/ font

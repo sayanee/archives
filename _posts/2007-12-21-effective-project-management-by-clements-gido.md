@@ -11,149 +11,125 @@ type: post
 published: true
 meta: {}
 ---
-<strong>Book Title:</strong> Effective Project Management
-<strong>Author:</strong> James P. Clements &amp; Jack Gido
-<strong>Year written/published:</strong> 2006
-<strong>Book Source:</strong> <a href="http://books.google.com/books?id=irsiGQAACAAJ&amp;dq=Effective+Project+Management+Clements">Google Books</a>, <a href="http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+27454+3002+12782453+1+1">Library</a>
-<strong>Summary:</strong> Project Management theories and tools
-<strong>My Comments:</strong> This book is a textbook... typically for business students. But i needed a structured book like this to get an overview of what is Project management
-<strong>Contents page:</strong>
-<ol>
-	<li>Project Management Concepts</li>
-	<li>Needs Identification</li>
-	<li>Proposed Solutions</li>
-	<li>The Project</li>
-	<li>Planning</li>
-	<li>Scheduling</li>
-	<li>Schedule Control</li>
-	<li>Resrouce Consideration</li>
-	<li>Cost Planning and Performance</li>
-	<li>Project Manager</li>
-	<li>Project Team</li>
-	<li>Project Communication and Documentation</li>
-	<li>Types of Project Organisation</li>
-</ol>
-<strong>Some extracts:</strong>
+**Book Title:** Effective Project Management **Author:** James P. Clements & Jack Gido **Year written/published:** 2006 **Book Source:** [Google Books](http://books.google.com/books?id=irsiGQAACAAJ&dq=Effective+Project+Management+Clements), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+27454+3002+12782453+1+1) **Summary:** Project Management theories and tools **My Comments:** This book is a textbook... typically for business students. But i needed a structured book like this to get an overview of what is Project management **Contents page:**
+1. Project Management Concepts
+2. Needs Identification
+3. Proposed Solutions
+4. The Project
+5. Planning
+6. Scheduling
+7. Schedule Control
+8. Resrouce Consideration
+9. Cost Planning and Performance
+10. Project Manager
+11. Project Team
+12. Project Communication and Documentation
+13. Types of Project Organisation
 
-Project Management Process...
-<ol>
-	<li>Clearly define the project objective</li>
-	<li>Divide and sub-divide the project scope into major pieces</li>
-	<li>Define the activities for each work</li>
-	<li>Graphically portray the activities in the form of a network diagram</li>
-	<li>Make a time estimate for how long it will take to complete each activity</li>
-	<li>Make a cost estimate for each acitivity</li>
-</ol>
+**Some extracts:** Project Management Process...
+1. Clearly define the project objective
+2. Divide and sub-divide the project scope into major pieces
+3. Define the activities for each work
+4. Graphically portray the activities in the form of a network diagram
+5. Make a time estimate for how long it will take to complete each activity
+6. Make a cost estimate for each acitivity
+
 Project Selection
-<ol>
-	<li>Develop a set of criteris against which the opportunity will be evaluated</li>
-	<li>List assumptions and information for each opportunity</li>
-	<li>Evaluate each opportunity against the criteria</li>
-</ol>
+1. Develop a set of criteris against which the opportunity will be evaluated
+2. List assumptions and information for each opportunity
+3. Evaluate each opportunity against the criteria
+
 Guidelines for drafting a formal request for proposal external contractors
-<ol>
-	<li>An RFP (request for proposal) must provide a statement of work</li>
-	<li>an RFP must include the customer requirements, which define specifications and attributes</li>
-	<li>The RFP should state what deliverables the customer expects the contractor or project team to provide</li>
-	<li>The RFP should list any customer-supplied items</li>
-	<li>The RFP might state the approvals required by the customer</li>
-	<li>Some RFPs mention the type of contract the customer intends to use</li>
-	<li>An RFP might state the payment terms the customer intends to use</li>
-	<li>The RFP should state the required schedule for completion of the project</li>
-	<li>the RFP should indicate the due date by which the customer expects potential contractors to submit proposals</li>
-	<li>an RFP may include the evaluation criteria</li>
-</ol>
+1. An RFP (request for proposal) must provide a statement of work
+2. an RFP must include the customer requirements, which define specifications and attributes
+3. The RFP should state what deliverables the customer expects the contractor or project team to provide
+4. The RFP should list any customer-supplied items
+5. The RFP might state the approvals required by the customer
+6. Some RFPs mention the type of contract the customer intends to use
+7. An RFP might state the payment terms the customer intends to use
+8. The RFP should state the required schedule for completion of the project
+9. the RFP should indicate the due date by which the customer expects potential contractors to submit proposals
+10. an RFP may include the evaluation criteria
+
 Proposal contents...
-<ol>
-	<li>Technical</li>
-	<li>Management</li>
-	<li>Cost</li>
-</ol>
+1. Technical
+2. Management
+3. Cost
+
 management section...
-<ol>
-	<li>Description on work tasks</li>
-	<li>Deliverables</li>
-	<li>Project Schedule</li>
-	<li>Project Organisation</li>
-	<li>Related experience</li>
-	<li>Equipment and facilities</li>
-</ol>
+1. Description on work tasks
+2. Deliverables
+3. Project Schedule
+4. Project Organisation
+5. Related experience
+6. Equipment and facilities
+
 Cost Section
-<ol>
-	<li>Labour</li>
-	<li>Materials</li>
-	<li>Subcontractors and consultants</li>
-	<li>Equipment and facilities rental</li>
-	<li>Travel</li>
-	<li>Documentation</li>
-	<li>Overhead</li>
-	<li>Escalation</li>
-	<li>Contingency</li>
-	<li>Fee or profit</li>
-</ol>
+1. Labour
+2. Materials
+3. Subcontractors and consultants
+4. Equipment and facilities rental
+5. Travel
+6. Documentation
+7. Overhead
+8. Escalation
+9. Contingency
+10. Fee or profit
+
 Pricing Consideration
-<ol>
-	<li>Reliability of the cost estimates</li>
-	<li>risk</li>
-	<li>value of the project to the contractor</li>
-	<li>customer's budget</li>
-	<li>Competition</li>
-</ol>
+1. Reliability of the cost estimates
+2. risk
+3. value of the project to the contractor
+4. customer's budget
+5. Competition
+
 Internal post-project evaluation
-<ol>
-	<li>Technical performance</li>
-	<li>cost performance</li>
-	<li>Schedule Performance</li>
-	<li>Project planning and control</li>
-	<li>customer relationships</li>
-	<li>team relation ships</li>
-	<li>communications</li>
-	<li>problem identification and resolution</li>
-	<li>recommendations</li>
-</ol>
+1. Technical performance
+2. cost performance
+3. Schedule Performance
+4. Project planning and control
+5. customer relationships
+6. team relation ships
+7. communications
+8. problem identification and resolution
+9. recommendations
+
 Some tools...
-<ol>
-	<li>netowrk diagram</li>
-	<li>responsibility matrix</li>
-	<li>Gantt Chart</li>
-</ol>
+1. netowrk diagram
+2. responsibility matrix
+3. Gantt Chart
+
 project cost...
-<ol>
-	<li>labour</li>
-	<li>mateirals</li>
-	<li>subcontractors and consultants</li>
-	<li>equipment and facilities rental</li>
-	<li>travel</li>
-</ol>
+1. labour
+2. mateirals
+3. subcontractors and consultants
+4. equipment and facilities rental
+5. travel
+
 cost performance analysis...
-<ol>
-	<li>total budget cost</li>
-	<li>cumulative budgeted cost</li>
-	<li>cumulative actual cost</li>
-	<li>cumulative earned value</li>
-</ol>
+1. total budget cost
+2. cumulative budgeted cost
+3. cumulative actual cost
+4. cumulative earned value
+
 developing skills to be a project manager
-<ol>
-	<li>gain experience</li>
-	<li>seek out feedback form others</li>
-	<li>conduct a self-evaluation</li>
-	<li>interview project managers</li>
-	<li>participate in training programs</li>
-	<li>join orgnisations</li>
-	<li>read</li>
-	<li>volunteer</li>
-</ol>
+1. gain experience
+2. seek out feedback form others
+3. conduct a self-evaluation
+4. interview project managers
+5. participate in training programs
+6. join orgnisations
+7. read
+8. volunteer
+
 effective project team...
-<ol>
-	<li>clear understanding nof the project objective</li>
-	<li>clear expectations of each person's role and responsbilities</li>
-	<li>results orientation</li>
-	<li>high degree of coperation and collaboration</li>
-	<li>high level of trust</li>
-</ol>
+1. clear understanding nof the project objective
+2. clear expectations of each person's role and responsbilities
+3. results orientation
+4. high degree of coperation and collaboration
+5. high level of trust
+
 types of project meetings
-<ol>
-	<li>status review meetings</li>
-	<li>problem solving meetings</li>
-	<li>technical design review meetings</li>
-</ol>
+1. status review meetings
+2. problem solving meetings
+3. technical design review meetings

@@ -11,15 +11,14 @@ meta:
   _edit_last: '1'
 ---
 the rankings...
-<ol>
-	<li>Luxembourg<span> </span></li>
-	<li>Equatorial Guinea</li>
-	<li>United Arab Emirates<span> </span></li>
-	<li>Norway</li>
-	<li>Ireland<span> </span></li>
-	<li>United States</li>
-	<li>Andorra</li>
-	<li>Iceland<span> </span></li>
-	<li>Denmark<span> </span></li>
-	<li>Austria<span> </span></li>
-</ol>
+
+1. Luxembourg
+2. Equatorial Guinea
+3. United Arab Emirates
+4. Norway
+5. Ireland
+6. United States
+7. Andorra
+8. Iceland
+9. Denmark
+10. Austria

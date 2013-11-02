@@ -11,23 +11,21 @@ published: true
 meta: {}
 ---
 here's how to embed it in a really easy manner...
-<ol>
-	<li>Create your own *.<a href="http://code.google.com/apis/kml/documentation/">kml</a>/ *.<a href="http://en.wikipedia.org/wiki/Keyhole_Markup_Language">kmz</a> Google map file in your desktop Google Earth</li>
-	<li>Login to <a href="http://bbs.keyhole.com/ubb/ubbthreads.php/Cat/0">Google Earth Community</a></li>
-	<li>Create a thread of your own to upload the created kml / kmz file eg. <a href="http://bbs.keyhole.com/ubb/showflat.php?Cat=0&amp;Board=myplaces&amp;Number=721910&amp;Searchpage=1&amp;Main=721910&amp;Words=+sweska&amp;topic=&amp;Search=true#Post721910">mine!</a></li>
-	<li>Click -&gt; View in Google Maps and it'll take you to another web page (<a href="http://maps.google.com/maps?q=http://bbs.keyhole.com/ubb/download.php?Number=722822&amp;t=k&amp;om=1">mine</a>)</li>
-	<li>Click -&gt; Link to this page -&gt; Paste HTML to embed in website</li>
-	<li>cut and paste the code :P</li>
-	<li>and the result.... have fun navigating right here! i totally love the interactivity</li>
-</ol>
-<p align="center"><iframe height="350" scrolling="no" width="425" frameBorder="0" src="http://maps.google.com/maps?q=http:%2F%2Fbbs.keyhole.com%2Fubb%2Fdownload.php%3FNumber%3D722822&amp;t=k&amp;om=1&amp;ie=UTF8&amp;ll=22.573484,88.361572&amp;spn=0.026558,0.026323&amp;output=embed&amp;s=AARTsJo78a1jNPNbGb_Ajzv9ftcPihuBaA" marginHeight="0" marginWidth="0"></iframe></p>
-<p align="left">Now, why do i say it's the easy way?? Coz we just need to cut and paste the code</p>
-<p align="left">here's some other links to do it in other ways... and i really gotta learn to with the APIs and javascript to do it the 'harder' or more interesting way!</p>
 
-<ol>
-	<li>Embed <a href="http://ongopongo.com/maps/google_my_maps_embedding_tool">google my maps</a></li>
-	<li><a href="http://www.dr2ooo.com/tools/maps/">dr2000</a></li>
-	<li><a href="http://www.digitalgeography.co.uk/juicy-geography/">digital geography</a></li>
-	<li><a href="http://www.google.com/apis/maps/">Google Maps API</a></li>
-	<li><a href="http://www.google.com/apis/maps/documentation/mapplets/">google mapplets</a></li>
-</ol>
+1. Create your own \*. [kml](http://code.google.com/apis/kml/documentation/)/ \*. [kmz](http://en.wikipedia.org/wiki/Keyhole_Markup_Language) Google map file in your desktop Google Earth
+2. Login to [Google Earth Community](http://bbs.keyhole.com/ubb/ubbthreads.php/Cat/0)
+3. Create a thread of your own to upload the created kml / kmz file eg. [mine!](http://bbs.keyhole.com/ubb/showflat.php?Cat=0&Board=myplaces&Number=721910&Searchpage=1&Main=721910&Words=+sweska&topic=&Search=true#Post721910)
+4. Click -> View in Google Maps and it'll take you to another web page ( [mine](http://maps.google.com/maps?q=http://bbs.keyhole.com/ubb/download.php?Number=722822&t=k&om=1))
+5. Click -> Link to this page -> Paste HTML to embed in website
+6. cut and paste the code :P
+7. and the result.... have fun navigating right here! i totally love the interactivity
+
+Now, why do i say it's the easy way?? Coz we just need to cut and paste the code
+
+here's some other links to do it in other ways... and i really gotta learn to with the APIs and javascript to do it the 'harder' or more interesting way!
+
+1. Embed [google my maps](http://ongopongo.com/maps/google_my_maps_embedding_tool)
+2. [dr2000](http://www.dr2ooo.com/tools/maps/)
+3. [digital geography](http://www.digitalgeography.co.uk/juicy-geography/)
+4. [Google Maps API](http://www.google.com/apis/maps/)
+5. [google mapplets](http://www.google.com/apis/maps/documentation/mapplets/)

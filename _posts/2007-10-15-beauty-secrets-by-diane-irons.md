@@ -10,63 +10,49 @@ type: post
 published: true
 meta: {}
 ---
-<strong>Book Title:</strong> The World's Best Kept beauty Secrets - What really works in Beauty, Diet and Fashion
-<strong>Author:</strong> Diane Irons
-<strong>Year written/published:</strong> 2005
-<strong>Book Source:</strong> <a href="http://books.google.com/books?id=kWYiYpOpKhIC&amp;q=beauty+secrets+diane+irons&amp;dq=beauty+secrets+diane+irons&amp;pgis=1">Google Books</a>, <a href="http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+16046+3002+12544495+1+0">Library</a>
-<strong>My Comments:</strong> I was seriously surprised by how the author mentioned many home-made remedies... i never knew :P
-<strong>Some extracts:</strong>
+**Book Title:** The World's Best Kept beauty Secrets - What really works in Beauty, Diet and Fashion **Author:** Diane Irons **Year written/published:** 2005 **Book Source:** [Google Books](http://books.google.com/books?id=kWYiYpOpKhIC&q=beauty+secrets+diane+irons&dq=beauty+secrets+diane+irons&pgis=1), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+16046+3002+12544495+1+0) **My Comments:** I was seriously surprised by how the author mentioned many home-made remedies... i never knew :P **Some extracts:** Cleansing…
+1. Pineapple Juice
+2. Lemon Juice
+3. Tomatoes
+4. Most citrus Fruit
 
-Cleansing…
-<ol>
-	<li>Pineapple Juice</li>
-	<li>Lemon Juice</li>
-	<li>Tomatoes</li>
-	<li>Most citrus Fruit</li>
-</ol>
 Toning
-<ol>
-	<li>rose water</li>
-	<li>Witch hazel</li>
-	<li>Hydrogen Peroxide</li>
-	<li>2 teaspoon green tea, ½ cup water</li>
-</ol>
+1. rose water
+2. Witch hazel
+3. Hydrogen Peroxide
+4. 2 teaspoon green tea, ½ cup water
+
 Exfoliating
-<ol>
-	<li>sugar + olive oil</li>
-	<li>oatmeal + water</li>
-	<li>sea slat</li>
-</ol>
+1. sugar + olive oil
+2. oatmeal + water
+3. sea slat
+
 Masks:
-<ol>
-	<li>1 cup oatmeal, 3 drops of almond oil, ½ cup milk, 1 egg white</li>
-	<li>peach + brandy</li>
-	<li>Tomato mashed up</li>
-	<li>banana + honey</li>
-	<li>pure honey</li>
-</ol>
+1. 1 cup oatmeal, 3 drops of almond oil, ½ cup milk, 1 egg white
+2. peach + brandy
+3. Tomato mashed up
+4. banana + honey
+5. pure honey
+
 Hair:
-<ol>
-	<li>2 eggs + warm water</li>
-	<li>mix an egg into shampoo</li>
-	<li>tablespoon of powdered gelatine to shampoo</li>
-	<li>¼ lemon + water for shining</li>
-	<li>¼ vinegar - water for shining in brunette hair</li>
-	<li>1 egg, 1 teaspoon honey + 2 teaspoon olive oil to wet hair – 30 minutes</li>
-	<li>yogurt as conditioner after shampoo</li>
-	<li>olive oil + 14 teaspoon butter + 1 min microwave – 20 minutes. Shampoo</li>
-	<li>1 tablespoon honey + shampoo</li>
-	<li>brew an espresso / strong coffee – add to dry hair – 30 min</li>
-</ol>
+1. 2 eggs + warm water
+2. mix an egg into shampoo
+3. tablespoon of powdered gelatine to shampoo
+4. ¼ lemon + water for shining
+5. ¼ vinegar - water for shining in brunette hair
+6. 1 egg, 1 teaspoon honey + 2 teaspoon olive oil to wet hair – 30 minutes
+7. yogurt as conditioner after shampoo
+8. olive oil + 14 teaspoon butter + 1 min microwave – 20 minutes. Shampoo
+9. 1 tablespoon honey + shampoo
+10. brew an espresso / strong coffee – add to dry hair – 30 min
+
 a classic wardrobe:
-<ol>
-	<li>black skirt</li>
-	<li>tank top</li>
-	<li>well-cut jacket</li>
-	<li>basic trousers</li>
-	<li>white cotton shirt</li>
-	<li>a watch can double as bracelet</li>
-	<li>black/white t shirt</li>
-	<li>cardigan sweater</li>
-	<li>classic sunglass</li>
-</ol>
+1. black skirt
+2. tank top
+3. well-cut jacket
+4. basic trousers
+5. white cotton shirt
+6. a watch can double as bracelet
+7. black/white t shirt
+8. cardigan sweater
+9. classic sunglass

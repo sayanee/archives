@@ -16,27 +16,25 @@ meta:
   aktt_notify_twitter: 'yes'
 ---
 List of stufff to install/download after reformatting my laptop...
-<ol>
-	<li>OS</li>
-	<li>Office - word precessing, spreadsheet and presentations</li>
-</ol>
-<div>Downloads from the internet...</div>
-<div>
-<ol>
-	<li><a href="http://www.download.com/AVG-Anti-Virus-Free-Edition/3000-2239_4-10320142.html?part=dl-AVGAntiVir&amp;subj=dl&amp;tag=button">anti-virus - AVG</a></li>
-	<li>MSN messenger</li>
-	<li><a href="http://www.skype.com/intl/en/download/skype/windows/downloading/">Skype</a></li>
-	<li><a href="http://www.mozilla.com/en-US/firefox/">Firefox</a></li>
-	<li><a href="http://www.google.com/chrome">Chrome</a></li>
-	<li><a href="http://www.adobe.com/products/acrobat/readstep2.html">Adobe reader</a></li>
-	<li><a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">Flash player</a></li>
-	<li><a href="http://www.wimpyplayer.com/products/wimpy_standalone_flv_player.html">FLV Player</a></li>
-	<li><a href="http://www.getdropbox.com/">Dropbox</a></li>
-	<li><a href="http://www.cooliris.com/">piclens</a></li>
-	<li><a href="http://www.apple.com/itunes/download/">iTunes</a></li>
-	<li><a href="http://pack.google.com/intl/en/integrated_eula.html?hl=en&amp;ciint=ci_earth&amp;ci_earth=onciint=ci_earth&amp;utm_source=en-cdr-earth4&amp;utm_medium=cdr&amp;utm_campaign=en">Google Earth</a></li>
-	<li><a href="http://www.irfanview.com/main_download_engl.htm">Irfan View</a></li>
-	<li><a href="http://widgets.yahoo.com/">Yahoo Widgets</a></li>
-</ol>
-<div>that's a long list... no wonder i can take up to a day to install everything :D</div>
-</div>
+
+1. OS
+2. Office - word precessing, spreadsheet and presentations
+
+Downloads from the internet...
+
+1. [anti-virus - AVG](http://www.download.com/AVG-Anti-Virus-Free-Edition/3000-2239_4-10320142.html?part=dl-AVGAntiVir&subj=dl&tag=button)
+2. MSN messenger
+3. [Skype](http://www.skype.com/intl/en/download/skype/windows/downloading/)
+4. [Firefox](http://www.mozilla.com/en-US/firefox/)
+5. [Chrome](http://www.google.com/chrome)
+6. [Adobe reader](http://www.adobe.com/products/acrobat/readstep2.html)
+7. [Flash player](http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash)
+8. [FLV Player](http://www.wimpyplayer.com/products/wimpy_standalone_flv_player.html)
+9. [Dropbox](http://www.getdropbox.com/)
+10. [piclens](http://www.cooliris.com/)
+11. [iTunes](http://www.apple.com/itunes/download/)
+12. [Google Earth](http://pack.google.com/intl/en/integrated_eula.html?hl=en&ciint=ci_earth&ci_earth=onciint=ci_earth&utm_source=en-cdr-earth4&utm_medium=cdr&utm_campaign=en)
+13. [Irfan View](http://www.irfanview.com/main_download_engl.htm)
+14. [Yahoo Widgets](http://widgets.yahoo.com/)
+
+that's a long list... no wonder i can take up to a day to install everything :D

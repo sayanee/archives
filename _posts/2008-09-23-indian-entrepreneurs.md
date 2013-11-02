@@ -11,18 +11,17 @@ published: true
 meta:
   _edit_last: '1'
 ---
-Some of the famours <a href="http://en.wikipedia.org/wiki/List_of_Indian_entrepreneurs">Indian entrepreneurs </a>of the 21st Century...
-<ol>
-	<li><a href="http://en.wikipedia.org/wiki/Ratan_Tata">Ratan Tata</a> of <a href="http://www.tata.com/">Tata Group</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/N._R._Narayana_Murthy">Narayana Murthi</a> of <a href="http://www.infosys.com/">Infosys</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Azim_Premji">Azim Premji</a> of <a href="http://www.wiprocorporate.com/">Wipro</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Mukesh_Ambani">Mukesh Ambani</a> of Reliance Industries</li>
-	<li><a href="http://en.wikipedia.org/wiki/Anil_Ambani">Anil Ambani</a> of <a href="http://www.relianceadagroup.com/ada/index.html">Reliance ADA Group</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Sunil_Mittal">Sunil Bharti Mittal</a> of Bharti Group</li>
-	<li><a href="http://en.wikipedia.org/wiki/Rahul_Bajaj">Rahul Bajaj</a> of Bajaj</li>
-	<li>Anand Mahindra</li>
-	<li>Adi Godrej</li>
-	<li><a href="http://en.wikipedia.org/wiki/Lakshmi_Mittal">Lakshmi N. Mittal</a> of <a href="http://www.arcelormittal.com/">Arcelor Mittal Steel</a></li>
-	<li>Kumar Mangalam Birla</li>
-	<li>Jeh Wadia</li>
-</ol>
+Some of the famours [Indian entrepreneurs ](http://en.wikipedia.org/wiki/List_of_Indian_entrepreneurs)of the 21st Century...
+
+1. [Ratan Tata](http://en.wikipedia.org/wiki/Ratan_Tata) of [Tata Group](http://www.tata.com/)
+2. [Narayana Murthi](http://en.wikipedia.org/wiki/N._R._Narayana_Murthy) of [Infosys](http://www.infosys.com/)
+3. [Azim Premji](http://en.wikipedia.org/wiki/Azim_Premji) of [Wipro](http://www.wiprocorporate.com/)
+4. [Mukesh Ambani](http://en.wikipedia.org/wiki/Mukesh_Ambani) of Reliance Industries
+5. [Anil Ambani](http://en.wikipedia.org/wiki/Anil_Ambani) of [Reliance ADA Group](http://www.relianceadagroup.com/ada/index.html)
+6. [Sunil Bharti Mittal](http://en.wikipedia.org/wiki/Sunil_Mittal) of Bharti Group
+7. [Rahul Bajaj](http://en.wikipedia.org/wiki/Rahul_Bajaj) of Bajaj
+8. Anand Mahindra
+9. Adi Godrej
+10. [Lakshmi N. Mittal](http://en.wikipedia.org/wiki/Lakshmi_Mittal) of [Arcelor Mittal Steel](http://www.arcelormittal.com/)
+11. Kumar Mangalam Birla
+12. Jeh Wadia

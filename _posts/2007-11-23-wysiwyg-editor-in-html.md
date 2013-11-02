@@ -10,7 +10,6 @@ published: true
 meta: {}
 ---
 we can easily turn the top part of a text area into a Rich Text Editor / WYSIWYG Editor / html editor...
-<ol>
-	<li><a href="http://www.openwebware.com/products/openwysiwyg/features.shtml">example 1</a></li>
-	<li><a href="http://www.dynamicdrive.com/dynamicindex16/richtexteditor/index.htm">example 2</a></li>
-</ol>
+
+1. [example 1](http://www.openwebware.com/products/openwysiwyg/features.shtml)
+2. [example 2](http://www.dynamicdrive.com/dynamicindex16/richtexteditor/index.htm)

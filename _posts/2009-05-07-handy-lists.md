@@ -10,15 +10,14 @@ published: true
 meta:
   _edit_last: '1'
 ---
-As written in Lifehack, there's a <a href="http://www.lifehack.org/articles/productivity/9-lists-to-keep-updated-and-keep-handy.html">great list of 9 things that we should keep handy</a>:
-<ol>
-	<li>Things I Want</li>
-	<li>Gift Ideas</li>
-	<li>Got a Minute?</li>
-	<li>Watch, Read, Listen</li>
-	<li>BHAGs </li>
-	<li>Bucket List</li>
-	<li>Don’t Forget</li>
-	<li>Great Ideas</li>
-	<li>Grocery List</li>
-</ol>
+As written in Lifehack, there's a [great list of 9 things that we should keep handy](http://www.lifehack.org/articles/productivity/9-lists-to-keep-updated-and-keep-handy.html):
+
+1. Things I Want
+2. Gift Ideas
+3. Got a Minute?
+4. Watch, Read, Listen
+5. BHAGs 
+6. Bucket List
+7. Don’t Forget
+8. Great Ideas
+9. Grocery List

@@ -10,10 +10,4 @@ published: true
 meta:
   _edit_last: '1'
 ---
-So what is the difference???
-
-<strong>Adapted t</strong><strong>o</strong> means naturally suited for. 
-
-<strong>Adapted for</strong> means created to be suited for
-
-<strong>Adapted from </strong>means changed to be suited for
+So what is the difference??? **Adapted t****o** means naturally suited for.  **Adapted for** means created to be suited for **Adapted from **means changed to be suited for

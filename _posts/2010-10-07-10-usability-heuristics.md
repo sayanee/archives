@@ -15,16 +15,15 @@ meta:
   _edit_last: '1'
   aktt_tweeted: '1'
 ---
-From <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">here</a>:
-<ol>
-	<li>Visibility of system status</li>
-	<li>Match between system and the real world</li>
-	<li>User control and freedom</li>
-	<li>Consistency and standards</li>
-	<li>Error prevention</li>
-	<li>Recognition rather than recall</li>
-	<li>Flexibility and efficiency of use</li>
-	<li>Aesthetic and minimalist design</li>
-	<li>Help users recognize, diagnose, and recover from errors</li>
-	<li>Help and documentation</li>
-</ol>
+From [here](http://www.useit.com/papers/heuristic/heuristic_list.html):
+
+1. Visibility of system status
+2. Match between system and the real world
+3. User control and freedom
+4. Consistency and standards
+5. Error prevention
+6. Recognition rather than recall
+7. Flexibility and efficiency of use
+8. Aesthetic and minimalist design
+9. Help users recognize, diagnose, and recover from errors
+10. Help and documentation

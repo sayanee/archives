@@ -10,40 +10,32 @@ type: post
 published: true
 meta: {}
 ---
-I found some <a href="http://nobelprize.org/nobel_prizes/nobelprize_facts.html">interesting facts about Nobel Laureates</a>
+I found some [interesting facts about Nobel Laureates](http://nobelprize.org/nobel_prizes/nobelprize_facts.html) multiple prizes...
 
-multiple prizes...
-<ul>
-	<li>J. Bardeen - Physics 1956, Physics 1972</li>
-	<li>M. Curie  - Physics 1903, Chemistry 1911</li>
-	<li>L. Pauling  -  Chemistry 1954, Peace 1962</li>
-	<li>F Sanger - Chemistry 1958, Chemistry 1980 </li>
-</ul>
+- J. Bardeen - Physics 1956, Physics 1972
+- M. Curie  - Physics 1903, Chemistry 1911
+- L. Pauling  -  Chemistry 1954, Peace 1962
+- F Sanger - Chemistry 1958, Chemistry 1980 
+
 Married Couples 
-<ul>
-	<li>Marie Curie + Pierre Curie </li>
-	<li>Irène Joliot-Curie + Frédéric Joliot </li>
-	<li>Gerty Cori + Carl Cori</li>
-	<li>Alva Myrdal + Gunnar Myrdal     </li>
-</ul>
-Mother &amp; Daughter 
-<ul>
-	<li>Marie Curie + Irène Joliot-Curie    </li>
-</ul>
-Father &amp; Daughter 
-<ul>
-	<li>Pierre Curie + Irène Joliot-Curie     </li>
-</ul>
-Father &amp; Son 
-<ul>
-	<li>William Bragg + Lawrence Bragg </li>
-	<li>Niels Bohr + Aage N. Bohr </li>
-	<li>Hans von Euler-Chelpin + Ulf von Euler </li>
-	<li>Arthur Kornberg + Roger D. Kornberg </li>
-	<li>Manne Siegbahn + Kai M. Siegbahn </li>
-	<li>J. J. Thomson + George Paget Thomson  </li>
-</ul>
+- Marie Curie + Pierre Curie 
+- Irène Joliot-Curie + Frédéric Joliot 
+- Gerty Cori + Carl Cori
+- Alva Myrdal + Gunnar Myrdal     
+
+Mother & Daughter 
+- Marie Curie + Irène Joliot-Curie    
+
+Father & Daughter 
+- Pierre Curie + Irène Joliot-Curie     
+
+Father & Son 
+- William Bragg + Lawrence Bragg 
+- Niels Bohr + Aage N. Bohr 
+- Hans von Euler-Chelpin + Ulf von Euler 
+- Arthur Kornberg + Roger D. Kornberg 
+- Manne Siegbahn + Kai M. Siegbahn 
+- J. J. Thomson + George Paget Thomson  
+
 Brothers
-<ul>
-	<li>Jan Tinbergen + Nikolaas Tinbergen </li>
-</ul>
+- Jan Tinbergen + Nikolaas Tinbergen 

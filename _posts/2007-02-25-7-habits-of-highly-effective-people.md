@@ -9,13 +9,12 @@ type: post
 published: true
 meta: {}
 ---
-This <a href="http://www.quickmba.com/mgmt/7hab/">bestseller </a>is written by Stephen covey and the summary basically goes like this:
-<ol>
-	<li>Be Proactive</li>
-	<li>Begin with the end in mind</li>
-	<li>Put first things first</li>
-	<li>Think Win/Win</li>
-	<li>Seek First to understand, Then be understood</li>
-	<li>Synergise</li>
-	<li>Sharpen the Saw</li>
-</ol>
+This [bestseller ](http://www.quickmba.com/mgmt/7hab/)is written by Stephen covey and the summary basically goes like this:
+
+1. Be Proactive
+2. Begin with the end in mind
+3. Put first things first
+4. Think Win/Win
+5. Seek First to understand, Then be understood
+6. Synergise
+7. Sharpen the Saw

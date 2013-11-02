@@ -2,18 +2,7 @@
 layout: post
 title: Hackers & Painters and Essays by @paulg
 categories:
-- Book Reviews
-- Current Technology
-- Life Skills
-- Share
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
+- Books
 ---
 - **Book**: [Hackers &amp; Painters](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/0596006624) and [Essays](http://paulgraham.com/articles.html) by Paul Graham
 - **Author**: Paul Graham

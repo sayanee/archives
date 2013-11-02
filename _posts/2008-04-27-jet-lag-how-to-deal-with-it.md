@@ -13,8 +13,7 @@ meta:
   _edit_last: '1'
 ---
 Some tips on overcoming/dealing with jet lag
-<ul>
-	<li><a href="http://www.roadandtravel.com/traveladvice/jetlag.htm">road and travel</a></li>
-	<li><a href="http://www.otbeach.com/travel-guides/how-to-cope-with-jetlag-33-tips.html">33 tips for jet lag</a></li>
-	<li><a href="http://www.bodyclock.com/">bodyclock</a></li>
-</ul>
+
+- [road and travel](http://www.roadandtravel.com/traveladvice/jetlag.htm)
+- [33 tips for jet lag](http://www.otbeach.com/travel-guides/how-to-cope-with-jetlag-33-tips.html)
+- [bodyclock](http://www.bodyclock.com/)

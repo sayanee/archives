@@ -10,42 +10,36 @@ published: true
 meta: {}
 ---
 General...
-<ul>
-	<li><a href="http://www.ricksteves.com/home.htm">rick steves</a> (<a href="http://www.ricksteves.com/plan/links_menu.htm">link page</a>)</li>
-	<li>Backpack Europe - <a href="http://www.backpackeurope.com/">backpackeurope</a></li>
-	<li>Eurocheapo: <a href="http://www.eurocheapo/">eurocheapo</a></li>
-	<li>Eurotrip: <a href="http://www.eurotrip.com/">eurotrip</a></li>
-</ul>
+
+- [rick steves](http://www.ricksteves.com/home.htm) ( [link page](http://www.ricksteves.com/plan/links_menu.htm))
+- Backpack Europe - [backpackeurope](http://www.backpackeurope.com/)
+- Eurocheapo: [eurocheapo](http://www.eurocheapo/)
+- Eurotrip: [eurotrip](http://www.eurotrip.com/)
+
 Places to see and things to do...
-<ul>
-	<li><a href="http://www.ricksteves.com/plan/plan_menu.htm">Plan your trip</a> - rick steves</li>
-	<li>Internet Cafes: <a target="_blank" href="http://www.easyeverything.com/">Easy Everything</a></li>
-</ul>
+- [Plan your trip](http://www.ricksteves.com/plan/plan_menu.htm) - rick steves
+- Internet Cafes: [Easy Everything](http://www.easyeverything.com/)
+
 Accomodation
-<ul>
-	<li><a target="_blank" href="http://www.iyhf.org/">Hostelling International</a> budget accommodation</li>
-	<li>** <a target="_blank" href="http://www.europeanhostels.com/">European Hostels</a> Youth Hostels </li>
-	<li>** <a href="http://reservations.bookhostels.com/raileurope.com/">rail eupore hostel</a></li>
-	<li><a target="_blank" href="http://www.backpackers.no/engelsk">VIP Backpackers Resorts International</a> has over 1200 hostels in more than 60 countries.</li>
-	<li><a target="_blank" href="http://www.plainvanilla.de/">Plain Vanilla</a> Magazine dedicated to freestyle travel</li>
-	<li><a target="_blank" href="http://www.venere.com/">Venere.com</a> Hotels, apartments and b&amp;b accommodation worldwide</li>
-	<li><a target="_blank" href="http://www.hostelscentral.com/">Hostel Central</a> Online bookings for hostels and budget hotels.</li>
-	<li><a target="_blank" href="http://www.travel-eu.com/">Travel Europe</a> Search and book over 3500 available</li>
-</ul>
+- [Hostelling International](http://www.iyhf.org/) budget accommodation
+- \*\* [European Hostels](http://www.europeanhostels.com/) Youth Hostels 
+- \*\* [rail eupore hostel](http://reservations.bookhostels.com/raileurope.com/)
+- [VIP Backpackers Resorts International](http://www.backpackers.no/engelsk) has over 1200 hostels in more than 60 countries.
+- [Plain Vanilla](http://www.plainvanilla.de/) Magazine dedicated to freestyle travel
+- [Venere.com](http://www.venere.com/) Hotels, apartments and b&b accommodation worldwide
+- [Hostel Central](http://www.hostelscentral.com/) Online bookings for hostels and budget hotels.
+- [Travel Europe](http://www.travel-eu.com/) Search and book over 3500 available
+
 Transportation
-<ul>
-	<li><a href="http://www.eurail.com/">Eurail</a></li>
-	<li><a target="_blank" href="http://www.tbteurope.com/">Travel by Train - Europe</a></li>
-	<li>Airports: <a target="_blank" href="http://www.worldairportguide.com/airport/7/airports/Europe.html">Europe airport guides</a></li>
-	<li><a href="http://www.eurail.com/1_timetables">Complete list </a>of timetables for trains (download)</li>
-	<li>** <a href="http://www.raileurope.com/us/search/index.htm">Rail Europe</a></li>
-</ul>
+- [Eurail](http://www.eurail.com/)
+- [Travel by Train - Europe](http://www.tbteurope.com/)
+- Airports: [Europe airport guides](http://www.worldairportguide.com/airport/7/airports/Europe.html)
+- [Complete list ](http://www.eurail.com/1_timetables)of timetables for trains (download)
+- \*\* [Rail Europe](http://www.raileurope.com/us/search/index.htm)
+
 Podcasts
-<ul>
-	<li>Rick Steves <a href="http://www.ricksteves.com/news/travelnews/0602/audiotour.htm">Audio Tours</a></li>
-	<li><a href="http://www.roughguides.com/website/travel/Downloads/podscrolls/default.aspx">podscrolls</a></li>
-</ul>
+- Rick Steves [Audio Tours](http://www.ricksteves.com/news/travelnews/0602/audiotour.htm)
+- [podscrolls](http://www.roughguides.com/website/travel/Downloads/podscrolls/default.aspx)
+
 list of other links...
-<ol>
-	<li><a href="http://www.ricksteves.com/graffiti/graffiti_menu.htm">graffitties</a></li>
-</ol>
+1. [graffitties](http://www.ricksteves.com/graffiti/graffiti_menu.htm)

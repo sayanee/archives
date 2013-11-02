@@ -11,16 +11,15 @@ meta:
   aktt_notify_twitter: 'no'
   _edit_last: '1'
 ---
-How many ways can you divided the entire economy into market segment? <a href="http://en.wikipedia.org/wiki/Global_Industry_Classification_Standard">GICS shows one of the ways</a>. Here are 10 ways...
-<ol>
-	<li>Energy</li>
-	<li>Materials</li>
-	<li>Industrials</li>
-	<li>Consumer Discretionary</li>
-	<li>Consumer Staples</li>
-	<li>Health Care</li>
-	<li>Financials</li>
-	<li>Information Technology</li>
-	<li>Telecommunication Services</li>
-	<li>Utilities</li>
-</ol>
+How many ways can you divided the entire economy into market segment? [GICS shows one of the ways](http://en.wikipedia.org/wiki/Global_Industry_Classification_Standard). Here are 10 ways...
+
+1. Energy
+2. Materials
+3. Industrials
+4. Consumer Discretionary
+5. Consumer Staples
+6. Health Care
+7. Financials
+8. Information Technology
+9. Telecommunication Services
+10. Utilities

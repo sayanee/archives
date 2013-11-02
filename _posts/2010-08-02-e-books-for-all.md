@@ -14,8 +14,7 @@ meta:
   _edit_last: '1'
   aktt_tweeted: '1'
 ---
-I'm very excited about this project - <a href="http://worldreader.org">World Reader</a>. Taken from their <a href="http://worldreader.org/what-we-do.php">about page</a>:
-<blockquote>Worldreader.org is developing the systems and the partnerships to get <strong>e-readers</strong>....into the hands and minds of people in the developing world...</blockquote>
-Now many kids in Africa and beyond will get to view the already existing libraries of free books, including that of <a href="http://www.gutenberg.org/wiki/Main_Page">project gutenberg</a> :)
+I'm very excited about this project - [World Reader](http://worldreader.org). Taken from their [about page](http://worldreader.org/what-we-do.php):
 
-<img class="aligncenter size-full wp-image-1738" title="world-reader-org" src="/img/world-reader-org.jpg" alt="" />
+> Worldreader.org is developing the systems and the partnerships to get **e-readers**....into the hands and minds of people in the developing world...
+Now many kids in Africa and beyond will get to view the already existing libraries of free books, including that of [project gutenberg](http://www.gutenberg.org/wiki/Main_Page) :) ![](/img/world-reader-org.jpg "world-reader-org")

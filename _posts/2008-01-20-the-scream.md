@@ -10,12 +10,8 @@ published: true
 meta:
   _edit_last: '1'
 ---
-<strong>Name:</strong> <a href="http://en.wikipedia.org/wiki/The_Scream">The Scream</a>
-<strong>Object:</strong> Painting
-<strong>Artist:</strong> <a href="http://en.wikipedia.org/wiki/Edvard_Munch">Edvard Munch</a>
-<strong>Dimension:</strong> 91 × 73.5 cm
-<strong>Date of creation: </strong>1893
-<strong>Method:</strong> Oil, tempera, and pastel on cardboard
-<strong>Where to find it:</strong> National Gallery, Oslo
-<p align="center"><img src="/img/scream.jpg" alt="scream.jpg" /></p>
-<p align="center"><a href="http://en.wikipedia.org/wiki/Image:The_Scream.jpg">image source</a></p>
+**Name:** [The Scream](http://en.wikipedia.org/wiki/The_Scream) **Object:** Painting **Artist:** [Edvard Munch](http://en.wikipedia.org/wiki/Edvard_Munch) **Dimension:** 91 × 73.5 cm **Date of creation: **1893 **Method:** Oil, tempera, and pastel on cardboard **Where to find it:** National Gallery, Oslo
+
+![scream.jpg](/img/scream.jpg)
+
+[image source](http://en.wikipedia.org/wiki/Image:The_Scream.jpg)

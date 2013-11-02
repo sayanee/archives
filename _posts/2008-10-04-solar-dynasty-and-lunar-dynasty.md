@@ -10,8 +10,7 @@ published: true
 meta:
   _edit_last: '1'
 ---
-In Hindu Mythology, the <a href="http://en.wikipedia.org/wiki/Sun_Dynasty">Solar Dynasty</a> and the <a href="http://en.wikipedia.org/wiki/Lunar_Dynasty">Lunar Dynasty</a> are the most famous and important. It is interesting to note the lineage of the kings ruling the Indian lands during the mythological times. And i found some noted kings belonging to these dynasties:
-<ul>
-	<li>Solar Dynasty: Dasarath, Ram and Lav-Kush from the Ramayana</li>
-	<li>Lunar Dynasty: Bhishma, Pandu, Dhritrashtra and Yudhishthira from the Mahabharata</li>
-</ul>
+In Hindu Mythology, the [Solar Dynasty](http://en.wikipedia.org/wiki/Sun_Dynasty) and the [Lunar Dynasty](http://en.wikipedia.org/wiki/Lunar_Dynasty) are the most famous and important. It is interesting to note the lineage of the kings ruling the Indian lands during the mythological times. And i found some noted kings belonging to these dynasties:
+
+- Solar Dynasty: Dasarath, Ram and Lav-Kush from the Ramayana
+- Lunar Dynasty: Bhishma, Pandu, Dhritrashtra and Yudhishthira from the Mahabharata

@@ -10,6 +10,6 @@ published: true
 meta:
   _edit_last: '1'
 ---
-<p style="text-align: center;"><img src="http://www.weblogcartoons.com/cartoons/the-mountain.gif" alt="cartoon from www.weblogcartoons.com" /></p>
+![cartoon from www.weblogcartoons.com](http://www.weblogcartoons.com/cartoons/the-mountain.gif)
 
-Cartoon by <a href="http://www.cartoonchurch.com/blog/">Dave Walker</a>. Find more cartoons you can freely re-use on your blog at <a href="http://www.weblogcartoons.com/">We Blog Cartoons</a>... another blog that i love :)
+Cartoon by [Dave Walker](http://www.cartoonchurch.com/blog/). Find more cartoons you can freely re-use on your blog at [We Blog Cartoons](http://www.weblogcartoons.com/)... another blog that i love :)

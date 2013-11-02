@@ -10,13 +10,12 @@ published: true
 meta: {}
 ---
 some examples that i can see... mainly in politics (but not all)
-<ol>
-	<li>Indira Gandhi - Jawaharlal Nehru</li>
-	<li>Benazir Bhutto - Zulfikar Ali Bhutto</li>
-	<li>Gloria Macapagal-Arroyo - Diosdado Macapagal</li>
-	<li>Megawati Sukarnoputri - Sukarno</li>
-	<li>Aung San Suu Kyi - Aung San</li>
-	<li>Laila Ali - Muhammad Ali</li>
-	<li>Sheikh Hasina - Mujibur Rahman</li>
-	<li>Irene Joliet-Curie - Pierre Curie</li>
-</ol>
+
+1. Indira Gandhi - Jawaharlal Nehru
+2. Benazir Bhutto - Zulfikar Ali Bhutto
+3. Gloria Macapagal-Arroyo - Diosdado Macapagal
+4. Megawati Sukarnoputri - Sukarno
+5. Aung San Suu Kyi - Aung San
+6. Laila Ali - Muhammad Ali
+7. Sheikh Hasina - Mujibur Rahman
+8. Irene Joliet-Curie - Pierre Curie

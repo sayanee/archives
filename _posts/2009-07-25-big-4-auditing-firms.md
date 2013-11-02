@@ -11,9 +11,8 @@ meta:
   _edit_last: '1'
 ---
 The big 4 companies control the accountancy industry in a oligopoly:
-<ol>
-	<li>PricewaterhouseCoopers     $28.2bn</li>
-	<li>Deloitte Touche Tohmatsu     $27.4bn</li>
-	<li>Ernst &amp; Young     $24.5bn</li>
-	<li>KPMG      $22.7b</li>
-</ol>
+
+1. PricewaterhouseCoopers     $28.2bn
+2. Deloitte Touche Tohmatsu     $27.4bn
+3. Ernst & Young     $24.5bn
+4. KPMG      $22.7b

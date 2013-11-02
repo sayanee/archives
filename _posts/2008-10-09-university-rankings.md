@@ -11,26 +11,25 @@ published: true
 meta:
   _edit_last: '1'
 ---
-From <a href="http://www.timeshighereducation.co.uk/hybrid.asp?typeCode=243&amp;pubCode=1">Times Higher Education</a> ranking
-<ol>
-	<li> Harvard US        </li>
-	<li>Yale University US    </li>
-	<li>University of Cambridge UK     </li>
-	<li>University of Oxford UK        </li>
-	<li>California Institute of Technology US        </li>
-	<li>Imperial College London UK        </li>
-	<li>University College London UK        </li>
-	<li>University of Chicago US        </li>
-	<li>Massachusetts Institute of Technology US     </li>
-	<li>Columbia University US        </li>
-	<li>University of Pennsylvania US        </li>
-	<li>Princeton University US        </li>
-	<li>Duke University US        </li>
-	<li>Johns Hopkins University US        </li>
-	<li>Cornell University US        </li>
-	<li>Australian National University Australia    </li>
-	<li>Stanford University US        </li>
-	<li>University of Michigan US        </li>
-	<li>University of Tokyo Japan        </li>
-	<li>McGill University Canada       </li>
-</ol>
+From [Times Higher Education](http://www.timeshighereducation.co.uk/hybrid.asp?typeCode=243&pubCode=1) ranking
+
+1.  Harvard US        
+2. Yale University US    
+3. University of Cambridge UK     
+4. University of Oxford UK        
+5. California Institute of Technology US        
+6. Imperial College London UK        
+7. University College London UK        
+8. University of Chicago US        
+9. Massachusetts Institute of Technology US     
+10. Columbia University US        
+11. University of Pennsylvania US        
+12. Princeton University US        
+13. Duke University US        
+14. Johns Hopkins University US        
+15. Cornell University US        
+16. Australian National University Australia    
+17. Stanford University US        
+18. University of Michigan US        
+19. University of Tokyo Japan        
+20. McGill University Canada       

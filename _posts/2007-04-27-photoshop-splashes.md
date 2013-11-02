@@ -9,7 +9,6 @@ type: post
 published: true
 meta: {}
 ---
-to see the image when you run the photoshop... and how it can changed over the years <a href="http://www.guidebookgallery.org/splashes/photoshop">click right here</a>!
+to see the image when you run the photoshop... and how it can changed over the years [click right here](http://www.guidebookgallery.org/splashes/photoshop)! Haha... can u imagine the first one??
 
-Haha... can u imagine the first one??
-<p align="center"><img src="/img/1_0_7-mac.png" /></p>
+![](/img/1_0_7-mac.png)

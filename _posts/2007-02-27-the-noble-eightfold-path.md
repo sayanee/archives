@@ -10,5 +10,6 @@ published: true
 meta:
   _edit_last: '1'
 ---
-<p align="justify">this <a class="vt-p" href="http://www.thebigview.com/buddhism/eightfoldpath.html">8 fold path </a>is laid out by Lord Buddha and it is one of the fundamentals of Buddhism. A powerful messege about the view of our life..</p>
-<p align="center"><img src="/img/eightpathfold.jpg" alt="" /></p>
+this [8 fold path ](http://www.thebigview.com/buddhism/eightfoldpath.html)is laid out by Lord Buddha and it is one of the fundamentals of Buddhism. A powerful messege about the view of our life..
+
+![](/img/eightpathfold.jpg)

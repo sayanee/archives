@@ -11,6 +11,4 @@ meta:
   aktt_notify_twitter: 'no'
   _edit_last: '1'
 ---
-I cannot make this picture big enough to be read... but there are many interesting details in them! Have fun at the <a href="http://www.informationisbeautiful.net/leftvright_world.html">large version</a>!
-
-<img class="aligncenter size-full wp-image-1435" src="/img/Screen-shot-2009-10-23-at-PM-07.14.15.jpg" alt="" width="430" height="301" />
+I cannot make this picture big enough to be read... but there are many interesting details in them! Have fun at the [large version](http://www.informationisbeautiful.net/leftvright_world.html)! ![](/img/Screen-shot-2009-10-23-at-PM-07.14.15.jpg)

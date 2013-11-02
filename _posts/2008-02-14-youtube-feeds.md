@@ -9,5 +9,6 @@ type: post
 published: true
 meta: {}
 ---
-A list of <a href="http://www.youtube.com/rssls">youtube's type of feeds</a>. Eg.
-<blockquote>http://www.youtube.com/rss/user/sweska/videos.rss</blockquote>
+A list of [youtube's type of feeds](http://www.youtube.com/rssls). Eg.
+
+> http://www.youtube.com/rss/user/sweska/videos.rss

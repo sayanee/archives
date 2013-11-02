@@ -10,19 +10,11 @@ published: true
 meta:
   _edit_last: '1'
 ---
-When to use <em>that</em> and when to use <em>which</em>?
+When to use _that_ and when to use _which_? **That** introduces a restrictive clause, which is critical to understanding the sentence because the clause defines its antecedent. E.g. The brown house that has a rooftop is my favourite. **Which** introduces nonrestrictive clause, which include information relevant but not critical to an understanding of the sentence. E.g. The brown house, which has a rooftop, is my favourite. Some links on the use of _that _and _which_:
 
-<strong>That</strong> introduces a restrictive clause, which is <span style="text-decoration: underline;">critical</span> to understanding the sentence because the clause defines its antecedent.
-E.g. The brown house that has a rooftop is my favourite.
+- [link 1](http://englishplus.com/grammar/00000255.htm)
+- [link 2](http://www.worldwidewords.org/articles/which.htm)
+- [link 3](http://www-personal.umich.edu/~jlawler/aue/xmasthat.html)
+- [link 4](http://www.grammarbook.com/grammar/whoVwhVt.asp)
 
-<strong>Which</strong> introduces nonrestrictive clause, which include information relevant but <span style="text-decoration: underline;">not critical</span> to an understanding of the sentence.
-E.g. The brown house, which has a rooftop, is my favourite.
-
-Some links on the use of <em>that </em>and <em>which</em>:
-<ul>
-	<li><a href="http://englishplus.com/grammar/00000255.htm">link 1</a></li>
-	<li><a href="http://www.worldwidewords.org/articles/which.htm">link 2</a></li>
-	<li><a href="http://www-personal.umich.edu/~jlawler/aue/xmasthat.html">link 3</a></li>
-	<li><a href="http://www.grammarbook.com/grammar/whoVwhVt.asp">link 4</a></li>
-</ul>
-<div><span style="color: #ffffff;">gmat</span></div>
+gmat

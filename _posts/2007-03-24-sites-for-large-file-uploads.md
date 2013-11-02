@@ -9,8 +9,7 @@ type: post
 published: true
 meta: {}
 ---
-<ul>
-	<li><a href="http://www.theupload.com/">the upload</a></li>
-	<li><a href="http://rapidupload.com/">Rapid Upload</a></li>
-	<li><a href="http://yousendit.com/">you send it</a></li>
-</ul>
+
+- [the upload](http://www.theupload.com/)
+- [Rapid Upload](http://rapidupload.com/)
+- [you send it](http://yousendit.com/)

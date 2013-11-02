@@ -15,5 +15,4 @@ meta:
   _edit_last: '1'
   aktt_tweeted: '1'
 ---
-<img class="aligncenter size-full wp-image-2021" title="Diffusionofideas" src="/img/Diffusionofideas.png" />
-<p style="text-align: center;">By <a href="http://en.wikipedia.org/wiki/Everett_Rogers">Everett Rogers</a></p>
+![](/img/Diffusionofideas.png "Diffusionofideas") By [Everett Rogers](http://en.wikipedia.org/wiki/Everett_Rogers)

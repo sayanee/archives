@@ -10,4 +10,4 @@ published: true
 meta:
   _edit_last: '1'
 ---
-A <a href="http://en.wikipedia.org/wiki/Stradivarius">Stradivarius </a>is a stringed instrument built by members of the Stradivari family, particularly Antonio Stradivari.
+A [Stradivarius ](http://en.wikipedia.org/wiki/Stradivarius)is a stringed instrument built by members of the Stradivari family, particularly Antonio Stradivari.

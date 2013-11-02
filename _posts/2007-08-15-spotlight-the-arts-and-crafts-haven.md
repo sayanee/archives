@@ -10,4 +10,4 @@ type: post
 published: true
 meta: {}
 ---
-I have in love with this shop lately, every now and then squeezing in during the lunch hour!! It's <a href="http://www.spotlight.com.sg/?p=9136">SPOTLIGHT </a>at Plaza Singapura, Douby Ghaut.
+I have in love with this shop lately, every now and then squeezing in during the lunch hour!! It's [SPOTLIGHT ](http://www.spotlight.com.sg/?p=9136)at Plaza Singapura, Douby Ghaut.

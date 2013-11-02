@@ -13,6 +13,4 @@ meta:
   _edit_last: '1'
   aktt_tweeted: '1'
 ---
-<a class="vt-p" href="http://hackfwd.com/">HackFw</a>d is a pre-seed investment company in Europe. Their blueprint...
-
-<img class="aligncenter size-full wp-image-1863" title="hack-fwd-blueprint" src="/img/hack-fwd-blueprint.jpg" alt="" />
+[HackFw](http://hackfwd.com/)d is a pre-seed investment company in Europe. Their blueprint... ![](/img/hack-fwd-blueprint.jpg "hack-fwd-blueprint")

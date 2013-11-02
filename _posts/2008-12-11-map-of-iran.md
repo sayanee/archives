@@ -10,5 +10,6 @@ published: true
 meta:
   _edit_last: '1'
 ---
-I want to go to <a href="http://en.wikipedia.org/wiki/Iran">Iran</a>. The land of Persian, ancient history, Persian poetry and Tehran.
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1182" title="iran-map" src="/img/iran-map.jpg" alt="" width="500" height="492" /><a href="http://www.mapsofworld.com/iran/maps/iran-map.jpg">picture credit</a></p>
+I want to go to [Iran](http://en.wikipedia.org/wiki/Iran). The land of Persian, ancient history, Persian poetry and Tehran.
+
+![](/img/iran-map.jpg "iran-map") [picture credit](http://www.mapsofworld.com/iran/maps/iran-map.jpg)

@@ -13,18 +13,15 @@ meta:
   _edit_last: '1'
   aktt_tweeted: '1'
 ---
-Reposted <a href="http://kevinrose.com/blogg/2010/8/19/where-does-apple-draw-its-design-inspiration-meet-dieter-ram.html">from Kevin Rose</a>:
+Reposted [from Kevin Rose](http://kevinrose.com/blogg/2010/8/19/where-does-apple-draw-its-design-inspiration-meet-dieter-ram.html): Apple's design inspired from [Dieter Rams](http://en.wikipedia.org/wiki/Dieter_Rams) and his 10 design principles:
 
-Apple's design inspired from <a href="http://en.wikipedia.org/wiki/Dieter_Rams">Dieter Rams</a> and his 10 design principles:
-<ol>
-	<li>is innovative</li>
-	<li>makes a product useful</li>
-	<li>is aesthetic</li>
-	<li>makes a product understandable</li>
-	<li>is unobtrusive</li>
-	<li>is honest</li>
-	<li>is long-lasting</li>
-	<li>is thorough down to the last detail</li>
-	<li>is environmentally friendly</li>
-	<li>is as little design as possible</li>
-</ol>
+1. is innovative
+2. makes a product useful
+3. is aesthetic
+4. makes a product understandable
+5. is unobtrusive
+6. is honest
+7. is long-lasting
+8. is thorough down to the last detail
+9. is environmentally friendly
+10. is as little design as possible

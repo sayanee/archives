@@ -1,60 +1,35 @@
 ---
 layout: post
 title: Take Me Out by Atomic Tom
-categories:
-- Current Technology
-- Music and Arts
-tags:
-- iphone
-- music
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  aktt_notify_twitter: 'yes'
-  aktt_tweeted: '1'
-  _wp_old_slug: ''
 ---
 What a superb improvisation...
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500" height="306" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/NAllFWSl998?fs=1&amp;hl=en_US" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="500" height="306" src="http://www.youtube.com/v/NAllFWSl998?fs=1&amp;hl=en_US" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<iframe width="560" height="315" src="//www.youtube.com/embed/NAllFWSl998" frameborder="0" allowfullscreen></iframe>
 
-If I was bold enough
-I would follow you forever
-but darling please
-rescue me take me out
-
-some may say
-it's my fate
-am i just in time
-or am i late
-if you can understand
-then
-
-Take me out
-I don't start I don't end
-I don't change on my own
-Take me out
-I don't lose i don't win
-I don't do well alone
-
-Love is what you make it
-Take my heart and break it
-Take me out
-I don't want to stay home
-
-you make me dread
-you make me sweat
-busdt can you make
-love mean something instead
-something real make me feel
-then
-
-i don't want to stay here
-i don't wanna live half my life
-and disappear
-so if you want to take chances
-take a chance on me
-
-take me out
+If I was bold enough <br>
+I would follow you forever <br>
+but darling please rescue me <br>
+take me out <br>
+some may say <br>
+it's my fate <br>
+am i just in time or am i late <br>
+if you can understand then <br>
+Take me out <br>
+I don't start <br>
+I don't end <br>
+I don't change on my own <br>
+Take me out <br>
+I don't lose <br>
+i don't win <br>
+I don't do well alone <br>
+Love is what you make it <br>
+Take my heart and break it <br>
+Take me out <br>
+I don't want to stay home <br>
+you make me dread <br>
+you make me sweat busdt <br>
+can you make love mean something instead something real <br>
+make me feel then i don't want to stay here <br>
+i don't wanna live half my life and <br>
+disappear so if you want to take chances <br>
+take a chance on me take me out <br>

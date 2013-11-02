@@ -9,50 +9,41 @@ type: post
 published: true
 meta: {}
 ---
-Wanted to have a list of handy sites when travelling...  and i'll keep updating whenever i find more :)
+Wanted to have a list of handy sites when travelling...  and i'll keep updating whenever i find more :) General...
 
-General...
-<ol>
-	<li><a href="http://www.lonelyplanet.com/">Lonely Planet</a></li>
-	<li><a href="http://roughguides.com/">Rough Guides</a></li>
-	<li><a href="http://www.karenbrown.com/">Karen Brown</a></li>
-	<li><a href="http://www.viamichelin.com/viamichelin/int/tpl/hme/MaHomePage.htm">Michelin Guides</a> - maps for Europe</li>
-	<li><a href="http://cadoganguides.com/">Cadogan Guides</a></li>
-	<li><a href="http://www.timeout.com/">Time Out</a> - city guides</li>
-	<li><a href="http://www.ricksteves.com/">Rick Steves</a></li>
-	<li><a href="http://www.independenttraveler.com/">Independent Traveller</a></li>
-	<li><a href="http://www.virtualtourist.com/">Virtual Tourist</a></li>
-	<li><a href="http://www.tripadvisor.com/">Trip Advisor</a></li>
-</ol>
+1. [Lonely Planet](http://www.lonelyplanet.com/)
+2. [Rough Guides](http://roughguides.com/)
+3. [Karen Brown](http://www.karenbrown.com/)
+4. [Michelin Guides](http://www.viamichelin.com/viamichelin/int/tpl/hme/MaHomePage.htm) - maps for Europe
+5. [Cadogan Guides](http://cadoganguides.com/)
+6. [Time Out](http://www.timeout.com/) - city guides
+7. [Rick Steves](http://www.ricksteves.com/)
+8. [Independent Traveller](http://www.independenttraveler.com/)
+9. [Virtual Tourist](http://www.virtualtourist.com/)
+10. [Trip Advisor](http://www.tripadvisor.com/)
+
 Accomodation...
-<ol>
-	<li><a href="http://www.bedandbreakfast.com/">Bed and Breakfast</a></li>
-	<li><a href="http://www.hotelguide.com/">Hotel Guide</a></li>
-	<li><a href="http://hihostels.com/">Hostelling International</a></li>
-</ol>
+1. [Bed and Breakfast](http://www.bedandbreakfast.com/)
+2. [Hotel Guide](http://www.hotelguide.com/)
+3. [Hostelling International](http://hihostels.com/)
+
 Budget Travel...
-<ol>
-	<li><a href="http://www.letsgo.com/">lets go</a> - for budget traveling</li>
-	<li><a href="http://frommers.com/">Frommers </a></li>
-</ol>
+1. [lets go](http://www.letsgo.com/) - for budget traveling
+2. [Frommers ](http://frommers.com/)
+
 Transportation
-<ol>
-	<li><a href="http://nettravel.com/">Net Travel </a>- search for flights anywhere</li>
-</ol>
+1. [Net Travel ](http://nettravel.com/)- search for flights anywhere
+
 Others... for different people...
-<ol>
-	<li><a href="http://familyadventuretravel.com/">Family</a></li>
-	<li><a href="http://www.statravel.com/">Students</a></li>
-</ol>
+1. [Family](http://familyadventuretravel.com/)
+2. [Students](http://www.statravel.com/)
+
 Women Travellers...
-<ol>
-	<li>Journey <a href="http://journeywoman.com/">Women</a></li>
-	<li><a href="http://www.gutsywomentravel.com/">Gutsy Women</a></li>
-	<li><a href="http://www.womenstravelclub.com/">Women Travel Club</a></li>
-	<li><a href="http://www.womentraveltips.com/">Women Travel Tips</a></li>
-</ol>
-Entertainment &amp; Fun
-<ol>
-	<li><a href="http://culturekiosque.com/travel/#nav">Culture Kiosque</a></li>
-	<li><a href="http://eventsworldwide.com/">Events Worldwide</a></li>
-</ol>
+1. Journey [Women](http://journeywoman.com/)
+2. [Gutsy Women](http://www.gutsywomentravel.com/)
+3. [Women Travel Club](http://www.womenstravelclub.com/)
+4. [Women Travel Tips](http://www.womentraveltips.com/)
+
+Entertainment & Fun
+1. [Culture Kiosque](http://culturekiosque.com/travel/#nav)
+2. [Events Worldwide](http://eventsworldwide.com/)

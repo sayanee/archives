@@ -9,24 +9,23 @@ type: post
 published: true
 meta: {}
 ---
-at the very north of France, near the belgium border, this region is known as <a href="http://en.wikipedia.org/wiki/Nord-Pas-de-Calais">Nord-Pas de Calais</a> and it has the following major towns/villages:
-<p align="center"><img src="/img/calais_pas_nord_france.jpg" /></p>
+at the very north of France, near the belgium border, this region is known as [Nord-Pas de Calais](http://en.wikipedia.org/wiki/Nord-Pas-de-Calais) and it has the following major towns/villages:
 
-<ol>
-	<li>Arras</li>
-	<li>Boulogne-sur-Mer</li>
-	<li>Calais</li>
-	<li>Cambrai</li>
-	<li>Douai</li>
-	<li>Dunkerque</li>
-	<li>Lens</li>
-	<li>Liévin</li>
-	<li>Lille</li>
-	<li>Marcq-en-Barœul</li>
-	<li>Maubeuge</li>
-	<li>Roubaix</li>
-	<li>Tourcoing</li>
-	<li>Valenciennes</li>
-	<li>Villeneuve d'Ascq</li>
-	<li>Wattrelos</li>
-</ol>
+![](/img/calais_pas_nord_france.jpg)
+
+1. Arras
+2. Boulogne-sur-Mer
+3. Calais
+4. Cambrai
+5. Douai
+6. Dunkerque
+7. Lens
+8. Liévin
+9. Lille
+10. Marcq-en-Barœul
+11. Maubeuge
+12. Roubaix
+13. Tourcoing
+14. Valenciennes
+15. Villeneuve d'Ascq
+16. Wattrelos

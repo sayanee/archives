@@ -10,80 +10,63 @@ type: post
 published: true
 meta: {}
 ---
-<strong>Book Title:</strong> France 2005
-<strong>Author:</strong> Rick Steve
-<strong>Year written/published:</strong> 2005
-<strong>Book Source:</strong> Google Books, Library
-<strong>Summary:</strong> France regions and how to travel these areas
-<strong>My Comments:</strong> Fantastic... Rick Steve travel books are a genre of their own. Really useful guide
-<strong>Contents page:</strong>
-<ol>
-	<li>Paris</li>
-	<li>Normandy: Rouen, Honfluer, Bayeux, D-Day Beaches, Mont St. Michel</li>
-	<li>Brittany</li>
-	<li>Loire: Amboise, Chenonceaux, Chinon</li>
-	<li>Dordogne: Sarlat, Beynac-Cazenac</li>
-	<li>Basque Country</li>
-	<li>Languedoc: Albi, Carcassonne, Collioure</li>
-	<li>Provence: Arles, Avignon</li>
-	<li>French Riviera: Nice, Monaco, Antibes</li>
-	<li>French Alps: Annecy, Chamonix</li>
-	<li>Burgundy and Lyon: Beaune, Lyon</li>
-	<li>Alsace and Northern France: Colmar, Route du Vin, Strasbourg, Verdun, Reims</li>
-</ol>
-<strong>Some extracts:</strong>
+**Book Title:** France 2005 **Author:** Rick Steve **Year written/published:** 2005 **Book Source:** Google Books, Library **Summary:** France regions and how to travel these areas **My Comments:** Fantastic... Rick Steve travel books are a genre of their own. Really useful guide **Contents page:**
+1. Paris
+2. Normandy: Rouen, Honfluer, Bayeux, D-Day Beaches, Mont St. Michel
+3. Brittany
+4. Loire: Amboise, Chenonceaux, Chinon
+5. Dordogne: Sarlat, Beynac-Cazenac
+6. Basque Country
+7. Languedoc: Albi, Carcassonne, Collioure
+8. Provence: Arles, Avignon
+9. French Riviera: Nice, Monaco, Antibes
+10. French Alps: Annecy, Chamonix
+11. Burgundy and Lyon: Beaune, Lyon
+12. Alsace and Northern France: Colmar, Route du Vin, Strasbourg, Verdun, Reims
 
-sight-seeing priorities
-<ul>
-	<li>3 days: Paris and maybe Versailles</li>
-	<li>5 days: Normandy</li>
-	<li>7 days: Loire</li>
-	<li>10 days: Dordogne, Carcassonne</li>
-	<li>15 days: Provence, Riviera</li>
-	<li>18 days: Burgundy, Chamonix</li>
-	<li>21 days: Alsace, Champagne</li>
-	<li>23 days: Basque Country</li>
-</ul>
+**Some extracts:** sight-seeing priorities
+- 3 days: Paris and maybe Versailles
+- 5 days: Normandy
+- 7 days: Loire
+- 10 days: Dordogne, Carcassonne
+- 15 days: Provence, Riviera
+- 18 days: Burgundy, Chamonix
+- 21 days: Alsace, Champagne
+- 23 days: Basque Country
+
 Train tips
-<ul>
-	<li>Arrive at station with plenty of time before your departure</li>
-	<li>check schedules in advance</li>
-	<li>write the date on your flexi-pass each day you travel</li>
-	<li>validate tickets (not passes) and reservations in orange machines before boarding</li>
-	<li>Before getting on a train, confrim that it's going where you think it is</li>
-	<li>Some trains split cards on route</li>
-</ul>
+- Arrive at station with plenty of time before your departure
+- check schedules in advance
+- write the date on your flexi-pass each day you travel
+- validate tickets (not passes) and reservations in orange machines before boarding
+- Before getting on a train, confrim that it's going where you think it is
+- Some trains split cards on route
+
 Paris in 3 days starting from day 1:
-<ul>
-	<li>morning: self-guided tour featuring ile de la Cite, Notre Dame, Latin Quater and Sainte-Chapelle</li>
-	<li>afternoon: Visit Pompoadouu, Jeiwsh Art, Picasso</li>
-	<li>Evening: Cruise the Seine RIver or take the Prais Illumination nighttime bus trou</li>
-</ul>
+- morning: self-guided tour featuring ile de la Cite, Notre Dame, Latin Quater and Sainte-Chapelle
+- afternoon: Visit Pompoadouu, Jeiwsh Art, Picasso
+- Evening: Cruise the Seine RIver or take the Prais Illumination nighttime bus trou
+
 day 2 in Paris:
-<ul>
-	<li>morning: Arc de Trimphe, self guided tour of Chams-Elysees Walk</li>
-	<li>afternoon: Lunch in Tuileries and then Louvre</li>
-	<li>Evening: Twilight ride up the Eiffel Tower</li>
-</ul>
+- morning: Arc de Trimphe, self guided tour of Chams-Elysees Walk
+- afternoon: Lunch in Tuileries and then Louvre
+- Evening: Twilight ride up the Eiffel Tower
+
 day 3 in Paris:
-<ul>
-	<li>morning: Tour the Orsay Museum</li>
-	<li>afternoon: Rodin Museu, and Napolean's Tomb</li>
-	<li>night: Montmartre and Sacre-Couer basilica</li>
-</ul>
+- morning: Tour the Orsay Museum
+- afternoon: Rodin Museu, and Napolean's Tomb
+- night: Montmartre and Sacre-Couer basilica
+
 some museum tips:
-<ul>
-	<li>tuesday: most museums are closed including Louvre and Picasso</li>
-	<li>Sunday: some museums are free the first sunday on the month and therefore more crowded eg. Louvre, Picasso etc</li>
-</ul>
+- tuesday: most museums are closed including Louvre and Picasso
+- Sunday: some museums are free the first sunday on the month and therefore more crowded eg. Louvre, Picasso etc
+
 some main attractions in paris...
-<ol>
-	<li>Louvre</li>
-	<li>Orsay Museum</li>
-	<li>Eiffel Tower</li>
-	<li>Arc de Triomphe</li>
-	<li>Saint Chapelle</li>
-	<li>versailles</li>
-	<li>Notre Dame Cathedral</li>
-	<li>Sacre Couer</li>
-</ol>
+1. Louvre
+2. Orsay Museum
+3. Eiffel Tower
+4. Arc de Triomphe
+5. Saint Chapelle
+6. versailles
+7. Notre Dame Cathedral
+8. Sacre Couer

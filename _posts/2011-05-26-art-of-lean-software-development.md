@@ -1,37 +1,27 @@
 ---
 layout: post
-title: art of lean software development
+title: Art of lean software development
 categories:
-- Book Reviews
-- Current Technology
-- Share
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
+- Books
 ---
-<strong>Title</strong>: <a href="http://oreilly.com/catalog/9780596517311">The Art of Lean Software Development</a>
+- **Title**: [The Art of Lean Software Development](http://oreilly.com/catalog/9780596517311)
 
-<a href="http://agilemanifesto.org/">Values</a>:
-- <strong>Individuals and interactions</strong> over processes and tools
-- <strong>Working software</strong> over comprehensive documentation
-- <strong>Customer collaboration</strong> over contract negotiation
-- <strong>Responding to change</strong> over following a plan
+[Values](http://agilemanifesto.org/):
+- **Individuals and interactions** over processes and tools
+- **Working software** over comprehensive documentation
+- **Customer collaboration** over contract negotiation
+- **Responding to change** over following a plan
 
-<a href="http://en.wikipedia.org/wiki/MoSCoW_Method">MoSCoW
-</a>- <strong>Must</strong>-have requirements
-- <strong>Should</strong> have if at all possible
-- <strong>Could</strong> have, but not critical
-- <strong>Won't</strong> have this time, but potentially later
+[MoSCoW](http://en.wikipedia.org/wiki/MoSCoW_Method)- **Must**-have requirements
+- **Should** have if at all possible
+- **Could** have, but not critical
+- **Won't** have this time, but potentially later
 
-<strong>DOTWIMP</strong>
+**DOTWIMP**
 Defects-Overproduction-Transportation-Waiting-Inventory-Motion-Processing
 
-<strong>Lean Speak</strong>
+**Lean Speak**
+
 - Andon: Visual device that gives the current status of a production system
 - Jidoka: Automation to inspect, operate and notify a defect
 - Kaizen: Continuous, incremental improvement of an activity
@@ -39,6 +29,9 @@ Defects-Overproduction-Transportation-Waiting-Inventory-Motion-Processing
 - Muda: Waste that consumes resources, but produces no value
 
 Running automated test
-<blockquote>In Test First Development (TFD), the test for new or changed code is written before the implementing code. This means that, initially, the test will fail (because change hasn't yet been implemented), and the goal is to refine the application's code until the test succeeds.</blockquote>
+
+> In Test First Development (TFD), the test for new or changed code is written before the implementing code. This means that, initially, the test will fail (because change hasn't yet been implemented), and the goal is to refine the application's code until the test succeeds.
+
 Kinds of tests:
-Unit Tests, Mocks &amp; Stubs, Integration tests, Behavior Tests, Executable specifications, Nonfunctional testing, User Interface Testing
+
+Unit Tests, Mocks & Stubs, Integration tests, Behavior Tests, Executable specifications, Nonfunctional testing, User Interface Testing

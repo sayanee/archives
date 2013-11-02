@@ -11,13 +11,9 @@ meta:
   _edit_last: '1'
 ---
 3 conditions...
-<ol>
-	<li>E.g. If she wins... she will go
-Present ... will + Verb</li>
-	<li>E.g. If she won... she would go
-Past... would/could + verb</li>
-	<li>W.g. If she had won... she would have gone
-Past Perfect... would/could + have + Participle<span style="color: #ffffff;">
-</span></li>
-</ol>
-<div><span style="color: #ffffff;">gmat</span></div>
+
+1. E.g. If she wins... she will go Present ... will + Verb
+2. E.g. If she won... she would go Past... would/could + verb
+3. W.g. If she had won... she would have gone Past Perfect... would/could + have + Participle
+
+gmat

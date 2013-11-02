@@ -1,77 +1,61 @@
 ---
 layout: post
-title: do more faster by @techstars
+title: Do more faster by @techstars
 categories:
-- Book Reviews
-- Business &amp; Finance
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
+- Books
 ---
-<strong>Book Title:</strong> Do More Faster - TechStars Lessons to Accelerate your Startup
-<strong>Author: </strong>David Cohen &amp; Brad Feld
-<strong>Some extracts:</strong>
+- **Book Title**: Do More Faster - TechStars Lessons to Accelerate your Startup
+- **Author**: David Cohen & Brad Feld
+- **Some extracts**:
 
 Avoid Tunnel Vision... what does best entrepreneurs have?
 
-<ul>
-	<li>develop passion and vision for the problems they are trying to solve</li>
-	<li>identify and understand what they have to do to make it happen</li>
-	<li>combine sheer will, determination and focus to make it happen with a healthy sense of urgency</li>
-	<li>have a perspective that things rarely go as planned</li>
-</ul>
+- develop passion and vision for the problems they are trying to solve
+- identify and understand what they have to do to make it happen
+- combine sheer will, determination and focus to make it happen with a healthy sense of urgency
+- have a perspective that things rarely go as planned
 
 Characters of great startups:
 
-<ol>
-	<li>no politics</li>
-	<li>it's not a job, it's a mission</li>
-	<li>intolerance for mediocrity</li>
-	<li>watching pennies</li>
-	<li>equity-driven</li>
-	<li>perfect alignment</li>
-	<li>good communication</li>
-	<li>strong leadership</li>
-	<li>mutual respect</li>
-	<li>customer obssessed</li>
-	<li>high energy level</li>
-	<li>fun</li>
-	<li>integrity</li>
-</ol>
+1. no politics
+2. it's not a job, it's a mission
+3. intolerance for mediocrity
+4. watching pennies
+5. equity-driven
+6. perfect alignment
+7. good communication
+8. strong leadership
+9. mutual respect
+10. customer obssessed
+11. high energy level
+12. fun
+13. integrity
 
 Email...
-<ol>
-	<li>use the subject line</li>
-	<li>3 sentence rule</li>
-	<li>spell check</li>
-	<li>reply to important emails right away</li>
-	<li>use "unread" status</li>
-	<li>be conscious of how much you suck - if you send out emails that you consider are important and you don't get a response, think about why</li>
-</ol>
+
+1. use the subject line
+2. 3 sentence rule
+3. spell check
+4. reply to important emails right away
+5. use "unread" status
+6. be conscious of how much you suck - if you send out emails that you consider are important and you don't get a response, think about why
 
 deadly strategic mistakes:
-<ol>
-	<li>built a sales effort, but too weak of a product</li>
-	<li>waited too long to address the "nice to have" problem</li>
-	<li>went after enterprise sales model with non-recurring small price</li>
-</ol>
+
+1. built a sales effort, but too weak of a product
+2. waited too long to address the "nice to have" problem
+3. went after enterprise sales model with non-recurring small price
+
 deadly cultural mistake
-<ol>
-	<li>didin't focus on learning and failing fast</li>
-	<li>didn't care about or focus enough about discovering how to market</li>
-	<li>in hiring, choosing expediency over talent and competency</li>
-</ol>
+
+1. didin't focus on learning and failing fast
+2. didn't care about or focus enough about discovering how to market
+3. in hiring, choosing expediency over talent and competency
+
 5 key metrics to measure by Dave McClure:
-<ol>
-	<li>Acquisition - how are users coming to your site through various channels?</li>
-	<li>Activation - Are users happy with their first experience?</li>
-	<li>Retention - Are users coming back?</li>
-	<li>Referral - Are users telling others?</li>
-	<li>Revenue - Are users spending money or allowing you to monetise?</li>
-</ol>
+
+1. Acquisition - how are users coming to your site through various channels?
+2. Activation - Are users happy with their first experience?
+3. Retention - Are users coming back?
+4. Referral - Are users telling others?
+5. Revenue - Are users spending money or allowing you to monetise?

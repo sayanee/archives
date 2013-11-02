@@ -1,16 +1,6 @@
 ---
 layout: post
 title: ! '#8 Pulse of Technopreneurship with Ridzuan Ashim'
-categories:
-- Pulse
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  aktt_notify_twitter: 'yes'
-  aktt_tweeted: '1'
 ---
 This time I met up with my decade old high school friend - Ridzuan Ashim.
 

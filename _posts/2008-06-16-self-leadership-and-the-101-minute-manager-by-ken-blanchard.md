@@ -16,58 +16,34 @@ published: true
 meta:
   _edit_last: '1'
 ---
-<strong>Book Title:</strong> Self Leadership and the 101 Minute Manager
-<strong>Authors</strong>: Ken Blanchard, Susan Fowler, Laurence Hawkins
-<strong>Year written/published:</strong> 2005
-<strong>Book Source</strong>: Google Books, Library
-<strong>Summary</strong>: How do you steer yourself
-<strong>Some extracts</strong>:
+**Book Title:** Self Leadership and the 101 Minute Manager **Authors**: Ken Blanchard, Susan Fowler, Laurence Hawkins **Year written/published:** 2005 **Book Source**: Google Books, Library **Summary**: How do you steer yourself **Some extracts**: Points of power
+- Knowledge Power
+- Position power
+- task power
+- relationship
+- personal power
 
-Points of power
-<ul>
-	<li>Knowledge Power</li>
-	<li>Position power</li>
-	<li>task power</li>
-	<li>relationship</li>
-	<li>personal power</li>
-</ul>
 Tricks of leadership:
-<ol>
-	<li>Challenge assumed constraints</li>
-	<li>Celebrate your points of power</li>
-	<li>Collaborate for Success</li>
-</ol>
-Perhaps your greatest weakness is not realizing your own power
+1. Challenge assumed constraints
+2. Celebrate your points of power
+3. Collaborate for Success
 
-Ask yourself 2 questions about the goal of performing:
-<ol>
-	<li>what is your level of competence?</li>
-	<li>what is your level of commitment?</li>
-</ol>
+Perhaps your greatest weakness is not realizing your own power Ask yourself 2 questions about the goal of performing:
+1. what is your level of competence?
+2. what is your level of commitment?
+
 4 development continuum
-<ol>
-	<li>Enthusiastic Beginner stage: Low Competence -high commitment ? you need directing</li>
-	<li>Disillu8sioned learner stage: low some competence - Low commitment ? you need coaching</li>
-	<li>Capable but cautious Performer stage: Moderate high competence variable commitment ? you need supporting</li>
-	<li>High Achiever: high competence - high commitment ? you need delegating</li>
-</ol>
-[caption id="" align="aligncenter" width="320" caption="null"]<img src="/img/self_leadership_model.jpg" alt="" width="320" height="282" />[/caption]
-<p style="text-align: center;"> <a href="http://www.peace.ca/self_leadership_model.jpg">link to image source: picture credit</a></p>
+1. Enthusiastic Beginner stage: Low Competence -high commitment ? you need directing
+2. Disillu8sioned learner stage: low some competence - Low commitment ? you need coaching
+3. Capable but cautious Performer stage: Moderate high competence variable commitment ? you need supporting
+4. High Achiever: high competence - high commitment ? you need delegating
+
+[caption id="" align="aligncenter" width="320" caption="null"] ![](/img/self_leadership_model.jpg) [/caption]
+
+  [link to image source: picture credit](http://www.peace.ca/self_leadership_model.jpg)
 
 To increase your competence to achieve a goal you need from someone who will:
-<p style="padding-left: 30px;">? Set a clear goal
-? Generate an action plan
-? Show you how to do the goal or skill
-? Clarify roles
-? Provide timelines
-? Establish priorities
-? Monitor and evaluate your work and give feedback
 
-To build your commitment to achieve a goal you need from someone who will:
-<p style="padding-left: 30px;">? Listen to you
-? Praise and encourage you
-? Facilitate your problem solving
-? Ask you for input
-? Provide rationale (remind you why you’re doing it)
-? Share information about their experiences relevant to the goal
-? Share information about the organization relevant to the goal
+? Set a clear goal ? Generate an action plan ? Show you how to do the goal or skill ? Clarify roles ? Provide timelines ? Establish priorities ? Monitor and evaluate your work and give feedback To build your commitment to achieve a goal you need from someone who will:
+
+? Listen to you ? Praise and encourage you ? Facilitate your problem solving ? Ask you for input ? Provide rationale (remind you why you’re doing it) ? Share information about their experiences relevant to the goal ? Share information about the organization relevant to the goal

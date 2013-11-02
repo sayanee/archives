@@ -9,12 +9,11 @@ published: true
 meta: {}
 ---
 why did i start this site??
-<ol>
-	<li>it's FREE</li>
-	<li>for mom and dad :P</li>
-	<li>tell u about the latest happenings that catches my eye</li>
-	<li>maybe refresh your mind about arts, music</li>
-	<li>maybe some reflections</li>
-	<li>you can also add comments / your opinions</li>
-	<li>have fun!!</li>
-</ol>
+
+1. it's FREE
+2. for mom and dad :P
+3. tell u about the latest happenings that catches my eye
+4. maybe refresh your mind about arts, music
+5. maybe some reflections
+6. you can also add comments / your opinions
+7. have fun!!

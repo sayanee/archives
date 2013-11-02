@@ -10,11 +10,10 @@ published: true
 meta: {}
 ---
 Some links to Amsterdam, capital of Netherlands:
-<ol>
-	<li>city <a href="http://www.hotels-holland.com/amsterdam-info/adam-7mapcity.htm">map with walking route </a>for the city centre</li>
-	<li><a href="http://homepages.cwi.nl/~steven/amsterdam.html">internet guide</a></li>
-	<li>attraction and amenities <a href="http://www.easytobook.com/en/amsterdam/">list</a></li>
-	<li>official <a href="http://www.amsterdamtourist.nl/">tourism site</a></li>
-	<li><a href="http://www.amsterdam.info/print/map/">printable map</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Amsterdam">wiki</a></li>
-</ol>
+
+1. city [map with walking route ](http://www.hotels-holland.com/amsterdam-info/adam-7mapcity.htm)for the city centre
+2. [internet guide](http://homepages.cwi.nl/~steven/amsterdam.html)
+3. attraction and amenities [list](http://www.easytobook.com/en/amsterdam/)
+4. official [tourism site](http://www.amsterdamtourist.nl/)
+5. [printable map](http://www.amsterdam.info/print/map/)
+6. [wiki](http://en.wikipedia.org/wiki/Amsterdam)

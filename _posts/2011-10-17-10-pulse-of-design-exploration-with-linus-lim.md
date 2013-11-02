@@ -1,15 +1,6 @@
 ---
 layout: post
-title: ! '#10 Pulse of Design Exploration with Linus Lim'
-categories:
-- Pulse
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
+title: '#10 Pulse of Design Exploration with Linus Lim'
 ---
 A Friday night out and dinner with Linus! I took him on a tour of the [heartland university](http://www.smu.edu.sg/) and we sat down chatting on his Pulses of Design Exploration.
 

@@ -10,13 +10,13 @@ published: true
 meta: {}
 ---
 you might wanna look at what time you go to work and what you do before going to office...
-<ol>
-	<li>Start Early</li>
-	<li>Get a jump on email</li>
-	<li>Exercise</li>
-	<li>Source, news and timing of news</li>
-	<li>problem solving</li>
-	<li>family time</li>
-	<li>creative</li>
-</ol>
-from <a href="http://finance.yahoo.com/expert/article/leadership/23188">source here</a>
+
+1. Start Early
+2. Get a jump on email
+3. Exercise
+4. Source, news and timing of news
+5. problem solving
+6. family time
+7. creative
+
+from [source here](http://finance.yahoo.com/expert/article/leadership/23188)

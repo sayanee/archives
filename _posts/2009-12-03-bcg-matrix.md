@@ -11,6 +11,4 @@ meta:
   aktt_notify_twitter: 'no'
   _edit_last: '1'
 ---
-<a href="http://www.valuebasedmanagement.net/methods_bcgmatrix.html">The dog, the cow, the question, the Star</a>...
-
-<img class="aligncenter size-full wp-image-1512" src="/img/BCG_Matrix.png" alt="" />
+[The dog, the cow, the question, the Star](http://www.valuebasedmanagement.net/methods_bcgmatrix.html)... ![](/img/BCG_Matrix.png)

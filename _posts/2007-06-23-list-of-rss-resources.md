@@ -9,22 +9,22 @@ type: post
 published: true
 meta: {}
 ---
-I saw this <a href="http://mashable.com/2007/06/11/rss-toolbox/">list of 120 RSS resources </a>recently in the <a href="http://www.lifehack.org/articles/technology/120-rss-resources.html">lifehacker</a>... and it has the following categories...
-<ol>
-	<li>RSS readers - Windows</li>
-	<li>RSS readers - OS X</li>
-	<li>RSS readers - Linux</li>
-	<li>RSS Readers - cross-platform</li>
-	<li>RSS readers - web based</li>
-	<li>Mobile RSS Readers</li>
-	<li>RSS to email converters</li>
-	<li>RSS Feed Validators</li>
-	<li>RSS-related plugins - Firefox</li>
-	<li>RSS-related plugins - Wordpress</li>
-	<li>RSS-related plugins - other</li>
-	<li>RSS Ping Tools</li>
-	<li>Feed directories</li>
-	<li>RSS tips &amp; hacks</li>
-	<li>Miscellaneous RSS-related tools</li>
-</ol>
+I saw this [list of 120 RSS resources ](http://mashable.com/2007/06/11/rss-toolbox/)recently in the [lifehacker](http://www.lifehack.org/articles/technology/120-rss-resources.html)... and it has the following categories...
+
+1. RSS readers - Windows
+2. RSS readers - OS X
+3. RSS readers - Linux
+4. RSS Readers - cross-platform
+5. RSS readers - web based
+6. Mobile RSS Readers
+7. RSS to email converters
+8. RSS Feed Validators
+9. RSS-related plugins - Firefox
+10. RSS-related plugins - Wordpress
+11. RSS-related plugins - other
+12. RSS Ping Tools
+13. Feed directories
+14. RSS tips & hacks
+15. Miscellaneous RSS-related tools
+
 a terrific list eh!! ;)

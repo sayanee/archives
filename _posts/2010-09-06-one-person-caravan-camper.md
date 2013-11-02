@@ -17,7 +17,6 @@ meta:
   _edit_last: '1'
   aktt_tweeted: '1'
 ---
-I want a Bufalino and drive around camping :)
+I want a Bufalino and drive around camping :) ![](/img/Bufalino-One-Person-Camper-by-Cornelius-Comanns.jpg "Bufalino-One-Person-Camper-by-Cornelius-Comanns")
 
-<img class="aligncenter size-full wp-image-1879" title="Bufalino-One-Person-Camper-by-Cornelius-Comanns" src="/img/Bufalino-One-Person-Camper-by-Cornelius-Comanns.jpg" alt="" width="500" height="345" />
-<p style="text-align: center;"><a class="vt-p" href="http://vectroave.com/2010/08/bufalino-one-person-camper/">From Bufalino: One Person Camper</a></p>
+[From Bufalino: One Person Camper](http://vectroave.com/2010/08/bufalino-one-person-camper/)

@@ -10,22 +10,21 @@ published: true
 meta: {}
 ---
 some common family relations in french...
-<ol>
-	<li>father un père</li>
-	<li>mother une mère</li>
-	<li>brother un frère</li>
-	<li>sister une soeur</li>
-	<li>son un fils</li>
-	<li>daughter une fille</li>
-	<li>husband un mari</li>
-	<li>wife une femme</li>
-	<li>grandfather un grand-père</li>
-	<li>grandmother une grand-mère</li>
-	<li>grandson un petit-fils</li>
-	<li>granddaughter une petite-fille</li>
-	<li>cousin - male un cousin</li>
-	<li>cousin - female une cousine</li>
-	<li>uncle un oncle</li>
-	<li>aunt une tante</li>
-	<li>nephew un neveu</li>
-</ol>
+
+1. father un père
+2. mother une mère
+3. brother un frère
+4. sister une soeur
+5. son un fils
+6. daughter une fille
+7. husband un mari
+8. wife une femme
+9. grandfather un grand-père
+10. grandmother une grand-mère
+11. grandson un petit-fils
+12. granddaughter une petite-fille
+13. cousin - male un cousin
+14. cousin - female une cousine
+15. uncle un oncle
+16. aunt une tante
+17. nephew un neveu

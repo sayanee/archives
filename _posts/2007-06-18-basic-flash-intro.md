@@ -9,4 +9,4 @@ type: post
 published: true
 meta: {}
 ---
-Decided to share out <a href="/files/flash/">my flash basic intro </a>which is did quite some time back. Enjoy :P
+Decided to share out [my flash basic intro ](/files/flash/)which is did quite some time back. Enjoy :P

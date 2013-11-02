@@ -11,103 +11,84 @@ type: post
 published: true
 meta: {}
 ---
-<strong>Book Title:</strong> The Complete Idiot's Guide to Hiking, Camping and the Great Outdoors
-<strong>Author:</strong>Michael Mouland
-<strong>Year written/published:</strong> 1996
-<strong>Book Source:</strong> <a href="http://www.amazon.com/Complete-Idiots-Guide-Camping-Hiking/dp/0028631862/ref=sr_1_1/105-4294929-8238850?ie=UTF8&amp;s=books&amp;qid=1183900553&amp;sr=8-1">Amazon</a>, <a href="http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+2867+3002+9466508+2+1">Library</a>
-<strong>My Comments:</strong> This is really a great detailed book on every aspect of the outdoors. Maybe from the contents page you can already have a glimpse as to how diverse this book is.
-<strong>Contents page:</strong>
-<ol>
-	<li>Preparation and Planning</li>
-	<li>Different Strokes for Different Folks</li>
-	<li>More about When and Where to Camp</li>
-	<li>Nighttime under the Stars</li>
-	<li>What you need for the slumber party</li>
-	<li>How to be a outdoor gourmet</li>
-	<li>fishing for the camper</li>
-	<li>Practicing low-impact camping</li>
-	<li>Quick lesson in map reading</li>
-	<li>compass basics</li>
-	<li>weather matters</li>
-	<li>how to identify trees and other green things</li>
-	<li>Dirt on the Hiking Boots</li>
-	<li>Tents, Tarpaulins</li>
-	<li>Dressing for success in the outdoors</li>
-	<li>Comfort gear for your Home away from Home</li>
-	<li>Trailblazing made easy</li>
-	<li>planning an outdoor vacation on the water</li>
-	<li>exploring the outdoors on 2 wheels</li>
-	<li>limbering up for the big one</li>
-	<li>things that fly, slither and go buzz in the night</li>
-	<li>critter watching</li>
-	<li>safety and first aid for idiots</li>
-	<li>basic knot tying and fire-building skills</li>
-	<li>what you need to know about travelling overseas</li>
-</ol>
-<strong>Some extracts:</strong>
+**Book Title:** The Complete Idiot's Guide to Hiking, Camping and the Great Outdoors **Author:**Michael Mouland **Year written/published:** 1996 **Book Source:** [Amazon](http://www.amazon.com/Complete-Idiots-Guide-Camping-Hiking/dp/0028631862/ref=sr_1_1/105-4294929-8238850?ie=UTF8&s=books&qid=1183900553&sr=8-1), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+2867+3002+9466508+2+1) **My Comments:** This is really a great detailed book on every aspect of the outdoors. Maybe from the contents page you can already have a glimpse as to how diverse this book is. **Contents page:**
+1. Preparation and Planning
+2. Different Strokes for Different Folks
+3. More about When and Where to Camp
+4. Nighttime under the Stars
+5. What you need for the slumber party
+6. How to be a outdoor gourmet
+7. fishing for the camper
+8. Practicing low-impact camping
+9. Quick lesson in map reading
+10. compass basics
+11. weather matters
+12. how to identify trees and other green things
+13. Dirt on the Hiking Boots
+14. Tents, Tarpaulins
+15. Dressing for success in the outdoors
+16. Comfort gear for your Home away from Home
+17. Trailblazing made easy
+18. planning an outdoor vacation on the water
+19. exploring the outdoors on 2 wheels
+20. limbering up for the big one
+21. things that fly, slither and go buzz in the night
+22. critter watching
+23. safety and first aid for idiots
+24. basic knot tying and fire-building skills
+25. what you need to know about travelling overseas
 
-some sites...
-<ul>
-	<li><a href="http://www.nps.gov/">National Park Service</a></li>
-	<li><a href="http://www.pc.gc.ca/index_e.asp">Parks Canada Agency</a></li>
-</ul>
-Checklists...
-<blockquote>
-<p align="justify"><strong>Basic:</strong> Sleeping bag, Test, Food, Water, Pocketknife, First Aid Kit, Flashlight, 50 foot nylon parachute chord, water proof matches, camp stove, clothes, insect repellent, sunscreen, topological map, compass, whistle, toilet paper</p>
-<strong>General clothing:</strong>Chomois shirt, hat, head netting, hiking boot, rainwear, running shoes, sandals, shorts, t-shirt, socks,
+**Some extracts:** some sites...
+- [National Park Service](http://www.nps.gov/)
+- [Parks Canada Agency](http://www.pc.gc.ca/index_e.asp)
 
-<strong>Personal effects:</strong>Backpack, Compass, Flashlight batteries, knife, garbage bags, sunglasses, water container
+Checklists... >  
 
-<strong>Kitchen Checklist:</strong>biodegradable dish-washing liquid, stove fuel, food, pots and pans,
+> **Basic:** Sleeping bag, Test, Food, Water, Pocketknife, First Aid Kit, Flashlight, 50 foot nylon parachute chord, water proof matches, camp stove, clothes, insect repellent, sunscreen, topological map, compass, whistle, toilet paper
 
-<strong>Personal Hygiene:</strong>comb, towlettes, soap, toilet paper, towel, washcloth</blockquote>
+**General clothing:**Chomois shirt, hat, head netting, hiking boot, rainwear, running shoes, sandals, shorts, t-shirt, socks, **Personal effects:**Backpack, Compass, Flashlight batteries, knife, garbage bags, sunglasses, water container **Kitchen Checklist:**biodegradable dish-washing liquid, stove fuel, food, pots and pans, **Personal Hygiene:**comb, towlettes, soap, toilet paper, towel, washcloth
 Portable Cottage
-<ul>
-	<li>A-Frame</li>
-	<li>Dome Tent</li>
-	<li>Hoop Tent</li>
-	<li>Bivvy</li>
-	<li>Family-Sized Tents</li>
-	<li>Groundsheet</li>
-</ul>
+- A-Frame
+- Dome Tent
+- Hoop Tent
+- Bivvy
+- Family-Sized Tents
+- Groundsheet
+
 Types of Maps...
-<ol>
-	<li>Topological Map</li>
-	<li>National Park Maps</li>
-	<li>Forest Service and BLM Maps</li>
-	<li>Hiking Club Maps</li>
-	<li>Profile Maps</li>
-</ol>
-backpacking checklist (essentials) - Day Trip...
-<blockquote>
-<p align="justify">snacks, sandwiches, water, first aid kit, toilet paper, insect repellent, topo maps, pencil, hat, self-sealing sandwiches, compass, watch, sunscreen, rain-gear, whistle, hiking boots, clothing, lighter, moleskin</p>
-</blockquote>
-backpacking checklist - overnight
-<blockquote>
-<p align="justify">tent, groundsheet, stove, fuel, cutlery, pots, pans, kettle, sleeping bag, sleeping mat, water bottles, water filter/purifier, first aid kit, toilet paper, insect repellent, topo maps, pencil, biodegradable soap, flashlight/candle/extra batteries, hat, camp shoes,sun glasses, hiking shoes, toothbrush, toothpaste, razor, shaving cream, signal mirror, rope, compass, watch, sunscreen, food, snacks, whistle, hiking boots, garbage bag, lighter, towel</p>
-</blockquote>
-bear facts... i found this really hilarious :P
-<blockquote>
-<p align="justify">The best advice when dealing with grizzly bears is to try to avoid them, and if you happen to see one, stay calm and avoid threatening them. Sometimes a bear will start charging, then veer off or stop abruptly. Bear experts recommend that you stand still until the bear stops, and then slowly back away. If you are attacked, play dead: Drop to the ground, lift your legs up to the chest and clasp your hands over the back of your neck. For black bears, you should raise your arms, join hands with a companion to appear really big, and talk to the bear in a low deep voice. "Go away, Mr Bear", usually works!!!</p>
-</blockquote>
-<p align="justify">Types of leaves to look out for...</p>
+1. Topological Map
+2. National Park Maps
+3. Forest Service and BLM Maps
+4. Hiking Club Maps
+5. Profile Maps
 
-<ul>
-	<li>Needle Leaves</li>
-	<li>Lobed</li>
-	<li>Unlobed</li>
-	<li>Compound</li>
-	<li>Broad leaf</li>
-	<li>Simple</li>
-</ul>
-<p align="justify"> Leaf shapes for flowering plants...</p>
+backpacking checklist (essentials) - Day Trip... >  
 
-<ul>
-	<li>palmate</li>
-	<li>pinnate</li>
-	<li>toothed</li>
-	<li>lobed</li>
-	<li>alternate</li>
-	<li>opposite</li>
-	<li>whorl</li>
-</ul>
+> snacks, sandwiches, water, first aid kit, toilet paper, insect repellent, topo maps, pencil, hat, self-sealing sandwiches, compass, watch, sunscreen, rain-gear, whistle, hiking boots, clothing, lighter, moleskin
+
+backpacking checklist - overnight >  
+
+> tent, groundsheet, stove, fuel, cutlery, pots, pans, kettle, sleeping bag, sleeping mat, water bottles, water filter/purifier, first aid kit, toilet paper, insect repellent, topo maps, pencil, biodegradable soap, flashlight/candle/extra batteries, hat, camp shoes,sun glasses, hiking shoes, toothbrush, toothpaste, razor, shaving cream, signal mirror, rope, compass, watch, sunscreen, food, snacks, whistle, hiking boots, garbage bag, lighter, towel
+
+bear facts... i found this really hilarious :P >  
+
+> The best advice when dealing with grizzly bears is to try to avoid them, and if you happen to see one, stay calm and avoid threatening them. Sometimes a bear will start charging, then veer off or stop abruptly. Bear experts recommend that you stand still until the bear stops, and then slowly back away. If you are attacked, play dead: Drop to the ground, lift your legs up to the chest and clasp your hands over the back of your neck. For black bears, you should raise your arms, join hands with a companion to appear really big, and talk to the bear in a low deep voice. "Go away, Mr Bear", usually works!!!
+
+Types of leaves to look out for...
+
+- Needle Leaves
+- Lobed
+- Unlobed
+- Compound
+- Broad leaf
+- Simple
+
+ Leaf shapes for flowering plants...
+
+- palmate
+- pinnate
+- toothed
+- lobed
+- alternate
+- opposite
+- whorl

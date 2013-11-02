@@ -9,11 +9,15 @@ type: post
 published: true
 meta: {}
 ---
-<p>one of my fav songs by Baloo, the bear and Mowgli... Bare Necessities with the <a href="http://www.fpx.de/fp/Disney/Lyrics/TheJungleBook.html#The%20Bare%20Necessities">full lyrics here</a></p>
-<blockquote><p>Look for the bare necessities<br />
-The simple bare necessities<br />
-Forget about your worries and your strife<br />
-I mean the bare necessities<br />
-Old Mother Nature's recipes<br />
-That brings the bare necessities of life</p></blockquote>
-<p>[youtube=http://www.youtube.com/watch?v=9ogQ0uge06o]</p>
+one of my fav songs by Baloo, the bear and Mowgli... Bare Necessities with the [full lyrics here](http://www.fpx.de/fp/Disney/Lyrics/TheJungleBook.html#The%20Bare%20Necessities)
+
+>
+
+> Look for the bare necessities  
+The simple bare necessities  
+Forget about your worries and your strife  
+I mean the bare necessities  
+Old Mother Nature's recipes  
+That brings the bare necessities of life
+
+[youtube=http://www.youtube.com/watch?v=9ogQ0uge06o]

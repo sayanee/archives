@@ -1,15 +1,6 @@
 ---
 layout: post
-title: ! '#9 Pulse of Visual Communications with Stefano Virgilli'
-categories:
-- Pulse
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
+title: '#9 Pulse of Visual Communications with Stefano Virgilli'
 ---
 This time I met up with Stefano Virgilli, director of [VOX Labs School of Visual Arts](http://lab.edu.sg) right on top of the Orchard Road for a little coffee on a Monday afternoon.
 

@@ -10,5 +10,6 @@ type: post
 published: true
 meta: {}
 ---
-<p align="left">Braille letters used by the visually handicapped to read...</p>
-<p align="center"><img src="/img/braille.gif" /></p>
+Braille letters used by the visually handicapped to read...
+
+![](/img/braille.gif)

@@ -9,12 +9,6 @@ type: post
 published: true
 meta: {}
 ---
-<strong>Name:</strong> Water-Lily Pond
-<strong>Object:</strong> Painting
-<strong>Artist:</strong> Claude Monet
-<strong>Dimension:</strong> 90 x 90 cm
-<strong>Date of creation:</strong> 1897
-<strong>Style:</strong> Impressionism
-<strong>Method:</strong> oil on Canvas
-<strong>Where to find it:</strong> The Art Museum Princeton University, Princeton, New Jersey USA
-<p align="center"><img src="/img/water_lilies_claude_monet.jpg" /></p>
+**Name:** Water-Lily Pond **Object:** Painting **Artist:** Claude Monet **Dimension:** 90 x 90 cm **Date of creation:** 1897 **Style:** Impressionism **Method:** oil on Canvas **Where to find it:** The Art Museum Princeton University, Princeton, New Jersey USA
+
+![](/img/water_lilies_claude_monet.jpg)

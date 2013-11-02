@@ -1,14 +1,6 @@
 ---
 layout: post
-title: download my new wordpress theme icecap
-categories:
-- Ideas
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+title: Download my new wordpress theme icecap
 ---
 Yay! I just tidied up my very first wordpress theme! It is called Icecap and it's a white, minimal and <a href="http://www.alistapart.com/articles/responsive-web-design/">responsive</a> theme!
 

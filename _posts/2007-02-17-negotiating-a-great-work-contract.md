@@ -9,25 +9,23 @@ type: post
 published: true
 meta: {}
 ---
-From <a href="http://soundmoneytips.com/article/25854">sound money tips</a>:
-<ol>
-	<li>Don’t Be Shy</li>
-	<li>Don’t Get Emotionally Involved</li>
-	<li>Don’t Get Sucked into the ‘Rules’ Trick</li>
-	<li>Never Be the First to Name a Figure</li>
-	<li>Ask for More than You Expect to Get</li>
-	<li>Let Them Believe the Final Decision Isn’t Yours</li>
-	<li>Don’t Act Too Interested</li>
-	<li>Be Fair</li>
-</ol>
-and from <a href="http://www.paulstips.com/brainbox/pt/home.nsf/link/10062006-My-eight-best-negotiation-tips">Paul's Tips</a>:
-<ol>
-	<li>Be willing to negotiate in the first place</li>
-	<li>Don't get emotionally involved</li>
-	<li>Don't get suckered by the "rules" trick</li>
-	<li>Never be the first person to name a figure</li>
-	<li>Ask for more than you expect to get</li>
-	<li>Let them believe the final decision doesn't rest with you</li>
-	<li>Don't act too interested</li>
-	<li>Don't leave the other person feeling as if they've been cheated</li>
-</ol>
+From [sound money tips](http://soundmoneytips.com/article/25854):
+
+1. Don’t Be Shy
+2. Don’t Get Emotionally Involved
+3. Don’t Get Sucked into the ‘Rules’ Trick
+4. Never Be the First to Name a Figure
+5. Ask for More than You Expect to Get
+6. Let Them Believe the Final Decision Isn’t Yours
+7. Don’t Act Too Interested
+8. Be Fair
+
+and from [Paul's Tips](http://www.paulstips.com/brainbox/pt/home.nsf/link/10062006-My-eight-best-negotiation-tips):
+1. Be willing to negotiate in the first place
+2. Don't get emotionally involved
+3. Don't get suckered by the "rules" trick
+4. Never be the first person to name a figure
+5. Ask for more than you expect to get
+6. Let them believe the final decision doesn't rest with you
+7. Don't act too interested
+8. Don't leave the other person feeling as if they've been cheated

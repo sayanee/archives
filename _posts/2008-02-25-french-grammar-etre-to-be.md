@@ -9,15 +9,14 @@ type: post
 published: true
 meta: {}
 ---
-verb <em>Être</em> (To Be)
-<ul>
-	<li>Je suis</li>
-	<li>Tu es</li>
-	<li>Elle est</li>
-	<li>Il est</li>
-	<li>On est</li>
-	<li>Nous sommes </li>
-	<li>Vous êtes</li>
-	<li>Elles sont</li>
-	<li>Ils sont</li>
-</ul>
+verb _Être_ (To Be)
+
+- Je suis
+- Tu es
+- Elle est
+- Il est
+- On est
+- Nous sommes 
+- Vous êtes
+- Elles sont
+- Ils sont
