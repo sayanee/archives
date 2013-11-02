@@ -1,0 +1,52 @@
+---
+layout: post
+title: Just for fun
+categories:
+- Culture and Society
+tags:
+- geeks
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+---
+<p style="text-align: justify;"><a href="http://www.craigslist.org/about/best/sfo/66795671.html">I found this</a> really funny and strangely truely...</p>
+
+<blockquote style="text-align: justify;">In the wide world of dating, there are many options. Do you go for the flashy guy with the smooth smile, or the dude in the corner typing away on his laptop? The following are reasons why I think my fellow females should pay more attention to the quiet geeks and nerds, and less attention to the flashy boys. 
+
+1.) While geeks and nerds may be awkward, they’re well-meaning 9 out of 10 times. That smooth dude with the sly grin and the spider hands? Wonder what HIS intentions are... plus, I’ve never had a geek guy not call me when he said he would. Score major points THERE. 
+
+2.) They’re useful. In this tech-savvy world, it’s great to have a b/f who can make your laptop, desktop, and just about anything else that plugs into a wall behave itself. 
+
+3.) They’re more romantic than they’re given credit for. Ok true, their idea of romance might be to make up a spiffy web-page with all the reasons why they love you, with links to pics of you and sonnets and such... but hey. It lasts longer than flowers, plus you can show your friends. 
+
+4.) Due to their neglected status, there are plenty to choose from. You like ‘em tall and slender? There are plenty of geeks/nerds who are. You like ‘em smaller with more meat on their bones? Got that too. 
+
+5.) They’ve got brains. Come on now, how can intelligence be a bad thing? 
+
+6.) Most are quite good at remembering dates. Like birthdates and such, especially if they know it’ll make you happy. Due again to their neglected status, they’re more attentive than guys who “have more options”. Plus, with all that down time without a steady girlfriend, they’ll likely have mental lists of all the things they’d love to do once they GOT a girlfriend. 
+
+7.) Sex. Yep. Sex. I’m not really familiar with this myself, but I’ve friends who’ve been intimate with geek guys and it’s raves all around. They say a virgin wrote the Kama Sutra... all that time thinking about sex, imagining sex, dreaming about sex, (they are male after all) coupled with a desire to make you happy? Use your imagination. 
+
+8.) They’re relatively low-maintenance. Most can be fueled on pizza, Twinkies and Mt Dew. No complicated dinners needed here, so if you’re not the best cook, eh. Can you order a pizza? 
+
+9.) Most frequent bars as often as slugs frequent salt mines. You won’t have to worry much about your geek guy getting his “groove” on with club hotties because, frankly, he’ll be too busy rooting around under his computer wondering where that spare cable went. You won’t have to worry about him flirting with other women because, 9 out of 10 times, he’ll zip right by them in a perfect b-line towards the nearest electronics store. I’ve seen this happen. 
+
+Me: “Eww. Victoria Secret’s Models... They’re so skinny. How is that feminine? You can see her ribs!” 
+Geek Guy: “ooooooo...” 
+Me: “Hey!” *notices he is staring lustfully towards the computer store* 
+Geek Guy: “What?” 
+Me: “Never mind...” 
+
+10.) Although he may not want to go to every outing with you, you can arrange swaps, as in, you’ll go to his Gamer Con dressed as an elf princess if he’ll take you to the ballet. Plus, if he doesn’t want to go someplace with you, you won’t have to worry much about what he’s up to. You’ll probably come home to find him asleep on his keyboard in a sea of Mt. Dew cans with code blinking from the screen. It’s ok. He’s used to this. Just toss a blanket over him and turn out the light. 
+
+11.) His friends aren’t jerks. I can’t stress this enough. You’ll more likely get “Omg! A GIRL!! Can I see?!” than “Hey hot stuff back that ass up here and let me get some grub on...” They’re awkward geeks too and will, 9 times out of 10, treat you with the utmost respect and, more than likely, a note of awe. A cute girl picked one of their clan to date? It could happen to them! Hope! Drag some of your single girlfriends over, open up a pack of Mt. Dew, crack open the DnD set and get working. Nothing impresses geek guys more than a girl who can hack-n-slash (well ok maybe if she can code... a geek can dream). 
+
+12.) They’re rarely if ever possessive. They trust you, so you can be yourself around them. You like to walk around the house in a ratty t-shirt for comfort? He won’t care. He does too! They won’t get pissy if you don’t wear make-up or don’t want to bother primping your hair. If you gain a few pounds, they won’t try their best to make you feel like crap. 
+
+13.) They’re usually very well educated. Physics majors and the like. See #5. You won’t have to listen to him blathering on about his car (ok maybe a little), he’ll have loads of other interesting things to talk about. Politics, world events, how much the chicken burgers down at the local place rock, so long as you douse them in hot sauce... 
+
+14.) You’ll almost never have to hear, “Yaw dawg whazzap!!” plop out of their mouths. Unless it’s in jest. They spell properly, use correct punctuation, and are able to tell the difference between the toilet and the floor. They almost never get “wasted”, so you won’t have to worry about coming home to find him and his friends passed out on the floor amidst a pile of beer bottles. Mt. Dew cans, perhaps... 
+<p style="text-align: justify;">15.) And the final reason why geeks and nerds make great boyfriends: They actually give a damn about you. Not how you look (though that’s a plus), not how skinny you are, not how much make-up you primp yourself up with, but they like you for you. That kind of thing lasts longer than “DaMN baby you got a fine ass!!!” Believe me.</p>
+</blockquote>

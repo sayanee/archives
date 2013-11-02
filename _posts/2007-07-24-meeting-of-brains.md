@@ -1,0 +1,20 @@
+---
+layout: post
+title: Meeting of brains
+categories:
+- People Profile
+- Science
+tags: []
+status: publish
+type: post
+published: true
+meta: {}
+---
+<p align="justify">1927 5th <a href="http://en.wikipedia.org/wiki/Solvay_Conference">Solvay Conference </a>is one of the most famous conferences where the world's most notable scientists gathered together to discuss on Quantum Mechanics. 17 out of the 29 attendees became or were Nobel Laureates.</p>
+<p align="justify">This <a href="http://en.wikipedia.org/wiki/Image:Solvay_conference_1927.jpg">picture </a>shows the meeting of the famous scientists... [<a href="http://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg">full resolution</a>]</p>
+<p align="center"><img width="490" src="/img/solvay.jpg" height="355" style="width: 490px; height: 355px" /></p>
+
+<p align="left"><strong>Seating Plan:</strong>
+Back Row: <a href="http://en.wikipedia.org/wiki/Auguste_Piccard" title="w:Auguste_Piccard" class="extiw">A. Piccard</a>, <a href="http://en.wikipedia.org/wiki/E._Henriot" title="w:E._Henriot" class="extiw">E. Henriot</a>, <a href="http://en.wikipedia.org/wiki/Paul_Ehrenfest" title="w:Paul_Ehrenfest" class="extiw">P. Ehrenfest</a>, <a href="http://en.wikipedia.org/wiki/Ed._Herzen" title="w:Ed._Herzen" class="extiw">Ed. Herzen</a>, <a href="http://en.wikipedia.org/wiki/Th%C3%A9ophile_de_Donder" title="w:Théophile_de_Donder" class="extiw">Th. De Donder</a>, <a href="http://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger" title="w:Erwin_Schrödinger" class="extiw">E. Schrödinger</a>, <a href="http://en.wikipedia.org/wiki/E._Verschaffelt" title="w:E._Verschaffelt" class="extiw">E. Verschaffelt</a>, <a href="http://en.wikipedia.org/wiki/Wolfgang_Pauli" title="w:Wolfgang_Pauli" class="extiw">W. Pauli</a>, <a href="http://en.wikipedia.org/wiki/Werner_Heisenberg" title="w:Werner_Heisenberg" class="extiw">W. Heisenberg</a>, <a href="http://en.wikipedia.org/wiki/R.H._Fowler" title="w:R.H._Fowler" class="extiw">R.H. Fowler</a>, <a href="http://en.wikipedia.org/wiki/Leon_Brillouin" title="w:Leon_Brillouin" class="extiw">L. Brillouin</a>,
+Middlw Row: <a href="http://en.wikipedia.org/wiki/Peter_Debye" title="w:Peter_Debye" class="extiw">P. Debye</a>, <a href="http://en.wikipedia.org/wiki/Martin_Knudsen" title="w:Martin_Knudsen" class="extiw">M. Knudsen</a>, <a href="http://en.wikipedia.org/wiki/William_Lawrence_Bragg" title="w:William_Lawrence_Bragg" class="extiw">W.L. Bragg</a>, <a href="http://en.wikipedia.org/wiki/Hendrik_Anthony_Kramers" title="w:Hendrik_Anthony_Kramers" class="extiw">H.A. Kramers</a>, <a href="http://en.wikipedia.org/wiki/Paul_Dirac" title="w:Paul_Dirac" class="extiw">P.A.M. Dirac</a>, <a href="http://en.wikipedia.org/wiki/Arthur_Compton" title="w:Arthur_Compton" class="extiw">A.H. Compton</a>, <a href="http://en.wikipedia.org/wiki/Louis%2C_7th_duc_de_Broglie" title="w:Louis,_7th_duc_de_Broglie" class="extiw">L. de Broglie</a>, <a href="http://en.wikipedia.org/wiki/Max_Born" title="w:Max_Born" class="extiw">M. Born</a>, <a href="http://en.wikipedia.org/wiki/Niels_Bohr" title="w:Niels_Bohr" class="extiw">N. Bohr</a>,
+Front Row: <a href="http://en.wikipedia.org/wiki/Irving_Langmuir" title="w:Irving_Langmuir" class="extiw">I. Langmuir</a>, <a href="http://en.wikipedia.org/wiki/Max_Planck" title="w:Max_Planck" class="extiw">M. Planck</a>, <a href="http://en.wikipedia.org/wiki/Marie_Curie" title="w:Marie_Curie" class="extiw">M. Curie</a>, <a href="http://en.wikipedia.org/wiki/Hendrik_Lorentz" title="w:Hendrik_Lorentz" class="extiw">H.A. Lorentz</a>, <a href="http://en.wikipedia.org/wiki/Albert_Einstein" title="w:Albert_Einstein" class="extiw">A. Einstein</a>, <a href="http://en.wikipedia.org/wiki/Paul_Langevin" title="w:Paul_Langevin" class="extiw">P. Langevin</a>, <a href="http://en.wikipedia.org/wiki/Ch._E._Guye" title="w:Ch._E._Guye" class="extiw">Ch. E. Guye</a>, <a href="http://en.wikipedia.org/wiki/C.T.R._Wilson" title="w:C.T.R._Wilson" class="extiw">C.T.R. Wilson</a>, <a href="http://en.wikipedia.org/wiki/Owen_Willans_Richardson" title="w:Owen_Willans_Richardson" class="extiw">O.W. Richardson</a>

@@ -1,0 +1,22 @@
+---
+layout: post
+title: Backpacking
+categories:
+- Life Skills
+- Time and Place
+tags: []
+status: publish
+type: post
+published: true
+meta: {}
+---
+<p align="justify">Travelling for me is ideally by backpacking. Yep! I think via backpacking i can truly see the people, culture, food and places of that country. but of course i have never done that before :p So here are a few really interesting links that i found about how to backpack, things to bring, what to take note of etc… and i’m really surprised at the wealth of info available!</p>
+
+<ul>
+	<li><a closure_hashCode_="890" target="_blank" href="http://www.the-backpacking-site.com/index.html">backpacking guide</a></li>
+	<li><a closure_hashCode_="892" target="_blank" href="http://www.backpacking.net/">backpacking.net</a></li>
+	<li><a closure_hashCode_="893" target="_blank" href="http://www.backpackinglight.com/cgi-bin/backpackinglight/index.html">backpacking light</a></li>
+	<li><a closure_hashCode_="894" target="_blank" href="http://www.thebackpacker.com/">the backpacker</a></li>
+	<li><a closure_hashCode_="895" target="_blank" href="http://gorp.away.com/gorp/activity/hiking.htm">hiking and backpacking guide</a></li>
+</ul>
+yes one day i’m really gonna venture out and immerse in backpacking!!
