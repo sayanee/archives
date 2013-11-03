@@ -1,17 +1,10 @@
 ---
 layout: post
 title: Prime Ministers of Israel
-categories:
-- People Profile
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 [Prime Minister of Israel](http://en.wikipedia.org/wiki/Prime_Minister_of_Israel) is the most powerful political person of Israel.
+
 1. David Ben-Gurion
 2. Moshe Sharett
 3. Levi Eshkol

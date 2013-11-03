@@ -1,14 +1,8 @@
 ---
 layout: post
 title: useful lists to have...
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 from [David Allen's site](http://www.davidco.com/tips_tools/tip2.html) and i found them useful...
 
 1. Account and $ numbers

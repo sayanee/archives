@@ -1,13 +1,8 @@
 ---
 layout: post
 title: abstract painting
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 This is how we can easily create an abstract painting:
 
 1. spot a sunset from the ground

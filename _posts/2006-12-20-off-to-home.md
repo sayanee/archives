@@ -1,13 +1,8 @@
 ---
 layout: post
 title: off to home!
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Jinkijakijaaaaaa!!!
 
 I’m off to another place not so far away, which i also call home! A home which was where i spent my childhood... my first home, my primary school, my first swimming lesson, my first dance class. Check out all [the other bookmarked places](http://maps.google.com/maps?q=http://bbs.keyhole.com/ubb/download.php%3FNumber%3D722822&t=k&om=1&ie=UTF8&z=14)!!

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Why this site..
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 why did i start this site??
 
 1. it's FREE

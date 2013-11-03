@@ -8,4 +8,6 @@ destination: ./_publish
 permalink: /:title
 exclude: ['sass', 'node_modules', 'Gruntfile.js', 'package.json', 'readme.md', 'js', 'automation']
 markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 url: http://blog.sayan.ee

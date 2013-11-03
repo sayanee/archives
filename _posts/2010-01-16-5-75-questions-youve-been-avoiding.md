@@ -1,16 +1,8 @@
 ---
 layout: post
 title: 5.75 Questions You've Been Avoiding
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
 ---
+
 So what are the questions?
 
 1. What's going well for you?

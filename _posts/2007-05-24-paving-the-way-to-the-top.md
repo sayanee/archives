@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Paving the way to the top
-categories:
-- Book Reviews
-- Business &amp; Finance
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 > **Book Title:** Paving the way to the top (Audio Scripts) **Author:** Adam Khoo and Stuart Tan **Year written/published:** 2005 **Summary:** This contains the audio scripts of 6 CDs:
 
 1. Success psychology, Selling and Influcence

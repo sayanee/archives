@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Metric System Prefixes
-categories:
-- Business &amp; Finance
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 to denote very small numbers or very large numbers, we use standard prefixes... 
 
 -  

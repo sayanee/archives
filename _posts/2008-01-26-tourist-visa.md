@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Tourist VISA
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Some links on visa...
 
 - [UK Visa](http://www.ukvisas.gov.uk/servlet/Front?pagename=OpenMarket/Xcelerate/ShowPage&c=Page&cid=1006977149962)

@@ -1,21 +1,9 @@
 ---
 layout: post
 title: Before you start
-categories:
-- Business &amp; Finance
-- Life Skills
-tags:
-- startup
-- venture
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  aktt_notify_twitter: 'yes'
-  aktt_tweeted: '1'
 ---
 [Questions to ask yourself](http://www.readwriteweb.com/start/2009/05/10-things-be-clear-about-before-start-company.php)...
+
 1. Is this your first venture?
 2. Are you really an entrepreneur?
 3. Does your venture involve something you understand really well?

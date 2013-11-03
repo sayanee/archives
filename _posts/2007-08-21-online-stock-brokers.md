@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Online Stock brokers
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 here's a list of some online brokers...
 
 1. [Fidelty](https://www.fidelity.com/frameless_pr_B.shtml)

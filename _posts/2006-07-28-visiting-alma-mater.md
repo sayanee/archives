@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Visiting Alma Mater
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 "Good morning Mrs Tay, Mrs Tan, Teachers and fellow Cedarians. Here are the announcements for today."
 
 As we walked across the courtyard, we all instantly remembered this. As we came across the hall, we remembered the camping night. I even remembered which hall lock didn't creak and that lock STILL didn't creak!! We remembered the conference room where we 'tortured' our juniors... hehe kidding we were nice people :P

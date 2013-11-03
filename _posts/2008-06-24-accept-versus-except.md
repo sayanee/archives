@@ -1,17 +1,8 @@
 ---
 layout: post
 title: Accept versus Except
-categories:
-- Culture and Society
-tags:
-- english
-- grammar
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Accept versus Except
 
 - Accept means "to agree to" or "to receive." E.g. We will accept (receive) your manuscript for review.

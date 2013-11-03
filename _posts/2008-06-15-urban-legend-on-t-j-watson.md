@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Urban legend on T. J. Watson
-categories:
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 [Read this story a few times ](http://www.abc.net.au/catapult/indepth/s1330199.htm)here and there...
 
 T. J. Watson, one of IBM's influential pioneer leaders had this talk with his employee (a highly efficient one) in 1915.

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Amsterdam intro
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Some links to Amsterdam, capital of Netherlands:
 
 1. city [map with walking route ](http://www.hotels-holland.com/amsterdam-info/adam-7mapcity.htm)for the city centre

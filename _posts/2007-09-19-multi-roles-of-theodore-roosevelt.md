@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Multi roles of Theodore Roosevelt
-categories:
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I saw this cartoon depicting the many roles that [Roosevelt ](http://en.wikipedia.org/wiki/Theodore_Roosevelt)had played in his lifetime... amzing isn't it!
 
 ![](/img/rooseveltroles3894750.jpg)

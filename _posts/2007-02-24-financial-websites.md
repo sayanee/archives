@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Financial Websites
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Yes, i know nothing about finances as of now, but i must explore all these sites and learn more!
 
 - [Ameritrade](http://www.tdameritrade.com/welcome1.html)

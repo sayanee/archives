@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Europe Travel Links
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 General...
 
 - [rick steves](http://www.ricksteves.com/home.htm) ( [link page](http://www.ricksteves.com/plan/links_menu.htm))

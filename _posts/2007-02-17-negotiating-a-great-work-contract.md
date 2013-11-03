@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Negotiating a great work contract
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 From [sound money tips](http://soundmoneytips.com/article/25854):
 
 1. Don’t Be Shy

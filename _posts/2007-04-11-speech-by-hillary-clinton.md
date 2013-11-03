@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Speech by Hillary CLinton
-categories:
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 The [full speech](http://americanrhetoric.com/speeches/hillaryclintonbeijingspeech.htm) for United Nations Fourth World Conference on Women Plenary Session in 1995, Beijing.
 
 Some excerpts...

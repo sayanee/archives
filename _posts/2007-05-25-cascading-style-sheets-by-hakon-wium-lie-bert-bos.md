@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Cascading Style Sheets by Hakon Wium Lie & Bert Bos
-categories:
-- Book Reviews
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Cascading Style Sheets - Designing for the web **Authors:** [Hakon Wium Lie](http://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie) & [Bert Bos ](http://en.wikipedia.org/wiki/Bert_Bos)**About the Authors:** They were the creators of CSS **Year written/published:**1997 **My Comment:** Reading a book written by the very creators of CSS was extremely useful. This is my first book for learning CSS systematically. **Contents page:**
 
 1. Web and HTML

@@ -1,15 +1,8 @@
 ---
 layout: post
 title: How the Wall Street Works by David Scott
-categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** How the Wall Street Works **Author:** David L. Scott **Year written/published:** 1999 **Book Source:** [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+10627+3002+9357220+4+3), [Amazon](http://www.amazon.com/How-Wall-Street-Works-2nd/dp/0071341129/ref=sr_1_1/002-7792776-8528010?ie=UTF8&s=books&qid=1186674403&sr=8-1) **My Comments:** This book's format consist on quesiton and answers making it really easy to read and understand in one short paragraph. **Contents page:**
 1. What and where is Wall Street
 2. What is Stock?

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Asset Management Companies
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 some examples includes...
 
 - [Aberdeen Asset Manageemnt](http://www.aberdeen-asset.com/)

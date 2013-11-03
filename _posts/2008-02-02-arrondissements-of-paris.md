@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Arrondissements of Paris
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 the city of Paris is sub-divided into [20 arrondissements](http://en.wikipedia.org/wiki/Arrondissement_of_Paris) or municipal sub0divisions according to [this map](http://en.wikipedia.org/wiki/Image:Par_Arr.jpg)...
 
 ![](/img/paris_arrondissements.jpg)

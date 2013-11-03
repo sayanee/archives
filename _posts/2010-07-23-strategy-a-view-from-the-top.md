@@ -2,21 +2,17 @@
 layout: post
 title: Strategy - A View from the Top
 categories:
-- Book Reviews
-- Business &amp; Finance
-- Life Skills
-tags:
-- company
-- strategy
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
+- Books
 ---
-**Book Title: **Strategy: A View From The Top (An Executive Perspective) ** Author: **John A. Pearce, Cornelis A. De Kluyver ** Year written/published: **2006 ** Book Source: ** [Amazon](http://www.amazon.com/Strategy-View-Top-Executive-Perspective/dp/0131861360) **My Comments: **I would recommend anybody who wants an introduction to strategy to read this book. I especially loved the thorough explanation of different frameworks of strategy. **Some extracts:** Kocourek, Burger, Birchard propose 12 questions boards should ask in the course of discharging their oversigh responsibilities:
+- **Book Title**: Strategy: A View From The Top (An Executive Perspective)
+- **Author**: John A. Pearce, Cornelis A. De Kluyver
+- **Year written/published**: 2006
+- **Book Source**: [Amazon](http://www.amazon.com/Strategy-View-Top-Executive-Perspective/dp/0131861360)
+- **My Comments**: I would recommend anybody who wants an introduction to strategy to read this book. I especially loved the thorough explanation of different frameworks of strategy.
+- **Some extracts**:
+
+Kocourek, Burger, Birchard propose 12 questions boards should ask in the course of discharging their oversigh responsibilities:
+
 1. Does the management have a comprehensive strategy and operating plan for the company to realize its performance potential? (Strategic direction)
 2. Are the necessary human, financial, physical and other supporting resources provided and properly allocated to achieve success? (Resource allocation)
 3. Does the CEO provide the leadership required by the company and does the organisation have a succession plan for this position? (Management)
@@ -24,11 +20,13 @@ meta:
 5. ... ...
 
 Methods to speed up ( as a competitive advantage)
+
 1. Streamlining operation
 2. upgrading technology
 3. forming partnerships
 
 Fundamentally, 6 mandates drive innovation at 3M:
+
 1. Support innovation from R&D to customer sales and support
 2. Understand the future by trying to anticipate and analyse future trends
 3. Establish stretch goals

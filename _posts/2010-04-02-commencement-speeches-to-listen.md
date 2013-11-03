@@ -1,17 +1,8 @@
 ---
 layout: post
 title: Commencement speeches to listen
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
 ---
+
 Previously I posted the following amazing commencement speeches:
 
 1. [Steve Jobs at Stanford 2006](/steve-jobs/)
@@ -19,4 +10,12 @@ Previously I posted the following amazing commencement speeches:
 3. [Ellen at Tulane 2009](/commencement-speech-from-ellen/)
 4. [JK Rowling at Harvard](/jk-rowlings-harvard-commencement-speech/)
 
-Here are 2 more...  Oprah at Stanford 2008:    Obama at Arizona State University
+Here are 2 more...
+
+Oprah at Stanford 2008:
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/Bpd3raj8xww" frameborder="0" allowfullscreen></iframe>
+
+Obama at Arizona State University
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/Qbel5MhtDq4" frameborder="0" allowfullscreen></iframe>

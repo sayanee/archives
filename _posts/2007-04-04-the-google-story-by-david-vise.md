@@ -1,16 +1,8 @@
 ---
 layout: post
 title: The Google Story by David Vise
-categories:
-- Book Reviews
-- Business &amp; Finance
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Just finished this book... [check out it's website](http://thegooglestory.com/)! 
 
 Google was born from the word [Googol](http://en.wikipedia.org/wiki/Googol) - a very large number. Google was born in in 1998 by a couple of Stanford university PhD students [Sergey Brin ](http://en.wikipedia.org/wiki/Sergey_Brin)and [Larry Page ](http://en.wikipedia.org/wiki/Larry_Page)and today the word Google has become a verb to mean internet search.

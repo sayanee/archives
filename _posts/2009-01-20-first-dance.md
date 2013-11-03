@@ -1,14 +1,8 @@
 ---
 layout: post
 title: first dance
-categories:
-- People Profile
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Barack and Michelle... congrats!
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/T-pzlZPRvx8" frameborder="0" allowfullscreen></iframe>

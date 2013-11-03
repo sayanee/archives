@@ -2,14 +2,9 @@
 layout: post
 title: Trump 101 by Donald Trump
 categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:** Trump 101 - the way to success **Author:** Donald Trump **Year written/published:** 2007 **Book Source:** [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+13647+3002+12827366+2+8) **Some extracts:** Trump 101
 - Don’t waste your life on work you don’t love
 - Set the bar high - make people ooh and aah

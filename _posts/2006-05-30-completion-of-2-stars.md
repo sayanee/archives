@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Completion of 2 stars
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 ![](/img/ts.jpg)
 
 I really wish I could show you all more... the actual pictures amidst the sky, the sea, the choppy waves and the sun.

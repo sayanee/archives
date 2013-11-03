@@ -1,14 +1,8 @@
 ---
 layout: post
 title: common french verbs
-categories:
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 they are....
 
 1. ask demander 

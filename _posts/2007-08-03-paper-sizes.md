@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Paper Sizes
-categories:
-- Business &amp; Finance
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Some common paper sizes that we hear today... in mm.
 
 - **A0** 841 × 1189

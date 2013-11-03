@@ -2,19 +2,16 @@
 layout: post
 title: Nice Girls don't get the corner Office
 categories:
-- Book Reviews
-- Business &amp; Finance
-- Life Skills
-tags:
-- career
-- women
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+- Books
 ---
-**Book Title**: Nice Girls don't get the corner Office - 101 unconscious mistakes women make that sabotage their careers **Author**: Lois P. Frankel **Year written/published**: 2004 **Book Source**: [Google Books](http://books.google.com/books?id=uTtWHAAACAAJ&dq=Nice+Girls+don't+get+the+corner+Office), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?resultsScreen+15277+1+3+1) **Some extracts**: what's a girl to do?
+
+- **Book Title**: Nice Girls don't get the corner Office - 101 unconscious mistakes women make that sabotage their careers
+- **Author**: Lois P. Frankel
+- **Year written/published**: 2004
+- **Some extracts**:
+
+what's a girl to do?
+
 - give yourself permission to move from girlhood to womanhood
 - visualise yourself as you want to be
 - talk back to the fearful voice inside your head
@@ -25,6 +22,7 @@ meta:
 - don't aim for perfection
 
 Some mistakes: How you play the game
+
 - working hard
 - being naive
 - waiting to be given what you want
@@ -42,7 +40,7 @@ Some mistakes about how you act...
 some mistakes in how you think...
 
 - putting work ahead of your personal life
-- prematurely abondoning your career goals - Success breeds success. Eleanor Roosevelt said, You game courage and confidence from doing the things you think you cannot do." The problem encountered by many women is that they often allow others to sidetrack them form their early dreams and career goals.
+- prematurely abondoning your career goals - Success breeds success. Eleanor Roosevelt said, "You game courage and confidence from doing the things you think you cannot do." The problem encountered by many women is that they often allow others to sidetrack them form their early dreams and career goals.
 - ignoring the importance of network relationships: your team leader's colleagues, senior management, your team leader, clients/customers, vendors, your staff
 - striving for perfection
 
@@ -68,4 +66,3 @@ mistakes on how you look...
 - sitting on your foot: never sit with your foot tucked beneath you
 - grooming in public
 - sitting at a meeting with hands underneath the table
-

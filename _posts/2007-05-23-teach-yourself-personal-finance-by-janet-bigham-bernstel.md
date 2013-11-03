@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Teach yourself Personal Finance by Janet Bigham Bernstel
-categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** MacMillan Teach yourself Personal Finance in 24 hours **Authors:** Janet Bigham Bernstel and Lea Saslav **Year written/published:** 2000 **My Comment:** Great Book **Contents page:**
 1. Getting up close and Personal
 2. Investment methods

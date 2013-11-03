@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Marseille (France) intro
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 some general links...
 
 1. [wiki](http://en.wikipedia.org/wiki/Marseille)
@@ -18,6 +12,7 @@ some general links...
 5. [things to do ](http://www.10best.com/Marseille/index.html)in marseille
 
 Things to see..
+
 1. le Vieux Port (old harbour)
 2. Notre Dame de la Garde
 3. Musée des Docks romains
@@ -32,6 +27,7 @@ Things to see..
 12. Noailles
 
 Getting around in Marseille
+
 1. Main rail station - [St. Charles](http://bonjourlafrance.net/france-trains/stations/marseille-saint-charles-tgv-train-station.htm)
 2. [tourist centre](http://www.marseille-tourisme.com/en/about-us/location-and-opening-hours/) in marseille vieux port
 3. map of [Marseille Metro](http://en.wikipedia.org/wiki/Image:Metro_Marseille.svg)

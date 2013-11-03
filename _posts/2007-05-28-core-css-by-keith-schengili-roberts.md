@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Core CSS by keith Schengili-Roberts
-categories:
-- Book Reviews
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Core CSS Cascading Style Sheets **Author:**Keith Schengili-Roberts **Year written/published:** 2004 My Comment: This is an advanced book on CSS and much of the syntax here was something i have never seen before. It was a great book nevertheless... good to pick it up after a basic CSS book. **Contents page:**
 1. Birth of CSS
 2. XHTML and its relationship to CSS

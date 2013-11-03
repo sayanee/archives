@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Web hosting
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Some web hosting names... because i'm looking for one :) and i'm learning about the features they all provide...
 
 1. [Blue Host](http://www.bluehost.com/)

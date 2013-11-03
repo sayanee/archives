@@ -2,14 +2,9 @@
 layout: post
 title: 8 steps to 7 figures by Charles Carlson
 categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:** Eight Steps to Seven Figures - The investment strategies of everyday millionaires and how you can become wealthy too **Author:** Charles Carlson **Year written/published:** 2000 **Book Source:** [Google Books](http://books.google.com/books?id=lEMLAAAACAAJ&dq=eight+steps+to+seven+figures), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+13647+3002+9679972+2+15) **Some extracts:**  8 steps are:
 1. Start investing – NOW
 2. Establish a goal – it doesn’t matter what it is as long as it matters to you

@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Hipster PDA
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Ever wondered if there's a way to do GTD without notebooks and digital equipments? Well, there's hipster PDA!
 
 - [introducing ](http://www.43folders.com/2004/09/03/introducing-the-hipster-pda)

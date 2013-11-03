@@ -1,19 +1,10 @@
 ---
 layout: post
 title: Blend Modes
-categories:
-- Music and Arts
-tags:
-- gimp
-- imaging
-- photoshop
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 [Blend modes](http://en.wikipedia.org/wiki/Blend_modes) in digital image editing are used to determine how two Layers are blended into each other.
+
 1. Normal blend mode
 2. Dissolve
 3. Multiply

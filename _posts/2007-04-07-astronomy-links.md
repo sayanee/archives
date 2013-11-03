@@ -1,19 +1,8 @@
 ---
 layout: post
 title: Astronomy Links
-categories:
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  enclosure: ! 'http://128.102.32.13/impact/images/mm_gallery/peekskill_mpg.mpeg
-
-    996315
-
-    video/mpeg'
 ---
+
 studying for astronomy test next week and so decided to compile all the interesting links that my lecturer has put down in the notes. And here are some of my fav :D
 
 - animation of a [comet's passage ](http://www.classzone.com/books/earth_science/terc/content/visualizations/es2706/es2706page01.cfm?chapter_no=visualization)through solar system

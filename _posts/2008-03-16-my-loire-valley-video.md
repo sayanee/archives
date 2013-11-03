@@ -2,13 +2,9 @@
 layout: post
 title: My Loire Valley video
 categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Musing
 ---
+
 Loire Valley in Central France is extremely beautiful... i had the chance to see...
 
 1. Tours
@@ -18,3 +14,5 @@ Loire Valley in Central France is extremely beautiful... i had the chance to see
 5. Leonardo da Vinci's Castle and Park
 
 and here's a video i took...
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/k83AbsOcrCQ" frameborder="0" allowfullscreen></iframe>

@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Commencement speech from Ellen
-categories:
-- Life Skills
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
 ---
+
 Funny!! and it knocks some sense into you!
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/0JccudODwwY" frameborder="0" allowfullscreen></iframe>

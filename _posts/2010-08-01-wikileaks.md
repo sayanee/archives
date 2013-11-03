@@ -1,17 +1,6 @@
 ---
 layout: post
 title: Wikileaks
-categories:
-- Culture and Society
-tags:
-- open
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
 ---
 A new era on thinking and looking at confidential data and documents? Check out [wikileaks](http://www.wikileaks.org/wiki/Main_Page) and its founder [Julian Assange](http://en.wikipedia.org/wiki/Julian_Assange). Taken from [wikileaks about](http://www.wikileaks.org/wiki/WikiLeaks:About):
 

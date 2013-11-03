@@ -2,14 +2,9 @@
 layout: post
 title: Beauty secrets by Diane Irons
 categories:
-- Book Reviews
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:** The World's Best Kept beauty Secrets - What really works in Beauty, Diet and Fashion **Author:** Diane Irons **Year written/published:** 2005 **Book Source:** [Google Books](http://books.google.com/books?id=kWYiYpOpKhIC&q=beauty+secrets+diane+irons&dq=beauty+secrets+diane+irons&pgis=1), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+16046+3002+12544495+1+0) **My Comments:** I was seriously surprised by how the author mentioned many home-made remedies... i never knew :P **Some extracts:** Cleansing…
 1. Pineapple Juice
 2. Lemon Juice

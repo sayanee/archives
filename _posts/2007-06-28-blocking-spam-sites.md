@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Blocking spam sites
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Found another way of blocking spam sites / pop-up ads without using any pop-up blocking/heavy anti-virus softwares. Here's how...
 
 1. In Windows, go to the directory... C:\WINDOWS\system32\drivers\etc

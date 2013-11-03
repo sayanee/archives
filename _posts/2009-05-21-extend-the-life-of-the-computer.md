@@ -1,13 +1,8 @@
 ---
 layout: post
 title: extend the life of the computer
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 some neat tips from the Howcast:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/-IzYvJo-TzY" frameborder="0" allowfullscreen></iframe>

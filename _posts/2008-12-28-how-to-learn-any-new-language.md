@@ -1,15 +1,8 @@
 ---
 layout: post
 title: How to learn any new language
-categories:
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Any new language - is there a specific set of instructions that one can follow to start off learning a totally new language?
 
 - [wikiHow ](http://www.wikihow.com/Learn-Any-Language)

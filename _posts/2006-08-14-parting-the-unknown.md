@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Parting the Unknown
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 [youtube=watch?v=sHXwMjd\_pF8]
 
 I like this song with [it's lyrics](http://www.azlyrics.com/lyrics/teddygeiger/foryouiwillconfidence.html "For You I Will (Confidence) - Teddy Geiger") and all. And it means something to me. I was thinking about leaving school in about a years' time and the many people that have crossed my path as i have walked along and the corners of this pretty huge campus. The unfeeling buildings of [my primary school](/2005/11/17/walking-into-those-good-ol-days/) or [my secondary school](/2006/07/28/visiting-alma-mater/) did leave an impression on me. Now this university is pretty big... can't feel for every corner here and there. But i'll definitely this remember this corridor...

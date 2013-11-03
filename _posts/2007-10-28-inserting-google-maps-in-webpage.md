@@ -1,15 +1,8 @@
 ---
 layout: post
 title: inserting Google Maps in webpage (easy way)
-categories:
-- Culture and Society
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 here's how to embed it in a really easy manner...
 
 1. Create your own \*. [kml](http://code.google.com/apis/kml/documentation/)/ \*. [kmz](http://en.wikipedia.org/wiki/Keyhole_Markup_Language) Google map file in your desktop Google Earth

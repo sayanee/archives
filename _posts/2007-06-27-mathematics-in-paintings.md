@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Mathematics in Paintings
-categories:
-- Music and Arts
-- Science
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I'm reading a book on [Golden Ratio](http://en.wikipedia.org/wiki/Golden_ratio)... that's a blog for another day. But as i was reading i came across 2 very intriguing paintings and the mathematics behind them.
 
 First one is _ [Melancholia I](http://en.wikipedia.org/wiki/Melancholia_I)_ by [Albrecht Durer](http://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer). If we observe carefully, we can see the elements of maths embedded in this...

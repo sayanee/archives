@@ -1,15 +1,8 @@
 ---
 layout: post
 title: A girl needs cash by Joan Perry
-categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** A Girl Needs Cash - Banish the white knight myth and Take Charge of your Financial Life **Author:**Joan Perry with Dolores Barclays **Year written/published:** 1997 **Some extracts:** 3 guideposts to financial successes:
 1. spend less than you earn
 2. invest the difference

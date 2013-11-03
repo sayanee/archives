@@ -1,15 +1,8 @@
 ---
 layout: post
 title: my own annual appraisal
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 I thought [this article was really good ](http://chrisguillebeau.com/3x5/how-to-conduct-your-own-annual-review/)in explaining the way we can review the past year and the year ahead of us. I especailly love the idea of keeping a list of Metrics ...
 
 > On a separate tab of the spreadsheet, I keep up with a few general metrics from year to year, including these:

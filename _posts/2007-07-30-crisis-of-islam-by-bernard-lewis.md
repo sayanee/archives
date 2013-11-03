@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Crisis of Islam by Bernard Lewis
-categories:
-- Culture and Society
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:**The Crisis of Islam: Holy War and Unholy Terror **Author:** Bernard Lewis **Year written/published:** 2003 **Book Source:** Amazon **Summary:** A history from the beginning of Islam during 600A.D till the present day.  And of course an analysis of several historical situations. **My Comments:**This is my first book on Islam and i got to know a lot about it's rich hostiry and the beliefs. This book definitely made me think a lot about various concepts in politics as well as religion. **Contents page:**
 1. Defining Islam
 2. The House of War

@@ -1,18 +1,6 @@
 ---
 layout: post
 title: Lessons from Singularity Summer
-categories:
-- Life Skills
-tags:
-- laws
-- life
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  aktt_notify_twitter: 'yes'
-  aktt_tweeted: '1'
 ---
 A [very thoughtful list from Alison](http://networkedblogs.com/7yQ9u):
 

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Some useful MATLAB codes/functions
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Everytime i'll forget them even though i use it a lot of time... here are some frequent ones...to remind if there's a next time :P
 
 - Access matrix elements (it starts from 1, unlike in C which is 0) A(row\_no, col\_no);

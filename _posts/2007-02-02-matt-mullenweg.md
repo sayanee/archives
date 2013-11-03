@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Matt Mullenweg
-categories:
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 he's the founder of [Automattic](http://automattic.com/). He has coded [Akismet ](http://akismet.com/)to handle spams. He's only 23!!!!!!!!! and i love the way he runs his company.. no hierarchy, no boss... it's a company to watch out in the Future! Check out [his personal website](http://photomatt.net/).
 
 And here are his 12 rules:

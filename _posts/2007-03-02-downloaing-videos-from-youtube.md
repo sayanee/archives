@@ -1,14 +1,8 @@
 ---
 layout: post
 title: extracting videos from internet
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Woohooo!!! i finally know how to do this.. This works for Youtube and also Google Videos. yeah finally here's how...
 
 1. Get the [Firefox browser](http://www.get-browsers.com/mozilla-firefox/)

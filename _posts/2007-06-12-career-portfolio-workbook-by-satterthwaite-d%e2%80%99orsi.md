@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Career Portfolio Workbook by Satterthwaite & D’orsi
-categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** The Career Portfolio Workbook **Author: **Frank Satterthwaite & Gary D’orsi **Year written/published:** 2003 **Book Source:** [Amazon.com ](http://www.amazon.ca/Career-Portfolio-Workbook-Frank-Satterthwaite/dp/007140855X)**My Comments:** A great book on a great idea! **Contents page:**
 
 1. What is a career portfolio?

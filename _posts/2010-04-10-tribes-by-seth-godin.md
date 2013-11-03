@@ -2,19 +2,33 @@
 layout: post
 title: Tribes by Seth Godin
 categories:
-- Book Reviews
-- Business &amp; Finance
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
+- Books
 ---
-**Book Title:** Tribes ** Author:** Seth Godin ** Year written/published:** 2008 ** Summary: **How to lead and create a movement ** Book Source:** Google Books, ** Some extracts:**  Inciting a movement: > .... There's a difference between telling people what to do and inciting a movement. The movement happens when people talk to one another, when ideas spread within the community, and most of all, when peers support leads people to do what they always knew was the right thing.
-improving a tribe: > 2 things to turn a group of people into a tribe: - a shared interest - a way to communicate  a leader can help increase the effectiveness of the tribe and its member by: - transforming the shared interest into a passionate goal and desire for change - providing tools to allow members to tighten their communications - leveraging the tribe to allow it to grow and gain new members
-the factory model... > the second reason we have factories has nothing to do with efficiency and a lot to do with human resource. Part of us wants stability. We want the absence of responsibility that a factory job can give us. The idea of "I'm doing what you told me to" is very compelling, especially if the alternatives is foraging for food or begging on the streets.
-The easiest thing.. > The easiest thing is to react  The second easiest thing is to respond.  The hardest thing is to initiate.
+
+- **Book Title**: Tribes
+- **Author**: Seth Godin
+- **Year written/published**: 2008
+- **Summary**: How to lead and create a movement
+- **Some extracts**:
+
+Inciting a movement:
+
+> There's a difference between telling people what to do and inciting a movement. The movement happens when people talk to one another, when ideas spread within the community, and most of all, when peers support leads people to do what they always knew was the right thing.
+
+improving a tribe:
+
+> 2 things to turn a group of people into a tribe: a shared interest and a way to communicate
+
+a leader can help increase the effectiveness of the tribe and its member by:
+
+- transforming the shared interest into a passionate goal and desire for change
+- providing tools to allow members to tighten their communications
+- leveraging the tribe to allow it to grow and gain new members
+
+the factory model...
+
+> the second reason we have factories has nothing to do with efficiency and a lot to do with human resource. Part of us wants stability. We want the absence of responsibility that a factory job can give us. The idea of "I'm doing what you told me to" is very compelling, especially if the alternatives is foraging for food or begging on the streets.
+
+The easiest thing..
+
+> The easiest thing is to react. The second easiest thing is to respond. The hardest thing is to initiate.

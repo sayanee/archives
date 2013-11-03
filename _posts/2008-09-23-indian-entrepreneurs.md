@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Indian entrepreneurs
-categories:
-- Business &amp; Finance
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Some of the famours [Indian entrepreneurs ](http://en.wikipedia.org/wiki/List_of_Indian_entrepreneurs)of the 21st Century...
 
 1. [Ratan Tata](http://en.wikipedia.org/wiki/Ratan_Tata) of [Tata Group](http://www.tata.com/)

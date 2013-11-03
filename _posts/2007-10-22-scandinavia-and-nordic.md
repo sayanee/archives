@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Scandinavia and Nordic
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 [Scandinavia](http://en.wikipedia.org/wiki/Scandinavia) is a region in Northern Europe which is centred around the Scandinavian Peninsula and it usually refers to the 3 modern countries of...
 1. [Denmark](http://en.wikipedia.org/wiki/History_of_Denmark "History of Denmark")
 2. [Norway](http://en.wikipedia.org/wiki/History_of_Norway "History of Norway")

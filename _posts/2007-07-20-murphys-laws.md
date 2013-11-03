@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Murphy's Laws
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 this is funny... [Murphy's Laws](http://en.wikipedia.org/wiki/Murphy's_law)...
 
 1. If anything can go wrong, it will.

@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Imperial Units
-categories:
-- Culture and Society
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 for mass:
 
 - 16 ounce (oz) = 1 pound
@@ -18,6 +10,7 @@ for mass:
 - ton (t) = 2240 pounds
 
 for length:
+
 - inch =1000 thou
 - foot =12 inch
 - yard =3 foot

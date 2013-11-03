@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Brief History of Time by Stephen Hawking
-categories:
-- Book Reviews
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:**A Brief History ofTime **Author:** [Stephen Hawking ](http://en.wikipedia.org/wiki/Stephen_Hawking)**Year written/published:** 1988 **Book Source:** [Amazon](http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168/ref=pd_bbs_2/002-0774290-2058425?ie=UTF8&s=books&qid=1184992869&sr=8-2), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+10345+3002+9093525+8+0) **My Comments:**I have read this book before... before i started my undergrad studies. And reading it now once more gave me an even greater pleasure because i could understand the concepts much better. Hawkings is definitely a great writer - especially in the way he can mix God, Physics and the unknown. A best seller book of all times, it's definitely a must read to get a perspective to our existence and our place in this universe. One of my favourite books of all times :D **Contents page:**
 
 1. Our Picture of the Universe

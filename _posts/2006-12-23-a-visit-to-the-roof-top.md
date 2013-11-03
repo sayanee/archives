@@ -1,13 +1,8 @@
 ---
 layout: post
 title: A visit to the roof top
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I cannot believe that i would be able to show you all [the roof top that i was talking about ](/2006/09/18/something-about-roof-tops/)so fast. I went back to my childhood neighbourhood yesterday. [My house](http://flickr.com/photos/sweska/171807118/) isn't there anymore. It has already been demolished and replaced with a block of flat. But i really wanted to go to the top of the flat building to feel the space once again... the ironic space amidst the beautiful clutter!
 
 Thankfully, the people in the neighbourhood recognised my dad as the _borobabu_ of the old family that once used to reside in that neighbourhood. And immediately one of them took us up on the roof top.

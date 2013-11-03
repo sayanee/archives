@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Discover your Genius by Michael Gelb
-categories:
-- Book Reviews
-- Life Skills
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Discover your Genius: How to Think like History's 10 most Revolutionary Minds **Author:**Michael J. Gelb **Year written/published:** 2003 **Book Source:** [Amazon](http://www.amazon.com/Discover-Your-Genius-Historys-Revolutionary/dp/0060937904/ref=sr_1_2/002-0774290-2058425?ie=UTF8&s=books&qid=1185026996&sr=8-2), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+2103+3002+11797039+1+0) **Summary:**Based on 10 most revolutionary historical figures, Gelb tells us the patterns about the way they led their life and thought about their dreams and desires. **My Comments:** It's a brilliant book full of little pondering exercises and examples from these historical men and women. **Contents page:**
 1. Plato: Deepening your love of Wisdom
 2. Brunelleschi: Expanding your perspective

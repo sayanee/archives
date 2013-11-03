@@ -1,14 +1,8 @@
 ---
 layout: post
 title: French Vocabulaire - Occupations
-categories:
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 some common ones that i found in the list here...
 
 1. lawyer avocat

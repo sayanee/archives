@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Apple Inc. Board members
-categories:
-- Business &amp; Finance
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 An interesting line up of talent within the [board members of Apple](http://www.apple.com/pr/bios/bod.html):
 
 - Bill Campbell - Chairman and former CEO, Intuit Corp.

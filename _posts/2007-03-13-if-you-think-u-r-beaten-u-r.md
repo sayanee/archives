@@ -1,15 +1,8 @@
 ---
 layout: post
 title: If you think u r beaten, u r…
-categories:
-- Life Skills
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 another poem about CAN! I love the energy felt in this poem!
 
 >

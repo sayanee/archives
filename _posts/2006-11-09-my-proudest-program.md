@@ -1,13 +1,8 @@
 ---
 layout: post
 title: My proudest program
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Yipppeeee!!! I'm finally really really done with my [Reed-Solomon ](http://www.4i2i.com/reed_solomon_codes.htm)encoding and decoding algorithm. Till today, this is the most challenging conceptual programming I have ever done and I believe that anything to do with [Information Theory ](http://en.wikipedia.org/wiki/Information_theory)is indeed challenging. It took up a lot of my brain cells, but at the end I’m really proud of doing 99% of it all on my own and 1% credit to jazz for the debugging. So what does it exactly do??
 
 I hope I explain it well for all of you, especially my non-engineering friends. Let's put it in a little story about how NASA tries to send a beautiful Saturn Ring picture from the space ship to the earth. In a simple story... ...

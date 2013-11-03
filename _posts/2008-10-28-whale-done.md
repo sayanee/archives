@@ -2,16 +2,15 @@
 layout: post
 title: Whale Done!
 categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+- Books
 ---
-**Book Title**: Whale Done! The Power of Positive Relationships ** Author**: Ken Blanchard, Thad Lacinak, Chuck Tompkins, Jim Ballard ** Year written/published**: 2002 ** Book Source**: [Google Books](http://books.google.com/books?id=ZkUIAAAACAAJ&dq=Whale+Done!+The+Power+of+Positive+Relationships), [Library](http://catalogue.nlb.gov.sg/cgi-bin/cw_cgi?resultsScreen+6804+1+4+0) ** Summary**: Making positive relationships with people around us with lessons learnt from the whales! ** Some extracts**:
+
+- **Book Title**: Whale Done! The Power of Positive Relationships
+- **Author**: Ken Blanchard, Thad Lacinak, Chuck Tompkins, Jim Ballard
+- **Year written/published**: 2002
+- **Summary**: Making positive relationships with people around us with lessons learnt from the whales!
+- **Some extracts**:
+
 - accentuate the positives
 - build trust
 - when mistakes occur, redirect the energy

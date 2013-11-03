@@ -1,19 +1,8 @@
 ---
 layout: post
 title: 8 Books to read
-categories:
-- Ideas
-tags:
-- books
-- read
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
 ---
+
 While travelling, I have also collected 8 names of books to read so far. These books range from fictions to business & financial strategies to history... Nothing beats having a little list of things to read soon. I hope to collect more along in my journeys!
 
 1. [Pyramid Principle](http://books.google.com/books?id=VseP7-7hCNYC&printsec=frontcover&dq=pyramid+principle&hl=en&ei=xHEeTMSDLMyKOIDT9eUL&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCsQ6AEwAA#v=onepage&q&f=false)

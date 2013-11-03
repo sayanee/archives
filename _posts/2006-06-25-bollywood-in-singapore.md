@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Bollywood in Singapore
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Yipppeeee!!!!! Just came back from a fabulous date – a date with mom and dad! And it was fantastic coz I was out of home for the first time in 10 days!! Dunno when was the last time I was so sick and well we watched a Bollywood movie so near our house, in J8!
 
 We watched **Krrish** It was fantastic. And you should also watch it because...

@@ -2,16 +2,17 @@
 layout: post
 title: Effective Project Management by Clements & Gido
 categories:
-- Book Reviews
-- Business &amp; Finance
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
-**Book Title:** Effective Project Management **Author:** James P. Clements & Jack Gido **Year written/published:** 2006 **Book Source:** [Google Books](http://books.google.com/books?id=irsiGQAACAAJ&dq=Effective+Project+Management+Clements), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+27454+3002+12782453+1+1) **Summary:** Project Management theories and tools **My Comments:** This book is a textbook... typically for business students. But i needed a structured book like this to get an overview of what is Project management **Contents page:**
+
+- **Book Title:** Effective Project Management
+- **Author:** James P. Clements & Jack Gido
+- **Year written/published:** 2006
+- **Book Source:** [Google Books](http://books.google.com/- books?id=irsiGQAACAAJ&dq=Effective+Project+Management+Clements), [Library](http://vistaweb.nlb.gov.sg- /cgi-bin/cw_cgi?fullRecord+27454+3002+12782453+1+1)
+- **Summary:** Project Management theories and tools
+- **My Comments:** This book is a textbook... typically for business students. But i needed a - structured book like this to get an overview of what is Project management
+- **Contents page:**
+
 1. Project Management Concepts
 2. Needs Identification
 3. Proposed Solutions
@@ -19,7 +20,7 @@ meta: {}
 5. Planning
 6. Scheduling
 7. Schedule Control
-8. Resrouce Consideration
+8. Resource Consideration
 9. Cost Planning and Performance
 10. Project Manager
 11. Project Team
@@ -27,6 +28,7 @@ meta: {}
 13. Types of Project Organisation
 
 **Some extracts:** Project Management Process...
+
 1. Clearly define the project objective
 2. Divide and sub-divide the project scope into major pieces
 3. Define the activities for each work
@@ -35,11 +37,13 @@ meta: {}
 6. Make a cost estimate for each acitivity
 
 Project Selection
-1. Develop a set of criteris against which the opportunity will be evaluated
+
+1. Develop a set of criteria against which the opportunity will be evaluated
 2. List assumptions and information for each opportunity
 3. Evaluate each opportunity against the criteria
 
 Guidelines for drafting a formal request for proposal external contractors
+
 1. An RFP (request for proposal) must provide a statement of work
 2. an RFP must include the customer requirements, which define specifications and attributes
 3. The RFP should state what deliverables the customer expects the contractor or project team to provide
@@ -52,11 +56,13 @@ Guidelines for drafting a formal request for proposal external contractors
 10. an RFP may include the evaluation criteria
 
 Proposal contents...
+
 1. Technical
 2. Management
 3. Cost
 
 management section...
+
 1. Description on work tasks
 2. Deliverables
 3. Project Schedule
@@ -65,6 +71,7 @@ management section...
 6. Equipment and facilities
 
 Cost Section
+
 1. Labour
 2. Materials
 3. Subcontractors and consultants
@@ -77,6 +84,7 @@ Cost Section
 10. Fee or profit
 
 Pricing Consideration
+
 1. Reliability of the cost estimates
 2. risk
 3. value of the project to the contractor
@@ -84,6 +92,7 @@ Pricing Consideration
 5. Competition
 
 Internal post-project evaluation
+
 1. Technical performance
 2. cost performance
 3. Schedule Performance
@@ -95,24 +104,28 @@ Internal post-project evaluation
 9. recommendations
 
 Some tools...
-1. netowrk diagram
+
+1. network diagram
 2. responsibility matrix
 3. Gantt Chart
 
 project cost...
+
 1. labour
-2. mateirals
+2. materials
 3. subcontractors and consultants
 4. equipment and facilities rental
 5. travel
 
 cost performance analysis...
+
 1. total budget cost
 2. cumulative budgeted cost
 3. cumulative actual cost
 4. cumulative earned value
 
 developing skills to be a project manager
+
 1. gain experience
 2. seek out feedback form others
 3. conduct a self-evaluation
@@ -123,13 +136,15 @@ developing skills to be a project manager
 8. volunteer
 
 effective project team...
-1. clear understanding nof the project objective
-2. clear expectations of each person's role and responsbilities
+
+1. clear understanding of the project objective
+2. clear expectations of each person's role and responsibilities
 3. results orientation
-4. high degree of coperation and collaboration
+4. high degree of cooperation and collaboration
 5. high level of trust
 
 types of project meetings
+
 1. status review meetings
 2. problem solving meetings
 3. technical design review meetings

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Some common file formats
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 for audio
 
 - [mp3](http://en.wikipedia.org/wiki/MP3)

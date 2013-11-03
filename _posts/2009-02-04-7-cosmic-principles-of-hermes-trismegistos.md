@@ -1,14 +1,8 @@
 ---
 layout: post
 title: 7 Cosmic Principles of Hermes Trismegistos
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 i came across this another spiritual principles from ancient times... and [ this article summarises it beautifully](http://youcreatereality.com/blog/index.php/2008/06/the-seven-cosmic-principles-of-hermes-trismegistos-hermetic-laws/).
 
 1. **The Principle of Mentalism (MIND) ** “THE ALL IS MIND; The Universe is Mental.”

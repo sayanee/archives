@@ -1,17 +1,1 @@
----
-layout: post
-title: 12 habits to start with
-categories:
-- Life Skills
-tags:
-- habits
-- life
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
----
-Tim Ferris has [an amazing list ](http://www.fourhourworkweek.com/blog/2009/01/07/the-power-of-less-leo-babauta-zen-habits/)to start with...  1. Set your 3 MITs (Most Important Tasks) each morning. 2. Single-task. When you work on a task, don’t switch to other tasks. 3. Process your inbox to empty. 4. Check email just twice a day. 5. Exercise 5-10 minutes a day. 6. Work while disconnected, with no distractions. 7. Follow a morning routine. 8. Eat more fruits and veggies every day. 9. Keep your desk decluttered. 10. Say no to commitments and requests that aren’t on your Short List 11. Declutter your house for 15 minutes a day. 12. Stick to a 5-sentence limit for emails.
+---layout: posttitle: 12 habits to start with---Tim Ferris has [an amazing list ](http://www.fourhourworkweek.com/blog/2009/01/07/the-power-of-less-leo-babauta-zen-habits/)to start with...1. Set your 3 MITs (Most Important Tasks) each morning.2. Single-task. When you work on a task, don’t switch to other tasks.3. Process your inbox to empty.4. Check email just twice a day.5. Exercise 5-10 minutes a day.6. Work while disconnected, with no distractions.7. Follow a morning routine.8. Eat more fruits and veggies every day.9. Keep your desk decluttered.10. Say no to commitments and requests that aren’t on your Short List11. Declutter your house for 15 minutes a day.12. Stick to a 5-sentence limit for emails.

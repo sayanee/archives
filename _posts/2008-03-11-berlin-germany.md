@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Berlin, Germany
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Things to see...
 
 1. Berlin Dome

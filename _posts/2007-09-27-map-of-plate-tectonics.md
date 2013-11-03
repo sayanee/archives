@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Map of Plate Tectonics
-categories:
-- Science
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 with the recent series of earthquakes, i decided to refresh my memory about the plate tectonics and the boundaries of these plates on the surface of the earth...
 
 ![](/img/plate_tectonics.bmp)

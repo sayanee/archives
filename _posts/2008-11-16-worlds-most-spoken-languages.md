@@ -1,15 +1,8 @@
 ---
 layout: post
 title: World's most spoken languages
-categories:
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 I went through a few list and these 10 languages kep coming up as the 10 most spoken languages in the world...
 
 1. Chinese

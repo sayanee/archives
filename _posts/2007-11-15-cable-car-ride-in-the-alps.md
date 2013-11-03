@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Cable car ride in the Alps
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Want to see the French Alps without climbing at all?? Take the breathtaking cable car ride from Chamonix and you'll pass by the Mont Blanc... some links...
 
 - [cable car](http://www.chamonix.net/english/sightseeing/aiguille_du_midi.htm)

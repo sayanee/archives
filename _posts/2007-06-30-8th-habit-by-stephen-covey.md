@@ -1,15 +1,8 @@
 ---
 layout: post
 title: 8th Habit by Stephen Covey
-categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** The 8th Habit - From Effectiveness to Greatness **Author:** Stephen R. Covey **Year written/published:** 2004 **Book Source:** [Amazon](http://amazon.com/s/ref=nb_ss_gw/103-7222280-8876611?url=search-alias%3Daps&field-keywords=8th+habit+covey) **Some extracts:** about choices... >  
 
 > Between stimulus and response there is a space. In that space lies our freedom and power to choose our response. In these choices lie our growth and our happiness.

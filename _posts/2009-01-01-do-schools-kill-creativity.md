@@ -1,13 +1,7 @@
 ---
 layout: post
 title: Do schools kill creativity?
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
+<iframe src="http://embed.ted.com/talks/ken_robinson_says_schools_kill_creativity.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 

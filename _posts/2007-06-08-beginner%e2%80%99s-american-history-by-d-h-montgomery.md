@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Beginner’s American History by D. H. Montgomery
-categories:
-- Book Reviews
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** The Beginner’s American History **Author:** D. H. Montgomery **Year written/published:** 1893 **My Comments:** Been reading extracts about Franklin, Jefferson, Albany treaty, Civil war, Slavery… and i needed a book to connect all these events to give me a picture of what events have led to shape up America to what it is today. Couldn’t have found a better book. Do [download the html version from gutenberg ](http://www.gutenberg.org/etext/18127)and have a nice read for yourself ![:)](http://buibui.wordpress.com/wp-includes/images/smilies/icon_smile.gif) I learnt a few things here and there… like the Disney’s [Pocahontas ](http://en.wikipedia.org/wiki/Pocahontas)is actually a real story about the time when the English were first trying to settle in the America and she helped save captain smith’s life ![:P](http://buibui.wordpress.com/wp-includes/images/smilies/icon_razz.gif) i didn’t know that!!!!!!!! hahhaha! And also another thing that astonished me was the about how and why some of the names of places came about… eg. New York, Maryland, Providence, Virginia, Pennsylvania and even America itself! … all of them had a part in the foundation of America. It was a great read in simple English - right from Columbus to Abraham Lincoln and the Civil War.
 
 **Some extracts:**

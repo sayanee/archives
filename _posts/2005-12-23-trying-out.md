@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Trying out!
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+categories:
+- Musing
 ---
+
 I went to gym 11 out of 12 days to try out EVERY SINGLE different type of 30+ classes. Almost done but I still have a few dance and cycling classes left. I'm not crazy...hehe! Just making full use of it while the hols last! And the best part?!?!...I still got to eat tako pachi and choc brownies with fitness partners...yum yum! And here are the random workout awards from Sweska's perspectives!
 
 **Most Challenging: Yoga** Yes...it's good old yoga but try doing 20 Sun salutations continuously...i bet you'll be sweating and wobbling man! And after that do all the series of warrior and triangle poses...huff and puff...

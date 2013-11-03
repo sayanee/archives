@@ -1,14 +1,8 @@
 ---
 layout: post
 title: lightbox for wordpress photo plugin
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Yes, i have been hunting for a nice display for photos and i couldn't find a better one! Here's [Lightbox 2.3](http://www.stimuli.ca/lightbox). So why do i like it?
 
 - easy installation as a WP plugin

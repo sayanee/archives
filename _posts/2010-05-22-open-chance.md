@@ -1,18 +1,8 @@
 ---
 layout: post
 title: Open chance
-categories:
-- Ideas
-tags:
-- open
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
 ---
+
 I have been too quiet when so much has been happening in my life for the past 3 months!
 
 For the past year, I have been heavily exposed to so many groups that were open and welcoming in many projects and ideas. I have been inspired to know that many of these are being headed by younger people who have dared to go beyond the safety net of a secured life. Words like entrepreneurship, innovation and change are not just words, but I have actually met people who did them!

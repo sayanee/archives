@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Some astronomy wonders
-categories:
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Been reading my lecture notes... and here are some things that strikes me as really wonderous... i didn't know all these before!
 
 -  

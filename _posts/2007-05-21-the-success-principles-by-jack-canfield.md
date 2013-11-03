@@ -1,15 +1,8 @@
 ---
 layout: post
 title: The Success Principles by Jack Canfield
-categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** [The Success Principles ](http://thesuccessprinciples.com/)- How to get from where you are to where you want to be **Authors:** Jack Canfield with Janet Switzer **About the Author:** Jack Canfield is the cocreater of the Chicken Soup for the Soul series **Year written/published:** 2005 **My Comments:** A great book... loads of categorised chapters, short chapters with laods of inspirational examples and candid acronyms. **Contents Page:**
 1. Fundamentals of Success
 2. Transform yourself for success

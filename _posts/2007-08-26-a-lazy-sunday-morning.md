@@ -1,13 +1,8 @@
 ---
 layout: post
 title: a lazy sunday morning
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 ![](/img/picnic2459785678568675.jpg)
 
 Nothing beats a lazy sunday morning chit-chat amidst the bees and ants under the tree - a picnic!! It's like a break amidst the fast paced life. Gals... i promise i'll bring _masala_  snacks the next time armed with more nonsense :P

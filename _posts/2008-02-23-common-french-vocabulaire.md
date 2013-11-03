@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Common French vocabulaire
-categories:
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Days of the week... **les jours de la semaine. **The french days of the week starts on monday
 
 1. monday  **Lundi**
@@ -20,6 +14,7 @@ Days of the week... **les jours de la semaine. **The french days of the week sta
 7. sunday **Dimanche**
 
 Days...
+
 1. **avant-hier** - the day before yesterday
 2. **hier **- yesterday
 3. **aujourd'hui** - today
@@ -34,6 +29,7 @@ Days...
 12. **la prochaine semaine** - the week after, the following week
 
 **les mois de l'année**  months of the year
+
 1. **janvier** January
 2. **février** February
 3. **mars** March
@@ -48,12 +44,14 @@ Days...
 12. **décembre** December
 
 Seasons... **les saisons** 
+
 1. **printemps** spring
 2. **été** summer
 3. **automne** autumn/fall
 4. **hiver** winter
 
 Points in time
+
 - **le lever de soleil** - sunrise
 - **l'aube** (f) - dawn
 - **le matin** - morning

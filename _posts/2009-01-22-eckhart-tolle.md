@@ -1,16 +1,12 @@
 ---
 layout: post
 title: Eckhart Tolle
-categories:
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
-[Eckhart Tolle](http://en.wikipedia.org/wiki/Eckhart_Tolle) is the new age spiritual speaker and writer. I'm particularly interested in the books we wrote:
+
+[Eckhart Tolle](http://en.wikipedia.org/wiki/Eckhart_Tolle) is the new age spiritual speaker and writer.
+
+I'm particularly interested in the books we wrote:
+
 1. The Power of Now
 2. Practicing the Power of Now: Essential Teachings, Meditations, and Exercises from The Power of Now
 3. Stillness Speaks: Whispers of Now

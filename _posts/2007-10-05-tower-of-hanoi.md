@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Tower of Hanoi
-categories:
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
  To transfer and rebuild the tower around one of the initially empty pegs such that:
 
 - only one ring be moved at a time

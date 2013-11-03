@@ -1,15 +1,11 @@
 ---
 layout: post
 title: Basic finance research
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
-ok some of my friends have been asking... so here's how we can all find out a bit more simpy from online research easy research. NOTE: the examples are not recommendations, but mere illustrations. these are not the only and most efficient ways... i'm just sharing freely as a beginner on what i know :) hope it helps.  STOCKS AND SHARES of a particular company... online:
+
+ok some of my friends have been asking... so here's how we can all find out a bit more simpy from online research easy research. NOTE: the examples are not recommendations, but mere illustrations. these are not the only and most efficient ways... i'm just sharing freely as a beginner on what i know :) hope it helps.
+
+STOCKS AND SHARES of a particular company... online:
 
 1. Identify the Company eg. [Chevron](http://www.chevron.com/)
 2. Identify the Stock Symbol by simply searching it eg. [Chevron **Stock Symbol** ](http://www.google.com/search?q=Chevron+Stock+Symbol+&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GGLR)ok so the Chevron symbol is CVX

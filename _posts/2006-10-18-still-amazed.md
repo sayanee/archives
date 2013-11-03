@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Still Amazed
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Everytime I take the lift to the roof top, i'll see this picture and it is definitely worth looking at it in a [higher resolution](http://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg).
 
 ![](/img/solv.jpg)

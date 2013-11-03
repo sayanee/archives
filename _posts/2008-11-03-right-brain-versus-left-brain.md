@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Right brain versus Left brain
-categories:
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 **Right brain** deals with:
 - intuition
 - creativity

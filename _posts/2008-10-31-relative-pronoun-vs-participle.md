@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Relative pronoun vs. participle
-categories:
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 So what is the difference between these sentences?
 
 - I love to listen to people singing christman carols - participle I love to listen to people who sing christmas carols - relative pronoun

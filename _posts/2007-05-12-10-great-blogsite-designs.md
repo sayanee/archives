@@ -1,15 +1,8 @@
 ---
 layout: post
 title: 9 great blog/site designs
-categories:
-- Current Technology
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 these are the few that catches my eye...
 
 1. [karen cheng ](http://karencheng.com.au/)- white and simple

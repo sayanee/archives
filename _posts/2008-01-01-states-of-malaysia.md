@@ -1,14 +1,8 @@
 ---
 layout: post
 title: states of Malaysia
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I needed to know the [political geography of Malaysia ](http://upload.wikimedia.org/wikipedia/commons/2/23/Malaysia_states_named.png)a bit better :P so here are the [states fof Malaysia](http://en.wikipedia.org/wiki/States_of_Malaysia) rom the main peninsula...
 
 1. Johor (Johor Bahru)

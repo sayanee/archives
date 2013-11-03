@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Richest Countries in the world
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 the rankings...
 
 1. Luxembourg

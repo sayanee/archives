@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Handy Lists
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 As written in Lifehack, there's a [great list of 9 things that we should keep handy](http://www.lifehack.org/articles/productivity/9-lists-to-keep-updated-and-keep-handy.html):
 
 1. Things I Want

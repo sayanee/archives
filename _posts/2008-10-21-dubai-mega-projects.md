@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Dubai Mega Projects
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Wow! Dubai has been spinning some very interesting [Mega Projects](http://www.dreamsofdubai.com/dubai-mega-projects/):
 
 1. Dubai Waterfront

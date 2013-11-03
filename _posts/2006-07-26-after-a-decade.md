@@ -1,13 +1,8 @@
 ---
 layout: post
 title: After a decade
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I met someone really special yesterday and it was so \_\_\_\_\_\_\_\_\_\_.
 
 ![](/img/so.jpg) And i was waiting for her in front of Tangs... i don't really know how she looks like now and she also doesn't really know. But guess we'll just figure out somehow!! And just as i was about to call her again, someone came from behind and gave me a huge surprise.

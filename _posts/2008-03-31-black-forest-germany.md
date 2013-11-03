@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Black Forest (Germany)
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Black forest (_Schwarzwald)_ is the south western part of Germany... really beautiful nature... some links...
 
 1. [wiki](http://en.wikipedia.org/wiki/Black_Forest)

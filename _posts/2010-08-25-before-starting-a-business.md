@@ -1,17 +1,6 @@
 ---
 layout: post
 title: Before starting a business
-categories:
-- Business &amp; Finance
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
 ---
 Fantastic list... from [Venture Beat](http://entrepreneur.venturebeat.com/2010/08/19/8-things-i-wish-i-knew-before-starting-a-business/)...
 

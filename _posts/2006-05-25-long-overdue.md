@@ -1,15 +1,8 @@
 ---
 layout: post
 title: long overdue
-categories:
-- Ideas
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Nothing beats pigging out with good ol' friends... We went out... and since i'm too lazy to blog what happend I shall just quote from KT :P ![](/img/ktjc.jpg)
 
 _...Then we played scrabble and monopoly._

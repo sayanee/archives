@@ -1,15 +1,8 @@
 ---
 layout: post
 title: difficult clients
-categories:
-- Business &amp; Finance
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 found an interesting article [right here ](http://freelanceswitch.com/clients/12-breeds-of-client-and-how-to-work-with-them/)about the 12 different types of difficult clients and how to work with them... and the types of clients are...
 
 1. The Low-Tech Client

@@ -2,14 +2,9 @@
 layout: post
 title: weekend getaway
 categories:
-- Ideas
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+- Musing
 ---
+
 Guess where i was this weekend!
 
 ![](/img/seaside_764350782421.jpg)

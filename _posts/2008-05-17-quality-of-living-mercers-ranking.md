@@ -1,22 +1,9 @@
 ---
 layout: post
 title: Quality of Living - Mercer's Ranking
-categories:
-- Culture and Society
-- Time and Place
-tags:
-- cities
-- living
-- quality
-- standard
-- world
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
-the 2008 listing for world cities in the [higest Quality of Living ](http://www.mercer.com/referencecontent.htm?idContent=1307990)is released... Europe cities dominate!
+
+the 2008 listing for world cities in the [higest Quality of Living](http://www.mercer.com/referencecontent.htm?idContent=1307990) is released... Europe cities dominate!
 
 1. Zurich
 2. Vienna

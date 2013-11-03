@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Algorist vs Abacist
-categories:
-- Science
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 For centuries the dispute between the algorithmic and the abacist system went on and then finally in the 18th century, the abacist system was totally disappeared! some links on the history of maths...
 
 - [oriental mathematics](http://library.thinkquest.org/22584/emh1100.htm)

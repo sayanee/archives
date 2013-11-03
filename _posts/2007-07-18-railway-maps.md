@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Railway maps
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 world's most densest cities have the most rigorous railway system to commute thousands of passengers daily. Here are a few of the cities... [London's Tube](http://www.tfl.gov.uk/modalpages/2625.aspx) since [1863](http://homepage.ntlworld.com/clivebillson/tube/tube.html) [ [full picture](http://www.oxfordtube.com/assets/london/underground_map.jpg)]
 
 ![](/img/london_tube.jpg)

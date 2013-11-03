@@ -1,14 +1,8 @@
 ---
 layout: post
 title: French Vocabulary - School
-categories:
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 school vocabulary...
 
 - desk **un bureau**   

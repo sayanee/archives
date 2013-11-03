@@ -1,13 +1,10 @@
 ---
 layout: post
 title: tunnel walk
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+categories:
+- Musing
 ---
+
 ![](/img/tunnel_walk_9823745029.jpg)
 
 Let me count how much i walked today... the whole of sector 1 and 7, including the RT tracks. = 5.7 km approximately

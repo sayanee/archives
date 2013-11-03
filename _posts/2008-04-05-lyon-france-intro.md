@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Lyon (France) intro
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 some links about the 3rd largest city in France... Some general news about lyon
 
 1. [wiki](http://en.wikipedia.org/wiki/Lyon)
@@ -19,6 +13,7 @@ some links about the 3rd largest city in France... Some general news about lyon
 6. lyon from [lonely planet](http://www.lonelyplanet.com/worldguide/france/lyon/)
 
 Places to see in Lyon
+
 1. Mt. Fourviere
 2. The Old City
 3. The Gallo-Roman Amphitheater
@@ -27,6 +22,7 @@ Places to see in Lyon
 6. Parc de la Tete d’Or
 
 Getting around in Lyon
+
 1. lyon [metro map](http://www.urbanrail.net/eu/lyo/lyon.htm)
 2. a [wiki](http://en.wikipedia.org/wiki/Lyon_Metro) of lyon metro
 3. a pdf format  [map ](http://france-for-visitors.com/france-maps/provence/lyon-map.html)for tourists

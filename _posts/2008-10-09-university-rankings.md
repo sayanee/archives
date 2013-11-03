@@ -1,16 +1,8 @@
 ---
 layout: post
 title: University Rankings
-categories:
-- Business &amp; Finance
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 From [Times Higher Education](http://www.timeshighereducation.co.uk/hybrid.asp?typeCode=243&pubCode=1) ranking
 
 1.  Harvard US        

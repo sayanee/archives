@@ -1,14 +1,8 @@
 ---
 layout: post
 title: daughter-father team
-categories:
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 some examples that i can see... mainly in politics (but not all)
 
 1. Indira Gandhi - Jawaharlal Nehru

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: La joie de vivre
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 saw this in the Book by Dale Carnegie… Just for today…
 
 1. Just for today I will be happy. This assumes that what Abraham Lincoln said is true, that ‘most folks are about as happy as they make up their minds to be.’ Happiness is from within; it is not a matter of externals.

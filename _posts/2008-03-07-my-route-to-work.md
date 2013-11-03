@@ -1,13 +1,10 @@
 ---
 layout: post
 title: my route to work
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+categories:
+- Musing
 ---
+
 this is where i walk along daily to reach my office...
 
 ![](/img/petit_foret.jpg)

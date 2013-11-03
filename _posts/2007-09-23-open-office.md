@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Open Office
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I was trying out the [Open Office ](http://www.openoffice.org/)softwares. It basically consists of...
 
 1. [Writer ](http://www.openoffice.org/product/writer.html)is basically a word processor like MS Word

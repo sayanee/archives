@@ -2,19 +2,9 @@
 layout: post
 title: after reformatting...
 categories:
-- Current Technology
-tags:
-- downloads
-- laptop
-- reformat
-- softwares
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  aktt_notify_twitter: 'yes'
+- Musing
 ---
+
 List of stufff to install/download after reformatting my laptop...
 
 1. OS

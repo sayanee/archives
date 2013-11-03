@@ -2,14 +2,9 @@
 layout: post
 title: Online Stock Market Investing by Alexander Davidson
 categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:** The Complete Guide to Online Stock Market Investing - The Definitive 20-Day guide **Author:** Alexander Davidson **Year written/published:** 2002 **Book Source:** [Amazon](http://www.amazon.com/Complete-Guide-Online-Market-Investing/dp/0749447478/ref=sr_1_1/104-9368817-5179146?ie=UTF8&s=books&qid=1188135826&sr=1-1), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?resultsScreen+10924+1+2+3) **My Comments:** This is a UK-based book on stock and investing online. It's clearly sub-divided into days for easy learning. Some extracts: Some links...
 - [fool.co.uk](http://www.fool.co.uk/)
 - [interactive investor](http://www.iii.co.uk/)
@@ -54,7 +49,7 @@ Different kinds of Charts..
 - Candlesticks
 - Point and Figure Chart
 
-Using charts... >  
+Using charts... >
 
 > **Resistance Level** is the high point on a chart where the stock price has stopped rising, becasue investors will not buy further and sellers have emerged. At the other extreme, the **Support level** is where the investors have stopped selling. The more a aupport or resistance line is tested, the more effective it is considered. .. ... Support and resistance often arise at around numnbers which, in the case of stocks are often 90p, 100p, 200p.
 

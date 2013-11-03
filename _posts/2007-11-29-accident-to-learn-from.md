@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Accidents to learn from
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 some famous accidents... from which powerful lessons were learnt and safety policies were imposed
 
 1. [Titanic](http://www.google.com/search?hl=en&rls=com.microsoft%3Aen-us%3AIE-SearchBox&rlz=1I7GGLR&q=titanic+disaster) - 1911, 1500 plus cruise ship members and passengers perished

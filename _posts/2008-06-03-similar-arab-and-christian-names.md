@@ -1,23 +1,8 @@
 ---
 layout: post
 title: Similar Arab and Christian Names
-categories:
-- Culture and Society
-- People Profile
-- Time and Place
-tags:
-- arab
-- bible
-- christian
-- koran
-- muslim
-- names
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 I have been wanting to find such a list for a long time. A lot of Christian names are very similar with Muslim/Arab names and they are still used in the world till today! I [found a really great list of examples](http://losu.org/religion/similar-arab-christian-names)...
 
 1. Aaron / Harun

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Stock Exchanges
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 here's the list of stock exchanges for various countries...
 
 - [Singapore Exchange](http://www.ses.com.sg/)

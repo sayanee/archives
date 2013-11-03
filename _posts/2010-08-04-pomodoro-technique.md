@@ -1,17 +1,6 @@
 ---
 layout: post
 title: Pomodoro technique
-categories:
-- Life Skills
-tags:
-- productivity
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
 ---
 Another productivity hack is the tomato technique aka [pomodoro technique](http://www.pomodorotechnique.com/). Here are some cool resources i found:
 

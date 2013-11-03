@@ -1,20 +1,8 @@
 ---
 layout: post
 title: Whether vs. If
-categories:
-- Culture and Society
-tags:
-- english
-- GMAT
-- grammar
-- if
-- whether
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 This is an interesting one i thought. I am not conscious when to use 'whether' and when to use 'if'
 
 - Whether - for a choice/alternatives
@@ -27,5 +15,3 @@ Some links on 'whether' vs 'if':
 - [Grammar girl](http://grammar.quickanddirtytips.com/if-versus-whether.aspx)
 - [GMAT Grammar](http://gmat-grammar.blogspot.com/2006/07/whether-vs-if.html)
 - [grammar tip of the day](http://gtotd.blogspot.com/2007/09/whether-versus-if.html)
-
-gmat

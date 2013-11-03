@@ -1,14 +1,8 @@
 ---
 layout: post
 title: napkin folding
-categories:
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 a posh 3 course lunch and a little sleek napkin on the side - i must surely look up more about the art of napkin folding on a dining table! It's so easy.. and yet it adds a little touch of warmth and style...
 
 1. [27 napking folding instructions](http://www.napkinfoldingguide.com/)

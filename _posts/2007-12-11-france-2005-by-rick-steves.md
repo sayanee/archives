@@ -2,15 +2,17 @@
 layout: post
 title: France 2005 by Rick Steves
 categories:
-- Book Reviews
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
-**Book Title:** France 2005 **Author:** Rick Steve **Year written/published:** 2005 **Book Source:** Google Books, Library **Summary:** France regions and how to travel these areas **My Comments:** Fantastic... Rick Steve travel books are a genre of their own. Really useful guide **Contents page:**
+
+- **Book Title:** France 2005
+- **Author:** Rick Steve
+- **Year written/published:** 2005
+- **Book Source:** Google Books, Library
+- **Summary:** France regions and how to travel these areas
+- **My Comments:** Fantastic... Rick Steve travel books are a genre of their own. Really useful guide
+- **Contents page:**
+
 1. Paris
 2. Normandy: Rouen, Honfluer, Bayeux, D-Day Beaches, Mont St. Michel
 3. Brittany
@@ -24,7 +26,10 @@ meta: {}
 11. Burgundy and Lyon: Beaune, Lyon
 12. Alsace and Northern France: Colmar, Route du Vin, Strasbourg, Verdun, Reims
 
-**Some extracts:** sight-seeing priorities
+**Some extracts:**
+
+sight-seeing priorities
+
 - 3 days: Paris and maybe Versailles
 - 5 days: Normandy
 - 7 days: Loire
@@ -35,6 +40,7 @@ meta: {}
 - 23 days: Basque Country
 
 Train tips
+
 - Arrive at station with plenty of time before your departure
 - check schedules in advance
 - write the date on your flexi-pass each day you travel
@@ -43,25 +49,30 @@ Train tips
 - Some trains split cards on route
 
 Paris in 3 days starting from day 1:
+
 - morning: self-guided tour featuring ile de la Cite, Notre Dame, Latin Quater and Sainte-Chapelle
 - afternoon: Visit Pompoadouu, Jeiwsh Art, Picasso
 - Evening: Cruise the Seine RIver or take the Prais Illumination nighttime bus trou
 
 day 2 in Paris:
-- morning: Arc de Trimphe, self guided tour of Chams-Elysees Walk
+
+- morning: Arc de Triomphe, self guided tour of Chams-Elysees Walk
 - afternoon: Lunch in Tuileries and then Louvre
 - Evening: Twilight ride up the Eiffel Tower
 
 day 3 in Paris:
+
 - morning: Tour the Orsay Museum
 - afternoon: Rodin Museu, and Napolean's Tomb
 - night: Montmartre and Sacre-Couer basilica
 
 some museum tips:
+
 - tuesday: most museums are closed including Louvre and Picasso
 - Sunday: some museums are free the first sunday on the month and therefore more crowded eg. Louvre, Picasso etc
 
 some main attractions in paris...
+
 1. Louvre
 2. Orsay Museum
 3. Eiffel Tower

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: CSS references
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 some sites...
 
 1. [w3 css ](http://www.w3.org/TR/REC-CSS1)level 1

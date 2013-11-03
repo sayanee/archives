@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Ivy League
-categories:
-- Business &amp; Finance
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Ivy League is a group of 8 colleges in North-Western United States that has come to represent academic excellence as well as prestige...
 
 1. [Brown University](http://share.sweska.net/wiki/Brown_University "Brown University")

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Railway Signalling
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 What is [railway signalling](http://www.google.com/search?q=railway+signalling&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GGLR)?? It is a system of controlling the trains on the tracks safely so as to avoid any colliding or jamming. here are some links to read more...
 
 1.  

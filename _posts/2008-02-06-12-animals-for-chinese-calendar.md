@@ -1,14 +1,8 @@
 ---
 layout: post
 title: 12 animals for Chinese Calendar
-categories:
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 the 12 animals are:
 
 1. rat

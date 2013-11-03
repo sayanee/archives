@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Old Skills Revisited
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 ** ![](/img/er.jpg) Cutting drilling sawing**** hammering sanding filling coupling bending nailing threading screwing oiling greasing riveting clamping...**
 
 I like working with **wood** and **metal** stuff...it was interesting and the workshop uncle was so so so helpful. Expect for the fact that he kept giving me heart attacks by saying, "oh this can’t be done and that can’t be done." GGrrrrrr!!!! Oh well! Uncle thank you so much for all your help and too bad you had to keep seeing me everyday in the workshop...hehe! Too troublesome this gal! But I really hope you enjoyed looking at the running chassis on land and water and of course Hindi songs!

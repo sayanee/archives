@@ -1,14 +1,8 @@
 ---
 layout: post
 title: East Europe map
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 According to the UN, east europe consists of:
 
 1. Belarus

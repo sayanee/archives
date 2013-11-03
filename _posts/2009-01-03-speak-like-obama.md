@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Speak like Obama
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 I thought [this article](http://www.businessweek.com/smallbiz/content/mar2008/sb2008033_156351.htm) is really good in disecting how Obama speaks so well...
 
 1. hold out hope

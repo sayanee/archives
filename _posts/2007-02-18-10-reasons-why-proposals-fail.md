@@ -1,14 +1,8 @@
 ---
 layout: post
 title: 10 Reasons why Proposals Fail
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 from [source:](http://www.instigatorblog.com/top-10-reasons-why-proposals-fail/2007/02/07/) Instigator Blog Here are 10 reasons why proposals fail:
 
 1. They’re too long.

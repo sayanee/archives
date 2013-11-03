@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Imageing for Women by Sharlyn Stafford
-categories:
-- Book Reviews
-- Life Skills
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:**Imageing for Women- Colour, Style and Make-Up **Author:**Sharlyn Stafford **About the Author:** She has her own consulting firm in Singapore - [Stafford and Chan](http://staffordchantraining.com/) **Year written/published:** 2003 **Book Source:** [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+3140+3002+12284515+1+0)**  My Comments: **I really liked this book... loads of pictures and graphics for easy explanation and whole nature is really candid and short :) **Contents Pages:**
 1. You and your image
 2. Image Perception

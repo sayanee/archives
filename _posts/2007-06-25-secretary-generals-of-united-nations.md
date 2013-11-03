@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Secretary Generals of United Nations
-categories:
-- People Profile
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 These are the historic list of our past Secretary Generals of the United Nations... [Gladwyn Jebb ](http://en.wikipedia.org/wiki/Gladwyn_Jebb) (24 October 1945 – 1 February 1946)  United Kingdom
 
 1. [Trygve Lie ](http://en.wikipedia.org/wiki/Trygve_Lie)(1 February 1946 – 10 November 1952)  Norway

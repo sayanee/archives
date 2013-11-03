@@ -1,16 +1,10 @@
 ---
 layout: post
 title: Photosynth and Augmented reality maps
-categories:
-- Current Technology
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
 ---
+
 Just saw 2 brilliant TED Talks by Blaise Aguera y Arcas One on Photosynth And the other one on augmented reality maps
+
+<iframe src="http://embed.ted.com/talks/blaise_aguera.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<iframe src="http://embed.ted.com/talks/blaise_aguera_y_arcas_demos_photosynth.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

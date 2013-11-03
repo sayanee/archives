@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Drop the Pink Elephant by Bill McFarlan
-categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Drop the Pink Elephant: 15 ways to say what you mean - and mean what you say **Author:**Bill Mc Farlan **Year written/published:** 2003 **Book Source:** [Amazon](http://www.amazon.com/Drop-Pink-Elephant-Ways-Mean/dp/1841126373/ref=pd_bbs_sr_1/002-0774290-2058425?ie=UTF8&s=books&qid=1185075303&sr=8-1), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+19484+3002+12409286+1+0) **Summary: **This book is on diplomacy and how to relate and convey messages to people around us effectively **Contents page:**
 1. Dump the Baggage and create clarity
 2. Be Principled in what you say

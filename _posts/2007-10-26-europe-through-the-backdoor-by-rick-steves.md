@@ -2,16 +2,18 @@
 layout: post
 title: Europe through the backdoor by Rick Steves
 categories:
-- Book Reviews
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+- Books
 ---
-**Book Title:** Rick Steves' Europe Through the Back Door 2006 **Author:** [Rick Steves ](http://www.ricksteves.com/)**Year written/published:** 2005 **Book Source:** [Google Books](http://books.google.com/books?id=asMEGwAACAAJ&dq=europe+through+the+back+door+2006), Library **Summary:** This book had general tips and really good resources on travelling... especially cheap and great travelling. Towards the end chapters, the author recounted his travel stories in Europe. **My Comments:**I really enjoyed reading this! great resource + great insight.. and yes thanks to Rick Steves, i'm addicted to a new genre of books - Travel Books! **Contents page:**  Part 1
+
+**Book Title:** Rick Steves' Europe Through the Back Door 2006
+ **Author:** [Rick Steves
+ ](http://www.ricksteves.com/)**Year written/published:** 2005
+ **Book Source:** [Google Books](http://books.google.com/books?id=asMEGwAACAAJ&dq=europe+through+the+back+door+2006), Library
+ **Summary:** This book had general tips and really good resources on travelling... especially cheap and great travelling. Towards the end chapters, the author recounted his travel stories in Europe.
+ **My Comments:**I really enjoyed reading this! great resource + great insight.. and yes thanks to Rick Steves, i'm addicted to a new genre of books - Travel Books!
+ **Contents page:**
+
+ Part 1
 1. Getting Started
 2. Planning your itinerary
 3. Transportation
@@ -32,7 +34,9 @@ Part 2
 9. Throughout Europe
 10. East Mediterranean
 
-**Some extracts:**  your best itinerary in 8 steps:
+**Some extracts:**
+
+ your best itinerary in 8 steps:
 1. Read up on  Europe and talk to travellers
 2. Decide on the places you want to see
 3. Establish a route and time-line
@@ -42,7 +46,12 @@ Part 2
 7. Adjust by cutting, streamlining, or adding to fit your timetable or budget
 8. Fine Tune
 
-What to pack > shirts, pants, shorts, swimsuit, underwear and socks, one pair of shoes, jacket, tie or scarf, money belt, money, documents and photocopies, small day-pack, camera, sealable plastic baggies, water bottle, wrist watch, ear plugs, first-aid kit, medicine and vitamins, sunscreen and sunglasses, soap, clothesline, small towel, travel info, maps, address list, small notepad and pen, journal  optional: picnic supplies, packing cubes, inflatable pillow, mp3 player, poncho, insect repellent  electronic: laptop + charger + battery, mobile phone + charger, mp3 player, digital camera + storage + charger + battery, PDA
+What to pack
+ > shirts, pants, shorts, swimsuit, underwear and socks, one pair of shoes, jacket, tie or scarf, money belt, money, documents and photocopies, small day-pack, camera, sealable plastic baggies, water bottle, wrist watch, ear plugs, first-aid kit, medicine and vitamins, sunscreen and sunglasses, soap, clothesline, small towel, travel info, maps, address list, small notepad and pen, journal
+
+ optional: picnic supplies, packing cubes, inflatable pillow, mp3 player, poncho, insect repellent
+
+ electronic: laptop + charger + battery, mobile phone + charger, mp3 player, digital camera + storage + charger + battery, PDA
 Itinerary Skills
 - Moderate the weather conditions you'll encounter
 - mix cities and villages

@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Computer Networking
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 When a set of computers/devices are connected to exchange data, the networks possible are:
 
 - [local area network](http://share.sweska.net/wiki/Local_area_network "Local area network") (LAN)

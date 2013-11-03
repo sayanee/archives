@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Nobel Prize Winners 2007
-categories:
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 The [list ](http://nobelprize.org/nobel_prizes/lists/2007.html)is out:
 
 - **Physics**: Albert Fert and Peter Grünberg "for the discovery of Giant Magnetoresistance"

@@ -2,14 +2,9 @@
 layout: post
 title: Buffetology Workbook by Mary Buffet and David Clark
 categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:** The Buffetology Workbook - Value Investing the Warren Buffet Way **Authors:** Mary Buffet and David Clark **About the Author:** Mary Buffet is the former daughter-in-law od Warren Buffet **Year written/published:** 2001 **Book Source:** [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+27592+3002+10951131+1+1), [Amazon](http://www.amazon.com/Buffettology-Workbook-Investing-Warren-Buffett/dp/0684871718/ref=sr_1_1/002-7792776-8528010?ie=UTF8&s=books&qid=1186875417&sr=8-1) **My Comments:** An excellent book!! I’m gonna buy this... in fact I read it twice in the same week. I have been reading about stocks and such, but never before did I realize the much importance of knowing about companies and their financial situations, their products, mergers, board of directors in order to play well in the stock market. There was plenty of maths as well… I couldn’t really grasp them the first time. Need to read this book once more. Brilliant book! **Contents page:**
 1. Part 1: Understanding Value investing
 2. Part 2: Warren Buffett's intrinsic Value Equations

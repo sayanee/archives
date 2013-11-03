@@ -2,14 +2,9 @@
 layout: post
 title: NLP Coach by Ian McCermott and Wendy Jago
 categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:** The NLP Coach - A comprehensive guide to personal well-being and professional success **Authors:**Ian McDermott & Wendy Jago **Year written/published:** 2001 **Book Source:** [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+10924+3002+10943903+3+4), [Amazon](http://www.amazon.com/NLP-Coach-Comprehensive-Well-Being-Professional/dp/074992277X/ref=pd_bbs_sr_1/104-9368817-5179146?ie=UTF8&s=books&qid=1188136104&sr=1-1) **Some extracts:** Some of the pioneers in NLP...
 1. Richard Bandler
 2. John Grindler

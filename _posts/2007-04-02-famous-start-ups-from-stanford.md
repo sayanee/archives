@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Famous Start Ups from Stanford
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Some famous names...
 
 - [Google by Larry Page & Sergey Brin in 1998](http://www.google.com/corporate/history.html)

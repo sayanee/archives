@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Rich Dad, Poor Dad by Robert Kiyosaki
-categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Must read it if you wanna know how we are actually caught up in the rat race! It basically talks about the mentality of a rich dad (Kiyosaki's friend's dad) and a poor dad (Kiyosaki's dad) and what they each teach their kids and how are they different.
 
 but, there are opposing views about the advice given in this book. Read them [here](http://www.slate.com/?id=2067175) and [there](http://www.johntreed.com/Kiyosaki.html). 

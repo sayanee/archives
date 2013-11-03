@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Online Stock Investment by Loh, Soh & Lai
-categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Online Stock Investment: 5 simple steps to Profit **Author:**Leslie Loh, Charlie Soh, Stephen Lai **Year written/published:** 2004 **Book Source:** [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+15382+3002+12328296+2+0) **My Comments:** I found this book really useful. After reading all the finance and investment concepts, it was indeed time to know how to actually do it especially online. This book gives clear guidance on using [an online broker ](http://www.thenextview.com/03_01.htm)as well as an [investment tool ](http://www.thenextview.com/03_01.htm)for analysis. **Contents page:**
 
 1. Introduction

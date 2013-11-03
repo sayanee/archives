@@ -1,15 +1,8 @@
 ---
 layout: post
 title: The Story of my Life by Helen Keller
-categories:
-- Book Reviews
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I just finished reading  [Helen Keller's ](http://en.wikipedia.org/wiki/Helen_Keller)Autobiography. She wrote 'The Story of My Life' when she was only 22 and it was a great insight to the celebration of human mind. Helen Keller is an inspiration to all of us. She was taught by her teach Ann Sullivan on how to read  
 
 So, how does one learn being a blind and deaf? This is what she wrote when she learnt to say her first word...

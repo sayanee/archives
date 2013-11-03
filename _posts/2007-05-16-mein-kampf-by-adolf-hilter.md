@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Mein Kampf (Vol.1) by Adolf Hilter
-categories:
-- Book Reviews
-- People Profile
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** [Mein Kampf ](http://en.wikipedia.org/wiki/Mein_Kampf)(My Struggle) **Author:** [Adolf Hitler](http://en.wikipedia.org/wiki/Adolf_Hitler) **Year written/published:** 1924 **Summary:** Hitler wrote his beliefs and outlook on various issues like state, government, nationalities, war, race and how and why he has grown these strong beliefs within him. **Contents page:** This book is actually divded into 2 volumes. Volume 1 - Home of my parents, years of study in Vienna and his Political reflections there, Munich, World War, War Propaganda, Revolution, Start of political activities, German Labour Party, Race and People etc. **My comments:** You can read them all [here](http://www.hitler.org/writings/Mein_Kampf/) to get a tiny glimpse into why he did it all. This book is a mixture of his autobiography in the start and then later he goes on to explain how his ideologies arose and finally some of his hard beliefs on race, state, war propaganda etc.
 
 **Some extracts:**

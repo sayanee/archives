@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Interview Power by Tom Washington
-categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Interview Power: Selling yourself Face to Face **Author:** Tom Washington **Year written/published:** 1995 **Some extracts:** a quotation by Elbert Hubbard about interview… >  
 
 > There’s something rare, something finer far, something more scarce than ability. It’s the ability to recognise ability.

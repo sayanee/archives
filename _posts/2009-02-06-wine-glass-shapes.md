@@ -1,15 +1,8 @@
 ---
 layout: post
 title: wine glass shapes
-categories:
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Ever saw those beautifully shaped glasses and wondered exactly what they were for? I just found out:
 
 - [wine glass](http://www.pinot-noir-wines.com/winestemware/)

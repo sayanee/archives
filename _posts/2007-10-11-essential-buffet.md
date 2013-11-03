@@ -2,14 +2,9 @@
 layout: post
 title: Essential Buffet by Robert Hagstrom
 categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:** The Essential Buffet - Timeless Principles for the new Economy **Author:** Robert G. Hagstrom **Year written/published:** 2001 **Book Source:** [Google Books](http://books.google.com/books?id=pZ6W_wgW2ZIC&pg=PA229&dq=Essential+Buffet&as_brr=0&sig=68URtrcGEMEACqS7Rf9W6kzHESc), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+30241+3002+10217390+1+0) **Contents page:**
 1. The Unreasonale Man
 2. World's Greatest Investor
@@ -33,7 +28,7 @@ Lessons...
 3. Understand the difference between investment and speculation
 
 Managing a portfolio of business… > Now that you are managing a portfolio of businesses, not only will you avoid selling your best businesses, you will exercise much greater care when you pick new businesses for purchase. As the manager of a portfolio of businesses, you must resist the temptation to purchase a marginal company just because you have cash reserved.
-Criteria… >  
+Criteria… >
 
 > His criteria are straightforward: a simple, understandable business with consistent earning power, good return on equity, little debt and good management in place…. He’s not interested in turnarounds, hostile takeovers, or tentative situations where no asking price has been determined.
 
@@ -44,15 +39,15 @@ Tenets of Warren Buffet: > Business 1. is he business simple and understandable
 > Management tenets: 1. is the management rational? 2. is management candid with its shareholders? 3. does the management resist the institutional imperative?
 > Financial Tenets: 1. Focus on return on equity not earnings per share. 2. Calculate “owner earning” 3. Look for companies with high profit margins 4. For every dollar retained, make sure the company has created at least one dollar of market value
 > Market Tenets: 1. What is the value of the business? 2. can the business be purchased at a significant discount to its value?
-Role of CEO… >  
+Role of CEO… >
 
 > Another common problem is poor allocation. As Buffet points out, CEOs often rise to their position by excelling in other areas of the company, including administration, engineering, marketing or production. Because they have little experience in allocating capital, most CEOs instead turn to their staff members, consultants, or investment bankers and the institutional imperatives begins to enter the decision-making process.
 
-Intelligent investor… >  
+Intelligent investor… >
 
 > The most distinguishing trait of Buffet’s investment philosophy is the clear understanding that, by owning shares of stocks, he owns business, not prices of paper. The idea of buying stocks without understanding the company’s operating functions – its products and services, labor relations, raw materials expenses, plant and equipments, capital re-investment, inventories,  - is unconscionable says Buffet. This mentality reflects the attitude of business owners as opposed to a stock owner, and is the only mentality as investor should have. In summation of The Intelligent Investor, Benjamin Graham wrote, “Investing is most intelligent when it is most business like.”
 
-Focus investing… >  
+Focus investing… >
 
 > Warren Buffett is far from that kind of frenzy. He moves with the calm that comes of great confidence. He has no need to watch a dozen computer screens at once; the minute-by-minute changes in the market are of no interest to him. Warren Buffett doesn’t think in minutes, or days, or months, but years. He doesn’t need to keep up with 100s of companies, because his investments are focused in a select few. He refers himself as a ‘focus investor’.
 

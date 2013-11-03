@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The new AMKHub - its contruction pictorial!
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Guess what's my new hang out?? It's the new [AMK Hub ](http://en.wikipedia.org/wiki/AMK_Hub):P
 
 I was telling all my friends that i think i would visit this neighbourhood shopping centre even before [Vivo City ](http://www.vivocity.com.sg/home2.html)or the IKEA Sengkang Tampines- how true! For almost 5 years we have all been waiting and finally shops are opened... it's not officially opened yet. But still, i simply love it.

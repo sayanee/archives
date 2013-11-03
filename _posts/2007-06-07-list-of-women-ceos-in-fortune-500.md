@@ -1,15 +1,8 @@
 ---
 layout: post
 title: List of Women CEOs in Fortune 500
-categories:
-- Business &amp; Finance
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 from the [ full list](http://money.cnn.com/magazines/fortune/fortune500/womenceos/)…
 
 - Claire Babrowski  - RadioShack

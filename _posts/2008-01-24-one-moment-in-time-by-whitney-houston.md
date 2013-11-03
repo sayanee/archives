@@ -1,14 +1,8 @@
 ---
 layout: post
 title: One Moment in Time by Whitney Houston
-categories:
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Each day I live I want to be A day to give The best of me I'm only one But not alone My finest day Is yet unknown
 
 I broke my heart Fought every gain To taste the sweet I face the pain I rise and fall Yet through it all This much remains

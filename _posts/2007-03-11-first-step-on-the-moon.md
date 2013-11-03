@@ -1,14 +1,8 @@
 ---
 layout: post
 title: First step on the moon
-categories:
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Neil Armstrong is the first man on moon in the history of mankind. His famous phrase:
 
 >

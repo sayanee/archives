@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Normal Distribution
-categories:
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Normal distribution/Gaussian distribution has many applications. All normal density curves satisfy the following property:
 
 - 68% of the observations fall within 1? of the mean, that is, between ? – ? and ? + ?.

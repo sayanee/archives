@@ -1,16 +1,8 @@
 ---
 layout: post
 title: What do you care what other people think by Feynman
-categories:
-- Book Reviews
-- People Profile
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:**What do you care what other people think? Further Adventures of a Curious Character **Author:** Richard P. Feynman **Year published:** 1988 **Book Source:** [Amazon](http://www.amazon.com/What-Care-Other-People-Think/dp/0393320928/ref=sr_1_1/002-0774290-2058425?ie=UTF8&s=books&qid=1184946611&sr=8-1), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+10959+3002+4798877+2+0) **Summary:**it's sort of an autobiography where Feynman himself wrote stories about his childhood, the Manhattan project, his love and about the time when he was in the Commission for investigating the Challenger Shuttle disaster. **Contents page:**
 1. **A curious character**
 2. the making of a scientist

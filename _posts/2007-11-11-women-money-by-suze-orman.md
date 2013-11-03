@@ -1,15 +1,10 @@
 ---
 layout: post
-title: Women & Money by Suze Orman
+title: Women & Money by Suze Orman'
 categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:** Women and Money - Owning the power to control your destiny **Author:**Suze Orman **Year written/published:** 2007 **Book Source:** Google Books, Library **Some extracts:** some definitions...
 - savings and loan
 - credit union - a financial institution that offers the same services as a traditional bank
@@ -29,29 +24,29 @@ meta: {}
 
  credit cards....
 - make sure you have at least one credit card that is in your name only
--  
+-
 
 read your monthly credit card statements when they arrive - check for mistakes and over-billing and take note of the payment due date
 
- about company stock... >  
+ about company stock... >
 
 > keep your company stock to 10% or less of your total assets. ... ... I recommend that your company's own stock not amount to more than 10% of your total assets. That's how you protect yourself from any nasty surprises. It brings to mind the Enron disaster.
 
-Exchange Traded Funds (ETF) >  
+Exchange Traded Funds (ETF) >
 
 > An ETF trades like a stock on a stock exchange. That means during the day you can buy and sell shares of your ETF and your price is whatever the ETF was trading at when your order was placed. A mutual fund is a bit different. Mutual funds don't traden during the day and their price is set once a day after the market closes... ... ETF us thought to offer more liquidity than mutual fund.
 
 life insurances...
 
--  
+-
 
 **term life insurance** - this can last for a term of years. If you die during this term, your benificiaries receive the death benefit, typically tax-free. Of you are still alive after the term expries you no longer have life insurance.
 
--  
+-
 
 **low cost** - term insurance is very affordable. It can be 80% cheaper than the cost of those cash-value policies I just forbade you to buy.
 
--  
+-
 
 **lock in a fixed premium** - I want you to buy a policy that is called 'annual guranteed renewable term'. That means that as long as you continue to make your premium payemnts on time, your premium will not rise from year to year; it is a set rate. Nor can the insurance company cancel your policy.
 

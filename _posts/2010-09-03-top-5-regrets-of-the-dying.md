@@ -1,16 +1,6 @@
 ---
 layout: post
 title: Top 5 regrets of the Dying
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
 ---
 From the [original article](http://ezinearticles.com/?Top-Five-Regrets-of-the-Dying&id=3268063)...
 

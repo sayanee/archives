@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Gift Wrapping by Kunio Ekiguchi
-categories:
-- Book Reviews
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Gift Wrapping - Creative Ideas from Japan **Author:** Kunio Ekiguchi **Year written/published:** 1985 **Book Source:** [Amazon](http://www.amazon.com/Gift-Wrapping-Creative-Ideas-Japan/dp/0870117688/ref=sr_1_1/002-0774290-2058425?ie=UTF8&s=books&qid=1184936387&sr=8-1), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+31416+3002+4487299+6+1) **Summary:** This book has great illustrations on how to wrap boxes, gifts, bottles and cards in a really creative manner following the Japanses crafts method. **My Comments:** I'm a complete sucker for art and crafts books... this one's simply simple and brilliant at the same time :P
 
 ![](/img/gift_wrapping.jpg)

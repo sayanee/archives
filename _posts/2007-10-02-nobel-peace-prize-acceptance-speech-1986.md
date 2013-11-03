@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Nobel Peace Prize acceptance Speech 1986
-categories:
-- People Profile
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 In 1986, a Holocaust survivor, [Elie Wiesel](http://www.chipublib.org/003cpl/onebook_night/author.html) received the [Nobel Peace Prize](http://nobelprize.org/nobel_prizes/peace/laureates/). I have read his book called Night... gripping and chilling and yet powerfully telling. His acceptance speech ...
 
 >  

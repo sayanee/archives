@@ -1,20 +1,8 @@
 ---
 layout: post
 title: The expansion of numbers
-categories:
-- Technology
-tags:
-- internet
-- numbers
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
-  _wp_old_slug: ''
 ---
+
 > There are 10^11 stars in the galaxy. That used to be a huge number. But it's only a hundred billion. It's less than the national deficit! We used to call them astronomical numbers. Now we should call them economical numbers. ~ Richard Feynman
 
 It used to be that only astronomical numbers were huge. The financial number have caught up and now we do see number in **trillions**. And not surprisingly, the [internet number are also catching up](http://news.bbc.co.uk/2/hi/technology/8552410.stm) in **millions** and **billions**...

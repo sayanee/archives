@@ -1,14 +1,8 @@
 ---
 layout: post
 title: 7 habits of highly effective people…
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 This [bestseller ](http://www.quickmba.com/mgmt/7hab/)is written by Stephen covey and the summary basically goes like this:
 
 1. Be Proactive

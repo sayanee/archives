@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Tata family
-categories:
-- Business &amp; Finance
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 some famous [Tata family members ](http://www.tatacentralarchives.com/Heritage/FamilyTree.Pdf)have immense contribution to the Indian economy ... The following lists the period of Chaimanship of the Tata Group.
 
 - JAMSETJI NUSSERWANJI TATA (1887 TO 1904)

@@ -2,14 +2,9 @@
 layout: post
 title: Which MBA by George Bickerstaffe
 categories:
-- Business &amp; Finance
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:** Which MBA? A Critical guide to the world's Best MBAs **Author:** Michael Bickerstaffe **Year written/published:** 2000 **Book Source:** [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?resultsScreen+22313+1+10+0), [Amazon](http://www.amazon.com/WHICH-MBA-critical-guide-worlds/dp/0273695363/ref=sr_1_1/002-7792776-8528010?ie=UTF8&s=books&qid=1186899421&sr=8-1) **Summary:** This book basically talks clearly about the curriculum of MBA, schools, the types of jobs after an MBA and also the admission criteria. **My Comments:** Although this book is a 7 year old version, it gave me insights into the main MBA curriculum and the programmes offered. I would recommended the latest versions if you are applying this/next year. **Some extracts:** Why did you decide to study for an MBA?... some top reasons...
 1. To open new career opportunities
 2. Personal Developement
@@ -30,7 +25,7 @@ Who recruits MBAs? Some Principal recruiters of MBA Graduates
 - Goldman Sachs
 - IBM Consulting
 
-is it worth it? >  
+is it worth it? >
 
 > Many MBA graduates find well-apid jobs and go on to scale an impressive career ladder. As the results of our poll of the world's leading companies show, just over 1/5 of their CEOs have an MBS, althought vast majorty of their peers have succeeded without one.In North America, 39% of the CEOS have an MBA, but in Asia and Australasia none of the CEOS have one.
 

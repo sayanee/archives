@@ -1,13 +1,8 @@
 ---
 layout: post
 title: make up virgin
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 According to bobbi brown, you are a make-up virgin if:
 
 - you are stunned that you have somehow reached adulthood without the first clue about wearing makeup

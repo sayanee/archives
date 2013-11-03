@@ -1,13 +1,8 @@
 ---
 layout: post
 title: a day in life...
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Haven't felt this busy-ness for years. And now that I have found it back somehow, it feels so like me... finally!! Like say just the other day...
 
 **5am:** wake up to check email and feeds **530am:** breakfast **6am:** out for gym and the buses and trains are so crowded at this wee hours...$^&##$&\*^ **7am:** [Body Pump](http://en.wikipedia.org/wiki/Body_pump)... early morning work out is so refreshing! **8am:** a warm shower and all ready!! **830am:** the day finally starts **930am:** Out for site testing

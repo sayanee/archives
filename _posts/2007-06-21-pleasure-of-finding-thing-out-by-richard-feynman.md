@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Pleasure of Finding things out by Richard Feynman
-categories:
-- Book Reviews
-- People Profile
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** The Pleasure of Finding Things Out - The Best Short Works of Richard P. Feynman **Author:** [Richard P. Feynman](http://en.wikipedia.org/wiki/Richard_Feynman) **Year published:** 1999 **Book Source:** [Amazon](http://www.amazon.com/Pleasure-Finding-Things-Out-Richard/dp/0465023959/ref=pd_bbs_sr_1/102-6494326-5408163?ie=UTF8&s=books&qid=1182329867&sr=8-1) **My Comment:**Feynman is undoubtedly one of my fav authors :P **Contents page:**
 1. The pleasure of finding things out
 2. Computing Machines in the Future

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: For the want of a…
-categories:
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 by Benjamin Franklin
 
 >  

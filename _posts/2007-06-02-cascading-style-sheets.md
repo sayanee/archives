@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Cascading Style Sheets
-categories:
-- Book Reviews
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Cascading Style Sheets: Separating Content from Presentation **Authors:** Owen Briggs, Steven Champeon, Eric Costello, Matt Patterson with contributions from Dave Shea, John Simons, Michael Switzer, Dan Rubin, Michael Pick, Cornelia Lange **Year written/published:** 2004 **My Comments:** This is not my first book on CSS, hence I zoomed into chapters 5,6,8-12. Especially the chapter on Boxes! **Contents page:**
 1. Foundation Concepts
 2. Overview of Presentation

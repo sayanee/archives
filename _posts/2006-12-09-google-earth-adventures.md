@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Google Earth adventures
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Whooppie!! I'm exploring more and more stuff with Google Earth! If you have not downloaded the [latest version 4 beta](http://earth.google.com/download-earth.html), please do because theres's more than just history and geography. I'm simply taken away by the animation and 3D capibilities of this version. Take a look at some videos like [the Eiffel Tower](http://youtube.com/watch?v=yPYQ8xJ9YV4) or this one as it flies you through NY, Grand Canyon and the Golden Gate Bridge...
 
     

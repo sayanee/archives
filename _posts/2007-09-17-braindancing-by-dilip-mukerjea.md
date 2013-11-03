@@ -2,14 +2,9 @@
 layout: post
 title: Braindancing by Dilip Mukerjea
 categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:**Braindancing - brain blazing practical techniques in creativity for immediate application **Author:** [Dilip Mukerjea](http://members.optusnet.com.au/~charles57/Creative/Dilip/index.html) **Year written/published:** 1998 **Book Source:** [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+31872+3002+8974868+1+0) **Summary:** Various techniques for playing with our mind in imagination and on paper **My Comments:**  it's a fun book! Especially i loved the historical examples he provided... which i quoted them below. **Some extracts:** Creativity Quotient... > Curiosity, Flexibility, Resourcefulness, Challenging, Trendspotting, Proactivity, Openness, Self-Belief, Vision/Goals, Intuition, Simplifying, Risk-taking
 most of the greatest developments in our lives emerged from the minds of people who were not specialists in those disciplines...
 - Wright brothers pioneers the first airplane, but they were bicycle mechanics

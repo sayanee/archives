@@ -1,15 +1,8 @@
 ---
 layout: post
 title: how to read more books
-categories:
-- Life Skills
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 i found this article basically summarises [how to read 70+ books in a year](http://www.scotthyoung.com/blog/2007/08/06/how-to-read-70-books-in-a-year/). I found it really true especially step 2 and step 4 where i basically read only when i'm travelling for the 2+ hours each day. Here are the steps...
 
 1. Learn to Speed Read

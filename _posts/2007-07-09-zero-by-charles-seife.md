@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Zero by Charles Seife
-categories:
-- Book Reviews
-- Science
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Zero - The Biography of a Dangerous Idea **Author:**Charles Seife **Year written/published:** 2000 **Book Source:** [Amazon](http://www.amazon.com/ZERO-BIOGRAPHY-DANGEROUS-Charles-Seife/dp/0285635867/ref=sr_1_5/105-4294929-8238850?ie=UTF8&s=books&qid=1183888754&sr=8-5), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+6520+3002+9558684+1+0) **Summary:** History of the birth of Zero and its concept. **Some extracts:** Some mathematics quotations... >  
 
 > There was neither non-existence nor existence then; there was neither the realm of space nor the sky which is beyond. What stirred? Where? ~Rig Veda 

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: my last 2 school projects
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Ok, before i go to mug for my 2 remaining deadlines this week, i just thought of sharing my last 2 undergrad projects with all of you. Download them and have fun
 
 1. Astronomy project - [Origin of Life on Earth  ](/files/newsletter.pdf) ![](http://i29.photobucket.com/albums/c273/sweska/pdf.png)

@@ -1,20 +1,11 @@
 ---
 layout: post
 title: mobile phone standards
-categories:
-- Current Technology
-tags:
-- mobile
-- phone
-- standards
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
-[ Wiki has a very sleek table summarising them all](http://en.wikipedia.org/wiki/Comparison_of_mobile_phone_standards):
 
+[Wiki has a very sleek table summarising them all](http://en.wikipedia.org/wiki/Comparison_of_mobile_phone_standards):
+
+| --- | --- | --- | --- | --- | --- |
 | Feature | [NMT](http://en.wikipedia.org/wiki/Nordic_Mobile_Telephone "Nordic Mobile Telephone") | [GSM](http://en.wikipedia.org/wiki/GSM "GSM") | [UMTS](http://en.wikipedia.org/wiki/Universal_Mobile_Telecommunications_System "Universal Mobile Telecommunications System")   (3GSM) | [IS-95](http://en.wikipedia.org/wiki/IS-95 "IS-95")   (CDMA one) | [CDMA 2000](http://en.wikipedia.org/wiki/CDMA_2000 "CDMA 2000") |
 | --- | --- | --- | --- | --- | --- |
 | Technology | [FDMA](http://en.wikipedia.org/wiki/FDMA "FDMA") | [TDMA](http://en.wikipedia.org/wiki/Time_division_multiple_access "Time division multiple access") | [W-CDMA](http://en.wikipedia.org/wiki/W-CDMA "W-CDMA") | [CDMA](http://en.wikipedia.org/wiki/CDMA "CDMA") | [CDMA](http://en.wikipedia.org/wiki/CDMA "CDMA") |

@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Notable Investors
-categories:
-- Business &amp; Finance
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 from whom we can all learn from...
 
 1. [Benjamin Graham](http://en.wikipedia.org/wiki/Benjamin_Graham)

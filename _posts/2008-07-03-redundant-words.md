@@ -1,19 +1,8 @@
 ---
 layout: post
 title: Redundant words
-categories:
-- Culture and Society
-tags:
-- english
-- GMAT
-- grammar
-- redundant
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Some words are superfluous and redundant in english...
 
 - Advance forward / proceed forward / progress forward return back 
@@ -81,5 +70,3 @@ Some words are superfluous and redundant in english...
 - the exact same thing ---- the same thing 
 - Whether or not ---- Whether
 - the other one
-
-gmat

@@ -1,16 +1,10 @@
 ---
 layout: post
 title: Mughal Empire
-categories:
-- People Profile
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 [Mughal Empire](http://en.wikipedia.org/wiki/Mughal_Empire) (1526 – 1857) rulers...
+
 - 1526-1530 [Babur ](http://en.wikipedia.org/wiki/Babur)
 - 1530–1539 and after restoration 1555–1556 [Humayun ](http://en.wikipedia.org/wiki/Humayun)
 - 1556–1605 [Akbar ](http://en.wikipedia.org/wiki/Akbar)

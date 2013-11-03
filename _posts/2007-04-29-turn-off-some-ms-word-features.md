@@ -1,14 +1,8 @@
 ---
 layout: post
 title: turn off some MS word features
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 A [handy article from lifehacker ](http://lifehacker.com/software/word/alpha-geek-make-microsoft-word-less-annoying-244859.php)on how to...
 
 - Turn off unnecessary toolbars

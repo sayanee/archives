@@ -2,14 +2,9 @@
 layout: post
 title: Confident Investing by Deborah Owens
 categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:** Confident Investing **Author:** Deborah Owens **Year written/published:** 2001 **Book Source:** [Google Books](http://books.google.com/books?id=X4oOAAAACAAJ&dq=confident+investing), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+29077+3002+10775091+1+2) **Some extracts:** confident investor...
 - you save your money for short-term needs of 5 years or less
 - you invest your money for long-term needs of 5 years or more

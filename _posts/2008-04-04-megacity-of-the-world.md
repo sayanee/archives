@@ -1,15 +1,10 @@
 ---
 layout: post
 title: Megacity of the world
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 [Megacity](http://en.wikipedia.org/wiki/Megacity) is defined as an urban area with population of more than 10 million people... and here are the top few city names...
+
 1. [Tokyo](http://en.wikipedia.org/wiki/Tokyo "Tokyo"), (36,197,000)
 2. [New York City](http://en.wikipedia.org/wiki/New_York_metropolitan_area "New York metropolitan area") , (29,700,000)
 3. [Mexico City](http://en.wikipedia.org/wiki/Greater_Mexico_City "Greater Mexico City") (19,100,000)

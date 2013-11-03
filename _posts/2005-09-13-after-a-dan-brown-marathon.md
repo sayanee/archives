@@ -1,22 +1,26 @@
 ---
 layout: post
 title: After a Dan Brown Marathon…
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+categories:
+- Musing
 ---
+
 Thulasy said I was on a dan brown marathon…and I finally finished the marathon after a total of 4 books.Here are the different issues in each book...
 
-1. Da Vinci Code Feminism, Christian history and art, Pagan worship 2. Angels and Demons Science and religion, balance and contrast, Good and Evil
-
+1. Da Vinci Code Feminism, Christian history and art, Pagan worship
+2. Angels and Demons Science and religion, balance and contrast, Good and Evil
 3. Digital Fortress Technology, cryptography, privacy issues, cyber net, encoded messeges
-
 4. Deception Point Space exploration, Nature, Politics, National Security
 
-Now here are the similarities… The 4 books always seem to have double heroes. Books 1 and 2 had Robert Langdon and like James Bond, he had a different Langdon girl each time…Sophie Nuveu and Vittoria Vetra. _\*\*sweska squints slightly\*\*_ The last 2 books however had 2 different female stars, but they were also with their own Bond boys. _\*\*sweska smiles\*\*_ Ok, this is a lame pattern. Let me explain the rest. The books start with a murder. The villains are always portrayed as an innocent and respected person in the beginning. So, keep guessing which one of the good guys may turn out to be the bad ones!! These villains always employed another set of killers…who of course killed professionally and there were quite a few murders in all the books. Finally, there were always constant chases around cities and although the plot really thickens well and good throughout the book, at the end you feel like a sudden abrupt halt…just like what deeps said. Sometimes you will feel…the whole book stood on this fact and now it’s all vanished?!??! Oh and the last scene of all the books had the 2 heroes in bedrooms… obviously!!!!
+Now here are the similarities…
+
+The 4 books always seem to have double heroes. Books 1 and 2 had Robert Langdon and like James Bond, he had a different Langdon girl each time…Sophie Nuveu and Vittoria Vetra. _\*\*sweska squints slightly\*\*_ The last 2 books however had 2 different female stars, but they were also with their own Bond boys. _\*\*sweska smiles\*\*_ Ok, this is a lame pattern. Let me explain the rest.
+
+The books start with a murder. The villains are always portrayed as an innocent and respected person in the beginning. So, keep guessing which one of the good guys may turn out to be the bad ones!! These villains always employed another set of killers…who of course killed professionally and there were quite a few murders in all the books.
+
+Finally, there were always constant chases around cities and although the plot really thickens well and good throughout the book, at the end you feel like a sudden abrupt halt…just like what deeps said. Sometimes you will feel…the whole book stood on this fact and now it’s all vanished?!??!
+
+Oh and the last scene of all the books had the 2 heroes in bedrooms… obviously!!!!
 
 ![](/img/dan.jpg)
 

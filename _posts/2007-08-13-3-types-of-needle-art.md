@@ -1,14 +1,8 @@
 ---
 layout: post
 title: 3 types of Needle Art
-categories:
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Been dabbling with these 3 types of needle work... Knitting, Tatting and Crochet... it's been awesome :P 1. [Knitting ](http://en.wikipedia.org/wiki/Knitting)- The art of making a wool into a clothe with 2 knitting needles. and it's pretty similar to crochet as well. Some links...
 
 - [Knitty](http://www.knitty.com/ISSUEsummer07/index.html)

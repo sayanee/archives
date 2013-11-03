@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Letter writing
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+categories:
+- Musing
 ---
+
 ![](/img/sambhav.jpg)
 
 I FINALLY wrote the letters to the kids. I photoshoped our recent group picture and put their individual names and wrote a simple message in English – **“Never Give up and Study Hard!”** I hope the kids can understand this. Then I attached individual letters to each of them. I realized that my spelling is atrocious!!!!... When was the last time I actually wrote a proper letter?? I think A levels…ha-ha!! Then I was looking at the YEP journal…I realized that my handwriting is also atrocious. They are so squarish and childish…but the kids’ handwritings are so beautiful…and classy!

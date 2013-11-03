@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Little Lulu
-categories:
-- Music and Arts
-tags:
-- litle lulu
-- tubby
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
 
+<iframe width="420" height="315" src="//www.youtube.com/embed/q4QiD2-K5bs" frameborder="0" allowfullscreen></iframe>

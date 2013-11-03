@@ -1,14 +1,8 @@
 ---
 layout: post
 title: 50 Most important people in the web
-categories:
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 from the [main list](http://news.yahoo.com/s/pcworld/20070305/tc_pcworld/129301)... 
 
 1. Eric Schmidt, Larry Page, and Sergey Brin Executives, [Google](http://www.google.com.sg/intl/en/about.html)

@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Ubuntu releases
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
 ---
+
 The release names of Ubuntu is so funny :P
 
 1. Ubuntu 6.06.2 LTS (Dapper Drake)

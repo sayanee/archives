@@ -2,14 +2,9 @@
 layout: post
 title: what?? again...
 categories:
-- Ideas
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+- Musing
 ---
+
 this is freaking hilarious...
 
 why it is that every time my lady boss seem to have the exact same birthday with me??? Just like my [undergrad internship](/last-day-at-internship/), now my Project Manager also has the same birth date as moi... so i ran up to her the other day and wished her an advanced happy birthday and of course asked her to wish me too :P We shook our hands tightly with a big fat grin. i just had to sms jazz about this!

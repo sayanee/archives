@@ -1,15 +1,8 @@
 ---
 layout: post
 title: The Tallest Buildings...
-categories:
-- Business &amp; Finance
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 here's a list of the [tallest buildings](http://www.infoplease.com/ipa/A0001338.html)... and top 10...
 
 1. **Taipei 101**, Taipei, Taiwan 508m

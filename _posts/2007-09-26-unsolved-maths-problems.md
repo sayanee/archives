@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Unsolved Maths problems
-categories:
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I thought this [list in Wiki ](http://en.wikipedia.org/wiki/Unsolved_problems_in_mathematics)is rather interesting... it has the list of unsolved problems in mathematics and some problems include...
 
 - [Goldbach's conjecture](http://en.wikipedia.org/wiki/Goldbach%27s_conjecture "Goldbach's conjecture")

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Clutter free living
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Research has shown that 80% of what you store, you will NEVER use it again. De-clutter your life, throw away useless things to simply life. Get rid of excess junk at home.
 
 > Out of clutter, find simplicity --Albert Einstein

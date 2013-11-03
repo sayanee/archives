@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Making Powerful Presentations by Yardley Kelly
-categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:**Making Powerful Presentations using Neuro-Linguistic Programming **Authors:** Gary Yardley & Jan Kelly **Year written/published:** 1994 **Book Source:**  [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+32492+3002+6832369+6+0) **Contents page:**
 1. Studying Excellent presenters
 2. Powerful Presentations

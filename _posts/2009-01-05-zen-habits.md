@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Zen Habits
-categories:
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Some links from the [Zen Habits](http://zenhabits.net/)...
 
 - [20 things](http://zenhabits.net/2008/02/20-things-i-wish-i-had-known-when-starting-out-in-life/) i wish i had known...

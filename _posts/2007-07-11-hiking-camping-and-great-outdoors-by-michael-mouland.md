@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Hiking, Camping and Great Outdoors by Michael Mouland
-categories:
-- Book Reviews
-- Life Skills
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** The Complete Idiot's Guide to Hiking, Camping and the Great Outdoors **Author:**Michael Mouland **Year written/published:** 1996 **Book Source:** [Amazon](http://www.amazon.com/Complete-Idiots-Guide-Camping-Hiking/dp/0028631862/ref=sr_1_1/105-4294929-8238850?ie=UTF8&s=books&qid=1183900553&sr=8-1), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+2867+3002+9466508+2+1) **My Comments:** This is really a great detailed book on every aspect of the outdoors. Maybe from the contents page you can already have a glimpse as to how diverse this book is. **Contents page:**
 1. Preparation and Planning
 2. Different Strokes for Different Folks

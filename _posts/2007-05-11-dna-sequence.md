@@ -1,14 +1,8 @@
 ---
 layout: post
 title: DNA Sequence
-categories:
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 There are 23 chromosones in each of the human cell and nucleotides are the basic structure of these chromosoes. 4 nucleotides that make up all the DNA molecules:
 
 1. A - adenine

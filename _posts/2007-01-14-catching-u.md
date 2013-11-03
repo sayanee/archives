@@ -1,16 +1,8 @@
 ---
 layout: post
 title: catching up
-categories:
-- Ideas
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: '538'
 ---
+
 Some precious catching up!!
 
 in the beginning of the year 2007, there were really some precious catching up...

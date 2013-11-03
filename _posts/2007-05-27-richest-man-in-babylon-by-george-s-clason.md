@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Richest Man in Babylon by George S. Clason
-categories:
-- Book Reviews
-- Business &amp; Finance
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** The Richest Man in Babylon **Author:**George S. Clason **Year written/published:** 1926 **Summary:** This book is in a story form set in the scene of the ancient Babylon. **My Comments:** I found this book really different from other technical Finance books. I loved the way the concept was being simplified through gold coins and of course we have to relate it back to modern currency and stock systems. I read it like a thin short story book and it was enjoyable… had to read it slowly coz of the ‘ancient’ English. ![:)](http://buibui.wordpress.com/wp-includes/images/smilies/icon_smile.gif) **Some extracts:** Forward… > Money is the medium by which earthly success is measured Money makes possible the enjoyment of the best the earth affords Money is plentiful for those who understand the simple laws which govern its acquisition Money is governed today by the same laws which controlled it when prosperous men which controlled it when prosperous men thronged the streets of Babylon, 6000 years ago
 on fickle fate.. or sudden luck! > Fickle Fate is a vicious goddess who brings no permanent good to anyone. On the contrary, she bring ruin to almost every man upon whom she showers unearned gold. She makes wanton spenders, who soon dissipate all they received and are left beset by overwhelming appetites and desires they have not the ability to gratify.
 simple rules.. > Lo, Money is plentiful for those who understand the Simple rules of its acquisition

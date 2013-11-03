@@ -1,15 +1,8 @@
 ---
 layout: post
 title: World's most competitive economies
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 the [rankings](http://www.weforum.org/en/initiatives/gcp/Global%20Competitiveness%20Report/index.htm)...
 
 1. US 

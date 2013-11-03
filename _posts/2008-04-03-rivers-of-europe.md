@@ -1,15 +1,12 @@
 ---
 layout: post
 title: Rivers of Europe
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
-[Rivers of europe](http://en.wikipedia.org/wiki/List_of_rivers_of_Europe)... the main ones include... Important rivers of Europe with approximate length:
+
+[Rivers of europe](http://en.wikipedia.org/wiki/List_of_rivers_of_Europe)... the main ones include...
+
+Important rivers of Europe with approximate length:
+
 1. [Volga](http://en.wikipedia.org/wiki/Volga "Volga") Russia
 2. [Danube](http://en.wikipedia.org/wiki/Danube "Danube") East Europe
 3. [Ural](http://en.wikipedia.org/wiki/Ural_River "Ural River")

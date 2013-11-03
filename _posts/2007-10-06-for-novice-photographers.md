@@ -1,14 +1,8 @@
 ---
 layout: post
 title: for novice photographers
-categories:
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 i really loved the points in [this article ](http://digital-photography-school.com/blog/11-tips-for-beginner-photographers/)from one of my fav blogs, DPS... tips for beginner photographers... and i couldn't agree more especially with number 3. And with a small point and shoot and free web resource, anyone can simply enjoy photography :) ... the tips are...
 
 1. Don’t go crazy buying the most expensive equipment right away.

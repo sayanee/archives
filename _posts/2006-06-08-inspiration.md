@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Inspiration
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 This brought me to tears... now this is what i call [love](http://www.teamhoyt.com/ "Team Hoyt"). One dad pushes his son all the way throughout the triathlon so that his son could also take part in it.
 
 I'm reminded everyday that I'm truly blessed. Well there's miracle on earth too.

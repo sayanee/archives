@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Cloud for Olympics 2012
-categories:
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
 ---
-Architecture is becoming like an art structure ... the [cloud](http://raisethecloud.org/) is a completely new architectural concept unimaginable.... floating in the sky! ![](/img/Screen-shot-2009-11-26-at-AM-06.39.08.jpg "Screen shot 2009-11-26 at AM 06.39.08")
+
+Architecture is becoming like an art structure ... the [cloud](http://raisethecloud.org/) is a completely new architectural concept unimaginable.... floating in the sky!
+
+![](/img/Screen-shot-2009-11-26-at-AM-06.39.08.jpg "Screen shot 2009-11-26 at AM 06.39.08")

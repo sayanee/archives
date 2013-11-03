@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Father Forgets
-categories:
-- Life Skills
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Father Forgets by W. Linvingston. Be fore you criticise again... read this. It was printed in reader's digest and has been a favourtie for decades.
 
 >  

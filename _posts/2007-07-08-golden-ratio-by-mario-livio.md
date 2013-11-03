@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Golden Ratio by Mario Livio
-categories:
-- Book Reviews
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** The Golden Ratio - The story of Phi, the World's Most Astonishing Number **Author:**Mario Livio **Year written/published:** 2002 **Book Source:** [Amazon](http://www.amazon.com/Golden-Ratio-Worlds-Astonishing-Number/dp/0767908163/ref=sr_1_1/002-2419297-4045618?ie=UTF8&s=books&qid=1183387360&sr=8-1) **Summary:** This book talks about the various occurence of the [number phi ](http://share.sweska.net/2007/06/29/golden-ratio/)and also its history of discovery **Contents Page:**
 1. Prelude to a Number
 2. The Pitch and the Pentagram

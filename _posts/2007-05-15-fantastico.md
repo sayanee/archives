@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Fantastico
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I wanted to install the wordpress in my own domain. And guess what! It was just a click of a button away thanks to Fantastico. [Fantastico](http://en.wikipedia.org/wiki/Fantastico_%28web_hosting%29) can be found in the cPanel and it automates the installation of many web-based applications like Wordpress. It is [a product of Netenberg](http://netenberg.com/fantastico.php). And some applications that it can install are:
 
 1. Blogs ( [Nucleus](http://nucleuscms.org/),  [pMachine Free](http://www.pmachine.com/ ),  [WordPress](http://wordpress.org/ ))

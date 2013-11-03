@@ -1,13 +1,8 @@
 ---
 layout: post
 title: cheat sheet
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 ![](/img/cheatsheet089765436789.jpg)
 
 I can bring in 2 X A4 size papers. And after horrendous squeezing, i have a lot of white spaces left! So, i'll squeeze in the tutorials as well. Not that it'll help me much anyway.

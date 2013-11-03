@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Enigmatic HDR
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 ![](http://static.flickr.com/37/105257024_4ec37dde63.jpg)
 
 ###### Photo Credit: [Inside the Basillica ](http://www.flickr.com/photos/ggladman/105257024/)by [Greg Gladman](http://www.flickr.com/photos/ggladman/)

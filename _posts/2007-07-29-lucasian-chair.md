@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Lucasian Chair
-categories:
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 The [Lucasian Chair of Mathematics ](http://en.wikipedia.org/wiki/Lucasian_Professor_of_Mathematics)is a Professorship for the Cambridge University founded in 1663. As we can see the list of holders here, there are famous names... i know the names in bold...
 
 1. 1664 Isaac Barrow

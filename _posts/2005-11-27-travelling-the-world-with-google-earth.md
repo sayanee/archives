@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Travelling the world with Google Earth…
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+categories:
+- Musing
 ---
+
 I’ll be rotting in Singapore for the whole of hols...but hey!! I found a unique way to travel around the world... [**Google Earth**](http://earth.google.com/download-earth.html) is so cool!! I finally got time to explore it...and I decided to visit my friends all around the world. And Anand...Prince William and him are kind of neighbours..hehe! They stay quite near each other.
 
 ![](/img/anan_0.jpg)

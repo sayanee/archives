@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Brighter days…
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Haven't seen such brighter skies for a long time it seems, because it has been really hazy and dull and sad. I'm blessed to have found _you_... never knew we were so similar. Thanks for listening. Well, actually it's the friends that make even the dull skies appear brighter... so true...
 
 ![](/img/cloudsmall.jpg)

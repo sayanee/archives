@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Free things to do... paris & amsterdam
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 for a tight budget travel, i found that there are indeed many beautiful free things to do... Paris...
 
 - [5 things to do in paris](http://gofrance.about.com/od/parisattractions/tp/freeparis.htm)

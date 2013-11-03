@@ -1,20 +1,10 @@
 ---
 layout: post
 title: iPhone battery care
-categories:
-- Current Technology
-tags:
-- battery
-- iphone
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
-Apple has laid out some relaly [good tips on the iPhone battery](http://www.apple.com/batteries/iphone.html) care:
 
--  
+Apple has laid out some really [good tips on the iPhone battery](http://www.apple.com/batteries/iphone.html) care:
+
 - To disable location services, go to Settings > General > Location Services
 - To fetch new data manually, from the Home screen choose Settings > Fetch New Data and tap Manually
 - To increase the fetch interval, go to Settings > Fetch New Data and tap Hourly

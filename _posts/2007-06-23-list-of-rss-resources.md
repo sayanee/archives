@@ -1,14 +1,8 @@
 ---
 layout: post
 title: List of RSS resources
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I saw this [list of 120 RSS resources ](http://mashable.com/2007/06/11/rss-toolbox/)recently in the [lifehacker](http://www.lifehack.org/articles/technology/120-rss-resources.html)... and it has the following categories...
 
 1. RSS readers - Windows

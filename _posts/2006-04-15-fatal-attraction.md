@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Fatal Attraction
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 INTERNET!!!! I just have to sit in front of my comp and i can easily spend 5 hours on it... blogs blogs blogs, [wordpress](http://wordpress.com/forums/), [flickr](http://flickr.com/explore/interesting/7days/), [youtube](http://youtube.com/), [photoshop](http://www.tutorialized.com/), flash, css, [plugins](http://codex.wordpress.org/Plugins) etc etc etc. While I do learn bits and pieces I simply cannot afford to do this NOW.
 
 I have the best exam timetable ever... notice there is a gap of 4 days between each exam and I only gotta go back for 3 days. Lovely!

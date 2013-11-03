@@ -2,15 +2,16 @@
 layout: post
 title: The Sage Guide to Mutual Funds by Cohn
 categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
-**Book Title:** The Sage Guide to Mutual Funds - Superior Investment Wisdom form the Number One Online Mutual Fund Gurus **Authors:**Alan and Stephen Cohn - founders of Sage online **Year written/published:** 1999 **Book Source:** [Google Books](http://books.google.com/books?id=kpb6HAAACAAJ&dq=sage+mutual+funds), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+26967+3002+9610411+1+0) **Some extracts:** subjective test on morningstar.com
+
+- **Book Title:** The Sage Guide to Mutual Funds - Superior Investment Wisdom form the Number One - Online Mutual Fund Gurus
+- **Authors:**Alan and Stephen Cohn - founders of Sage online
+- **Year written/published:** 1999
+- **Some extracts:**
+
+subjective test on morningstar.com
+
 - gather your group of potential funds
 - enter the fund ticket symbol
 - has the fund performed in the top 50 percent most years?
@@ -21,12 +22,14 @@ meta: {}
 - is the start date of management at least 3 years?
 
 risks and returns...
+
 - low risk, high return - well-diversified portfolio
 - high risk, high return - large stocks
 - low risk, low return - bonds
 - high risk, low return - small stocks, international, emerging market
 
 international stock subjective test..
+
 - is its alpha, under the 'best fit index' column greater than zero?
 - is the sharpe ratio greater than 0?
 - does the fund have exposure in at least 3 of the following regions? Europe, Japan, Latin America, or the Pacific Rim?
@@ -35,6 +38,7 @@ international stock subjective test..
 - does the fund hold no more than 20% of its assets in any one country?
 
 some useful indexes for specialised funds...
+
 - value line index
 - lehman brothers aggregate bond index
 - MSCI EAFE Index

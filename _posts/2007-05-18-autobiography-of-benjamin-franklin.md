@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Autobiography of Benjamin Franklin
-categories:
-- Book Reviews
-- People Profile
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Franklin's Autobiography **Author:** [Benjamin Franklin](http://en.wikipedia.org/wiki/Benjamin_Franklin) **Year written/published**: 1791 Summary: **My Comment:** Ever since reading Dale Carnegie, I wanted to read this autobiography becasue Carnegie mentioned that Franklin is a master of diplomacy and reading his autobiography is definitely invaluable. Yes! A big star... do read it! U can also [download it from the gutenberg](http://www.gutenberg.org/etext/20203). Get the html version coz it has illustrations... enjoy :P or [another website here](http://www.earlyamerica.com/lives/franklin/) also gives his entire book.
 
 Some extracts:

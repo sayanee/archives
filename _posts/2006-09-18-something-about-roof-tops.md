@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Something about Roof Tops
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 There's something about open spacious roof tops and me. 
 
 Maybe because i practically [grew up in a house ](http://flickr.com/photos/sweska/171807118/)with a pretty huge spacious roof top and spent all my play-times there... with hide and seek, kite flying, little running races or even hand to hand combat fighting with gaurav.. haha!! But whatever i did it was always about enjoying the wind, the space and the sky above.

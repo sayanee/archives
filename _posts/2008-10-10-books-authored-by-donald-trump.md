@@ -1,15 +1,8 @@
 ---
 layout: post
 title: books authored by Donald Trump
-categories:
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 Donald Trump has written quite a few books...
 
 - _Trump: The Art of the Deal_ (1987)

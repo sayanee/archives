@@ -1,14 +1,8 @@
 ---
 layout: post
 title: European Countries
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Europe can be viewed as divisions.... here's a list along with the countries' capital cities... **Eastern Europe:**
 
 1. Belarus -Minsk

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: French vocabulary - Shops
-categories:
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 shops...
 
 - **l'épicerie** grocery store

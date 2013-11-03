@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Some reflections in graphics
-categories:
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I love these blogs... they are graphical / photographical and they make me think and if they don't, they simply make me laugh :P Enjoy...
 
 - [bitter Stickgal](http://stickgal.blogspot.com/index.html)

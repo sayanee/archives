@@ -1,17 +1,8 @@
 ---
 layout: post
 title: Probability
-categories:
-- Science
-tags:
-- math
-- probability
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 **Probability A and B**
 - P(A) + P(A’) = 1
 - P(AUB) = P(A or B) = A union B

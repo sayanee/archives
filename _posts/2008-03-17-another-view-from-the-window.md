@@ -1,13 +1,10 @@
 ---
 layout: post
 title: another view from the window...
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+categories:
+- Musing
 ---
+
 I woke up yesterday morning in a little room, tucked away in a small French town - Tours. And when I opened my window, it was a new view all together.
 
 ![](/img/room_view_window.jpg)

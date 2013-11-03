@@ -1,13 +1,10 @@
 ---
 layout: post
 title: A day of art and music
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+categories:
+- Musing
 ---
+
 Went to the Victoria Concert Hall to hear the final round of the Open Category of the **National Piano and Violin Competition**... awestruck!
 
 ![](/img/DSC02231.jpg)

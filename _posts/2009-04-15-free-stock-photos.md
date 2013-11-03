@@ -1,17 +1,10 @@
 ---
 layout: post
 title: free stock photos
-categories:
-- Music and Arts
-tags:
-- stock photos
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 [awesome article by the tutorial blog](http://tutorialblog.org/25-places-to-find-awesome-stock-photos-—-free-and-cheap/) lists down 25 sites for free stock photos:
+
 1. [StockVault](http://www.stockvault.net/)
 2. [Pixel Galerie](http://www.pixelgalerie.com/)
 3. [Free Range](http://www.freerangestock.com/)

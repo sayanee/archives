@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Blog Design Solutions
-categories:
-- Book Reviews
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Blog Design Solutions **Authors:** Andy Budd, Simon Collison, Chris J. Davis, Michael Meilemann, John Oxton, David Powers, Richard Rutter, Phil Sherry **Year written/published:** 2006 **My Comments:** I basically zoomed into the chapters - 1,2,5,7. It’s an informative book about various blogging engines and how to build and code them. I picked up this book to give me some leads into the designs behind Wordpress and how it runs in php and mySQL. I learnt about new technology names lke Apache, Perl and CGI scripts which are used heavily for blogging engines. One great things about reading books is that gives us leads to more similar knowledge… i’ll definitely be picking up a book on Apache soon ![:P](http://buibui.wordpress.com/wp-includes/images/smilies/icon_razz.gif) **Contents page:**
 
 1. The “Web log”

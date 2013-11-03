@@ -2,14 +2,17 @@
 layout: post
 title: book of secrets by deepak chopra
 categories:
-- Book Reviews
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
-**Book Title:** The book of secrets - Unlocking the hidden dimensions of your life **Author:** Deepak Chopra **Year written/published:** 2004 **Book Source:** Google Books, Library **Summary:** a philosophical look at life and everything and the universe - talks about the mysteries of life. **My Comments:** I have really read this kinda of philosophical book... it has a very different perpective. I thought it was beautiful... **Contents page:**
+
+- **Book Title:** The book of secrets - Unlocking the hidden dimensions of your life
+- **Author:** Deepak Chopra
+- **Year written/published:** 2004
+- **Book Source:** Google Books, Library
+- **Summary:** a philosophical look at life and everything and the universe - talks about the mysteries - of life.
+- **My Comments:** I have really read this kinda of philosophical book... it has a very different - perpective. I thought it was beautiful...
+- **Contents page:**
+
 1. secret #1: the mystery of life is real
 2. secret #2: the world is in you
 3. secret #3: 4 paths lead to unity
@@ -27,6 +30,7 @@ meta: {}
 15. secret #15: everything is pure essence
 
 **Some extracts:** Identifying with the body’s intelligence
+
 1. You have a higher purpose
 2. You are in communion with the whole of life
 3. Your awareness is always opento change. From moment to moment it senses everything in your environment
@@ -39,6 +43,7 @@ meta: {}
 10. You see all change, including birth and death, against the background of immortality.
 
 How to seek within:
+
 1. Follow the flow of awareness
 2. Don’t resist what’s happening inside
 3. Open yourself to the unknown
@@ -48,6 +53,7 @@ How to seek within:
 7. Let the center be your home
 
 I can fall back on a few simple steps when I find myself being overshadowed by anything:
+
 1. I say to myself, :This situation may be shaking me, but I am more than any situation.”
 2. I take a deep breath and focus my attention on whatever ny body is feeling
 3. I step back and see myself as another person would see me
@@ -56,6 +62,7 @@ I can fall back on a few simple steps when I find myself being overshadowed by a
 6. If I am about to burst out with uncontrollable reactions I walk away
 
 Causes of suffering:
+
 - overlooking actual facts
 - adopting a negative perception
 - reinforcing that perception by obsessive thinking
@@ -64,6 +71,7 @@ Causes of suffering:
 - cementing the suffering through relationships
 
 How to choose without getting trapped:
+
 1. Make the most of every experience
 2. don’t obsess over right and wrong decisions
 3. stop defending your slef-image
@@ -73,6 +81,7 @@ How to choose without getting trapped:
 7. find the stream of joy
 
 Universal principles:
+
 1. the events in my life reflect who I am
 2. the people in my life reflect aspects of myself
 3. whatever I pay attention to will grow
@@ -85,6 +94,7 @@ Universal principles:
 10. I am living in many dimensions at once; the appearance of bring trapped in time and space is just an illusion
 
 some questions…
+
 - Who am I? You are the totality of the universe acting through a human nervous system
 - Where did I come from? You came from a source that was never born and will never die
 - Why am I here? To create the world in every moment

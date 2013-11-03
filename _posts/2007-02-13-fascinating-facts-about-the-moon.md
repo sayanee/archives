@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Fascinating facts about the Moon
-categories:
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Moon, the only satellite of the earth...
 
 -  

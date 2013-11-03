@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Orton Effect in Photography
-categories:
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Orton effect in photoraphy is produced by merging images of different focus. It was first created by [Michael Orton](http://www.michaelorton.com/). Some links...
 
 - [Flickr Orton photos](http://www.flickr.com/search/?q=orton&m=tags&s=int)

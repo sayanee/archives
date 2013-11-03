@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Steve Jobs
-categories:
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 [Steve Jobs](http://en.wikipedia.org/wiki/Steve_Jobs) is the CEO of [Apple](http://www.apple.com/). Once he was kicked out of the company he founded.
 
 [youtube=http://www.youtube.com/watch?v=QOVRgVPrGlQ]

@@ -1,16 +1,10 @@
 ---
 layout: post
 title: world's most expensive cities
-categories:
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 [from source](http://www.citymayors.com/economics/expensive_cities2.html):
+
 1. London
 2. Oslo
 3. Dublin

@@ -2,14 +2,9 @@
 layout: post
 title: Natural beauty Book by Josephine Fairley
 categories:
-- Book Reviews
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:** The Ultimate Natural Beauty Book - 100 organic beauty products to make and use easily at home **Author:**Josephine Fairley **Year written/published:** 2004 **Book Source:** [Google Books](http://books.google.com/books?id=oSRPGQAACAAJ&dq=natural+beauty+book+josephine), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+11262+3002+12479344+2+2) **Summary:** Using totally kitchen and food materials you can create your own cosmetics + skin care products **My Comments:** After reading about [Anita Roddick ](http://www.anitaroddick.com/)i just had to pick up this book... it's intriguing how natural products are so much more enhancing and how you can even make cosmetics from it!?!??!?! **Contents page:**
 1. Face: dry skin, normal skin, oily skin, sensitive skin, problem skin, mature skin, troubleshooters, eyes, smiles 
 2. Makeup

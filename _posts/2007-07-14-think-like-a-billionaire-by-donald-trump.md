@@ -1,17 +1,8 @@
 ---
 layout: post
 title: Think like a Billionaire by Donald Trump
-categories:
-- Book Reviews
-- Business &amp; Finance
-- Life Skills
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title: **Think like a Billionaire - Everything you need to know about success, real estate and life **Author:** [Donald Trump](http://en.wikipedia.org/wiki/Donald_Trump) **Year written/published:** 2004 **Book Source:** [Amazon](http://www.amazon.com/Trump-Billionaire-Everything-Success-Estate/dp/0345481402/ref=pd_bbs_2/105-4294929-8238850?ie=UTF8&s=books&qid=1184219620&sr=8-2), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+13106+3002+12734252+2+0) **My Comments: **I totally loved this book... it has really short and candid chapters. It didn't bore me at all :D Trump is full of sparkling practical ideas and it really gave me a glimpse into the life of a billionaire!! **Contents page:**
 1. Real Estate
 2. Money

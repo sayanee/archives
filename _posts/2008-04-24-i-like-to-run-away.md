@@ -1,13 +1,10 @@
 ---
 layout: post
 title: i like to run away
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+categories:
+- Musing
 ---
+
 I have been itching to post up how i had my afternoon coffee last weekend. Sitting on that narrow staircase winding up the wall of my hostel, i sat there beside the railing having my coffee while the sun ray was falling on the entire east of Lyon. See that? This is right from the [Fourvière Hill](http://www.virtualtourist.com/travel/Europe/France/Rhone_Alpes/Lyon-105728/Things_To_Do-Lyon-Fourviere_Hill-BR-1.html) over-looking the [Vieux Lyon ](http://www.lyon.fr/vdl/sections/en/tourisme/fil_quartier/vieux_lyon/)and really far away at the horizons can you see those snow capped Alpes mountain range?
 
 ![](/img/lyon_view_east.jpg)

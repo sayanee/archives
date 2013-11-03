@@ -1,13 +1,8 @@
 ---
 layout: post
 title: i'm a bookworm!!!
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 ok! i confess i have indeed become a true bookworm - carrying a book in my bag every time! The [counter reads 41 books ](http://share.sweska.net/category/book-reviews/)currently and it kinda reminded me of another bookworm i used to admire - Belle, the Disney princess...
 
 ![](/img/belle_books.jpg)

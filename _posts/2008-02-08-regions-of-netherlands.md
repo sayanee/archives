@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Regions of Netherlands
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 the regions in Netherlands includes:
 
 1. [Drenthe](http://en.wikipedia.org/wiki/Drenthe "Drenthe")

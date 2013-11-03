@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Multiple Streams of Income by Robert G. Allen
-categories:
-- Book Reviews
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Multiple Streams of Income: How to generate a lifetime of unlimited wealth! **Author:** Robert G. Allen **Year written/published:** 2000 **My Comment:** This book is loaded with brilliant ideas. But i must admit, some were technical for me. I got the gist of it all and some lead ideas. It’s worth reading it again and again! **Contents page:**
 1. easy money: financial freedom on a dollar a day
 2. 10 minute millionaire

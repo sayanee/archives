@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Audio Player plugin for Wordpress
-categories:
-- Current Technology
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I thought this is one of the most neat [audio mp3 flash player plugin ](http://www.1pixelout.net/code/audio-player-wordpress-plugin/)for wordpress... an example... [audio:http://share.sweska.net/files/Chicken Dance.mp3] Som points on using this plugin...
 
 - syntax is _[a udio:link]_

@@ -1,15 +1,8 @@
 ---
 layout: post
 title: British Prime Ministers
-categories:
-- People Profile
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 so the first prime minister of Britian was in 1740, [Sir Robert Walpole](http://en.wikipedia.org/wiki/Robert_Walpole "Robert Walpole")! I found a long [list of the Prime Ministers ](http://en.wikipedia.org/wiki/Prime_Ministers_of_the_United_Kingdom)since then... the 20th century list includes...
 
 1. [Arthur Balfour](http://en.wikipedia.org/wiki/Arthur_Balfour "Arthur Balfour")

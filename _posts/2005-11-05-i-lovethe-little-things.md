@@ -1,13 +1,10 @@
 ---
 layout: post
 title: I love…the little things
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+categories:
+- Musing
 ---
+
 Firstly, I **HATE** court shoes!!!... why on earth must we wear this painful, ever-scratching, skin peeling, making-red-skin shoes for formal presentations?!?!
 
 For the past few days I was having a bit of distractions. This little voice beside me wanted to play and talk. Yesterday this little voice kept pestering me… when I turned around I saw this….aaaaaaaawwwwwwww she melted my heart. My little 6 year old cousin. Isn’t she cute?? She’s the last of my generation because after that is the starting of the nieces and nephews!

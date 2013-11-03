@@ -1,13 +1,8 @@
 ---
 layout: post
 title: IDEO - Deep Dive
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
-These 3 video shows creativity at work at [IDEO](http://www.ideo.com/)  
+
+These 3 video shows creativity at work at [IDEO](http://www.ideo.com/)
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/2Dtrkrz0yoU" frameborder="0" allowfullscreen></iframe>

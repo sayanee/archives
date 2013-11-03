@@ -1,14 +1,8 @@
 ---
 layout: post
 title: French vocabulaire - Family
-categories:
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 some common family relations in french...
 
 1. father un père

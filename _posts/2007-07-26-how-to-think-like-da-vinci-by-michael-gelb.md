@@ -1,16 +1,8 @@
 ---
 layout: post
 title: How to think like Da Vinci by Michael Gelb
-categories:
-- Book Reviews
-- Life Skills
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title: **How to think like Leonardo Da Vinci: 7 steps to the Genius Every day **Author:**Micahel J. Gelb **Year written/published:** 1998 **Book Source:** [Amazon](http://www.amazon.com/How-Think-Like-Leonardo-Vinci/dp/0440508274/ref=sr_1_1/002-0774290-2058425?ie=UTF8&s=books&qid=1185028564&sr=1-1), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?resultsScreen+5118+1+5+0) **My Comments:**i'm awed by the talent and the brilliance of Leonardo Da Vinci. **Some extracts:** 7 intelligences and some genius examples...
 1. Logical-mathematical - Stephen Hawking, Newton, Marie Curie
 2. verbal-Intelligence - Shakespeare

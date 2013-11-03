@@ -1,16 +1,9 @@
 ---
 layout: post
 title: a collage of famous and the notorious
-categories:
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
-Loved this pic that one of my friends put us... [view large](/files/FamousPeople.jpg). SO how many people can you indentify?? :P
+
+Loved this pic that one of my friends put us... [view large](/img/FamousPeople.jpg). SO how many people can you identify?? :P
 
 ![famouspeople_small.jpg](/img/famouspeople_small.jpg)
 

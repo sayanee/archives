@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Camera brands and models
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 because i wanna know more. Here are the top 6 brands of [camera brands in Flickr](http://flickr.com/cameras/):
 
 1. Canon

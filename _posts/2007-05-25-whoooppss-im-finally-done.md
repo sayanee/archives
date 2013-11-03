@@ -1,13 +1,8 @@
 ---
 layout: post
 title: whoooppss!!! I’m finally done!!!
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 yaaaahooooooooo..... i have graduated!!!!!!!!!!!!!!!!!!!!!
 
 \*throws confetti\*

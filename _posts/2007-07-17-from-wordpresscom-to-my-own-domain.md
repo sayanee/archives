@@ -1,14 +1,8 @@
 ---
 layout: post
 title: from wordpress.com to my own domain
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 From using [wordpress.com ](http://wordpress.com/)to [wordpress.org](http://wordpress.org/) Shifting the posts...
 
 - Manage -> Export -> Wordpress in wordpress.com

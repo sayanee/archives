@@ -1,15 +1,8 @@
 ---
 layout: post
 title: 33 Killer Persuasion Tactics by Stuart Tan
-categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** 33 Killer Persuasion Tactics to Multiply Your Sales and Business **Author:** Stuart Tan **Year written/published:** 2006/2005 **My Comment:**Very focused manuscript on 33 tactics for persuasion. I really like this one! The author first goes on to explain the meaning of Influence before telling the reader about the 33 tactics. He dabbled a lot with psychology and body language to go in depth about understanding the other party. And what i loved most is a table that displayed all the names of the 33 tatics and told us exactly in which stage of buying we can use them... very clear and concise! **Some extracts:** Here are some of the definitions/theories he mentioned:
 
 1. Heuristics

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: a moment of bliss…
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Some moments are hard to capture… and i would want to capture this moments right now.
 
 Alone in my room… basking in the self-fulfillment of finally completing all my projects, labs, tests and presentations of my last semester, having returned from gym and feeling fresh and energised… looking through all my undergrad photos in my laptop and listening to the [words ](http://www.azlyrics.com/lyrics/alanismorissette/handinmypocket.html)of [One hand in my pocket](http://youtube.com/watch?v=nLXULfN77TQ), occasionally clicking away the photoshop and camera tabs to make a picture of the dark chocolate i'm having now - perfect!

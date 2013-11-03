@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Basic German for travel
-categories:
-- Culture and Society
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Some collective words...
 
 - yes / no ja / nein (yah/nine)

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Rule of 72 and Compound Interest
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Albert Einstein once said that [Compound Interest ](http://en.wikipedia.org/wiki/Compound_interest)and the [rule of 72 ](http://en.wikipedia.org/wiki/Rule_of_72)is...
 
 > It is the greatest mathematical discovery of all time

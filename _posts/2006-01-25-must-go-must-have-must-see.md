@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Must Go! Must Have! Must See!
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I should really blog more frequently because I have a lot of things to say, but I just get too lazy to say it all because as you know I always want my blog to be colourful with pics! This blog shall be about my 3 recently discovered loves... Must Go Must have Must See
 
 **Must Go..Bras Basah Complex**

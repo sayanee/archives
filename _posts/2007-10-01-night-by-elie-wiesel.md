@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Night by Elie Wiesel
-categories:
-- Book Reviews
-- People Profile
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Night **Author:** [Elie Wiesel](http://en.wikipedia.org/wiki/Elie_Wiesel) - a holocaust survivor, a nobel peace prize winner, author and political activist **Year written/published:** 1958 **Book Source:** Library, [Google Books ](http://books.google.com/books?id=CKK8_fD4qTQC&pgis=1)**Summary:** A chilling and powerfully telling story of Elie's life as a 15 year old in the Jewish concentration camp during the World War. **My Comments:** My first holocaust literature... maybe Anne Frank too but this one tells of a survival story from the concentration camp.... too many questions... read it for yourself to find those answer... if we ever can! **Some extracts:**
 
 A miraculous survival?

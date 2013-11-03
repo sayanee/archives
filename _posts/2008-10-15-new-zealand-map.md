@@ -1,18 +1,11 @@
 ---
 layout: post
 title: New Zealand map
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 ![](/img/new_zealand_map.gif)
 
-  [picture credit](http://www.moxon.net/images/new_zealand/new_zealand_map.gif)
+[picture credit](http://www.moxon.net/images/new_zealand/new_zealand_map.gif)
 
 8 largest cities of New Zealand include:
 

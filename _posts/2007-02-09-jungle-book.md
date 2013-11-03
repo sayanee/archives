@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Jungle Book
-categories:
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 one of my fav songs by Baloo, the bear and Mowgli... Bare Necessities with the [full lyrics here](http://www.fpx.de/fp/Disney/Lyrics/TheJungleBook.html#The%20Bare%20Necessities)
 
 >

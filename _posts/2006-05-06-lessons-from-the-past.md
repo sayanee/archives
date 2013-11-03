@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Lessons from the past
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 We had a mini renovation with a couple of new furniture. So dad was busy shifting stuff from his old cabinet to the newer one. He was throwing away some old useless stuff, but sometimes old stuff are definitely not meant to be thrown away... and he passed me something to keep it forever... or rather he passed it to the next generation.
 
 A tiny functional film camera or rather a World War II Japanese spy camera with the printed words _Made in Occupied Japan._ The object is fascinating and so is the story of how and why this ended up with Sweska.

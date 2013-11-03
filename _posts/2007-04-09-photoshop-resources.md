@@ -1,14 +1,8 @@
 ---
 layout: post
 title: free Photoshop resources
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Photoshop brushes (\*.abr)
 
 - [inobscuro](http://inobscuro.com/brushes/)

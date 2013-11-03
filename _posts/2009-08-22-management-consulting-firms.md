@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Management Consulting firms
-categories:
-- Business &amp; Finance
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
 ---
+
 Some corporations dealing with Management consulting:
 
 1. [McKinsey and Company](http://en.wikipedia.org/wiki/McKinsey_and_Company "McKinsey and Company") (8.430)

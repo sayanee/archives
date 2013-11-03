@@ -2,18 +2,16 @@
 layout: post
 title: How to have a Beautiful Mind
 categories:
-- Book Reviews
-- Life Skills
-tags:
-- beautiful mind
-- de bono
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+- Books
 ---
-**Book Title:** How to have a Beautiful Mind **Author**: Edward de Bono Year written/published: 2004 Book Source: [Google Books](http://books.google.com/books?id=Ia3SAAAACAAJ&dq=How+to+have+a+Beautiful+Mind), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+26845+3002+12367691+2+0) **My Comments:** A truly beautiful mind is one with different perpectives, view points, the one who can take alternatives and opinions that are much different from my own. I have always liked De Bono's books... and this is definitely one of them! **Contents page**:
+
+- **Book Title**: How to have a Beautiful Mind
+- **Author**: Edward de Bono
+- **Year written/published**: 2004
+- **My Comments**: A truly beautiful mind is one with different perspectives, view points, the one who can take alternatives and opinions that are much different from my own. I have always liked De Bono's books... and this is definitely one of them!
+
+**Contents page**:
+
 1. How to agree
 2. How to disagree
 3. how to differ
@@ -33,6 +31,17 @@ meta:
 17. Attitude
 18. Starting and topics
 
-**Some extracts**: on being right all the time... > If you insist on always winning an argument you end up with nothing more than you started with - except showing off your arguing ability. When you lose an argument you may well have gained a new point of view. Being right all the time is not the most important thing in the world and it is certainly not very beautiful.
-how to be interesting... > Being interesting is much more important than winning an argument. Being interesting is much more important than showing how clever you are. If you are interesting people will want to be with you. ... Most conversation and arguments strives towards certainty: 'this is the way it is' and 'this is not right'... putting forward alternatives and other possibilities can make the discussion more interesting. The possibilities can be explored even if they are finally rejected,
-alternatives... > Alternatives are so important a part of having a beautiful mind... ... Alternative are the opposite of rigidity. Being unwilling to look for alternatives indicates a very rigid mind that does not seek a better view of the word or a better way of doing things. It is a rigidity based on arrogance and defensiveness. Alternatives are the opposite of complacency. If you are happy where you are and cannot imagine any improvement then you make no effort to find alternatives.
+
+**Some extracts**:
+
+on being right all the time...
+
+> If you insist on always winning an argument you end up with nothing more than you started with - except showing off your arguing ability. When you lose an argument you may well have gained a new point of view. Being right all the time is not the most important thing in the world and it is certainly not very beautiful.
+
+how to be interesting...
+
+> Being interesting is much more important than winning an argument. Being interesting is much more important than showing how clever you are. If you are interesting people will want to be with you. ... Most conversation and arguments strives towards certainty: 'this is the way it is' and 'this is not right'... putting forward alternatives and other possibilities can make the discussion more interesting. The possibilities can be explored even if they are finally rejected,
+
+alternatives...
+
+> Alternatives are so important a part of having a beautiful mind... ... Alternative are the opposite of rigidity. Being unwilling to look for alternatives indicates a very rigid mind that does not seek a better view of the word or a better way of doing things. It is a rigidity based on arrogance and defensiveness. Alternatives are the opposite of complacency. If you are happy where you are and cannot imagine any improvement then you make no effort to find alternatives.

@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Nobel Laureate Facts
-categories:
-- People Profile
-- Science
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 I found some [interesting facts about Nobel Laureates](http://nobelprize.org/nobel_prizes/nobelprize_facts.html) multiple prizes...
 
 - J. Bardeen - Physics 1956, Physics 1972

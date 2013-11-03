@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Glass whiteboards
-categories:
-- Music and Arts
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 glass whtieboards are fast replacing the traditional ones... and [here's](http://www.glasswhiteboards.com.au/about.php) why i love it!
 
 ![](/img/98u4fi43uhro8.jpg "98u4fi43uhro8")

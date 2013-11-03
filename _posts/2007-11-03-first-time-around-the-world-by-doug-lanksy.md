@@ -2,14 +2,9 @@
 layout: post
 title: First Time around the World by Doug Lanksy
 categories:
-- Life Skills
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+- Books
 ---
+
 **Book Title:** First Time Around the World - A Rough Guide Special **Author:** Doug Lanksy **Year written/published:** 2003 **Book Source:** [Google Books](http://books.google.com/books?id=Dl8f0bka2zkC&printsec=frontcover&dq=first+time+around+the+world&sig=t6zZ8OMmJcaqvjdZhgUv2kOH30Y), Library **Summary:** How to travel around the world, what to plan, what to expect, what to bring and most importantly how to enjoy it all. **My Comments:** Loved it!! I'm starting to love reading about places :P Some extracts: 25 things to enrich your journey
 1. Relax on a desolate beach
 2. Spend the night somewhere unusual

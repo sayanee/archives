@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Over the top by Zig Ziglar
-categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 You are at the top when...
 
 1. You clearly understand that failure is an event, not a person; that yesterday ended last night, and today is your brand new day

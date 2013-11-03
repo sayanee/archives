@@ -1,14 +1,8 @@
 ---
 layout: post
 title: how are tunnel made?
-categories:
-- Current Technology
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 [Tunnel Boring Machines](http://en.wikipedia.org/wiki/Tunnel_boring_machine) are used to cut through huge underground tunnels up to 15 metres in diameter! it's so huge!
 
 ![](/img/tbm.jpg)

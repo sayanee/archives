@@ -1,14 +1,8 @@
 ---
 layout: post
 title: General Travel Weblinks
-categories:
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Wanted to have a list of handy sites when travelling...  and i'll keep updating whenever i find more :) General...
 
 1. [Lonely Planet](http://www.lonelyplanet.com/)

@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Am I gonna create a disaster??
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+categories:
+- Musing
 ---
+
 SO all these while I thought I knew how to cook until one day jazz, deeps and shab cornered me and asked, “How do you cook?” I answered, “Simple! Mom says put this and that...shake this and that...done!”. “Ok you dunno how to cook then” was the straight reply. WHAM!!!!....ok so following instructions and cooking is not cooking... GREAT!!!
 
 But today my mom went out and asked me to cook soya chicken... ON MY OWN!!!!!!!!!!! Oh no my parents are not at home now... did I do everything correctly?

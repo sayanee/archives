@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Play my little piano !!!!!!!!!
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
+categories:
+- Musing
 ---
-oooooooohhhh!!! I'm excited! i can finally show you all Sweska's Little Toy Piano...enjoy it over [here](/files/PIANO.zip) !!! Don't you dare tell me you could have done MORE....as i said i'm not gonna spend any more time doing all these extra features. Oh and check out uzyn's mastermind also and it's [here](http://ee2007log.blogspot.com/2005/10/standalone-engine-done.html)! I wonder whether any of our faculty mates put up the other games like pacman, black jack and wheel of fortune...
+
+oooooooohhhh!!! I'm excited! i can finally show you all Sweska's Little Toy Piano...enjoy it over [here](/docs/piano.zip) !!! Don't you dare tell me you could have done MORE....as i said i'm not gonna spend any more time doing all these extra features. Oh and check out uzyn's mastermind also and it's [here](http://ee2007log.blogspot.com/2005/10/standalone-engine-done.html)! I wonder whether any of our faculty mates put up the other games like pacman, black jack and wheel of fortune...
 
 Here's how to play the keyboard. Middle C is the z key in the computer keyboard! Ah well and the rest you get the picture...i layed it out like the 7 white keys and 5 black keys of an actual piano!...enjoy please!!!!!
 

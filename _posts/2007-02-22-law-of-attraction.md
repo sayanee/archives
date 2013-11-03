@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Law of Attraction
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Want to know the secret of getting exactly what you always want?? 
 
 Do you believe in the [law of attraction](http://law-of-attraction-info.com/)? If you truly focus, believe and visualise about the things you really want, you actually eventually get them! Wow! how wonderful!

@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Speech by Bill Gates on Harvard Commencement
-categories:
-- Life Skills
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 some speeches are really worth it... like this one...
 
 >  

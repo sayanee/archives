@@ -1,18 +1,8 @@
 ---
 layout: post
 title: 10 terms for basic photography
-categories:
-- Current Technology
-- Music and Arts
-tags:
-- basics
-- photography
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 and so i learnt the 10 important terms for the basics of photography:
 
 1. [shutter speed](/2008/05/07/shutter-speed/)

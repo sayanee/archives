@@ -2,31 +2,38 @@
 layout: post
 title: 4-Hours workweek by Timothy Ferriss
 categories:
-- Business &amp; Finance
-- Life Skills
-tags:
-- 4 hour
-- ferris
-- new rich
-- productivity
-- tim
-- week
-- work
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+- Books
 ---
-**Book Title**: The 4-hour workweek- Escape 9-5, Live Anywhere and Join the New Rich **Author**: Timothy Ferriss **Year written**/published: 2007 **Book Source**: [Google Books](http://books.google.com/books?id=ip1SAAAACAAJ&dq=4+hour+workweek), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+7746+3002+13069177+1+0) **Contents page**:
+
+- **Book Title**: The 4-hour workweek- Escape 9-5, Live Anywhere and Join the New Rich
+- **Author**: Timothy Ferriss
+- **Year written/published**: 2007
+- **Contents page**:
+
 1. First and Foremost
 2. Step 1: D is for Definition
 3. Step 2: E is for Elimination
 4. Step 3: A is for Automation
 5. Step 4: L is for Liberation
 
-**Some quotations:** > Whenever you find yourself on the side on the amjority, it is time to pause and reflect ~Mark Twain Anyone who lives within their means suffers form a lack of imagination ~ Oscar WIlde Anexpert is a person who has made all the msitakes that can be made in a very narrow filed ~Niels Bohr Reality is merely an Illusion, albeit a very persistent one ~Albert Einstein Everything popular is wrong ~Oscar Wilde, THe Importance of being Earnest Many a false step was made by standing still ~Fortune Cookie Named must your fear be before banish it you can ~Yoda, Star Wars The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man. ~George Bernard Shaw perfection is not when there is no more to add, but no more to take away ~Antione de Saint-Exupery There are many things of which a wise man wish to be ignorant. ~Ralph Waldo Emerson A man is rich in proportion ot the number of things he can afford to let alone ~Henry David Thoreau 
-**Some extracts**: Top 13 New Rich mistakes...
+**Some quotations:**
+
+- Whenever you find yourself on the side on the majority, it is time to pause and reflect ~ Mark Twain
+- Anyone who lives within their means suffers form a lack of imagination ~ Oscar Wilde
+- An expert is a person who has made all the mistakes that can be made in a very narrow filed ~ Niels Bohr
+- Reality is merely an Illusion, albeit a very persistent one ~ Albert Einstein
+- Everything popular is wrong ~ Oscar Wilde, The Importance of being Earnest
+- Many a false step was made by standing still ~ Fortune Cookie
+- Named must your fear be before banish it you can ~Yoda, Star Wars
+- The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man. ~ George Bernard Shaw
+- Perfection is not when there is no more to add, but no more to take away ~ Antione de Saint-Exupery
+- There are many things of which a wise man wish to be ignorant. ~ Ralph Waldo Emerson
+- A man is rich in proportion to the number of things he can afford to let alone ~ Henry David Thoreau 
+
+- **Some extracts**:
+
+Top 13 New Rich mistakes...
+
 1. Losing sight of dreams and falling into work for work's sake
 2. micromanaging and emailing to fill time
 3. handling problems your outsourcers or co-workers can handle

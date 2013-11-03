@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Where's the disney castle??
-categories:
-- Music and Arts
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 Our fairy tale castle - the disney castle where we have seen the dancing beauty and the beast, cinderella and sleeping beauty...
 
 ![](/img/disneycastle.jpg)

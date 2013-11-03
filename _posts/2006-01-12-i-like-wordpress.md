@@ -1,13 +1,8 @@
 ---
 layout: post
 title: I like Wordpress…
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 [Wordpress!!! ](http://wordpress.com/) You don't need so many 3rd party stuff becasue it already has **in-built features** like: - recent comments - calendar of entries - password protected entries... a much safer encryption!!! - i think you can install wordpress and host the blog in your own server...right uzyn?? - page loads / visitors - search engine within your blog - entries that can be categorised
 
 Ok i know for _some_ of you this is ...bleah... hehe but i'm only discovering. Ok i'm slow! ![](http://cyanee.wordpress.com/files/2006/05/1261.gif) But how do I **customise** the layout like blogspot?? I can't seem to get hold of the Template html codes. Because of this i cannot add my own pictures in the side bar or header :( How do you also increase the size of the contents... i like the entries to fill the whole page! I also want to install google analytics in my template page when it's out! How do i do all these...

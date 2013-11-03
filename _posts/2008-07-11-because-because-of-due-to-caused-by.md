@@ -1,16 +1,8 @@
 ---
 layout: post
 title: ! '''Because'', ''because of'', ''due to'' & ''caused by'''
-categories:
-- Culture and Society
-tags:
-- GMAT
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 What are the differences among these words?
 
 - because - a conjunction and it is followed by a sentence with its own subject and verb

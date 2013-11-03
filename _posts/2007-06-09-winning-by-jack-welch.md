@@ -1,16 +1,8 @@
 ---
 layout: post
 title: Winning by Jack Welch
-categories:
-- Book Reviews
-- Business &amp; Finance
-- People Profile
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** Winning **Author: **Jack Welch and Suzy Welch **About the Author:** [Jack Welch ](http://en.wikipedia.org/wiki/Jack_Welch)has been the CEO of General Electric from 1981 to 2001 **Year written/published:** 2005 **My Comments: **A fantastic book about the management of a company and people. The contents are divided into 5 basics - Underneath it all, Your Company, Your Competition, Your Career and Tying up the Loose ends. I’ll definitely come back to this book when i need to recall about the management of a company. It touches on very pertinent issues like hiring, firing, crisis management and competitors. Loved the candor and frankness jack presented in every one of these lines ![:D](http://buibui.wordpress.com/wp-includes/images/smilies/icon_biggrin.gif) **Contents page:**
 
 1. Mission and Values

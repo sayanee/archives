@@ -1,15 +1,8 @@
 ---
 layout: post
 title: 7 Habits of Highly Effective People by Stephen Covey
-categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:**The 7 Habits of Highly Effective People **Author:** [Stephen R. Covey ](http://en.wikipedia.org/wiki/Stephen_Covey)**Year written/published:** 1989 **Book Source:** [Amazon ](http://www.amazon.com/Habits-Highly-Effective-People/dp/0743269519/ref=pd_bbs_sr_1/102-6494326-5408163?ie=UTF8&s=books&qid=1182330182&sr=1-1)**My Comment:** A great book... written in an organised and inspiring manner. Really loved the way he built up the 7 habits in a cohesive manner. **Contents page:**
 1. Inside-Out
 2. Habit 1: Be Proactive - Principles of Personal Vision

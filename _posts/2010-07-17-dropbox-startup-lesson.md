@@ -1,20 +1,8 @@
 ---
 layout: post
 title: Dropbox Startup lesson
-categories:
-- Current Technology
-tags:
-- cloud
-- internet
-status: publish
-type: post
-published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
-  _wp_old_slug: ''
 ---
 
-** [Dropbox Startup Lessons Learned](http://www.slideshare.net/gueste94e4c/dropbox-startup-lessons-learned-3836587 "Dropbox Startup Lessons Learned")**
-View more [presentations](http://www.slideshare.net/) from [gueste94e4c](http://www.slideshare.net/gueste94e4c).
+[Dropbox Startup Lessons Learned](http://www.slideshare.net/gueste94e4c/dropbox-startup-lessons-learned-3836587 "Dropbox Startup Lessons Learned")
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/3836587" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>

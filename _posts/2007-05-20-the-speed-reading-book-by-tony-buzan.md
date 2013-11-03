@@ -1,15 +1,8 @@
 ---
 layout: post
 title: The Speed Reading Book by Tony Buzan
-categories:
-- Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** The Speed Reading Book **Author:** Tony Buzan **Year written/published:** 1971 **My Comment:** was really frustrated... i wanted to read loads of books and it was taking me soooo much time!! My reading speed at the start of this book was **248 wpm**. And [Sean Adam ](http://www.msoworld.com/brain/mental/brainchat_adam_pre.html)has a world record of **3850 wpm**!!!!!!! And president Kennedy famously had a reading speed of 1000 wpm :P Speed reading doesn't only train people to read fast but also to comprehend and understand the passage better. A lot os emphasis was also placed in the vocabulary by learning the main prefix, suffix and roots of many words. This is truly a great book.... hope it'll be the book which will make me read many other great books! **Contents page:**
 
 1. Exploring your Speeds

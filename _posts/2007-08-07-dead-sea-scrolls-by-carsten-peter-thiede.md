@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Dead Sea Scrolls by Carsten Peter Thiede
-categories:
-- Book Reviews
-- Time and Place
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
+
 **Book Title:** The Dead Sea Scrolls and the Jewish Origins of Christianity **Author: **Carsten Peter Thiede **Year written/published:** 2000 **Book Source:** [Amazon](http://www.amazon.com/Dead-Scrolls-Jewish-Origins-Christianity/dp/1403961433/ref=sr_1_1/002-7792776-8528010?ie=UTF8&s=books&qid=1186188526&sr=8-1). Library **Summary:**A book that deals with the finding and revelation of the Dead Sea Scrolls - archaeological writings found amidst the Shores of the Dead Sea and written around 100A.D. Findings are startling and there were also Hebrew Bible... does that mean there's a link between early Christianity and the Judaism? The findings are baffling and thought provoking. **Some extracts:** On celibacy…
 
 >  
