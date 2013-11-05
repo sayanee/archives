@@ -5,8 +5,17 @@ categories:
 - Books
 ---
 
-**Book Title:** Belgium - Insight Guides **Year written/published:** 2005 **Book Source:** Google Books, Library **Some extracts:** Belgium... > In Belgium, appearances can be deceptive. The picturesque cities of Bruges and Ghent resemble medieval tapestries woven around a skein of canals.
+- **Book Title:** Belgium - Insight Guides
+- **Year written/published:** 2005
+- **Book Source:** Google Books, Library
+- **Some extracts:**
+
+Belgium...
+
+> In Belgium, appearances can be deceptive. The picturesque cities of Bruges and Ghent resemble medieval tapestries woven around a skein of canals.
+
 Same cities name equivalents…
+
 - Gand, Gent
 - Bruxelles, Brussel
 - Anvers, Antwerp
@@ -14,11 +23,12 @@ Same cities name equivalents…
 - Lousain, Leuven
 - Bruges, Brugges
 
-Brussels… >
+Brussels..
 
 > An elegant Upper city and an engaging Lower City: central Brussels is characterized by the contract between the two. Both uptown and downtown districts are best explored on foot, with the Upper city a short stroll from the lower city. The villae basse (Lower city) encircles the medieval heart of Brussels, entwined around the Grand-Place and the port.
 
 Some place to visit in Brussels and all within walking distance!
+
 1. Grand place – liveliest district in downtown Brussels
 2. Eglise Saint Nicolas
 3. Manneken Pis

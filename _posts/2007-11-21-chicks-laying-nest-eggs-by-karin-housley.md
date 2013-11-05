@@ -5,7 +5,15 @@ categories:
 - Books
 ---
 
-**Book Title:** Chicks Laying Nest Eggs - how 10 skirts beat the pants off wall street .. and how you can, too! Author: Karin Housely **Year written/published:** 2001 **Book Source:** [Google Books](http://books.google.com/books?id=5VANAAAACAAJ&dq=chicks+laying+nest+eggs), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+4477+3002+10110779+1+0) **Summary:** Investment Club - how to set up and carry out an invesment club. Karin writes about how she and other 9 women came together and set up their own investment club to learn and invest together! **My Comments:** This is the most _fun_ book on investment i have ever read! **Some extracts:** 7 criteria of a rule maker:
+- **Book Title**: Chicks Laying Nest Eggs - how 10 skirts beat the pants off wall street - .. and how you can, too!
+- **Author**: Karin Housely
+- **Year written/published:** 2001
+- **Summary:** Investment Club - how to set up and carry out an invesment club. Karin - writes about how she and other 9 women came together and set up their own investment club to learn and invest together!
+- **My Comments:** This is the most _fun_ book on investment i have ever read!
+- **Some extracts:**
+
+7 criteria of a rule maker:
+
 1. repeat purchase of low-priced products
 2. gross margins
 3. net margins
@@ -15,6 +23,7 @@ categories:
 7. familiarity and interest
 
 Chicks Dozen!
+
 1. Buy what you know
 2. KISS (Keep It Simple Sister!)
 3. Industry
