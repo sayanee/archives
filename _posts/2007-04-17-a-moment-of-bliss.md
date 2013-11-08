@@ -1,6 +1,8 @@
 ---
 layout: post
 title: a moment of bliss…
+categories:
+- Musing
 ---
 
 Some moments are hard to capture… and i would want to capture this moments right now.

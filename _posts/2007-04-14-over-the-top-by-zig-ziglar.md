@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Over the top by Zig Ziglar
+categories:
+- Books
 ---
 
 You are at the top when...
@@ -21,8 +23,12 @@ You are at the top when...
 14. You recognise, confess, develop and use your God-given physical, metal and spiritual abilities to the glory of God and for the benefit of mankind
 15. You stand in front of the creator of the universe and He says to you, "Well done, thou good and faithful servant."
 
-And here's a paragraph about happiness... so true! > Many people honestly believe they will be happy when they get into a home of their own; they will be happy when they get all of the little things that frequently convert a house to a home and have them neatly in place 0 but they won't. Then they'll be happy when they add the patio and the outdoor barbecue grill 0 but they won't. Then they'll be happy when they get the mortgage paid 0 but they won't.... The reason is simple: It makes no difference where you go, there you are. And it makes no difference what you have, there's always more to want. Happines is not a when or a where, it can be now and here.
-  Specific steps to reaching your goals:
+And here's a paragraph about happiness... so true!
+
+> Many people honestly believe they will be happy when they get into a home of their own; they will be happy when they get all of the little things that frequently convert a house to a home and have them neatly in place - but they won't. Then they'll be happy when they add the patio and the outdoor barbecue grill - but they won't. Then they'll be happy when they get the mortgage paid 0 but they won't.... The reason is simple: It makes no difference where you go, there you are. And it makes no difference what you have, there's always more to want. Happines is not a when or a where, it can be now and here.
+
+Specific steps to reaching your goals:
+
 1. make the commitment that you are going to reach your goals
 2. Commit yourself to daily detailed accountability
 3. Break your goal into small pieces

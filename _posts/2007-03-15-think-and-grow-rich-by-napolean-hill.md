@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Think and Grow Rich by Napolean Hill
+categories:
+- Books
 ---
 
 [Think and Grow Rich](http://en.wikipedia.org/wiki/Think_and_Grow_Rich) - A great book. It was written in 1937 just at the end of the Great Depression. I liked it and if you wanna read it for free, just [download the eBook](http://www.zilliontech.com/knowledge/thinkandgrowrich.html) or [read from a blog ](http://think-and-grow-rich-book.blogspot.com/)or [another website](http://www.absolute1.net/napoleon-hill-think-and-grow-rich.html) :D
@@ -8,8 +10,6 @@ title: Think and Grow Rich by Napolean Hill
 Like any book that teaches us about Personal mastery, it always gives us many examples of role models. So instead of giving examples of Trump or Buffet, i read here about [Thomas Edison ](http://en.wikipedia.org/wiki/Thomas_Edison)(electricity), [Graham Bell](http://en.wikipedia.org/wiki/Alexander_Bell) (telephone), [Marconi ](http://en.wikipedia.org/wiki/Guglielmo_Marconi)(radio) and [Henry Ford](http://en.wikipedia.org/wiki/Henry_Ford) (Ford Motors). The examples were all shifted back in time and yet the principles taught were powerfully timeless!
 
 i read a paragraph about the value of prayer and belief...
-
->  
 
 > The subconscious mind in the intermediary, which translates ones's prayers into terms which Infinite Intelligence can recognise, presents the message, and bring back the answer in the form of a definite plan or idea for procuring the object of the prayer. Understand this principle and you will know why mere words read from a prayer book cannot and will never serve as an agency of communication between the mind of man and Infinite Intelligence.
 

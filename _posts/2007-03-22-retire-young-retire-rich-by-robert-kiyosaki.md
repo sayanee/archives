@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Retire Young, Retire Rich By Robert Kiyosaki
+categories:
+- Books
 ---
 
 one thing that i learnt from this book is the Leverage of Habits:

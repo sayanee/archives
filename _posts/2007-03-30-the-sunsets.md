@@ -1,6 +1,8 @@
 ---
 layout: post
 title: the sunsets
+categories:
+- Musing
 ---
 
 Can u see the grace behind the grains?? i can! 

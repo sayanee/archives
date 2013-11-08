@@ -14,6 +14,7 @@ studying for astronomy test next week and so decided to compile all the interest
 - what info did we store about the Earth on the [Golden Record ](http://voyager.jpl.nasa.gov/spacecraft/goldenrec1.html)for any Extra terrestrial being out there in the universe??
 
 on Pluto and dwarf planets
+
 - [transneptunian objects](http://cfa-www.harvard.edu/cfa/ps/lists/TNOs.html)
 - [Centaurs and Scattered-Disk Objects](http://cfa-www.harvard.edu/iau/lists/Centaurs.html)
 - Comparison of [Kuiper Belt Object sizes](http://hubblesite.org/newscenter/archive/releases/2006/16/image/d/format/web_print/)
@@ -23,6 +24,7 @@ on Pluto and dwarf planets
 - [Eris ](http://www.gps.caltech.edu/~mbrown/planetlila/)- largest known dwarf planet... it is slightly larger than Pluto
 
 on small Solar System bodies
+
 - total [number of known asteroids ](http://cfa-www.harvard.edu/iau/lists/ArchiveStatistics.html)exceeds 300,000!
 - [Vesta ](http://neo.jpl.nasa.gov/images/vesta.html)- one of the 3 largest asteroids
 - [Binary asteroids](http://antwrp.gsfc.nasa.gov/apod/ap001101.html)
@@ -34,6 +36,7 @@ on small Solar System bodies
 - nucleus of [comet Tempel 1](http://antwrp.gsfc.nasa.gov/apod/ap050915.html)
 
 on meteritic impacts
+
 - Near Earth Objects - [close approaches](http://neo.jpl.nasa.gov/ca/)
 - [Meteor showers](http://skytonight.com/observing/objects/meteors/5083801.html) in 2007
 - an animation on [meteor showers](http://www.classzone.com/books/earth_science/terc/content/visualizations/es2707/es2707page01.cfm?chapter_no=visualization)
@@ -41,14 +44,17 @@ on meteritic impacts
 - [peekskill meteorite](http://128.102.32.13/impact/images/mm_gallery/peekskill_mpg.mpeg) ![](http://i29.photobucket.com/albums/c273/sweska/winmicon.jpg) movie
 
 on the Sun
+
 - [Aurora ](http://www.exploratorium.edu/auroras/photography.html)photos, movies and sounds!
 - some [movies ](http://sohowww.nascom.nasa.gov/gallery/Movies/animations.html)from SOlar and Helioshphere obervatory
 
 on stellar properties
+
 - java applet on [ steller parallax](http://instruct1.cit.cornell.edu/courses/astro101/java/parallax/parallax.html)
 - [Alpha Centauri](http://antwrp.gsfc.nasa.gov/apod/ap030323.html) - the closest star system
 
 on the End of Stars and Galaxies
+
 - [evolution of stars](http://www-astronomy.mps.ohio-state.edu/~pogge/Ast162/Movies/proper.html)
 - [our Milky way ](http://www.davidmalin.com/fujii/source/af3-21_72.html)as seen from inside and the [galactic centre](http://antwrp.gsfc.nasa.gov/apod/ap011229.html)
-- simulation of [ 2 galaxies colliding](http://hubblesite.org/newscenter/archive/releases/2002/09/video/a)
+- simulation of [2 galaxies colliding](http://hubblesite.org/newscenter/archive/releases/2002/09/video/a)

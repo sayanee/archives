@@ -1,12 +1,14 @@
 ---
 layout: post
 title: my last 2 school projects
+categories:
+- Musing
 ---
 
 Ok, before i go to mug for my 2 remaining deadlines this week, i just thought of sharing my last 2 undergrad projects with all of you. Download them and have fun
 
-1. Astronomy project - [Origin of Life on Earth  ](/files/newsletter.pdf) ![](http://i29.photobucket.com/albums/c273/sweska/pdf.png)
-2. the BIG project - [Position-Based routing for MANET](/files/pro.ppt)  ![](http://i29.photobucket.com/albums/c273/sweska/ppt.png)
+1. Astronomy project - [Origin of Life on Earth  ](/docs/newsletter.pdf) ![](/img/pdf.png)
+2. the BIG project - [Position-Based routing for MANET](/docs/pro.pdf)  ![](/img/pdf.png)
 
 The first one should be fun reading it! We were trying to find out how life on earth originated…. so did we exactly find the answer? Well, no but i guess as always the journey to finding out the truth makes us open up to new ideas and expand our conscience.  And this is probably more important than finding out the answer. It was great doing this project especially with a new friend found. I’m just so lucky to find her and not some slacker. Thanks rachel!
 

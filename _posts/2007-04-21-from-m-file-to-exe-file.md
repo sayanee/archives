@@ -1,6 +1,8 @@
 ---
 layout: post
 title: From m-file to *.exe file
+categories:
+- Musing
 ---
 
 How to convert from MATLAB m-file to a stand-alone \*.exe file? Let's use hopGraph.m as an example. Here's how to do it...

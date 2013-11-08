@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Lifetime Plan for Success by Dale Carnegie
+categories:
+- Books
 ---
 
 How to Win Friends and Influence People & How to stop worrying and start living by [Dale Carnegie ](http://en.wikipedia.org/wiki/Dale_Carnegie)- these 2 best sellers were combined in this book. If i can sum up in just 2 words about what this book exactly teaches, it'll be tactfulness and diplomacy. It's a great book... in fact i would wanna buy it!
 
 On criticism... (pg 29)
-
->  
 
 > When dealing with people, let us remember we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity. ... ... Benjamin Franklin, tactless in his youth, became so diplomatic, so adroit at handling people, that he made American Ambassador to France. The secret of his success? "I will speak ill of no man," he said, "... and speak all the good I know of everybody."
 

@@ -1,6 +1,8 @@
 ---
 layout: post
-title: The new AMKHub - its contruction pictorial!
+title: The new AMKHub - its construction pictorial!
+categories:
+- Musing
 ---
 
 Guess what's my new hang out?? It's the new [AMK Hub ](http://en.wikipedia.org/wiki/AMK_Hub):P
