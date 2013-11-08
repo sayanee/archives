@@ -5,7 +5,13 @@ categories:
 - Books
 ---
 
-**Book Title:** Eight Steps to Seven Figures - The investment strategies of everyday millionaires and how you can become wealthy too **Author:** Charles Carlson **Year written/published:** 2000 **Book Source:** [Google Books](http://books.google.com/books?id=lEMLAAAACAAJ&dq=eight+steps+to+seven+figures), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+13647+3002+9679972+2+15) **Some extracts:**  8 steps are:
+- **Book Title:** Eight Steps to Seven Figures - The investment strategies of everyday - millionaires and how you can become wealthy too
+- **Author:** Charles Carlson
+- **Year written/published:** 2000
+- **Some extracts:**
+
+8 steps are:
+
 1. Start investing – NOW
 2. Establish a goal – it doesn’t matter what it is as long as it matters to you
 3. Buy only stocks and stock mutual funds. Forget about asset allocation
@@ -16,6 +22,7 @@ categories:
 8. Limit shocks to you finances – e.g. for shocks are divorce, too many children, changing jobs
 
 Some mistakes…
+
 1. failing to start early
 2. Selling too soon
 3. Selling too late
@@ -27,6 +34,7 @@ Some mistakes…
 9. ignoring the ‘little thing’ of investing – tax + brokerage fees
 
 Number of...
+
 - return on Equity
 - Net profit margins
 - Per-share earnings growth
@@ -36,10 +44,13 @@ Number of...
 - company ownership
 
 Selecting mutual finds...
+
 - buy only no-load funds - no sales fees
 - don't buy a fund whose annual expense ratio is greater than 1.4%
 - Buy funds whose turnover is less than 100% and preferably less than 50%
 - avoid fast growing funds that invest in small company stocks
 - focus on funds that have at least 3 year track record with the same fund manager
 
-Dollar cost averaging > an easy way to implement diversification in an investment program is by using this method. DCA takes emotion out of the investment process and requires you to make regular contributions to your investments, regardless of market levels
+Dollar cost averaging
+
+> an easy way to implement diversification in an investment program is by using this method. DCA takes emotion out of the investment process and requires you to make regular contributions to your investments, regardless of market levels

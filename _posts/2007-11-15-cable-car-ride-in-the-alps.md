@@ -14,5 +14,3 @@ Want to see the French Alps without climbing at all?? Take the breathtaking cabl
 - from paris to chamonix [by train](http://www.guardian.co.uk/travel/2007/dec/16/skiing.snowboarding?page=2) and back to paris
 - Chamonix map to download - the mountain [layout](http://skisnowboardeurope.com/chamonix/layout.html)
 - [Frommer's Chamonic Mt-Blanc](http://www.frommers.com/destinations/chamonix-montblanc/0610010001.html)
-
-and i also found some Youtube video on Chamonix + Mont Blanc Cable car ride... [youtube EXcsQUjG5fM] [youtube VWDplDa00dI] uuuuuuuuuuuhhhh... i'm going crazy :P

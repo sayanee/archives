@@ -1,12 +1,6 @@
 ---
 layout: post
 title: The All-Girls Team
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
 I just had the first meeting for the EE3001 Technology Assessment with my group members. There were 8 of us…and we are a unique group. Why? We are a team of **8 GALS!!!!** So, what’s the big deal?? Yeah no big deal…just that we are from the faculty of engineering in NUS. Take a glance at the gender statistics and it’ll explain …
 
