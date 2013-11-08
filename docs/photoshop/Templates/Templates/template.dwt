@@ -1,0 +1,220 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" --> 
+<title></title>
+<style>
+BODY 
+{ 
+scrollbar-face-color:#CC9999;
+scrollbar-track-color:#CC9999;
+
+scrollbar-arrow-color:black;
+
+scrollbar-shadow-color:black;
+scrollbar-dark-shadow-color:black;   <!-- redundant -->
+
+scrollbar-highlight-color:black;
+scrollbar-base-color:#CC9999;
+
+scrollbar-3d-light-color:black <!-- redundant -->
+}
+</style>
+<!-- TemplateEndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../teaching_photoshop.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+function mmLoadMenus() {
+  if (window.mm_menu_0721231224_0) return;
+            window.mm_menu_0721231224_0 = new Menu("root",142,18,"",12,"#000000","#FFFFFF","#CC9999","#993333","left","middle",3,0,1000,-5,7,true,false,false,0,true,true);
+  mm_menu_0721231224_0.addMenuItem("Color&nbsp;&&nbsp;Gradient");
+  mm_menu_0721231224_0.addMenuItem("Drawing&nbsp;&&nbsp;Painting");
+  mm_menu_0721231224_0.addMenuItem("Selection");
+  mm_menu_0721231224_0.addMenuItem("Layers");
+  mm_menu_0721231224_0.addMenuItem("Adjust");
+  mm_menu_0721231224_0.addMenuItem("Text");
+  mm_menu_0721231224_0.addMenuItem("Filters");
+  mm_menu_0721231224_0.addMenuItem("Reparing");
+  mm_menu_0721231224_0.addMenuItem("Masking");
+   mm_menu_0721231224_0.fontWeight="bold";
+   mm_menu_0721231224_0.hideOnMouseOut=true;
+   mm_menu_0721231224_0.bgColor='#555555';
+   mm_menu_0721231224_0.menuBorder=1;
+   mm_menu_0721231224_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0721231224_0.menuBorderBgColor='#777777';
+
+        
+  mm_menu_0721231224_0.writeMenus();
+} // mmLoadMenus()
+//-->
+</script>
+<script language="JavaScript" src="../mm_menu.js"></script>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable --> 
+</head>
+
+<body>
+<a name="top"></a> 
+<table width="800" border="0" align="center">
+  <tr>
+    <td><div align="center"><strong><font color="#000066" size="7" face="Verdana, Arial, Helvetica, sans-serif">PHOTOSHOP</font></strong></div></td>
+  </tr>
+</table>
+<table width="800" border="0" align="center">
+  <tr> 
+    <td colspan="9">&nbsp;</td>
+  </tr>
+  <!-- TemplateBeginEditable name="edit" -->
+  <tr> 
+    <td width="101">&nbsp;</td>
+    <td width="101">&nbsp;</td>
+    <td width="101">&nbsp;</td>
+    <td width="101">&nbsp;</td>
+    <td width="101">&nbsp;</td>
+    <td width="101">&nbsp;</td>
+    <td width="101">&nbsp;</td>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="9">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="9"><h2>Heading</h2></td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="4">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="8"><h3>What we will learn</h3></td>
+    <td width="88"><!-- #BeginLibraryItem "/Library/up.lbi" --><a href="#top">up</a><!-- #EndLibraryItem --></td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <!-- TemplateEndEditable -->
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+    <td colspan="6">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="9"><h5>&copy; Sweska</h5></td>
+  </tr>
+</table>
+</body>
+</html>

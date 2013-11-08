@@ -1,0 +1,74 @@
+h1 {
+	font-family: "Bookman Old Style";
+	font-size: 30px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #003366;
+	text-align: center;
+
+}
+p {
+	font-family: Arial;
+	font-size: 16px;
+	color: #003366;
+}
+h4 {
+	font-family: "Cataneo BT";
+	font-size: 22px;
+	color: #333333;
+}
+li {
+	font-family: Arial;
+	font-size: 16px;
+	color: #003366;
+	text-align: left;
+
+}
+ul {
+	list-style-type: square;
+	list-style-position: outside;
+	list-style-image: url(bullet7.GIF);
+
+}
+h2 {
+	font-family: "Cataneo BT";
+	color: #660033;
+	font-size: 24px;
+	font-weight: bolder;
+	text-align: center;
+	text-transform: uppercase;
+
+
+}
+a {
+	font-family: Arial;
+	font-size: 16px;
+	color: #993333;
+	text-decoration: none;
+
+}
+h5 {
+	font-family: Arial;
+	font-size: 24px;
+	color: #333366;
+}
+body {
+	background-image: url(bgr4.gif);
+	background-repeat: repeat-y;
+	background-position: center;
+
+
+}
+h6 {
+	font-size: 12px;
+	color: #996600;
+	text-align: center;
+
+}
+ol {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFCC66;
+}

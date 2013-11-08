@@ -1,45 +1,26 @@
 ---
 layout: post
-title: Railway Signalling
+tile: Railway Signalling
 ---
 
-What is [railway signalling](http://www.google.com/search?q=railway+signalling&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GGLR)?? It is a system of controlling the trains on the tracks safely so as to avoid any colliding or jamming. here are some links to read more...
+What is [railway signalling](http://www.google.com/search?q=railway+signalling)?? It is a system of controlling the trains on the tracks safely so as to avoid any colliding or jamming. here are some links to read more...
 
-1.  
+1. [Wikipedia](http://en.wikipedia.org/wiki/Railway_signalling)
+2. [Wikipedia Categories](http://en.wikipedia.org/wiki/Category:Railway_signalling)
 
-[Wikipedia](http://en.wikipedia.org/wiki/Railway_signalling)
+Railway signalling first started in Europe and in the 1900s drivers just used to drive on sight to prevent any collision with other trains on tracks. Pretty soon, with the rising number of trains, speed and the frequency between each train departure or arrival, the driving on sight proved to be too dangerous. The distance was simply not enough to brake and stop safely before a serious dangerous collision. Clearly, a more efficient set of techniques and algorithm needed to be developed for a safe and seamless railway journey :)
 
-2.  
+And some links on the rich history of railway signalling dating more than a 100 years ...
 
-[Wikipedia Categories](http://en.wikipedia.org/wiki/Category:Railway_signalling)
-
-Railway signalling first started in Europe and in the 1900s drivers just used to drive on sight to prevent any collision with other trains on tracks. Pretty soon, with the rising number of trains, speed and the frequency between each train departure or arrival, the driving on sight proved to be too dangerous. The distance was simply not enough to brake and stop safely before a serious dangerous collision. Clearly, a more efficient set of techniques and algorithm needed to be developed for a safe and seamless railway journey :) And some links on the rich history of railway signalling dating more than a 100 years ...
-
-1.  
-
-[UK rail history](http://ukhrail.uel.ac.uk/glossary/sigs.html)
-
-2.  
-
-[history](http://www.du.edu/~jcalvert/railway/railhom.htm)
+1. [UK rail history](http://ukhrail.uel.ac.uk/glossary/sigs.html)
+2. [history](http://www.du.edu/~jcalvert/railway/railhom.htm)
 
 In present times, railway signalling algorithms and technology became more advanced to tackle the need for total automation and sometimes even driver-less! Some technology dealing with automated railway signalling...
 
--  
-
-[Automatic Train Control](http://en.wikipedia.org/wiki/Automatic_Train_Control)
-
--  
-
-[Automatic Train Protection](http://en.wikipedia.org/wiki/Automatic_Train_Protection)
-
--  
-
-[Automatic Train Supervision](http://www.alstomsignalingsolutions.com/ats.html)
-
--  
-
-[Interlocking](http://en.wikipedia.org/wiki/Interlocking)
+- [Automatic Train Control](http://en.wikipedia.org/wiki/Automatic_Train_Control)
+- [Automatic Train Protection](http://en.wikipedia.org/wiki/Automatic_Train_Protection)
+- [Automatic Train Supervision](http://www.alstomsignalingsolutions.com/ats.html)
+- [Interlocking](http://en.wikipedia.org/wiki/Interlocking)
 
 Some rail project examples would include:
 
@@ -48,6 +29,7 @@ Some rail project examples would include:
 - [List of world projects ](http://www.railway-technology.com/projects/#Metros)on railways
 
 some companies dealing with rail industry and technology...
-1. [SIEMENS Transport](http://www.siemenstransportation.co.uk/)
-2. [GE Transport](http://www.tip.ge.com/)
-3. [Alstorm](http://www.alstom.com/home/)
+
+1. EMENS Transport](http://www.siemenstransportation.co.uk/)
+2.  Transport](http://www.tip.ge.com/)
+3. storm](http://www.alstom.com/home/)

@@ -1,0 +1,74 @@
+**************************
+FLASH DEFINTIONS
+**************************
+
+Up 	
+when the mouse is not on top of the button
+
+Over 	
+bring your mouse over the button
+
+Down 	
+Press the mouse button
+
+Hit	
+Area in the stage to which the button reacts
+
+Registration point 
+Refers to the origin point of x and Y axis
+It is used to positioning and transformation. This point is located 
+at the centre of the object
+
+What is the compression technique used for longer and streaming sounds in flash ?
+- ADPCM  Adaptive Differential pulse code modulation
+is a technique for converting sound or analogue information to binary informations
+
+
+Vector Graphics 
+is a series of commands that dictate a line's direction, thickness, 
+colour which gets rendered on the screen later.
+
+Motion Tween 
+Motion tween command makes sure that you have symbols in your tween 
+and a keyframe at both the beginning and end of tween sequence
+
+Vector Shape 
+a shape that is represented mathematically
+
+BITMAP IMAGE
+Bitmap Image is represented by individual pixels, the computer stores the information on the color of every pixel that makes up the image.
+
+
+CAST
+The Cast is everything you use to create your movie eg: Graphics, Text, Video, Audio and etc.
+
+COLOR CALIBRATION
+Help to produce color image. Calibration procedure is unavoidable for high quality color reproduction.
+
+CONTROL PANEL
+Control Panel determines how the movie playes in the authoring environment. It can control the sudio volume, tempo, play, rewind and stop playback of the movie.
+
+EYE DROPPER
+Use eye dropper tool to copy fill and stroke attributes from objects. (When you click a stroke, the tool automatically changes to ink bottle tool. When you click a filled area, the tool automatically changes to paint bucket)
+With eye dropper tool you can pick up colors from any open image.
+
+FILM LOOP
+Film loops are created from a sequence of sprites in the Score and converted into a single cast member in the Cast window that has a special icon indication that it is a film loop.
+
+IMAGE RESAMPLING
+It explicitly changes the number of pixels in the image.It lets you cahnge the Width and Height settings to exact number of pixels required.
+
+Alpha 
+changing the transparency of the object
+Alpha can be found under the color effect tab. Alpha can change the transparency of the symbol. Thus, 100% alpha signifies that object is fully visible while 0% makes it completely transparent.
+
+
+Shape Tweening 
+Create an effect similar to morphing, making one shape appear to change 
+into another shape over time.
+
+Sound Compression Technique - Mp3
+
+ACTION SCRIPT
+Action Script has variables that let you store information; it has functions that let you create special commands and reuse code; it has actions that let you control the flow of a movie; it has movie clips with properties that you can change.
+A command in Action Script is called a function. A function is a script that you can use over and over again in a movie to perform a certain task.

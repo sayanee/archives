@@ -1,0 +1,111 @@
+****************************************************
+DEFINITIONS FOR DREAMWEAVER
+****************************************************
+
+Caption 
+Captions allow for the easy addition of text above or below a table in html. Captions are set to the same width as the table they're associated with.
+
+CELL PADDING 
+CELL PADDING defines how far away from the cells' edges the stuff inside them will be.
+
+CELL SPACING 
+CELL SPACING defines how far apart the cells are from each other  
+
+COLS 
+If you wanted your frames to span vertically (from top to bottom) you would use the COLS, attribute instead.
+
+
+CFMAIL 
+CFMAIL tag is a popular method to generate email messages and post them to a specified server. 
+
+Dithering 
+Dithering is the attempt by a computer program to approximate a color from a mixture of other colors when the required color is not available.
+
+External Style Sheet 
+An external style sheet may be linked to an HTML document through HTML's LINK element. The <LINK> tag is placed in the document HEAD. 
+
+Floating Frame 
+The floating frame is consistent with the attributes in a typical frameset tag, but with a noticeable difference.
+
+Gamma correction
+Gamma correction controls the overall brightness of an image 
+
+Leading 
+A typographical term that refers to the vertical space between lines of text. The leading value also includes the size of the font.
+
+
+META TAG 
+META TAG to ensure they are cataloged correctly by the major search engines. 
+2 tags are important: they are description and keywords. 
+Description tag will display in the search engine results after the query is performed, the search engine will use the individual words in the keywords tag to pull up your site. 
+Search engines will search for values specifies by the CONTENT attribute on pages that use the <META> tag NAME attribute 
+of "KEYWORDS".
+ 
+Syntax for the <META> Tag is as follows (put after <\title> ) :
+
+<META NAME = "namevalue" CONTENT="contentvalue">
+
+OR
+
+<META HTTP-EQUIV="nameValue" CONTENT="contentValue">
+
+eg.
+<META HTTP-EQUIV="expires" CONTENT="Fri, 20 Nov 2004 08:00:00 GMT">	to specify expiry date
+<META NAME = "Author" CONTENT="Sweska">					to specify author's name
+<META NAME ="DESCRIPTION" CONTENT ="This site is about Dreamweaver">	to specify he description of the web page
+<META NAME="KEYWORDS" CONTENT="Dreamweaver, reference">			search engines will look out for this 
+									tag of keywords		
+
+
+
+
+
+
+
+Picture Tube  
+Picture Tube is an image with a transparent background and a series of objects lay out in a grid. The Tube brush will use the grid to spray the object onto your image when you paint with it 
+
+<PRE>
+Preformatted text tags <pre> will display text exactly as it appears in the source document. The browser is set up to ignore things like spaces and line breaks
+
+ROWS
+ROWS is an attribute of the beginning FRAMESET tag. It tells the browser that the frames will be horizontal. 
+
+Radio Buttons 
+Radio Buttons allow for the direct input of a restricted amount of input Radio buttons are used in polls or other areas where there may be one of two or more possible choices and you only want the user to submit one answer out of the possible choices. 
+
+Spider 
+A spider is a program that visits Web sites and reads their pages and other information in order to create entries for a search engine index. Spiders are typically programmed to visit sites that have been submitted by their owners as new or updated. 
+
+SRC 
+SRC in the IMG tag tells the browser which graphic is to display or, the page SRC in the FRAMETAG telling the browser which page is to be displayed in the frame. 
+
+
+UP
+Up state shows what the button / image will look like when it's in the 'up' or 'not selected' position.
+
+OVER
+Over State shows how the button / image will look when the mouse is over the button showing the user that they are over a button which will make something happen if they click.
+
+
+DOWN
+Down state how the button/image looks when it is pressed.
+
+HIT
+Hit state defines the area in which the button will detect the mouse.
+
+_blank
+When selected, the frame file opens in a new browser window
+
+_parent
+Opens the frame file into the frameset of a screen
+
+_self
+Frame file opens in the frame where the hyperlink was clicked
+
+_top
+Frame file opens in the current Web Browser window and repalces the entire document.
+
+TAGS
+Tags are pieces of text, enclosed in angle brackets, that provide instructions to programs designed to interpret HTML.
+

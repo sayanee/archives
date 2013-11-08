@@ -1,0 +1,11 @@
+******************************************************
+SHORT CUTS
+******************************************************
+
+Save			<Ctrl> + S
+Preview in Browser	F12
+Cut			<Ctrl> + X
+Paste			<Ctrl> + V
+Copy			<Ctrl> + C
+Undo			<Ctrl> + Z
+CSS Panel		F11 + <Shift>

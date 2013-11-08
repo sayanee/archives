@@ -1,0 +1,12 @@
+*********************************
+FLASH COMMON SHORT CUTS
+*********************************
+
+F5		Insert Frame
+F8		Insert Symbol
+F7		Insert Blank Keyframe
+F6		Insert keyframe
+Tab		Hide / Show Panels
+
+
+I		Eye Dropper

@@ -1,0 +1,106 @@
+*****************************************
+PHOTOSHOP DEFINITIONS
+*****************************************
+
+ANTI-ALISING
+Gives the edges of the selection a smoother appearance
+It smooths the jagged edges of a selection by softening the color transition between edge pixels and background pixels
+It is useful when cutting, copying, pasting selections to create composite images.
+
+EDEGE CONTRACT(MAGNET LASSO)
+Enter the contrast to be considered between pixels for determining the selection
+
+FREQEUNCY (MAGNETIC LASSO)
+How often the anchor points are added
+
+BASEFONT
+Basefon'ts changes affect the base font, and so apply to all contents following the BASEFONT element except for headings. However, most browsers fail to apply changes in the base font size and color to TABLEs.
+The BASEFONT element, deprecated in HTML 4.0 in favor of style sheets, allows authors to suggest rudimentary font changes.
+
+BITMAP
+Bitmap is made up of a set of pixels, each one a different color, combining into the patterns that make up the image.
+
+CACHE 
+Cache is a place to store something temporarily
+
+COLOR GAMUT
+The color gamut of a reproduction medium is the reange of colors that can be reproduced on it.
+
+COLOR GAMUT MAPPING
+Color Gamut mapping is a method for assigning colors from a reproduction medium to colors from the original medium based on a desired color reproduction on it.
+
+DEFRINGE COMMAND
+Replaces the color of any fringe pixels with the colors of nearby pixels containing pure colors ( those without background color)
+
+FAUCET MODIFIER
+In erase tool, Faucet Modifier allow you to selectively delete an outline or a fill with a single click
+
+LASSO TOOL
+Lasso tool is used to select a free hand selection of an object. Using this tool any kind of shape can be selected and edited
+
+IMAGE MAP
+Image is just a kind of clickable image, which you can make to have different areas link to different URLs
+
+MARQUEE TOOL
+It is used to draw selections based on geometric shapes. The marquee tool allows you to draw rectangular and elliptical selections
+
+SPONGE TOOL
+Increases the color saturation and contrast
+
+CMYK
+Cyan, Magenta, Yellow, Black
+Pixels are recorded as a combination of Cyan, Magenta, Yellow and Black (K) color values
+
+RGB
+Red Green Blue
+Pixels are recoded as a combination of red, green, blue color values
+
+Lab
+Pixels are recorded by their Lightness value and color values on a green-red axis (the 'a' axis) and the blue-yellow (the 'b' axis) scale
+
+Multichannel
+Pixels are recorded using multiple 256-level grayscale channels but without a combined channel
+
+Histogram
+Histogram is a graph showing the number of pixels used in the image for a given color or intensity.
+
+H
+Hue
+
+SHADOW
+Dark areas in a graphic
+
+HIGHLIGHT
+the lightest coloured area
+
+MID TONE
+in between the darkest and the brightest
+
+.png
+Portable Network Graphics
+enable the transparency of bgr
+support up to 48 bits true colour
+support multilayer transparency
+offers multi dimensional interlacing
+
+
+LAYER MASK
+A Special Sub Layer placed into a layer that allows you to paint out the area in layer you want masked using black(masked), white(unmasked) and grey(transparency)
+
+VECTOR MASK
+A Special Sublayer Mask placed into a layer that allows you to add paths to mask areas in the image
+
+QUICK MASK
+A mode activated in the Toolbox that allows you to paint a mask into the imagethat is used as a selection.
+
+TYPE MASK
+A type tool that allows you to use text shapes to create a mask that is then used as a selection.
+
+PHOTOSHOP CHANNEL
+Channel give you the power to control the degree to which pixels are affected by everything you do. When you open any color image in Photoshop, each color in the image will be represented in the Channel Palette by a colot channel.
+
+PHOTOSHOP ACTIONS
+Actions are in their most basic form, simply text files. When you record an Action and save an Action set, Photoshop takes the text file ( a list of rall the commands executed in the action) and gives it a .atn extension.
+
+SPRITE
+On the web and in multimedia productions, a sprite, is a graphic image, usually animated, that a user can interact with a move around. The term is also sometimes used to simply refer to an animated GIF with spritelike  features.

@@ -1,0 +1,279 @@
+FILE EXTENSIONS
+
+
+*********************
+FILE EXECUTIONS
+**********************
+.exe
+
+
+
+
+***************
+SoUND
+***************
+.wav
+.mid
+.aiff	 audio 
+.mp2 	mpeg audio 
+.mp3 	mpeg audio 
+
+
+
+
+
+
+***************
+PICTURES
+***************
+.JPG	JPEG image
+.jpeg	JPEG Image
+.bmp	Bitmap Image (pixel graphics)
+.WMF	Vector graphics
+.gif	animated pictures
+.tif
+
+
+
+
+
+**********
+MOVIE
+**********
+.wmv	wave file
+.mpg	movie file
+.avi	video file
+
+
+
+
+
+*********
+TEXTS
+*********
+.doc	Word document
+.dot	Word Template
+.wiz	Word Wizard
+.txt 	ASCII text 
+
+
+
+
+
+
+*************
+POWERPOINT
+*************
+.pot	powerpoint template
+.ppt	power point presentation
+.pps 	MS PowerPoint slide 
+
+
+
+
+
+
+***********
+ACCESS
+***********
+.mdz	Microsoft Access database wizard template
+
+
+
+
+
+
+**************
+EXCEL
+**************
+.xlt	Excel Template
+.xls 	Excel File
+
+
+
+
+
+***********
+OUTLOOK
+***********
+.oft 	Outlook template
+
+
+
+
+
+
+********************
+ADOBE ACROBAT
+********************
+.pdf	Portable Data Format
+
+
+
+
+
+****************
+WEB FILE
+****************
+.htm
+.html	Hyper Text Mark Up Language
+.xml
+.asp	Active Server Page
+.php
+.css	Cascading Style Sheet
+.lbi	Library Item
+.dwt	Dreamweaver Template
+.php 	PHP 
+.php3 	PHP 
+.php4 	PHP 
+.xml 	extensible markup language 
+
+
+
+
+
+
+****************
+C PROGRAMMING
+*****************
+.c	C programming
+.cpp	C++ programming
+
+
+
+
+
+******************
+FLASH
+******************
+.fla	flash document
+.spl 	Shockwave/Flash 
+.swf 	Shockwave/Flash 
+
+
+
+
+
+********************************
+FIREWORKS / ADOBE PHOTOSHOP
+*********************************
+.png	native file format for fireworks, Poratble Network Graphic
+
+
+
+
+
+*************************
+PINNACLE Studio 
+*************************
+.stu	studio project
+
+
+
+
+**************************
+OTHERS
+**************************
+
+ani 	animated cursor 
+arj 	ARJ 
+art 	AOL compressed graphic file 
+asf 	Windows Media 
+asm 	ASM 
+au 	audio 
+
+bas 	Basic source code 
+bin 	binary 
+bmp 	image 
+c 	Canvas 
+config 	configuration file 
+cab 	FutureSplash 
+cdf 	IE Channel Definition Format 
+cdr 	CorelDraw image 
+class 	Java class file 
+cnf 	E-cash 
+cod 	FORTRAN/Multiplan/dBASE 
+
+cur 	Windows cursor 
+dcr 	Director 
+dir 	directory/Procom dialing directory  
+
+
+dxr 	Director 
+
+ged 	image 
+
+gz 	compressed file 
+hdml 	handheld device markup language 
+hqx 	Mac BinHex 
+
+inc 	include file 
+inf 	OS/2 Setup file 
+ivr 	image 
+ivs 	video 
+jar 	Java archive 
+java 	Java 
+
+
+js 	JavaScript 
+key 	keyboard macro 
+lbi 	DreamWeaver library item 
+log 	log file 
+lwp 	Lotus Word Pro 
+map 	image map 
+mdb 	Access 
+mid 	MIDI 
+mod 	music 
+mov 	QuickTime MooV 
+
+
+mtm 	multi-tracker module 
+pas 	pascal 
+
+
+pl 	Perl 
+ply 	image 
+
+pub 	MS Publisher 
+png 	image 
+ppt 	MS PowerPoint 
+ps 	PostScript 
+qt 	QuickTime MooV 
+ra 	RealAudio 
+ram 	RealAudio (or Video) meta-file 
+rm 	RealMedia 
+rmf 	audio 
+rmx 	RealJukebox 
+rp 	image 
+rpm 	RealMedia plugin 
+rt 	RealText 
+rtf 	Rich Text Format 
+s3m 	sound 
+scm 	video 
+sit 	Mac compressed file 
+smi 	SMIL 
+smil 	SMIL 
+
+tgz 	g-zipped TAR 
+tif 	image 
+tiff 	image 
+tmp 	temporary 
+tms 	Telemate script 
+tsp 	TrueSpeech 
+
+utf8 	MS FrontPage 
+viewlet Viewlet 
+viv 	video 
+vivo 	video 
+vox 	sound 
+wav 	sound 
+wax 	Windows Media 
+wma 	Windows Media 
+wml 	WML 
+wrk 	spreadsheet 
+wrl 	VRML 
+x 	LEX source 
+xls 	Excel 
+
+zip 	compressed file 
+

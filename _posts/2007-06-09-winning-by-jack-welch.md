@@ -1,9 +1,16 @@
 ---
 layout: post
 title: Winning by Jack Welch
+categories:
+- Books
 ---
+- **Book Title**: Winning
+- **Author**: Jack Welch and Suzy Welch
+- **About the Author**: [Jack Welch ](http://en.wikipedia.org/wiki/Jack_Welch)has been the CEO of General Electric from 1981 to 2001
+- **Year written/published**: 2005
+- **My Comments**: A fantastic book about the management of a company and people. The contents are divided into 5 basics - Underneath it all, Your Company, Your Competition, Your Career and Tying up the Loose ends. I’ll definitely come back to this book when i need to recall about the management of a company. It touches on very pertinent issues like hiring, firing, crisis management and competitors. Loved the candor and frankness jack presented in every one of these lines
 
-**Book Title:** Winning **Author: **Jack Welch and Suzy Welch **About the Author:** [Jack Welch ](http://en.wikipedia.org/wiki/Jack_Welch)has been the CEO of General Electric from 1981 to 2001 **Year written/published:** 2005 **My Comments: **A fantastic book about the management of a company and people. The contents are divided into 5 basics - Underneath it all, Your Company, Your Competition, Your Career and Tying up the Loose ends. I’ll definitely come back to this book when i need to recall about the management of a company. It touches on very pertinent issues like hiring, firing, crisis management and competitors. Loved the candor and frankness jack presented in every one of these lines ![:D](http://buibui.wordpress.com/wp-includes/images/smilies/icon_biggrin.gif) **Contents page:**
+**Contents page**:
 
 1. Mission and Values
 2. Candor
@@ -26,11 +33,11 @@ title: Winning by Jack Welch
 19. Work-Life Balance
 20. Here, There, Everywhere
 
-**Some extracts:** Principle of Differentiation… >  
+**Some extracts**: Principle of Differentiation…
 
 > One of the main misunderstandings about differentiation is that ir is only about people. That’s to miss half of it. Differentiation is a way to manage people and business. Basically, differentiation holds that a company has 2 parts, hardware and software. Software is simple - it’s your people. Hardware depends. If you are a large company, your hardware is the different businesses in your portfolio. If you are smaller, your hardware is your product lines.
 
-on energetic people and their successes… >  
+on energetic people and their successes…
 
 > If you are shy and introverted and somewhat low in energy, there are professions and jobs where those characteristics are advantageous. If you know yourself, you will find them. This criticism of differentiation, which I hear now and then, is not really about differentiation but about society’s values. I might add that in business, energetic and extroverted people generally do better, but results speak for themselves, loud and clear. Differentiation hears them.
 
@@ -47,31 +54,20 @@ What leaders do…
 
 leaders must exude positive energy…
 
->  
-
 > You know the old saying,” the fish rots from the head.” It’s mainly used to refer to how politics and corruption filter down into an organisation, ut it could just as easily be used to describe the effect of a ad attitude at the top of any team, large or small. Eventually, everyone’s infected.
 
 hiring principle of jack welch…
 
->  
-
-> the 4 acid tests: Integrity, Intelligence, Maturity
-
-> 4Es: Positive **Energy**, Ability to **Energise** other, **Edge** and the courage to make tough yes or no decisions, **Execute** and the ability to get the job done.
-
-> P: **Passion**
+- 4 acid tests: Integrity, Intelligence, Maturity
+- 4Es: Positive Energy, Ability to Energise others, Edge and the courage to make tough yes or no decisions, Execute and the ability to get the job done.
+- P: Passion
 
 Some principles for hiring for the top…
 
->  
-
-> The first characteristics is authenticity.
-
-> The second characteristics is the ability to see around the corners.
-
-> The 3rd characteristics is a strong penchant to surround themselves with people better and smarter than they are.
-
-> The 4th characteristics is the heavy-duty resilience.
+- The first characteristics is authenticity.
+- The second characteristics is the ability to see around the corners.
+- The 3rd characteristics is a strong penchant to surround themselves with people better and smarter than they are.
+- The 4th characteristics is the heavy-duty resilience.
 
 To manage people well, companies should:
 
@@ -80,33 +76,42 @@ To manage people well, companies should:
 3. Create effective mechanisms - read: money, recognition and training - to motivate and retain.
 4. Face straight into charged relationships - with union, stars, sliders and disrupters
 5. Fight gravity, and instead of taking the middle 70 percent for granted, treat them like the heart and soul of the organisation
-6. Design the org chart to be as flat as possile with lindingly clear reporting relationships and responsibilities
+6. Design the org chart to be as flat as possible with blindingly clear reporting relationships and responsibilities
 
-on evaluation systems… > It should be clear and simple, washed clean of time-consuming bureaucracy It should measure people on relevant agreed upon criteria that relate directly to an individual’s performance It should ensure that managers evaluate their people at least once a year, and preferaly twice, in formal, face-to-face sessions Finally, a good evaluation system should include a professional development component
+on evaluation systems…
+
+> It should be clear and simple, washed clean of time-consuming bureaucracy It should measure people on relevant agreed upon criteria that relate directly to an individual’s performance It should ensure that managers evaluate their people at least once a year, and preferaly twice, in formal, face-to-face sessions Finally, a good evaluation system should include a professional development component
+
 embracing change…
+
 1. Attach every change initiative to a clear purpose or goal. Change for change’s sake is stupid and enervating
 2. Hire and promote only true believers and get-on-with-it type
 3. Ferret our and get rid of resisters, even if their performance is satisfactory.
-4. Look at car wrecks: turn disasters into opportunities like bankruptcies, financial crisis. 
+4. Look at car wrecks: turn disasters into opportunities like bankruptcies, financial crisis.
 
 5 assumptions to keep in mind when a crisis occurs:
+
 1. The problem is worse than it appears
 2. There are no secrets in the world, and everyone will eventually find out everything
 3. you and your organisation’s handling of crisis will be portrayed in the worst possible light
 4. There will be changes in processes and people. Almost no crisis ends without blood on the floor
 5. The organisation will survive, ultimately stronger for what happened
 
-Managing competition… > First come up with a big aha for your business - a smart, realistic, relatively fast way to gain sustainable competitive advantage. Second, put the right people in the right jobs to drive the big aha forward Third, relently seek out the est practices to achieve your ig aha, whether inside or out, adapt them, and continually improve them.
+Managing competition…
+
+> First come up with a big aha for your business - a smart, realistic, relatively fast way to gain sustainable competitive advantage. Second, put the right people in the right jobs to drive the big aha forward Third, relentlessly seek out the best practices to achieve your ig aha, whether inside or out, adapt them, and continually improve them.
+
 What the players field look like now?
+
 - Who are the competitors in this business, large and small, new and old?
-- Who has what share gloally and in each market? Where do we fit in?
+- Who has what share globally and in each market? Where do we fit in?
 - What are the characteristics of this business? Is it commodity or high value or somewhere in between? Is it long cycle or short? Where is it on the growth curve? What are the drivers of profitability?
 - What are the strengths and weaknesses of each competitor? How good are their products? How much does each one spend on R&D? How big is each sales force? How performance-driven is each culture?
 - Who are this business’ main customers, and how do they buy?
 
-Career lusts… >  
+Career lusts…
 
-> Career lusts looks different. it shows itself in tearing down the people around you, insulting or disparaging them in order to make your own candle burn brighter, as the old saying does. It;s covering up your mistakes or (worse) trying to lame them on someone else. It’s hogging meetings, taking disproportionate credit for team’s success, and gossipping incessantly about people and events in the office. It’s seeing the company’s org chart as a chessboard, and making an open display of watching the pieces move.
+> Career lusts looks different. it shows itself in tearing down the people around you, insulting or disparaging them in order to make your own candle burn brighter, as the old saying does. It's covering up your mistakes or (worse) trying to lame them on someone else. It’s hogging meetings, taking disproportionate credit for team’s success, and gossiping incessantly about people and events in the office. It’s seeing the company’s org chart as a chessboard, and making an open display of watching the pieces move.
 
 the dos…
 
@@ -116,7 +121,8 @@ the dos…
 - have a positive attitude and spread it around
 
 How to deal with different types of bosses…
+
 1. Good values/good performance: great!
-2. Bad values/bad performance:have to go, the sonner the better
+2. Bad values/bad performance:have to go, the sooner the better
 3. Good values/bad performance: they believe in the company’s values and practice them in earnest, but they just cannot get the results.
-4. Bad values/good performance: most bad bosses are here! They are the most difficult to deal with and they often hang around for a long time, despite their aweful behaviour because of their good results
+4. Bad values/good performance: most bad bosses are here! They are the most difficult to deal with and they often hang around for a long time, despite their awful behaviour because of their good results

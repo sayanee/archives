@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Interview Power by Tom Washington
+categories:
+- Books
 ---
+- **Book Title:** Interview Power: Selling yourself Face to Face
+- **Author:** Tom Washington
+- **Year written/published:** 1995
+- **Some extracts:**
 
-**Book Title:** Interview Power: Selling yourself Face to Face **Author:** Tom Washington **Year written/published:** 1995 **Some extracts:** a quotation by Elbert Hubbard about interview… >  
+a quotation by Elbert Hubbard about interview…
 
 > There’s something rare, something finer far, something more scarce than ability. It’s the ability to recognise ability.
 
@@ -27,13 +33,9 @@ title: Interview Power by Tom Washington
 
 Building Rapport…
 
->  
-
-> Building rapoort quickly with your interviewer is a vital skill in the process of obtaining job offers. The main aspect of rapport is a mutual trust and respect. egin by utilising your est social skills. Use the person’s name seevral time throughout the interview, but don’t over do it. Use the name of the company and departments on several occasions. Speaking the interviewer’s language including jargon and technical terms, goes a long way in causing the person to feel that you are ‘one of us’. In addition to a courteous and friendly manner, attentive listening is critical to uilding rapport.
+> Building rapport quickly with your interviewer is a vital skill in the process of obtaining job offers. The main aspect of rapport is a mutual trust and respect. egin by utilising your est social skills. Use the person’s name several time throughout the interview, but don’t over do it. Use the name of the company and departments on several occasions. Speaking the interviewer’s language including jargon and technical terms, goes a long way in causing the person to feel that you are ‘one of us’. In addition to a courteous and friendly manner, attentive listening is critical to building rapport.
 
 Stories have an impact…
-
->  
 
 > Stories are important because they say so much about you in an evocative, concentrated way. Paul Green, founder of Behavioural Technology in Memphis, Tenessessee, teaches coorporations how to utilise behaviour-based interviewing, a system of interviewing in which each question requires an examples from the interviewee can make a difference.
 
@@ -60,9 +62,7 @@ how to tell a story… SHARE
 
 Creating Portfolios…
 
->  
-
-> Portfolios enable  job seekers to showcase their strngths and they’re doing it in ever increasing numbers. Portfolios are not just for artists and designers; people in virtually any field can enifit from a well-contructed portfolio. … …  Work samples can include spread sheets you’ve developed, a newsletter you conceived and implemented, a drawing or advertisement you created, an engineering you produced, or a mechanical part you machined.
+> Portfolios enable job seekers to showcase their strengths and they’re doing it in ever increasing numbers. Portfolios are not just for artists and designers; people in virtually any field can enifit from a well-contructed portfolio. … …  Work samples can include spread sheets you’ve developed, a newsletter you conceived and implemented, a drawing or advertisement you created, an engineering you produced, or a mechanical part you machined.
 
 Things to avoid…
 

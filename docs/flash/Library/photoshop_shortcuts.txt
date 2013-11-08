@@ -1,0 +1,10 @@
+***************************************
+PHOTOSHOP SHORT CUTS
+***************************************
+
+Select All			Ctrl + A
+Deselect			Crtl + D
+Fill Foreground Color		Alt + Delete
+Fill Bgr Color			Ctrl + Delete
+Make toolbars dissappear	press Tab
+Free Transform			Ctrl + T

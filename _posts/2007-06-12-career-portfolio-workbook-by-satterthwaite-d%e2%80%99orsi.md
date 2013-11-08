@@ -1,9 +1,16 @@
 ---
 layout: post
 title: Career Portfolio Workbook by Satterthwaite & D’orsi
+categories:
+- Books
 ---
 
-**Book Title:** The Career Portfolio Workbook **Author: **Frank Satterthwaite & Gary D’orsi **Year written/published:** 2003 **Book Source:** [Amazon.com ](http://www.amazon.ca/Career-Portfolio-Workbook-Frank-Satterthwaite/dp/007140855X)**My Comments:** A great book on a great idea! **Contents page:**
+- **Book Title:** The Career Portfolio Workbook
+- **Author**: Frank Satterthwaite & Gary D’orsi
+- **Year written/published:** 2003
+- **My Comments:** A great book on a great idea!
+
+**Contents page:**
 
 1. What is a career portfolio?
 2. Assembling your Master Portfolio
@@ -16,7 +23,7 @@ title: Career Portfolio Workbook by Satterthwaite & D’orsi
 9. Digital Options for your Portfolio and Resume
 10. Portfolios on the fly: Creating a Portfolio in a few Hours
 
-**Some extracts:** definition of a career portfolio… >  
+definition of a career portfolio…
 
 > A career portfolio is not a resume, which simply lists your experiences and accomplishments. Nor is it a cover letter in which you write about yourself and your qualifications for a particular job. Instead, it is a collection of actual documents that support and make tangible the things you want to say about yourself in a cover letter, a resume or a face-to-face interview. Letters of recommendations, performance evaluation, certificates, papers, pictures of things created or of activities led are all examples of items that might be included in a career portfolio.
 
@@ -47,12 +54,14 @@ Portfolio Documents to include…
 7. Community Services
 
 Strategies for creating new documents for your collection…
+
 - Ask people to create useful documents for you
 - You can (and should) create some of your portfolio documents yourself
 - Consider taking pictures and using the web
 - Colour sells
 
 Getting the right look for your carrying case:
+
 - consider using a carrying case that looks like a briefcase
 - Use a carrying case that blends
 - Photocopy your documents
@@ -64,6 +73,7 @@ Getting the right look for your carrying case:
 - Store extra items behind displayed documents
 
 Portfolio Dos and Don’ts:
+
 1. Do not let go of your portfolio
 2. Keep the focus on you, not your portfolio
 3. Do not keep your portfolio continuously open
@@ -78,6 +88,7 @@ Portfolio Dos and Don’ts:
 12. Be careful not to show your portfolio too much
 
 Further uses for Career Portfolio:
+
 1. To get a favourable performance review
 2. To get a raise
 3. to get a promotion

@@ -1,9 +1,16 @@
 ---
 layout: post
 title: Core CSS by keith Schengili-Roberts
+categories:
+- Books
 ---
 
-**Book Title:** Core CSS Cascading Style Sheets **Author:**Keith Schengili-Roberts **Year written/published:** 2004 My Comment: This is an advanced book on CSS and much of the syntax here was something i have never seen before. It was a great book nevertheless... good to pick it up after a basic CSS book. **Contents page:**
+- **Book Title:** Core CSS Cascading Style Sheets
+- **Author:** Keith Schengili-Roberts
+- **Year written/published:** 2004
+- **My Comment**: This is an advanced book on CSS and much of the syntax here was something i have never seen before. It was a great book nevertheless... good to pick it up after a basic CSS book.
+- **Contents page:**
+
 1. Birth of CSS
 2. XHTML and its relationship to CSS
 3. Browser adoption of CSS
@@ -30,9 +37,14 @@ title: Core CSS by keith Schengili-Roberts
 24. Scrollbars
 25. Filters and Transitions
 
-**Some extracts:** W3C introduces CSS... >  
+W3C introduces CSS...
 
 > Tim Berners-Lee created the Web at CERN and the initial standard for HTML 1.0 and HTML 2.0 were governed by them. But CERN's main focus is particle physics research and not the web, and so in 1994 CERN abdicated its role as the standard-setting body for HTML. It passed the torch to a newly created body called the World Wide Web consortium, better known as W3C. The W3C convinced many major software companies including Netscape Communications, Microsoft, IBM, Novell, Sun Microsystems and many more to become part of this standards body.
 
-<span> and <div> > The <span> element is designed to temporarily override any existing CSS information that may have already been specified, and is meant to be used as an inline element. The <div> element works in the same manner, but is supposed to be applied to block-level elements.
-attribute selectors > element[attribute] - matches the names of the attirbute contained within the brackets element[attribute="value"] - a match is made when the attribute euqls the value of 'value' element[attribute~="value"] - a match is amde when the attribute roughly matches the valu of the "value", in cases where the text "value" may be part of a larger word element[attribute|="value"] - a match is made whenever the attribute matches the first few letters of a value whoe first few letter match the text "value"
+`<span>` and `<div>`
+
+> The `<span>` element is designed to temporarily override any existing CSS information that may have already been specified, and is meant to be used as an inline element. The <div> element works in the same manner, but is supposed to be applied to block-level elements.
+
+attribute selectors
+
+> `element[attribute]` - matches the names of the attribute contained within the brackets element[attribute="value"] - a match is made when the attribute equals the value of 'value' element[attribute~="value"] - a match is amde when the attribute roughly matches the valu of the "value", in cases where the text "value" may be part of a larger word element[attribute|="value"] - a match is made whenever the attribute matches the first few letters of a value whose first few letter match the text "value"

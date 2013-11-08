@@ -1,0 +1,59 @@
+body {
+	background-image: url(bgr5.gif);
+
+
+}
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	color: #003366;
+	text-align: center;
+}
+h2 {
+	color: #993333;
+	font-size: 30px;
+	text-align: center;
+	text-transform: uppercase;
+
+}
+ul {
+	list-style-image: url(bullet5.GIF);
+}
+li {
+	font-family: Arial;
+	font-size: 16px;
+	color: #333366;
+	font-weight: bolder;
+
+}
+p {
+	font-family: Arial;
+	font-size: 16px;
+	color: #333366;
+	text-align: justify;
+	font-weight: bolder;
+
+}
+h3 {
+	font-family: "Cataneo BT";
+	font-size: 24px;
+	color: #003333;
+}
+a {
+	font-family: Arial;
+	color: #996600;
+	text-decoration: none;
+}
+h6 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000033;
+	text-transform: uppercase;
+	font-weight: bolder;
+	text-align: center;
+}
+h5 {
+	color: #003300;
+	text-align: center;
+	font-size: 12px;
+}

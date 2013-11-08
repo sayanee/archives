@@ -1,0 +1,17 @@
+****************************
+FLASH ABBREVIATIONS
+****************************
+
+ADPCM
+Adaptive Differential Pulse-Code Modulation is a technique for converting sound or analog information to binary information ( a string of 0s and 1s) by taking frequent samples of the sound and expressing the value of the sampled sound modulation in binary terms.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,9 +1,16 @@
 ---
 layout: post
 title: Making Powerful Presentations by Yardley Kelly
+categories:
+- Books
 ---
 
-**Book Title:**Making Powerful Presentations using Neuro-Linguistic Programming **Authors:** Gary Yardley & Jan Kelly **Year written/published:** 1994 **Book Source:**  [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+32492+3002+6832369+6+0) **Contents page:**
+- **Book Title**:Making Powerful Presentations using Neuro-Linguistic Programming
+- **Authors**: Gary Yardley & Jan Kelly
+- **Year written/published**: 1994
+- **Book Source**:  [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+32492+3002+6832369+6+0)
+- **Contents page**:
+
 1. Studying Excellent presenters
 2. Powerful Presentations
 3. Understanding the Senses
@@ -15,7 +22,10 @@ title: Making Powerful Presentations by Yardley Kelly
 9. Feed-forwarding Information
 10. Questions and Answers
 
-**Some extracts:** some assumptions
+**Some extracts**:
+
+some assumptions
+
 - you are always presenting information
 - your style has weaknesses and strengths
 - skills are learned and therefore can be taught
@@ -24,15 +34,20 @@ title: Making Powerful Presentations by Yardley Kelly
 - audience is more important than you. Leave any personal matters outside the training room
 - creating an atmosphere is the responsibility of the presenter
 
- how we process information
+how we process information
+
 1. Sight - Visual System
 2. Hearing - Auditory System
 3. Touch - Kinesthetic System
 4. Smell - Olfactory System
 5. Taste - Gustatory System
 
-on dressing... > people are more likely to be influenced by 2 piece suit and even more by 3 piece suit!
- attitudes that make an impact with an audience usually include...
+on dressing...
+
+> people are more likely to be influenced by 2 piece suit and even more by 3 piece suit!
+
+ attitudes that make an impact with an audience usually include...
+
 - passion and enthusiasm for what you are teaching
 - curiosity towards the audience
 - energy focused in the room
@@ -41,7 +56,7 @@ on dressing... > people are more likely to be influenced by 2 piece suit and eve
 - tenacity in times of difficulty
 - being thorough, yet not too serious
 
-anchoring... >  
+anchoring...
 
 > Excellent presenters orchestrate their movements in such a way that participants can pick up associates at an unconscious level. Each movement has its own meaning and you can use these gestures or movements to elicit a particular response form the groups.
 
@@ -63,9 +78,7 @@ present in such a way that the audience walk away with...
 - a sense of direction
 - a sense of purpose
 - a sense of order
-- a sense of commitement
+- a sense of commitment
 - a sense of achievement
 - a sense of relief
 - a sense of occasion
-
->

@@ -1,0 +1,39 @@
+*****************************************************
+SHORT FORMS
+*****************************************************
+
+NNTP 
+Network News Transfer Protocol (NNTP) is the predominant protocol used by computer clients and servers for managing the notes posted on Usenet newsgroups.
+
+CSS 
+A cascading style sheet (CSS) is a Web page derived from multiple sources with a defined order of precedence where the definitions of any style element conflict. 
+
+SNMP 
+Simple Network Management Protocol (SNMP) is the protocol governing network management and the monitoring of network devices and their functions. it is not necessarily limited to TCP/lP networks. 
+
+nbsp 		non-breaking space
+POP 		Post Office Protocol
+SMTP		Simple mail transfer protocol
+dd		Definition Data
+dl		Definition List
+dt		Definition Terms
+tr		table row
+td		table data
+up		mouse not over the button
+over		mouse over the button
+Down		mouse click the button
+CSS 		cascading style sheet
+ul		unordered list
+ol		ordered list
+li		List Item
+a		anchor
+FTP		File Transfer Protocol
+sg		Singapore eg. http://www. singnet.com.sg
+com		commercial eg. http://www.macromedia.com
+http		hyper text transfer protocol eg. http://www.yahoo.com
+html		hyper text mark-up language
+url		uniform resource locator
+NNTP		Network News Transfer Protocol
+SNMP		Simple Network Management Protocol
+
+

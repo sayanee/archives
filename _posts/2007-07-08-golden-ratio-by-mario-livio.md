@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Golden Ratio by Mario Livio
+categories:
+- Books
 ---
+- **Book Title**: The Golden Ratio - The story of Phi, the World's Most Astonishing Number
+- **Author**: Mario Livio
+- **Year written/published**: 2002
+- **Summary**: This book talks about the various occurrence of the [number phi ](http://share.sweska.net/2007/06/29/golden-ratio/)and also its history of discovery
+- **Contents Page:**
 
-**Book Title:** The Golden Ratio - The story of Phi, the World's Most Astonishing Number **Author:**Mario Livio **Year written/published:** 2002 **Book Source:** [Amazon](http://www.amazon.com/Golden-Ratio-Worlds-Astonishing-Number/dp/0767908163/ref=sr_1_1/002-2419297-4045618?ie=UTF8&s=books&qid=1183387360&sr=8-1) **Summary:** This book talks about the various occurence of the [number phi ](http://share.sweska.net/2007/06/29/golden-ratio/)and also its history of discovery **Contents Page:**
 1. Prelude to a Number
 2. The Pitch and the Pentagram
 3. Under a Star-y-pointing Pyramid?
@@ -14,13 +20,11 @@ title: Golden Ratio by Mario Livio
 8. From tiles to the heavens
 9. Is God a mathematician?
 
-**Some extracts:** [Buffon's needle](http://en.wikipedia.org/wiki/Buffon's_needle)... >  
+[Buffon's needle](http://en.wikipedia.org/wiki/Buffon's_needle)...
 
 > ... ... Suppose you have a large sheet of paper on the floor, ruled with parallel straight lines spaced by a fixed distance. A needle of length equal precisely to the spacing between the lines is thrown completely at random onto the paper. What is the probability that the needle will land in such a way that it will intersect one of the lines? Surprisingly, the answer turns out to be the number 2/pi.
 
 The number 666...
-
->  
 
 > With a scientific pocket calculator calculate...
 
@@ -35,8 +39,6 @@ Some maths with Golden Ratio...
 ![](/img/phi4.png)
 
 Golden Fibbonaci...
-
->  
 
 > Examine the Fibonacci sequence; 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987...
 

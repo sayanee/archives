@@ -1,0 +1,34 @@
+INSERT THIS AFTER  </title>  and change the colour accordingly
+_______________________________________________________________________
+
+
+
+<style>
+BODY 
+{ 
+scrollbar-face-color:cyan;
+scrollbar-track-color:#CC3300;
+
+scrollbar-arrow-color:yellow;
+
+scrollbar-shadow-color:black;
+scrollbar-dark-shadow-color:black;   
+
+scrollbar-highlight-color:red;
+scrollbar-base-color:cyan;
+
+scrollbar-3d-light-color:black 
+}
+</style>
+
+
+
+_____________________________________________________________________________
+
+Try colours like:
+cyan
+red
+grey
+yellow
+
+or use HEXADECIMAL codes for colours eg. # CC3300

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: the Lomo feel
+categories:
+- Musing
 ---
 
 And so i got [a comments on one of my photos ](http://www.flickr.com/photos/sweska/558920045/#comment72157600465653945)that it got a Lomo feel. I kinda created an _effect_ without even knowing i did ;) And so i decided to find out what is this Lomo effect or rather Lomography!

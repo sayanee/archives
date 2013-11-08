@@ -1,6 +1,8 @@
 ---
 layout: post
 title: whoooppss!!! I’m finally done!!!
+categories:
+- Musing
 ---
 
 yaaaahooooooooo..... i have graduated!!!!!!!!!!!!!!!!!!!!!

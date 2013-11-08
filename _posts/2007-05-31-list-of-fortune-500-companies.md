@@ -4,6 +4,7 @@ title: List of Fortune 500 companies
 ---
 
 [Fortune 500](http://en.wikipedia.org/wiki/Fortune_500) is a list of 500 American cooporations. And here’s the top 20 from the [full list of 500 companies](http://money.cnn.com/magazines/fortune/fortune500/2007/full_list/index.html):
+
 1. Wal-Mart Stores
 2. Exxon Mobil
 3. General Motors

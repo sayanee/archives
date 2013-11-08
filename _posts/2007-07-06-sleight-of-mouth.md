@@ -4,6 +4,7 @@ title: Sleight of Mouth
 ---
 
 [Sleight of Mouth](http://en.wikipedia.org/wiki/Sleight_of_mouth)is a technique of patterns for re-framing any negative statements. And i think it's a powerful list of 14 patterns for persuasion or influencing people...
+
 1. Intent
 2. Consequences
 3. Another Outcome

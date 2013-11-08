@@ -1,0 +1,118 @@
+_______________________________________________________
+MACROMEDIA DREAMWEAVER
+_______________________________________________________
+
+
+
+****************************************************
+DEFINITIONS
+****************************************************
+
+Caption 
+Captions allow for the easy addition of text above or below a table in html. Captions are set to the same width as the table they're associated with.
+
+CELL PADDING 
+CELL PADDING defines how far away from the cells' edges the stuff inside them will be.
+
+CELL SPACING 
+CELL SPACING defines how far apart the cells are from each other  
+
+COLS 
+If you wanted your frames to span vertically (from top to bottom) you would use the COLS, attribute instead.
+
+
+CFMAIL 
+CFMAIL tag is a popular method to generate email messages and post them to a specified server. 
+
+Dithering 
+Dithering is the attempt by a computer program to approximate a color from a mixture of other colors when the required color is not available.
+
+External Style Sheet 
+An external style sheet may be linked to an HTML document through HTML's LINK element. The <LINK> tag is placed in the document HEAD. 
+
+Floating Frame 
+The floating frame is consistent with the attributes in a typical frameset tag, but with a noticeable difference.
+
+Gamma correction
+Gamma correction controls the overall brightness of an image 
+
+Leading 
+A typographical term that refers to the vertical space between lines of text. The leading value also includes the size of the font.
+
+META TAG 
+META TAG to ensure they are cataloged correctly by the major search engines. 2 tags are important there are description and keywords. Description tag will display in the search engine results after the query is performed, the search engine will use the individual words in the keywords tag to pull up your site.  
+
+Picture Tube  
+Picture Tube is an image with a transparent background and a series of objects lay out in a grid. The Tube brush will use the grid to spray the object onto your image when you paint with it 
+
+<PRE>
+Preformatted text tags <pre> will display text exactly as it appears in the source document. The browser is set up to ignore things like spaces and line breaks
+
+ROWS
+ROWS is an attribute of the beginning FRAMESET tag. It tells the browser that the frames will be horizontal. 
+
+Radio Buttons 
+Radio Buttons allow for the direct input of a restricted amount of input Radio buttons are used in polls or other areas where there may be one of two or more possible choices and you only want the user to submit one answer out of the possible choices. 
+
+Spider 
+A spider is a program that visits Web sites and reads their pages and other information in order to create entries for a search engine index. Spiders are typically programmed to visit sites that have been submitted by their owners as new or updated. 
+
+SRC 
+SRC in the IMG tag tells the browser which graphic is to display or, the page SRC in the FRAMETAG telling the browser which page is to be displayed in the frame. 
+
+
+
+
+
+*****************************************************
+SHORT FORMS
+*****************************************************
+
+NNTP 
+Network News Transfer Protocol (NNTP) is the predominant protocol used by computer clients and servers for managing the notes posted on Usenet newsgroups.
+
+CSS 
+A cascading style sheet (CSS) is a Web page derived from multiple sources with a defined order of precedence where the definitions of any style element conflict. 
+
+SNMP 
+Simple Network Management Protocol (SNMP) is the protocol governing network management and the monitoring of network devices and their functions. it is not necessarily limited to TCP/lP networks. 
+
+nbsp 		non-breaking space
+POP 		Post Office Protocol
+SMTP		Simple mail transfer protocol
+dd		Definition Data
+dl		Definition List
+dt		Definition Terms
+tr		table row
+td		table data
+up		mouse not over the button
+over		mouse over the button
+Down		mouse click the button
+CSS 		cascading style sheet
+ul		unordered list
+ol		ordered list
+li		List Item
+a		anchor
+FTP		File Transfer Protocol
+sg		Singapore eg. http://www. singnet.com.sg
+com		commercial eg. http://www.macromedia.com
+http		hyper text transfer protocol eg. http://www.yahoo.com
+html		hyper text mark-up language
+url		uniform resource locator
+NNTP		Network News Transfer Protocol
+SNMP		Simple Network Management Protocol
+
+
+
+
+******************************************************
+SHORT CUTS
+******************************************************
+
+Save			<Ctrl> + S
+Preview in Browser	F12
+Cut			<Ctrl> + X
+Paste			<Ctrl> + V
+Copy			<Ctrl> + C
+Undo			<Ctrl> + Z
+CSS Panel		F11 + <Shift>
