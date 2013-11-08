@@ -5,7 +5,13 @@ categories:
 - Books
 ---
 
-**Book Title:** Trump 101 - the way to success **Author:** Donald Trump **Year written/published:** 2007 **Book Source:** [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+13647+3002+12827366+2+8) **Some extracts:** Trump 101
+- **Book Title:** Trump 101 - the way to success
+- **Author:** Donald Trump
+- **Year written/published:** 2007
+- **Some extracts:**
+
+Trump 101
+
 - Don’t waste your life on work you don’t love
 - Set the bar high - make people ooh and aah
 - Think Trump Scale – bigger is better
@@ -16,7 +22,7 @@ categories:
 - Negotiate to Win – Use diplomacy
 - Work with people you like
 - think positively
-- Swim against the tide  comfort zone can pull you under
+- Swim against the tide comfort zone can pull you under
 - Money is not always the bottom line – it can be a scorecard, not the final score
 - See the whole picture, but be prepared for the picture to change
 - Avoid fixed patterns – be open and flexible
@@ -25,6 +31,7 @@ categories:
 - Concentrate on the target and not the weapon
 
 Tips to toughen up
+
 - Become a planner – examine every project in detail
 - Realistically assess the greatest downside liability for each potential problem that you face
 - Build a financial cushion that will allow you to avoid being squeezed when problems and delays occur

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: my daily companions
+categories:
+- Musing
 ---
 
 They are fast becoming my daily companions... wherever i go they are always with me - the heavy and bulky boots and my helmet!! And along with them comes the stairscase climbing up and down of at least 100 steps and walking at least 0.5km almost 3km daily. Huh! Who needs to go gym ;)

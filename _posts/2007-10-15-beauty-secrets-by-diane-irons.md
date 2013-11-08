@@ -5,24 +5,35 @@ categories:
 - Books
 ---
 
-**Book Title:** The World's Best Kept beauty Secrets - What really works in Beauty, Diet and Fashion **Author:** Diane Irons **Year written/published:** 2005 **Book Source:** [Google Books](http://books.google.com/books?id=kWYiYpOpKhIC&q=beauty+secrets+diane+irons&dq=beauty+secrets+diane+irons&pgis=1), [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+16046+3002+12544495+1+0) **My Comments:** I was seriously surprised by how the author mentioned many home-made remedies... i never knew :P **Some extracts:** Cleansing…
+
+- **Book Title**: The World's Best Kept beauty Secrets - What really works in Beauty, Diet and Fashion
+- **Author**: Diane Irons
+- **Year written/published**: 2005
+- **My Comments**: I was seriously surprised by how the author mentioned many home-made remedies... i never knew :P
+- **Some extracts**:
+
+Cleansing…
+
 1. Pineapple Juice
 2. Lemon Juice
 3. Tomatoes
 4. Most citrus Fruit
 
 Toning
+
 1. rose water
 2. Witch hazel
 3. Hydrogen Peroxide
 4. 2 teaspoon green tea, ½ cup water
 
 Exfoliating
+
 1. sugar + olive oil
 2. oatmeal + water
 3. sea slat
 
 Masks:
+
 1. 1 cup oatmeal, 3 drops of almond oil, ½ cup milk, 1 egg white
 2. peach + brandy
 3. Tomato mashed up
@@ -30,6 +41,7 @@ Masks:
 5. pure honey
 
 Hair:
+
 1. 2 eggs + warm water
 2. mix an egg into shampoo
 3. tablespoon of powdered gelatine to shampoo
@@ -42,6 +54,7 @@ Hair:
 10. brew an espresso / strong coffee – add to dry hair – 30 min
 
 a classic wardrobe:
+
 1. black skirt
 2. tank top
 3. well-cut jacket

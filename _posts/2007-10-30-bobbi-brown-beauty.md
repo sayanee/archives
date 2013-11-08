@@ -5,14 +5,26 @@ categories:
 - Books
 ---
 
-**Book Title:** Bobbi Brown beauty **Author:** Bobbi Brown & Annemarie Iverson **Year written/published:** 1997 **Book Source:** [Google Books](http://books.google.com/books?id=KOAqGwAACAAJ&dq=bobbi+brown+beauty), [Library ](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+9310+3002+12225338+7+7)**Summary:** Make-up **My Comments:** It's so fun to read and browse through these books :P **Some extracts:** Skin care... > Skin care necessities: gel cleanser, creamy cleanser, AHA lotion, rich facial cream, oil-free lotion, non-oily eye makeup remover, eye cream, body lotion Skin-care extras: toner, gentle grainy scrub, soothing mask, clay mask, dry oil spray oily skin: cleaner, toner, moisturizer, foundation, exfoliant, clay mask
+- **Book Title**: Bobbi Brown beauty
+- **Author**: Bobbi Brown & Annemarie Iverson
+- **Year written/published**: 1997
+- **Book Source**: [Google Books](http://books.google.com/books?id=KOAqGwAACAAJ&dq=bobbi+brown+beauty), [Library ](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+9310+3002+12225338+7+7)
+- **Summary**: Make-up
+- **My Comments**: It's so fun to read and browse through these books :P
+- **Some extracts**:
+
+Skin care...
+
+> Skin care necessities: gel cleanser, creamy cleanser, AHA lotion, rich facial cream, oil-free lotion, non-oily eye makeup remover, eye cream, body lotion Skin-care extras: toner, gentle grainy scrub, soothing mask, clay mask, dry oil spray oily skin: cleaner, toner, moisturizer, foundation, exfoliant, clay mask
 you are a makeup virgin if: :P
+
 - you are stunned that you have somehow reached adulthood without the first clue about wearing makeup
 - you want a more sophisticated polished look but are not willing to make a big-time or makeup commitment
 - your make up skills are remedial to nil
 - you’ve always been uncomfortable with the idea of makeup and foundation
 
 expiration dates:
+
 - creamer/cleanser – 1 year
 - cream/moisturizer – 1 year
 - foundation, oil-based – 1.5 years
@@ -26,6 +38,7 @@ expiration dates:
 - sponges – wash weekly and discard monthly
 
 10 steps for make up:
+
 1. concealer
 2. foundation
 3. powder
@@ -38,6 +51,7 @@ expiration dates:
 10. lip liner
 
 five-minute make up
+
 1. Apply concealer first, concentrating on the most recessed corners of your inner eyes. Using the pad of your index finger, gently press the concealer to blend.
 2. Apply foundation to make skin look flawless. Blend carefully
 3. Set concealer and foundation with loose powder, using a velour puff.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: make up virgin
+categories:
+- Musing
 ---
 
 According to bobbi brown, you are a make-up virgin if:

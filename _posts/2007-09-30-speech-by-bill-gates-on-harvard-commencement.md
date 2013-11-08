@@ -5,8 +5,6 @@ title: Speech by Bill Gates on Harvard Commencement
 
 some speeches are really worth it... like this one...
 
->  
-
 > June 7, 2007
 
 > President Bok, former President Rudenstine, incoming President Faust, members of the Harvard Corporation and the Board of Overseers, members of the faculty, parents, and especially, the graduates:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: abstract painting
+categories:
+- Musing
 ---
 
 This is how we can easily create an abstract painting:

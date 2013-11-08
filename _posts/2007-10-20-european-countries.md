@@ -16,6 +16,7 @@ Europe can be viewed as divisions.... here's a list along with the countries' ca
 9. Ukraine -Kiev
 
 ** Northern Europe:**
+
 1. Finland- Mariehamn
 2. Denmark -Copenhagen
 3. Estonia -Tallinn
@@ -29,6 +30,7 @@ Europe can be viewed as divisions.... here's a list along with the countries' ca
 11. United Kingdom -London
 
 **Southern Europe:**
+
 1. Albania -Tirana
 2. Andorra -Andorra la Vella
 3. Bosnia and Herzegovina -Sarajevo
@@ -44,6 +46,7 @@ Europe can be viewed as divisions.... here's a list along with the countries' ca
 13. Vatican City -Vatican City
 
 **Western Europe:**
+
 1. Austria -Vienna
 2. Belgium - Brussels
 3. France - Paris

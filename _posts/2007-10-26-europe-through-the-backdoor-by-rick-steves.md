@@ -4,16 +4,15 @@ title: Europe through the backdoor by Rick Steves
 categories:
 - Books
 ---
+- **Book Title**: Rick Steves' Europe Through the Back Door 2006
+- **Author**: [Rick Steves](http://www.ricksteves.com/)
+- **Year written/published**: 2005
+- **Summary**: This book had general tips and really good resources on travelling... especially cheap and great traveling. Towards the end chapters, the author recounted his travel stories in Europe.
+- **My Comments**:I really enjoyed reading this! great resource + great insight.. and yes thanks to Rick Steves, i'm addicted to a new genre of books - Travel Books!
+- **Contents page**:
 
-**Book Title:** Rick Steves' Europe Through the Back Door 2006
- **Author:** [Rick Steves
- ](http://www.ricksteves.com/)**Year written/published:** 2005
- **Book Source:** [Google Books](http://books.google.com/books?id=asMEGwAACAAJ&dq=europe+through+the+back+door+2006), Library
- **Summary:** This book had general tips and really good resources on travelling... especially cheap and great travelling. Towards the end chapters, the author recounted his travel stories in Europe.
- **My Comments:**I really enjoyed reading this! great resource + great insight.. and yes thanks to Rick Steves, i'm addicted to a new genre of books - Travel Books!
- **Contents page:**
+Part 1
 
- Part 1
 1. Getting Started
 2. Planning your itinerary
 3. Transportation
@@ -23,6 +22,7 @@ categories:
 7. Special Concerns
 
 Part 2
+
 1. Italy
 2. Portugal, Spain, Morocco
 3. France
@@ -34,10 +34,9 @@ Part 2
 9. Throughout Europe
 10. East Mediterranean
 
-**Some extracts:**
+your best itinerary in 8 steps:
 
- your best itinerary in 8 steps:
-1. Read up on  Europe and talk to travellers
+1. Read up on Europe and talk to travellers
 2. Decide on the places you want to see
 3. Establish a route and time-line
 4. Decide on the cities you'll fly in and out of
@@ -47,12 +46,15 @@ Part 2
 8. Fine Tune
 
 What to pack
- > shirts, pants, shorts, swimsuit, underwear and socks, one pair of shoes, jacket, tie or scarf, money belt, money, documents and photocopies, small day-pack, camera, sealable plastic baggies, water bottle, wrist watch, ear plugs, first-aid kit, medicine and vitamins, sunscreen and sunglasses, soap, clothesline, small towel, travel info, maps, address list, small notepad and pen, journal
 
- optional: picnic supplies, packing cubes, inflatable pillow, mp3 player, poncho, insect repellent
+> shirts, pants, shorts, swimsuit, underwear and socks, one pair of shoes, jacket, tie or scarf, money belt, money, documents and photocopies, small day-pack, camera, sealable plastic baggies, water bottle, wrist watch, ear plugs, first-aid kit, medicine and vitamins, sunscreen and sunglasses, soap, clothesline, small towel, travel info, maps, address list, small notepad and pen, journal
 
- electronic: laptop + charger + battery, mobile phone + charger, mp3 player, digital camera + storage + charger + battery, PDA
+optional: picnic supplies, packing cubes, inflatable pillow, mp3 player, poncho, insect repellent
+
+electronic: laptop + charger + battery, mobile phone + charger, mp3 player, digital camera + storage + charger + battery, PDA
+
 Itinerary Skills
+
 - Moderate the weather conditions you'll encounter
 - mix cities and villages
 - join in the celebration
@@ -69,8 +71,6 @@ and i loved this short suggestions...
 
 Consider flying 'open jaw'
 
->
-
 > I routinely fly 'open jaw' into one city and out of another... ...
 
 identity theft
@@ -85,23 +85,14 @@ identity theft
 
 travellers' first aid kit
 
->
-
-> band aids, antiseptic handi-wipes, antibiotic cream, moleskin, tweezers, thermometer in hard case, medication for colds + diarrhoea
+> band aids, antiseptic handi-wipes, antibiotic cream, moleskin, tweezers, thermometer in hard case, medication for colds + diarrhea
 
 outsmarting thieves...
 
--
-
-money belts are peace of mind - a small nylon zipped pouch strapped around waist under your pants/skirts... you wear it completely hidden from sight
-
--
-
- operate with a day's spending money in your pocket - you odn't need to get at your money belt for every euro
+- money belts are peace of mind - a small nylon zipped pouch strapped around waist under your pants/skirts... you wear it completely hidden from sight
+- operate with a day's spending money in your pocket - you don't need to get at your money belt for every euro
 
 money belt items...
-
->
 
 > passport, plane ticket, railpass, credit card, debit card, cash, plastic sheath to keep them dry, contact list, trip calendar + calendar
 

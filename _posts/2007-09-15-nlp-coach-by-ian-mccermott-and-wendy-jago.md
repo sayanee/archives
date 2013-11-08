@@ -5,7 +5,13 @@ categories:
 - Books
 ---
 
-**Book Title:** The NLP Coach - A comprehensive guide to personal well-being and professional success **Authors:**Ian McDermott & Wendy Jago **Year written/published:** 2001 **Book Source:** [Library](http://vistaweb.nlb.gov.sg/cgi-bin/cw_cgi?fullRecord+10924+3002+10943903+3+4), [Amazon](http://www.amazon.com/NLP-Coach-Comprehensive-Well-Being-Professional/dp/074992277X/ref=pd_bbs_sr_1/104-9368817-5179146?ie=UTF8&s=books&qid=1188136104&sr=1-1) **Some extracts:** Some of the pioneers in NLP...
+- **Book Title**: The NLP Coach - A comprehensive guide to personal well-being and professional success
+- **Authors**:Ian McDermott & Wendy Jago
+- **Year written/published**: 2001
+- **Some extracts**:
+
+Some of the pioneers in NLP...
+
 1. Richard Bandler
 2. John Grindler
 3. Fritz Perls
@@ -15,6 +21,7 @@ categories:
 7. Judith Delozier
 
 Tools for the job...
+
 1. **Anchor **- any stimulus that changes your state
 2. **Association and Dissociation**- If you are associated you are into the experience and experiencing it in full. If you are dissociated at any given moment, you are dissociated from the experience and experiencing it at one remove, possibly seeing yourself from a distance.
 3. **Behavioral Flexibility** - is about having a range of ways to respond or to do something.
@@ -41,6 +48,7 @@ Tools for the job...
 24. **Sub-modalities **5 senses - seeing (V), hearing (A), feeling (K), Smell (O), Taste (G)
 
 some common failure patterns...
+
 - being afraid of the unknown
 - spending a lot of time with people who just use a problem frame
 - presuming change is hard work
@@ -53,6 +61,7 @@ some common failure patterns...
 - not letting yourself dream
 
 people with true self-esteem, however famous they are, usually exhibit very different behaviours...
+
 1. they have quiet confidence
 2. they don't fish for compliments
 3. they may be quite humble
