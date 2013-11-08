@@ -1,11 +1,15 @@
 ---
 layout: post
 title: my first trekking!
+categories:
+- Musing
 ---
 
 Went for my first trek during the weekend to **Gunung Datuk**, Tampin, Malaysia. It's been a fantastic experience and more importantly a memorable one because it's technically the first time i ventured out to an overseas country... don't count India and Singapore!! How country bumpkin :P And yes, it's my official grad trip!
 
-![](/img/datuk41.jpg) It all started after we reached the **Tampin **town at 1230pm and we started trek up the hill at 3pm. Like a very cuckoo first time trekker i carried a super heavy backpack all the way up up through the rugged terrain. But we all made it after 3 hours of climbing up huffing and puffing.
+![](/img/datuk41.jpg)
+
+It all started after we reached the **Tampin **town at 1230pm and we started trek up the hill at 3pm. Like a very cuckoo first time trekker i carried a super heavy backpack all the way up up through the rugged terrain. But we all made it after 3 hours of climbing up huffing and puffing.
 
 My trekking mates were an awesome bunch... upon reaching the summit, we set up 2 tents to sleep on the summit overnight. It was sort of a base near the top of the Gunung Datuk hill. Toilet was in the heavenly bushes and we had a fun time staying overnight with grasshopers and ants. Burning leaches was one of our fav activites :shocked:
 
@@ -21,6 +25,6 @@ Woke up late the next day and we caught the morning sky in the summit. The summi
 
 And finally we made our climb down through the slippery terrain and like a super extra i fell and sprained and twisted my ankle.... uuuuuh! :P Don't worry... this just means i'll go for trekking again and next time i'll descend without twisting/spraining my ankle.
 
-Yeah!!! Can't wait to reach one more summit top... and look down from the top and see yet another beautiful world... 
+Yeah!!! Can't wait to reach one more summit top... and look down from the top and see yet another beautiful world...
 
 ![](/img/datuk8.jpg)
