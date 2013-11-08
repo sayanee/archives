@@ -3,7 +3,7 @@ layout: post
 title: difficult clients
 ---
 
-found an interesting article [right here ](http://freelanceswitch.com/clients/12-breeds-of-client-and-how-to-work-with-them/)about the 12 different types of difficult clients and how to work with them... and the types of clients are...
+found an interesting article [right here](http://freelanceswitch.com/clients/12-breeds-of-client-and-how-to-work-with-them/) about the 12 different types of difficult clients and how to work with them... and the types of clients are...
 
 1. The Low-Tech Client
 2. The Uninterested Client
@@ -18,7 +18,7 @@ found an interesting article [right here ](http://freelanceswitch.com/clients/12
 11. The Budget Client
 12. The You-Should- Be-So-Lucky Client
 
-and [another similar ar](http://www.designersmind.com/articles/five-reasons-to-turn-down-a-potential-client/)ticle points out 5 types of clients we should reject.... and there are 5 types of them...
+and [another similar](http://www.designersmind.com/articles/five-reasons-to-turn-down-a-potential-client/) article points out 5 types of clients we should reject.... and there are 5 types of them...
 1. I don’t have any money, but this will get you some great exposure!
 2. I’m not sure what I want, and I won’t pay if I don’t like it
 3. I have a few other designers in mind, can you create a few mock-ups and maybe I’ll pick you?
