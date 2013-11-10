@@ -5,11 +5,9 @@ title: Steve Jobs
 
 [Steve Jobs](http://en.wikipedia.org/wiki/Steve_Jobs) is the CEO of [Apple](http://www.apple.com/). Once he was kicked out of the company he founded.
 
-[youtube=http://www.youtube.com/watch?v=QOVRgVPrGlQ]
+<iframe width="420" height="315" src="//www.youtube.com/embed/QOVRgVPrGlQ" frameborder="0" allowfullscreen></iframe>
 
 Read his speech to the graduating batch of Stanford University Student, 2006. It's one of the best simple and inspiring speeches i have heard about.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 _I am honored to be with you today at your commencement from one of the finest universities in the world. I never graduated from college. Truth be told, this is the closest I've ever gotten to a college graduation. Today I want to tell you **three stories** from my life. That's it. No big deal. Just three stories._
 
@@ -63,4 +61,4 @@ _Stewart and his team put out several issues of The Whole Earth Catalog, and the
 
 _**Stay Hungry. Stay Foolish.**_
 
-_Thank you all very much. _
+_Thank you all very much._

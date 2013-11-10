@@ -7,4 +7,4 @@ Who doesn't know [Bill Gates](http://en.wikipedia.org/wiki/Bill_Gates)?? Richest
 
 And this video shows him speaking about Macintosh back in 1984!!!
 
-[youtube=http://www.youtube.com/watch?v=Uau0aIbrzkQ]
+<iframe width="420" height="315" src="//www.youtube.com/embed/Uau0aIbrzkQ" frameborder="0" allowfullscreen></iframe>

@@ -15,6 +15,7 @@ From [sound money tips](http://soundmoneytips.com/article/25854):
 8. Be Fair
 
 and from [Paul's Tips](http://www.paulstips.com/brainbox/pt/home.nsf/link/10062006-My-eight-best-negotiation-tips):
+
 1. Be willing to negotiate in the first place
 2. Don't get emotionally involved
 3. Don't get suckered by the "rules" trick

@@ -11,9 +11,7 @@ _Why can't i have a car? Why can't i stay in a high rise flat? Why can't i wear 
 
 Well, the law of attraction says that YOU asked for every single minute of unhappiness in your life... we actually attract what we always think about! Read some of the beautiful quotations... [and more quotations...](http://lawofattraction.meetup.com/114/boards/view/viewthread?thread=2686854) and how about [a beautiful presentation too](http://intentexperiment.com/presentation.php)?
 
->  
-
-> What we dwell upon is who we become - Oprah Winfrey 
+>  What we dwell upon is who we become - Oprah Winfrey 
 
 > Thoughts become things - Mike Dooley
 
@@ -28,9 +26,3 @@ Well, the law of attraction says that YOU asked for every single minute of unhap
 You believe it? I do not know... but it sure feels so good to visualise and believe what i truly want :P In the end, that is [the secret ](http://thesecret.tv/home.html)of the universe... we attract what we actually want!
 
 watch [more videos](http://youtube.com/results?search_query=the+secret+law+of+attraction)... you must watch these videos :P
-
-[youtube=http://www.youtube.com/watch?v=-WGyPZkUDOc]
-
-[youtube=http://www.youtube.com/watch?v=pknKwRfGCcY]
-
-[youtube=http://youtube.com/watch?v=39KqIH-t4F8]

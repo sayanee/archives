@@ -13,6 +13,7 @@ Yes, i know nothing about finances as of now, but i must explore all these sites
 - [wall straits](http://wallstraits.com/)
 
 more...
+
 - [Big Charts](http://bigcharts.marketwatch.com/)
 - [Briefing](http://www.briefing.com/)
 - [Option Straddles](http://www.optionslam.com/)
@@ -29,4 +30,6 @@ more...
 - [Trade Ideas](http://www.trade-ideas.com/StockInfo/)
 - [Value line Investment Survey](http://www.valueline.com/)
 
-Let me see.. what are stocks, mutual funds, equity, bonds, index...blah blah blah... i know nothing. Soon i will :P it's scary to be ignorant! I need and must understand them all... > If you don't understand, don't do it! ~Warren Buffet
+Let me see.. what are stocks, mutual funds, equity, bonds, index...blah blah blah... i know nothing. Soon i will :P it's scary to be ignorant! I need and must understand them all...
+
+> If you don't understand, don't do it! ~Warren Buffet
