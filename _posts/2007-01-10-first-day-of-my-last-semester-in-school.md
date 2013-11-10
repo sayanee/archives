@@ -1,6 +1,8 @@
 ---
 layout: post
 title: first day of my last semester in school
+categories:
+- Musing
 ---
 
 Today i stepped into the engineering faculty for the first time this semester... my last semester. The usual hustle and bustle in the corridors and the chit chats of the students was sort of welcoming. But i didn't see a single familiar friend's face. And i guess it'll be the same for the rest of the semester. Don't think will bump into... for any last hi... so sad :(

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: catching up
+categories:
+- Musing
 ---
 
 Some precious catching up!!

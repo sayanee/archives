@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Last day of the year…
+categories:
+- Musing
 ---
 
 You know what!! My fever seems to [always come at the most anti-climatic time](/2006/06/16/plans-abandoned/) :P

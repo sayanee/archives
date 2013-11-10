@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Old gold pics
+categories:
+- Musing
 ---
 
 I don't like to do monotonous mundane mechanical stuff... quite normal !!

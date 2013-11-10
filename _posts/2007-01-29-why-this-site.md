@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Why this site..
+categories:
+- Musing
 ---
 
 why did i start this site??

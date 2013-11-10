@@ -7,8 +7,6 @@ he's the founder of [Automattic](http://automattic.com/). He has coded [Akismet 
 
 And here are his 12 rules:
 
->  
-
 > 1. You have to be the most passionate person involved.
 
 > 2. Get off the computer - the act of writing things down on paper frees the mind, allows for the juices to really flow.
@@ -32,4 +30,3 @@ And here are his 12 rules:
 > 11. Start strong, end strong. People don’t often remember what was in the middle.
 
 > 12. Be a pain killer, not a vitamin.
-

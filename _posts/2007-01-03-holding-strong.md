@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Holding Strong
+categories:
+- Musing
 ---
 
 ![](http://farm1.static.flickr.com/126/338460282_ade0bbca8f.jpg)

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: cheat sheet
+categories:
+- Musing
 ---
 
 ![](/img/cheatsheet089765436789.jpg)

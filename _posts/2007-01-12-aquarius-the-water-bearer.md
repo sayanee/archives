@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Aquarius - the water bearer
+categories:
+- Musing
 ---
 
 It's been raining cats and dogs outside... shouldn't go out. It's cold and you'll definitely get drenched even with umbrella, wet until your ankles with flood and most importantly you'll reach home really really late. I left school yesterday after my Universe lecture at 530pm and guess what time i reached the door steps of my house?!??! at 815pm... ggggrrr %$#@&
