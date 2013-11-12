@@ -1,34 +1,22 @@
 h1, h2, h3
   font-family: $sans
-  color: $turquoise
+  color: $primary
 
 h4, h5, h6
   color: $black
 
 p, li
   color: $black
+
 a
+  text-decoration: none
   &:link, &:visited
-    color: $black
+    color: $secondary
   &:hover, &:active
-    color: $turquoise
+    color: $black
 
-pre
-  background-color: lighten($black, 60%)
-  padding: 1em
-  code
-    background-color: transparent
-
-code
-  background-color: lighten($black, 55%)
-
-small
-  display: block
-  font-size: 0.65em
-
-blockquote
-  border-left: 5px solid $grey
-  padding-left: 1em
-
-.center
+.title
+  color: $primary
   text-align: center
+  font-size: 6em
+  margin: 0
