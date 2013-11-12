@@ -84,7 +84,7 @@ I hope you too can find some gems of life within some of these books! If you too
 18. [Art of War](/the-art-of-war-by-sun-tzu/) by Sun Tzu [ancient military strategies for winning the war]
 
   > The supreme act of war is to subdue the enemy **without fighting**
-19. /getting-things-done-by-david-allen/">Getting Things Done by David Allen [how to get things done in a mind like water]
+19. Getting Things Done(/getting-things-done-by-david-allen) by David Allen [how to get things done in a mind like water]
 
   > The methods I present here are all based on 2 key objectives 1). **Capturing all the things** that need to get done – now, later, someday, big, little or in between – into a logical and trusted system outside of your head and off your mind 2). Disciplining yourself to make front-end decisions about all of the inputs you let into your life so that you will always **have a plan for ‘next actions'** that you can implement or renegotiate at any moment.
 20./the-little-prince/"> The Little Prince by Antoine de Exupery [life's simpleness through a story]
