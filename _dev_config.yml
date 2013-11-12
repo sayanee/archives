@@ -1,9 +1,8 @@
 name: Sayanee
-description: Internet of Things, Minimalism and Space
+description: Blog 2005 - 2013
 author: Sayanee
 email: sayanee@gmail.com
-tags: iot, software, hardware, web, internet, open source, minamlism, non-materialism, outer space, space, cosmology, astronomy, astrophysics
-feed: http://feeds.feedburner.com/sayanee
+tags: blog, archives, old, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012
 destination: ./_publish
 permalink: /:title
 exclude: ['sass', 'node_modules', 'Gruntfile.js', 'package.json', 'readme.md', 'js', 'automation']
