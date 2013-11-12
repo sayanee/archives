@@ -9,7 +9,7 @@ module.exports = function(grunt) {
       production: {
         options: {
           specify: 'sass/style.sass',
-          cssPath: '_publish',
+          cssPath: '.',
           outputStyle: 'compressed',
           noLineComments: true
         }
