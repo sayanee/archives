@@ -1,0 +1,34 @@
+#!/usr/bin/env ruby
+
+# add category to the post if there's none
+
+# Run in the command line for multiple files
+# for i in *.md; do; addcat file $i >> o/$i; done
+
+require "thor"
+
+class App < Thor
+
+  desc "file NAME", "add categories to posts if there's none in file NAME"
+  def file name
+    postFile = File.new("#{name}", "r")
+    contents = postFile.read
+
+    puts '---'
+    puts contents.scan(/layout:.+/)
+    puts contents.scan(/title:.+/)
+    if (contents.scan(/title:.+\n---/).length == 0)
+      puts contents.scan(/categories:.*\n.*\n/)
+    else
+      puts 'categories:'
+      puts '- Learning'
+    end
+    puts '---'
+    puts contents.match(/(---.*---)(.*)/m)[2]
+
+    postFile.close
+  end
+
+end
+
+App.start ARGV
