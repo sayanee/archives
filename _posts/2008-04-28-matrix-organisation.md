@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Matrix Organisation
+categories:
+- Learning
 ---
+
 
 This type of company management is very different from a traditional hierarchial bureacracy, where each employee reports to only one supervisor. The definition of Matrix Organsation as given in [WIki](http://en.wikipedia.org/wiki/Matrix_management):
 

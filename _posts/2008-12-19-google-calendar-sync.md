@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Google Calendar sync
+categories:
+- Learning
 ---
+
 
 ![](/img/gcal-sync-head.png "gcal-sync-head")
 

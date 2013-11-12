@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Barack Obama's acceptance speech
+categories:
+- Learning
 ---
+
 
 on 4th November 2008, the historic win...
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: IBM Global CEO Survey
+categories:
+- Learning
 ---
+
 The recent [IBM Global CEO Survey showed](http://www.prnewswire.com/news-releases/ibm-2010-global-ceo-study-creativity-selected-as-most-crucial-factor-for-future-success-94028284.html):
 
 1. Top performing organizations are 54 percent more likely than others to make **rapid decisions**.

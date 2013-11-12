@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Getting Things Done – The art of Stress Free productivity
 - **Author**: David Allen
 - **Year written/published:** 2001

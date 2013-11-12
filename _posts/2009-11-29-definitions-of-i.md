@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 I have been bumping into so many energetic and passionate people who know what they love and what they want and they are all doing it while having a lot of fun! It is making me very impatient .. actually _kan cheong_ is the right word.
 
 I'm not going to seek out and go into the industry and then look for the _areas_ that suite me... no no no! Instead, I'm all set to find out exactly what **i want** , what** i love**,  and then steer myself towards that.

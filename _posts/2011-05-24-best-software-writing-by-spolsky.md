@@ -4,6 +4,7 @@ title: Best software writing by @spolsky
 categories:
 - Books
 ---
+
 - **Title**: [The Best Software Writings, I](http://www.amazon.com/Best-Software-Writing-Selected-Introduced/dp/1590595009)
 - **Author**: Selected and Introduced by Joel [Spolsky](http://www.joelonsoftware.com/)
 

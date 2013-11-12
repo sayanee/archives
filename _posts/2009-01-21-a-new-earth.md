@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: A new earth – Awakening to your life’s purpose
 - **Author**: Eckhart Tolle
 - **Year written/published**: 2006

@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 Thulasy said I was on a dan brown marathon…and I finally finished the marathon after a total of 4 books.Here are the different issues in each book...
 
 1. Da Vinci Code Feminism, Christian history and art, Pagan worship

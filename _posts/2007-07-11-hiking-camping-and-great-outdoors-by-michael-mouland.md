@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: The Complete Idiot's Guide to Hiking, Camping and the Great Outdoors
 - **Author**: Michael Mouland
 - **Year written/published**: 1996

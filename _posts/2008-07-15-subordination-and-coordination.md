@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Subordination and Coordination
+categories:
+- Learning
 ---
+
 
 In English, there are [2 ways to join a sentence](http://www.class.uidaho.edu/english/comp_inst/English_102/..\English_101/Subordin_Coordin_longver.htm): **Subordination** or **Coordination.**
 

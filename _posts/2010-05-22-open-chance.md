@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Open chance
+categories:
+- Learning
 ---
+
 
 I have been too quiet when so much has been happening in my life for the past 3 months!
 

@@ -4,6 +4,7 @@ title: Open Innovation
 categories:
 - Books
 ---
+
 - **Book Title**: Open Innovation - Researching a New Paradigm
 - **Author**: Editted by Chesbrough, Wim Vanhaverbeke, Joel West
 - **Year written/published**: 2006

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: measuring Aperture
+categories:
+- Learning
 ---
+
 
 Modern lenses use a standard f-stop scale, which is an approximate of the powers of square-root 2:
 

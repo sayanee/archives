@@ -1,7 +1,10 @@
 ---
 layout: post
 title: DIKW Hierarchy
+categories:
+- Learning
 ---
+
 
 I love the way it is concisely presented... Data is nothing if it isn't an info. Info is nothing if it isn't a knowledge. Knowledge is nothing if it isn't wisdom :)
 

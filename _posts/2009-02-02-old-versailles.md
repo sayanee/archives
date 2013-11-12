@@ -1,7 +1,10 @@
 ---
 layout: post
 title: old Versailles
+categories:
+- Learning
 ---
+
 
 i love looking at places from the old era and then compare it with the exact place today... Versailles is one such amazing example.
 

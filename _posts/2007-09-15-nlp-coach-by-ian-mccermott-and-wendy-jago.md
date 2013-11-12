@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: The NLP Coach - A comprehensive guide to personal well-being and professional success
 - **Authors**:Ian McDermott & Wendy Jago
 - **Year written/published**: 2001

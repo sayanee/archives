@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Processor family
+categories:
+- Learning
 ---
+
 
 with Intel being the major market player right now!
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: alpha beta charlie delta...
+categories:
+- Learning
 ---
+
 
 and what are the rest??? here's the full list... uh i never knew past Echo :P
 

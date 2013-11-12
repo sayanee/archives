@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 i'm offically DONE playing the piano....NO MORE!!There are **basic features** and **extra features** which you can implement and for the extra features you can just go on and on and on... record song, graphics, long note, short note...blah blah. And looking around it seems that implementing these extra features have now become the BASIC requirement... urgh!!!!!!
 
 I have learnt somethings very irritating about assembly language...

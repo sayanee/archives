@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Fascinating facts about the Moon
+categories:
+- Learning
 ---
+
 
 Moon, the only satellite of the earth...
 

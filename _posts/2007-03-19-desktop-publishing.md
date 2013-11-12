@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Desktop Publishing
+categories:
+- Learning
 ---
+
 
 I learnt a new word phrase - [Desktop Publishing (DTP). ](http://en.wikipedia.org/wiki/Desktop_publishing)It means to create and design publication documents on our own in personal computers for large scale or small scale printing. I never knew there was actually another area of designing just for personal publishing!
 

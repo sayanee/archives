@@ -1,7 +1,10 @@
 ---
 layout: post
 title: daughter-father team
+categories:
+- Learning
 ---
+
 
 some examples that i can see... mainly in politics (but not all)
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: microsoft founders
+categories:
+- Learning
 ---
+
 
 ![](/img/microsoft_founders.jpg)
 

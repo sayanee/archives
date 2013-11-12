@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Street Paintings
+categories:
+- Learning
 ---
+
 
 Have u seen paintings like these on the street? They are drawn in the perspective such that the street walker will have an illusion of a real hole, image on the pavement...
 

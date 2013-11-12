@@ -1,7 +1,10 @@
 ---
 layout: post
 title: startup lessons
+categories:
+- Learning
 ---
+
 10 Lessons [learnt from startup from Finland](http://www.readwriteweb.com/start/2010/08/10-lessons-from-finlands-summe.php):
 
 1. Be contagious

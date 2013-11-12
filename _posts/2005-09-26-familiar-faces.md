@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 Sometimes you know the people who are featured in the newspapers…last week I came across 2 such situations.
 
 One was the prof of my favorite module to date. If you love exploring universe, black holes, outer space and what is life, go and take his module! [Here’s](http://www.physics.nus.edu.sg/einstein/) the sneak preview…and I totally loved it!!! The project he gave was also interesting…I mean you have to find your originality and come up with a story based on any of the lecture note topics. Guess what I did! I fused Romeo and Juliet and Wave Particle Duality…haha! Appreciation of Shakespeare amidst Modern Physics…fusion of arts and science!

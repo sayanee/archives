@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Download my new wordpress theme icecap
+categories:
+- Learning
 ---
+
 Yay! I just tidied up my very first wordpress theme! It is called Icecap and it's a white, minimal and <a href="http://www.alistapart.com/articles/responsive-web-design/">responsive</a> theme!
 
 For a first timer, designing up the theme and coding it took about 2 weeks. And it involved right from whipping up the design in photoshop, meddling with php <a href="http://codex.wordpress.org/">wordpress codex</a>, plus <a href="http://sass-lang.com/">scss</a> and <a href="http://www.css3.info/">css3</a>.

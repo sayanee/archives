@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Blend Modes
+categories:
+- Learning
 ---
+
 
 [Blend modes](http://en.wikipedia.org/wiki/Blend_modes) in digital image editing are used to determine how two Layers are blended into each other.
 

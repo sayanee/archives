@@ -1,7 +1,10 @@
 ---
 layout: post
 title: my journey of speaking
+categories:
+- Learning
 ---
+
 
 This post is about my journey in the Art of Public Speaking... and how i once forgot to keep learning.
 

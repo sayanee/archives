@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Kinderdijk... another dutch windmill place
+categories:
+- Learning
 ---
+
 
 **Place:** Kinderdijk, 15km east of Rotterdam, Netherlands
 

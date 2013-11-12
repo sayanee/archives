@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Day 0 Running on Rails
+categories:
+- Learning
 ---
+
 I am learning [Rails 3.0](http://rubyonrails.org/), the web development framework [behind many of the sites](http://rubyonrails.org/applications) hosted on the web today! Whooops! So, I also decided to blog my journey and share out the tit bits I catch along the way and if you have suggestions of ideas, dive in and tell me ;-) I have looked into many awesome tutorials [here](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) and [there](http://guides.rubyonrails.org/), and watched the helpful [webcasts](http://railscasts.com/) and [screencasts](http://net.tutsplus.com/tutorials/ruby/learn-ruby-on-rails-from-scratch-week-1/), read bits of books [here](http://pragprog.com/titles/rails3/agile-web-development-with-rails) and [there](http://tr3w.com/). But I figured that the best way to learn anything, is actually to build something, anything with the tools.
 
 So, my objective is very simple - building a fun todo application that I will use myself ... a bit like scratching my own itch! I'm a very list-y person - I think in lists and so i hope it'll also help you follow through and get to the point of what i'm learning and building!

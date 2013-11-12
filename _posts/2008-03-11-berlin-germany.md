@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Berlin, Germany
+categories:
+- Learning
 ---
+
 
 Things to see...
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Love me by Collin Raye
+categories:
+- Learning
 ---
+
 Super nice lyrics!
 
 I read a note my Grandma wrote back in 1923

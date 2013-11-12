@@ -1,7 +1,10 @@
 ---
 layout: post
 title: WYSIWYG editor in html
+categories:
+- Learning
 ---
+
 
 we can easily turn the top part of a text area into a Rich Text Editor / WYSIWYG Editor / html editor...
 

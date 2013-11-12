@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/cards1.jpg)
 
 so i got them all… 4 of ‘em including the one i kept hearing since cedar days - the men don’t get it. and i’m wondering what to do with them now.

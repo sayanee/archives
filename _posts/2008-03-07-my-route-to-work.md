@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 this is where i walk along daily to reach my office...
 
 ![](/img/petit_foret.jpg)

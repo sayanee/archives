@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Whether vs. If
+categories:
+- Learning
 ---
+
 
 This is an interesting one i thought. I am not conscious when to use 'whether' and when to use 'if'
 

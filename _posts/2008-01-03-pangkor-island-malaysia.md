@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Pangkor island, Malaysia
+categories:
+- Learning
 ---
+
 
 [pangkor](http://www.pangkor.com.my/), perak, Malaysia
 

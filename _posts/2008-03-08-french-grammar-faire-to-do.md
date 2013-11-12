@@ -1,7 +1,10 @@
 ---
 layout: post
 title: french grammar - faire (to do)
+categories:
+- Learning
 ---
+
 
 to do (faire)
 

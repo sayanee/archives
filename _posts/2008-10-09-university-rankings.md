@@ -1,7 +1,10 @@
 ---
 layout: post
 title: University Rankings
+categories:
+- Learning
 ---
+
 
 From [Times Higher Education](http://www.timeshighereducation.co.uk/hybrid.asp?typeCode=243&pubCode=1) ranking
 

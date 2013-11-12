@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Sketch to Photo automatically!
+categories:
+- Learning
 ---
+
 
 How amazing is this! You [sketch the photo you have in mind and this program will automatically create it ](http://gizmodo.com/5374890/this-is-a-photoshop-and-it-blew-my-mind)by merging several objects from various photos found in the internet! Can this be really done?? I have yet to try :)
 

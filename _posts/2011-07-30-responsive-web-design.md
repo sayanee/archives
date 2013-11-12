@@ -4,6 +4,7 @@ title: Responsive Web Design
 categories:
 - Books
 ---
+
 - **Title**: [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design)
 - **Author**: [Ethan Marcotte](https://twitter.com/#!/beep)
 - **Extracts**:

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Cuppycake song
+categories:
+- Learning
 ---
+
 
 This is just too cute...
 

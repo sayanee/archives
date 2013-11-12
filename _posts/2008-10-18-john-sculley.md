@@ -1,7 +1,10 @@
 ---
 layout: post
 title: John Sculley
+categories:
+- Learning
 ---
+
 
 [John Sculley](http://en.wikipedia.org/wiki/John_Sculley) is an American businessman. He was the Vice President and President of Pepsi, before joining Apple as its CEO in 1983. Steve Jobs recruited him to lead marketing strategies for Apple computers.
 

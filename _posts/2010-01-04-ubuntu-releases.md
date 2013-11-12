@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Ubuntu releases
+categories:
+- Learning
 ---
+
 
 The release names of Ubuntu is so funny :P
 

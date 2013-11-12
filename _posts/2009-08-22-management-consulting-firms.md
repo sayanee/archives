@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Management Consulting firms
+categories:
+- Learning
 ---
+
 
 Some corporations dealing with Management consulting:
 

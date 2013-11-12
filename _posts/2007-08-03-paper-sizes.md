@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Paper Sizes
+categories:
+- Learning
 ---
+
 
 Some common paper sizes that we hear today... in mm.
 

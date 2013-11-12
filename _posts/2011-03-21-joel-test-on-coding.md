@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Joel Test on coding
+categories:
+- Learning
 ---
+
 How many are true for [your team](http://www.joelonsoftware.com/articles/fog0000000043.html)?
 
 1. Do you use source control?

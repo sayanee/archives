@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: The God Delusion
 - **Author**: [Richard Dawkins ](http://richarddawkins.net/)
 - **Year written/published**: 2006

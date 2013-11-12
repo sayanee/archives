@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Data Communication Networks - Transmission medium
+categories:
+- Learning
 ---
+
 
 All [networks](http://en.wikipedia.org/wiki/Data_networks) are interconnected to allow communication with a variety of different kinds of media. There are 2 kinds of medium:
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Founding CEOs vs Professional CEOs
+categories:
+- Learning
 ---
+
 One of the most insightful articles I have seen recently is certain by [Ben Horowitz](http://bhorowitz.com/) (cofounder and General Partner along with Marc Andreessen, of the venture capital firm Andreessen Horowitz). Here is [the entire blog post](http://bhorowitz.com/2010/04/28/why-we-prefer-founding-ceos/), with some of my fav quotes here:
 
 List of founder CEOs...founders ran an overwhelming majority of them for a very long time, including:

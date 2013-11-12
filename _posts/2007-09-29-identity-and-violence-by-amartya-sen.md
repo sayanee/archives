@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Identity and Violence - The Illusion of Destiny
 - **Author**: [Amartya Sen](http://en.wikipedia.org/wiki/Amartya_Sen)
 - **About the Author**: 1998 Economics Nobel Laureate

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Tagore and Einstein
+categories:
+- Learning
 ---
+
 
 I thought I just had to re-post this as quoted [from Paolo Coelho'a blog](http://paulocoelhoblog.com/2010/07/15/rabindranath-tagore/).
 

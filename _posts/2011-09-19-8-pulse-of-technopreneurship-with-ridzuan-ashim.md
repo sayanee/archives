@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ! '#8 Pulse of Technopreneurship with Ridzuan Ashim'
+categories:
+- Learning
 ---
+
 This time I met up with my decade old high school friend - Ridzuan Ashim.
 
 Although it has been more than 10 years, I'm always bumping into Ridz because both of our affinity towards technology and the vibrant hacker community in Singapore. I decided to catch a chat with him this time at the [Hackerspace Singapore](http://hackerspace.sg/). As always Ridz never fails to give insights into various lessons that he has picked up along the way through his journey of building technology businesses.

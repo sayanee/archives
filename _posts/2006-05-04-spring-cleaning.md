@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 Yeah!! I finally managed to pack my messy messy room and also clean up and arrange all the files in the hard disk and laptop... strange how spring cleaning also means dealing with soft copy files as well.
 
 Sometimes you also find stuff that make you wonder where on earth they all came from... for example this print shots of the tag board. It's so hilarious and well it is the reason why i changed to comments so that in years time i can see them all... Read them from bottom to top. Enjoy ;)

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Tim Ferris' 7 Principles
+categories:
+- Learning
 ---
+
 
 Very good insight on how to deal with distractors...
 

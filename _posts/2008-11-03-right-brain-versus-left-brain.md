@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Right brain versus Left brain
+categories:
+- Learning
 ---
+
 
 **Right brain** deals with:
 - intuition

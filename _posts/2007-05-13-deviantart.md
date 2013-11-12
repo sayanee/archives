@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Deviantart
+categories:
+- Learning
 ---
+
 
 wonderin... i didn't bother exploring this site until now?? There are simply brilliant talented artists out here in this forum sharing their works. And these are some of my favs...
 

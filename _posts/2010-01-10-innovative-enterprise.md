@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Harvard Business Review on the Innovative Enterprise
 - **Author**: HBR Publishing
 - **Year written/published**: 2003

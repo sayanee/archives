@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:** Eight Steps to Seven Figures - The investment strategies of everyday - millionaires and how you can become wealthy too
 - **Author:** Charles Carlson
 - **Year written/published:** 2000

@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: The Art of the Advantage – 36 Strategies to seize the competitive edge
 - **Author**: Kaihan Krippendorff
 - **Year written/published:** 2003

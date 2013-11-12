@@ -1,7 +1,10 @@
 ---
 layout: post
 title: world's most expensive cities
+categories:
+- Learning
 ---
+
 
 [from source](http://www.citymayors.com/economics/expensive_cities2.html):
 

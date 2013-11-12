@@ -4,6 +4,7 @@ title: Essential Buffet by Robert Hagstrom
 categories:
 - Books
 ---
+
 - **Book Title**: The Essential Buffet - Timeless Principles for the new Economy
 - **Author**: Robert G. Hagstrom
 - **Year written/published**: 2001

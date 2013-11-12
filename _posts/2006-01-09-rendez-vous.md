@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Rendez-vous
+categories:
+- Learning
 ---
+
 
 ![](/img/meet.jpg)
 

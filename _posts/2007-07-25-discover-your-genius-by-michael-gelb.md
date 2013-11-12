@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:**  Discover your Genius: How to Think like History's 10 most Revolutionary Minds
 - **Author:** Michael J. Gelb
 - **Year written/published:**  2003

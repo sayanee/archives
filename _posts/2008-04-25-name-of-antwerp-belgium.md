@@ -1,7 +1,10 @@
 ---
 layout: post
 title: name of Antwerp (Belgium)
+categories:
+- Learning
 ---
+
 
 Antwerp, the second largest city in Belgium and the second largest port in Europe after Rotterdam... the name of Antwerp comes from Dutch meaning hand ( English: hand) -werpen (English: to throw). And [the legend goes like this](http://carl.clickhere2.net/photo4.html):
 

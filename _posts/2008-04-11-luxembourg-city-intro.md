@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Luxembourg City intro
+categories:
+- Learning
 ---
+
 
 Some links about Luxembourg... General
 

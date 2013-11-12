@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Sync Contacts across Google, MAC & iPhone
+categories:
+- Learning
 ---
+
 
 Now i have all my contacts beautifully synced up across **Address Book**, **Google Contacts** and **iPhone** with a little bit of help from the iTunes sync. Before this i had contacts with only the phone numbers in my iPhone, while the Google contacts would have the emails.
 

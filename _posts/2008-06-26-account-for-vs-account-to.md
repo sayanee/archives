@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Account for vs. Account to
+categories:
+- Learning
 ---
+
 
 Account for / Account to... when to use what?
 

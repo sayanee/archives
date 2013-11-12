@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Scaling Twitter
+categories:
+- Learning
 ---
+
 
 The presentation from the [Chirp conference](http://chirp.twitter.com/):
 

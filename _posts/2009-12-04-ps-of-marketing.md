@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Ps of Marketing
+categories:
+- Learning
 ---
+
 
 The [Ps of marketing](http://www.valuebasedmanagement.net/methods_marketing_mix.html)... The 4 Ps of marketing are:
 

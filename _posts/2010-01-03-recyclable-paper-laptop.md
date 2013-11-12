@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Recyclable paper laptop
+categories:
+- Learning
 ---
+
 
 From [Yanko Design](http://www.yankodesign.com/2009/11/03/disposable-paper-laptops/):
 

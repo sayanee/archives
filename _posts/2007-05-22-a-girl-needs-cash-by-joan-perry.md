@@ -4,6 +4,7 @@ title: A girl needs cash by Joan Perry
 categories:
 - Books
 ---
+
 - **Book Title:** A Girl Needs Cash - Banish the white knight myth and Take Charge of your Financial Life
 - **Author:**Joan Perry with Dolores Barclays
 - **Year written/published:** 1997

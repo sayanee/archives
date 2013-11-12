@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Water powered clock
+categories:
+- Learning
 ---
+
 
 I want this [water powered clock](http://www.thinkgeek.com/homeoffice/lights/757e/)! Yes, really... this clock is powered by only water. Here's how...
 

@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/er.jpg)
 
 **Cutting drilling sawing** hammering sanding filling coupling bending nailing threading screwing oiling greasing riveting clamping..

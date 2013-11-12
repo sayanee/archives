@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 Hillary Rodham Clinton - former First Lady of US, mother of Chelsea Clinton,  [junior US Senetor for New York](http://en.wikipedia.org/wiki/Hillary_Rodham_Clinton). I had a chance to read her own words about her life until the day she left the White House living history. You can get a glimpse of one chapter 'Bill Clinton' [right here](http://www.thinkingpeace.com/Lib/lib103.html).
 
 I have listed a lot of extracts here... because each of them were really a strong lesson for me... enjoy...

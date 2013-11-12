@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Accidents to learn from
+categories:
+- Learning
 ---
+
 
 some famous accidents... from which powerful lessons were learnt and safety policies were imposed
 

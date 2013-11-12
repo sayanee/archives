@@ -1,7 +1,10 @@
 ---
 layout: post
 title: French vocabulary - Shops
+categories:
+- Learning
 ---
+
 
 shops...
 

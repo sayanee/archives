@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Marseille (France) intro
+categories:
+- Learning
 ---
+
 
 some general links...
 

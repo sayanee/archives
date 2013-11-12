@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 100 Most powerful women in 2006
+categories:
+- Learning
 ---
+
 
 This list is [according to Forbes](http://www.forbes.com/lists/2006/11/06women_The-100-Most-Powerful-Women_Rank.html). Bold are the ones i know... and i should know the rest too!
 

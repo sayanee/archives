@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 I took this shot right outside my house door... Singapore sky is indeed filled with loads of clouds. And sometimes when these clouds conceal the sun behind, it looks even more stunning... as if it's hiding and concealing something underneath and that something is forcing itself to come out and show itself to the world
 
 ![](http://static.flickr.com/73/198107278_d423536c7d.jpg)

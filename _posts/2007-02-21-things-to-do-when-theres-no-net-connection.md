@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 i'm definitely an internet addict and sometimes when the router's not working or i'm having low connectivity, i get pissed :P but, i found some wonderful stuff to do when the net is down... i was reading it [here ](http://commutesmarter.blogspot.com/2007/02/five-more-things-to-do-with-no-net.html)and [there](http://speakingfreely.wordpress.com/2007/02/06/five-things-to-do-with-a-pc-when-you-have-no-internet-connection/). And upon a slight collation, here's my list!
 
 1. organise hard disk / D drive / C drive

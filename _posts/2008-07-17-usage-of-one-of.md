@@ -1,7 +1,10 @@
 ---
 layout: post
 title: usage of 'one of'
+categories:
+- Learning
 ---
+
 
 there are many ways of using _one of:_
 

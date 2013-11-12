@@ -4,6 +4,7 @@ title: 30 books that changed my life
 categories:
 - Books
 ---
+
 It's safe to say that I have passed my quarter-life crisis. And the single biggest factor was me reading so much.
 
 Back then, despite being totally clueless with life, I [made a wise decision to at least start reading](/b-b) - reading the books that could change my life, reading to find out my options and reading to learn from those who thought deeply enough to change the world. After more than 4 years down the road, I can say some of these books have influenced me, changed me. Just as a man can be judged by the company he keeps, I think a man's interest, beliefs and passion can most certainly be known by the books he devoured and loved.

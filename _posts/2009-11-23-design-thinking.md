@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Design Thinking
+categories:
+- Learning
 ---
+
 
 As presented by [metacole](http://metacole.com/2009/11/21/design-thinking-and-finding-true-love/) at the BarCamp! very funny!!
 

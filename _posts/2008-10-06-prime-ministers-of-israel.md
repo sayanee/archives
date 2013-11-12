@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Prime Ministers of Israel
+categories:
+- Learning
 ---
+
 
 [Prime Minister of Israel](http://en.wikipedia.org/wiki/Prime_Minister_of_Israel) is the most powerful political person of Israel.
 

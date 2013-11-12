@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Online Stock brokers
+categories:
+- Learning
 ---
+
 
 here's a list of some online brokers...
 

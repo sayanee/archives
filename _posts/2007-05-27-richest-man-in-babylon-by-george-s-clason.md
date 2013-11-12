@@ -6,6 +6,7 @@ categories:
 ---
 
 
+
 - **Book Title**: The Richest Man in Babylon
 - **Author**:George S. Clason
 - **Year written/published**: 1926

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Jet Lag - how to deal with it
+categories:
+- Learning
 ---
+
 
 Some tips on overcoming/dealing with jet lag
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Grand Place in Brussels
+categories:
+- Learning
 ---
+
 
 - **Name**: [Grand Place](http://en.wikipedia.org/wiki/Grand_Place)
 - **Object**: Central Market place and Town Centre

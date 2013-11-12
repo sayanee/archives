@@ -1,7 +1,10 @@
 ---
 layout: post
 title: changing the world
+categories:
+- Learning
 ---
+
 
 another short story from the Monk who sold his Ferrari
 

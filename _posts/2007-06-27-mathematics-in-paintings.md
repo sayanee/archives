@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Mathematics in Paintings
+categories:
+- Learning
 ---
+
 
 I'm reading a book on [Golden Ratio](http://en.wikipedia.org/wiki/Golden_ratio)... that's a blog for another day. But as i was reading i came across 2 very intriguing paintings and the mathematics behind them.
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Astronomy Links
+categories:
+- Learning
 ---
+
 
 studying for astronomy test next week and so decided to compile all the interesting links that my lecturer has put down in the notes. And here are some of my fav :D
 

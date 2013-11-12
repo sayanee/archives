@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Unsolved Maths problems
+categories:
+- Learning
 ---
+
 
 I thought this [list in Wiki ](http://en.wikipedia.org/wiki/Unsolved_problems_in_mathematics)is rather interesting... it has the list of unsolved problems in mathematics and some problems include...
 

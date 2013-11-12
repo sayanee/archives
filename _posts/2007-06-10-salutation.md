@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Salutation
+categories:
+- Learning
 ---
+
 
 by [Kalidasa](http://en.wikipedia.org/wiki/Kalidasa)…
 

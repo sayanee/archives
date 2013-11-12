@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Harvard Business Review on Strategic Alliances
 - **Author**:-
 - **Year written/published**: 2002

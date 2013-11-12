@@ -1,7 +1,10 @@
 ---
 layout: post
 title: receive email from another gmail account
+categories:
+- Learning
 ---
+
 
 i love gmail... and i have a few accounts. But it would be just great if i can receive all the emails from other gmail accounts into just ONE gmail account. And i learnt how to do it finally without the [common error](http://groups.google.com/group/Gmail-POP-and-Forwarding/browse_thread/thread/3931e070459aa0f7/9c41d9fa43ebdd91) :P Here's how... eg. You want to receive all the emails from get[at]gmail[dot]com into receive[at]gmail[dot]com
 

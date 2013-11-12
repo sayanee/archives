@@ -1,7 +1,10 @@
 ---
 layout: post
 title: French Vocabulaire - Colours
+categories:
+- Learning
 ---
+
 
 some common colours in French...english (m sing) (f sing) (m plural) (f plural)
 

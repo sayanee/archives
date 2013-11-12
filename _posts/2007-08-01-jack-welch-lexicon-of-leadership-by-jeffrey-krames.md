@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Jack Welch Lexicon of Leadership by Jeffrey Krames
+categories:
+- Learning
 ---
+
 
 - **Book Title**: The Jack Welch Lexicon of Leadership
 - **Author**: Jeffrey A. Krames

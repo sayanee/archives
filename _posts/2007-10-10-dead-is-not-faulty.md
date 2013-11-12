@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 when DEAD is something else...
 
 - **Me:** Simon!! The point was faulty and was not tested… the last teeth calibration number showed DEAD.

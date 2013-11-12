@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Brighter days…
+categories:
+- Learning
 ---
+
 categories:
 - Musing
 

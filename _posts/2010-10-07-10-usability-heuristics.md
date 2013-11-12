@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 10 Usability Heuristics
+categories:
+- Learning
 ---
+
 From [here](http://www.useit.com/papers/heuristic/heuristic_list.html):
 
 1. Visibility of system status

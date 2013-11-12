@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Stock Exchanges
+categories:
+- Learning
 ---
+
 
 here's the list of stock exchanges for various countries...
 

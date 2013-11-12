@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Google Chrome
+categories:
+- Learning
 ---
+
 
 I just [downloaded the Google Chrome ](http://www.google.com/chrome)- the web browser from Google.
 

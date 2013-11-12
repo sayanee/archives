@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ! '#7 Pulse of Tech Evangelism with @preetamrai'
+categories:
+- Learning
 ---
+
 When I first met Preetam more than 4 years back, I was struck by his travels and down-to-earth ways of connecting with people and technology everywhere he went. When he was back in Singapore recently, I had to nudge him for a meetup to know more about how he got started and his thoughts on his work for tomorrow.
 
 He still continues to travel widely, while spreading the culture of open sharing and technology through unconference events like [Barcamp](http://barcamp.org/w/page/402984/FrontPage) in the region of South East Asia. Needless to say, my biggest takeaway was how he connected zen with technology. And oh! He passed me his lovely Samson U01C microphone - Thanks a bunch and I'll see you at Barcamp SG soon!

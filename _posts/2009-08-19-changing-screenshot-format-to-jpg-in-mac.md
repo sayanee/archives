@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Changing screenshot format to jpg in MAC
+categories:
+- Learning
 ---
+
 
 So the default image for screen shots in MAC is png. And we can change it to jpg! Tom Merrit shows how to do it in Cnet's "How to" podcast:
 

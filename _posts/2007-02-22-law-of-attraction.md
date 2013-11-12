@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Law of Attraction
+categories:
+- Learning
 ---
+
 
 Want to know the secret of getting exactly what you always want?? 
 

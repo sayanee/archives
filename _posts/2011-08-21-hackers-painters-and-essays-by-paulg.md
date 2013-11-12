@@ -4,6 +4,7 @@ title: Hackers & Painters and Essays by @paulg
 categories:
 - Books
 ---
+
 - **Book**: [Hackers &amp; Painters](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/0596006624) and [Essays](http://paulgraham.com/articles.html) by Paul Graham
 - **Author**: Paul Graham
 - **Source**: [Github](https://github.com/davidyang/Paul-Graham-s-Essays-Epub)

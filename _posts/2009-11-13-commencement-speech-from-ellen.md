@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Commencement speech from Ellen
+categories:
+- Learning
 ---
+
 
 Funny!! and it knocks some sense into you!
 

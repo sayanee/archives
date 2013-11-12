@@ -1,7 +1,10 @@
 ---
 layout: post
 title: If by Rudyard Kipling
+categories:
+- Learning
 ---
+
 If you can keep your head when all about you <br>
 Are losing theirs and blaming it on you; <br>
 If you can trust yourself when all men doubt you, <br>

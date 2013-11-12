@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Parisian Love
+categories:
+- Learning
 ---
+
 
 The Google Ad
 

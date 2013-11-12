@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Ready for Anything – 52 Productivity Principles for Work and life
 - **Author**: David Allen
 - **Year written/published**: 2003

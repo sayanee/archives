@@ -4,6 +4,7 @@ title: Crossing the Chasm
 categories:
 - Books
 ---
+
 - **Book Title**: Crossing the Chasm - Marketing and Selling Disruptive products to Mainstream customers
 - **Author**: Geoffrey Moore
 - **Year written/published**: 1991

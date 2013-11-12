@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 i realised something, being **jobless** is the best! I can do whatever i truly love and experiment and play around a hell lot. I'm really looking forward for a solid few weeks of break and pigging out with good ol' pals.
 
 Most importantly.. really take some time to think about myself and to stop and look around... like what they say, "smell the roses"...

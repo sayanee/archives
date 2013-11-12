@@ -1,7 +1,10 @@
 ---
 layout: post
 title: being on your own mission
+categories:
+- Learning
 ---
+
 
 A beautiful article on [This is my Theme Part, What should I scream for](http://www.pluginid.com/theme-park-scream-for/)?
 

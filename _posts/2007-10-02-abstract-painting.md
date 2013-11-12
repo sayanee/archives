@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 This is how we can easily create an abstract painting:
 
 1. spot a sunset from the ground

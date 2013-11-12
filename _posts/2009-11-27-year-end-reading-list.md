@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 It was almost 3 years back that i set myself to [read one book every 3 days](http://sweska.net/2007/02/15/b-b/)! And yes, eventually i did [manage to read 100 books](http://share.sweska.net/category/book-reviews/) for the year 2007 as I was only a student with loads of free time. Over the years, i started to get a lot of reading content from feeds and podcasts as well, and naturally the book count went down. So i have reviewed my reading rate to make it sustainable for the long term - It shall be one book per week! With the 5 remaining weeks of the year 2009, i have a line-up of very interesting books to read during the quiet Sunday afternoons or during the long commuting hours.
 
 ![books-to-read](/img/books-to-read.jpg)

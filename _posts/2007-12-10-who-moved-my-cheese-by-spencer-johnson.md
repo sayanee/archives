@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 **Book Title:** Who moved my Cheese? - An A-mazing way to deal with change in your work and in your life
 **Author:** Spencer Johnson
 **Year written/published:** 1998

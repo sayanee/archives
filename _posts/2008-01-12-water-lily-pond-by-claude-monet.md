@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Water-Lily Pond by Claude Monet
+categories:
+- Learning
 ---
+
 
 - **Name:** Water-Lily Pond
 - **Object:** Painting

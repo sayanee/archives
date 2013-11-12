@@ -1,7 +1,10 @@
 ---
 layout: post
 title: GTD with Remember the Milk
+categories:
+- Learning
 ---
+
 
 Falling in love with [RTM ](http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html)and GTD!! And [there's this article](http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html), that explains perfectly how we can merge them both!
 

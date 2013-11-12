@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Voice Procedure for Walkie talkies
+categories:
+- Learning
 ---
+
 
 [Voice Procedure](http://en.wikipedia.org/wiki/Voice_procedure) for walkie talkies... some code words are used so that words and messeges are heard and understood clearly over the [simplex communication ](http://en.wikipedia.org/wiki/Duplex_%28telecommunications%29#Half-Duplex)- walkie talkie :D and some code words are...
 

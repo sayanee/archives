@@ -1,7 +1,10 @@
 ---
 layout: post
 title: La Chambre by Van Gogh
+categories:
+- Learning
 ---
+
 
 - **Name**: [La Chambre ](http://fr.wikipedia.org/wiki/La_chambre_de_Van_Gogh_%C3%A0_Arles)
 - **Object**: Painting

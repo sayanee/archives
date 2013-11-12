@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 I should have probably shared this ages ago. I just love how i can access Google Calendar through both my MacBook and iPhone. I can even add events on the go and it will sync immediately! Very convenient. Both iPhone and Google Calendar can sync to my multiple calendars and that too with colours! Here's how i did that...
 
 **1. Go to Google Calendars and select Settings**

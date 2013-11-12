@@ -4,6 +4,7 @@ title: Imaging for Women by Sharlyn Stafford
 categories:
 - Books
 ---
+
 - **Book Title**:Imaging for Women- Colour, Style and Make-Up
 - **Author**:Sharlyn Stafford
 - **Year written/published**: 2003

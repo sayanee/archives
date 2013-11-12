@@ -1,7 +1,10 @@
 ---
 layout: post
 title: European Artists
+categories:
+- Learning
 ---
+
 
 Found this list while reading a book:
 

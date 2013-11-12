@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Feynman Quotes
+categories:
+- Learning
 ---
+
 
 I have always loved books by Richard Feynman. He's a brilliant physicist, a teacher and most importantly he has a great insigh to life itself!
 

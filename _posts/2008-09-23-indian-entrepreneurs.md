@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Indian entrepreneurs
+categories:
+- Learning
 ---
+
 
 Some of the famours [Indian entrepreneurs ](http://en.wikipedia.org/wiki/List_of_Indian_entrepreneurs)of the 21st Century...
 

@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](http://farm1.static.flickr.com/126/338460282_ade0bbca8f.jpg)
 
 A hurried post amidst the last minute meet ups before we leave for Singapore!!

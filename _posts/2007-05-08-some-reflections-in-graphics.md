@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Some reflections in graphics
+categories:
+- Learning
 ---
+
 
 I love these blogs... they are graphical / photographical and they make me think and if they don't, they simply make me laugh :P Enjoy...
 

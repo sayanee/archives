@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The Scream
+categories:
+- Learning
 ---
+
 
 - **Name:** [The Scream](http://en.wikipedia.org/wiki/The_Scream)
 - **Object:** Painting

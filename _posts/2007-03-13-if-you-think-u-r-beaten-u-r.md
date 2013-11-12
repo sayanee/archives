@@ -1,7 +1,10 @@
 ---
 layout: post
 title: If you think u r beaten, u r…
+categories:
+- Learning
 ---
+
 
 another poem about CAN! I love the energy felt in this poem!
 

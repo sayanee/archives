@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Secretary Generals of United Nations
+categories:
+- Learning
 ---
+
 
 These are the historic list of our past Secretary Generals of the United Nations... [Gladwyn Jebb ](http://en.wikipedia.org/wiki/Gladwyn_Jebb) (24 October 1945 – 1 February 1946)  United Kingdom
 

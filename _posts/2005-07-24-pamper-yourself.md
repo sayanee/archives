@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 I have tried dyeing and highlighting my hair before, so this time I tried something different…it is **SOFT-REBONDING**!!!! I went to Reds Hair at Taka basement yesterday and spent 260 bucks on it…there goes 1/3 of my bank savings. And the result?!?!?!....ok I do not need a comb anymore and my hair is just like what Sulo said…a shampoo ad. I can flick my hair here and there and it’ll still fall back in the same place… my parents had a good laugh when I did this. Wow!!!!....but sigh I wanted to preserve my curls and waves… they are all gone. But then again, I love experimenting and this hair they say will last for about 7 months. Until then for the first time in my life I can let down my long hair. Now for the next 2 days I cannot wash my hair and for the next 2 weeks I cannot tie up my hair…how to jog and play badminton with hair flying here and there?!?!?!? Oh yes…I also cannot go swimming because of chlorine…darn there goes my dream of getting a nice tan before school opens. In all it took me 4 hours!
 
 ![](/img/RedsHair1.jpg)

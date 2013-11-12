@@ -4,6 +4,7 @@ title: Passion Test
 categories:
 - Books
 ---
+
 - **Book Title**: The Passion test - Effortless Path to discovering your Life purpose
 - **Author**: Janet Attwood and Chris Attwood
 - **Year written/published**: 2006

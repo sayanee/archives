@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The Art of Play
+categories:
+- Learning
 ---
+
 With September coming to almost an end, 2010 will be done really soon! And so, how's the [new year's resolution](/neoteny-venture-2010/) coming along?
 
 **Neoteny Venture** has fully defined my year! I was so lucky to have found amazing people to build up some projects that will be implemented real soon as well as I got to travel around for 2 months, and finally my school will be done in just about a few weeks! It often makes me wonder, whether all those "life long rat races" that I have always heard will ever be true for me. Certainly, it will not be true for me - I'm just lucky and I choose to be one!

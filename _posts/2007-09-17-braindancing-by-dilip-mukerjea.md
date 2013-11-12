@@ -6,6 +6,7 @@ categories:
 ---
 
 
+
 - **Book Title**: Braindancing - brain blazing practical techniques in creativity for immediate application
 - **Author**:  [Dilip Mukerjea](http://members.optusnet.com.au/~charles57/Creative/Dilip/index.html)
 - **Year written/published**:  1998

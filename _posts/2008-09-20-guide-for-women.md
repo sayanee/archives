@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Guide for Women
+categories:
+- Learning
 ---
+
 
 Watching [Moujan in Popsiren for this episode](http://revision3.com/psbite/2008-09-16Women/) reminds me of another Guide for Women - Good Wife's Guide from the 1950s. How times have changed! The extract goes something like this... 
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Meeting of brains
+categories:
+- Learning
 ---
+
 
 1927 5th  [Solvay Conference ](http://en.wikipedia.org/wiki/Solvay_Conference)is one of the most famous conferences where the world's most notable scientists gathered together to discuss on Quantum Mechanics. 17 out of the 29 attendees became or were Nobel Laureates.
 

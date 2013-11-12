@@ -1,7 +1,10 @@
 ---
 layout: post
 title: How the Wall Street Works by David Scott
+categories:
+- Learning
 ---
+
 
 - **Book Title**: How the Wall Street Works
 - **Author**: David L. Scott

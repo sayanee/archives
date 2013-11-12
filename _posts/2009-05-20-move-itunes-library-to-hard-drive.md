@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Move iTunes library to Hard drive!
+categories:
+- Learning
 ---
+
 
 Open iTunes
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Be The Best of Whatever You Are
+categories:
+- Learning
 ---
+
 
 by Douglas Malloch
 

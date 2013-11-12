@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Start-up quotes
+categories:
+- Learning
 ---
+
 
 [Start-up Quotes!](http://www.slideshare.net/avalokarts/start-up-quotes "Start- up Quotes!")
 

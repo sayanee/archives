@@ -1,7 +1,10 @@
 ---
 layout: post
 title: adapted to/for/from
+categories:
+- Learning
 ---
+
 
 So what is the difference???
 

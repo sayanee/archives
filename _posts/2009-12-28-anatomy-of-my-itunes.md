@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 About 2 years back, i discovered another world of free content - podcast!! And now subscribing through iTunes and watching them at almost every other free time makes me very very happy! Over time, i  started subscribing at an enormous rate and i was never able to finish listening to all of them. Hence, achieving Inbox 0 is heaven for my humongous list of 30+ podcast. A few days ago, i had over **1000+ unwatched podcasts** and i finally decided to delete all the past episodes and now it is  down to just a manageable weekly podcast dose of** 53 podcasts**, 18 hours :D Eliminating digital junk felt that good! I love watching and listening to podcasts downloaded from iTunes and synced to my iPhone. It always makes me a very patient person - I'm never out of things to do with a list of unwatched podcasts right in my iPhone! If friends ever wonder why i do not have any games in my iPhone, the culprit is podcast :D So i  thought of having an overview to what i generally listen to and divided them into 5 neat group...
 
 ![](/img/iTunes-pie.jpg)

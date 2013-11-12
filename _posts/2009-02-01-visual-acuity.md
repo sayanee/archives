@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Visual acuity
+categories:
+- Learning
 ---
+
 
 A typical Snellen Chart is used to test visual acuity:
 

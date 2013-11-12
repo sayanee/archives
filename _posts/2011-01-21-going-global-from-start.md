@@ -1,7 +1,10 @@
 ---
 layout: post
 title: going global from start
+categories:
+- Learning
 ---
+
 from loic's thoughts... [Why I ditched Europe for Silicon Valley](http://www.loiclemeur.com/english/2011/01/why-i-ditched-europe-for-silicon-valley.html)
 
 european entrepreneurs

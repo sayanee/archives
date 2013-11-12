@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Dropbox Startup lesson
+categories:
+- Learning
 ---
+
 
 [Dropbox Startup Lessons Learned](http://www.slideshare.net/gueste94e4c/dropbox-startup-lessons-learned-3836587 "Dropbox Startup Lessons Learned")
 

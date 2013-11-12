@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Google Board of Directors
+categories:
+- Learning
 ---
+
 
 [Board of Directors for Google](http://www.google.com/corporate/execs.html)
 

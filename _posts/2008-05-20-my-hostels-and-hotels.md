@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 I had a fabulous 3 months traveling in Europe and it would not have been complete with the amazing places i had stayed in...
 
 1. Valenciennes - [Le Grande Hotel de Valenciennes](http://www.grand-hotel-de-valenciennes.fr/)

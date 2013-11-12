@@ -1,7 +1,10 @@
 ---
 layout: post
 title: French vocabulaire - Family
+categories:
+- Learning
 ---
+
 
 some common family relations in french...
 

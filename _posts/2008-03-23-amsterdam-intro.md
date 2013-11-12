@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Amsterdam intro
+categories:
+- Learning
 ---
+
 
 Some links to Amsterdam, capital of Netherlands:
 

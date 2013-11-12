@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Le déjeuner des canotiers
+categories:
+- Learning
 ---
+
 
 - **Name**: Le déjeuner des canotiers (Luncheon of the Boating party)
 - **Object**: painting

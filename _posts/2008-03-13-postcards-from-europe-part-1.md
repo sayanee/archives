@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 It's merely been 2 week here in France, and after taking a grotesque amount of 840 photos and 114 video clips, i'm down to a measly 8 for a showcase. It's hard to have that kinda _ooohhh_ _la la_ photography... i must surely be taking a DSLR on my next travel tales to maybe improve my rate of photo production.
 
 Till then... presenting you that part of France I have seen so far...

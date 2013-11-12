@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Internet of things!
+categories:
+- Learning
 ---
+
 
 A very nice video from IBM
 

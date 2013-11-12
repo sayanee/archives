@@ -1,7 +1,10 @@
 ---
 layout: post
 title: It's not how good you are...
+categories:
+- Learning
 ---
+
 
 I thought this was a great slideshow based off Paul Arden's book:
 

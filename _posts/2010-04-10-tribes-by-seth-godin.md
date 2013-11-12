@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Tribes
 - **Author**: Seth Godin
 - **Year written/published**: 2008

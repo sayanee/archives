@@ -1,7 +1,10 @@
 ---
 layout: post
 title: handy terminal commands
+categories:
+- Learning
 ---
+
 ls - list contents of directory
 
 mv - rename a file e.g. mv old.cpp new.cpp

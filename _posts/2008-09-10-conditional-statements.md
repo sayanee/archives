@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Conditional Statements
+categories:
+- Learning
 ---
+
 
 How should we tackle sentences with the following structure: "If X, then Y" This [simple logic](http://www.math.jhu.edu/~swang/logic.htm) statement can be seen as 2 parts:
 

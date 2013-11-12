@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Madonna of the Rocks has 2 versions
+categories:
+- Learning
 ---
+
 
 These 2 famous paintings, [_Madonna of the Rocks_ ](http://en.wikipedia.org/wiki/Virgin_of_the_Rocks)by Leonardo da Vinci has 2 versions... so what are the differences?
 

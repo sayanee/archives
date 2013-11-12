@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 1st day for 2 star kayaking. And it was a mixture of the old and new...
 
 ![](/img/gf.jpg)

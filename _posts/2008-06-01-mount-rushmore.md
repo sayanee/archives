@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Mount Rushmore
+categories:
+- Learning
 ---
+
 
 - **Name**: [Mount Rushmore ](http://en.wikipedia.org/wiki/Mount_Rushmore)
 - **Object**: Monumental granite sculture

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Keukenhof for Tulips of Netherlands
+categories:
+- Learning
 ---
+
 
 - **Place**: [Keukenhof](http://en.wikipedia.org/wiki/Keukenhof), near Lisse, Netherlands
 - **Famous**: Flowers - tulips - flower garden of Europe... how can we forget Tulips when we are in Netherlands

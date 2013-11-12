@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Where's the disney castle??
+categories:
+- Learning
 ---
+
 
 Our fairy tale castle - the disney castle where we have seen the dancing beauty and the beast, cinderella and sleeping beauty...
 

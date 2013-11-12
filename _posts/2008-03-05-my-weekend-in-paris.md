@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 Wheeee!!!! Yes i know i have been that late in updating my paris visit this weekend. It was simply awesome!
 
 I took the TGV down south from the Belgium border to Gare du Nord in Paris. And i just saw and experienced this beautiful city just by walking... walked along the Seine River, attended a rally at Bastille Place, ate my sandwich inside the Palais Louvre, attended the Sunday church service at Notre Dame, walked along the long Champs-Elysees and to the Arc de Triomphe, bunked in a youth hostel with 2 other European gals, saw the gorgeous lighted up Eiffel Tower from Challiot Palace at night... it was simply breath-taking.

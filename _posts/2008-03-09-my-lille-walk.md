@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 Lille, a small town and the capital of Nord-Pas de Calais region. I walked and saw this little beautiful town of Lille... presenting my map...
 
 and a video of Lille...

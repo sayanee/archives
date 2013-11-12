@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Asset Management Companies
+categories:
+- Learning
 ---
+
 
 some examples includes...
 

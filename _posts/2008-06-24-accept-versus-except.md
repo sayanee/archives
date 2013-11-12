@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Accept versus Except
+categories:
+- Learning
 ---
+
 
 Accept versus Except
 

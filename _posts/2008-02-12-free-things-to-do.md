@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Free things to do... paris & amsterdam
+categories:
+- Learning
 ---
+
 
 for a tight budget travel, i found that there are indeed many beautiful free things to do... Paris...
 

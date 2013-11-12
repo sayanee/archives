@@ -1,7 +1,10 @@
 ---
 layout: post
 title: as real as it gets
+categories:
+- Learning
 ---
+
 
 How cool is this!! it's our dearest photoshop GUI :P
 

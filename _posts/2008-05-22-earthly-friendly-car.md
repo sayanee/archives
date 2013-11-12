@@ -1,7 +1,10 @@
 ---
 layout: post
 title: earthly friendly car
+categories:
+- Learning
 ---
+
 
 I finally found a car that runs fast as well as it's environmentally safe with no pollution! [Hybrid Technologies](http://hybridtechnologies.com/) has the solution with their lithium powered batteries. My future car!!
 

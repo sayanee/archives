@@ -4,6 +4,7 @@ title: Anything You Want by @sivers
 categories:
 - Books
 ---
+
 - **Title**: [Anything You Want](http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118)
 - **Author**: Derek [Sivers](https://twitter.com/#!/sivers)
 - **Extracts**:

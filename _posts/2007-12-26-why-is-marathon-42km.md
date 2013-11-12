@@ -1,7 +1,10 @@
 ---
 layout: post
 title: why is marathon 42km?
+categories:
+- Learning
 ---
+
 
 [Marathon ](http://en.wikipedia.org/wiki/Marathon_(sports\))is exactly **42.195km**. Why? Why isn't it 40km or 30km or 50km? and where did this word _marathon_ came from?
 

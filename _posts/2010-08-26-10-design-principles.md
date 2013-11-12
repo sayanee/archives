@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 10 Design principles
+categories:
+- Learning
 ---
+
 Reposted [from Kevin Rose](http://kevinrose.com/blogg/2010/8/19/where-does-apple-draw-its-design-inspiration-meet-dieter-ram.html): Apple's design inspired from [Dieter Rams](http://en.wikipedia.org/wiki/Dieter_Rams) and his 10 design principles:
 
 1. is innovative

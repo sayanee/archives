@@ -1,7 +1,10 @@
 ---
 layout: post
 title: List of Women CEOs in Fortune 500
+categories:
+- Learning
 ---
+
 
 from the [ full list](http://money.cnn.com/magazines/fortune/fortune500/womenceos/)…
 

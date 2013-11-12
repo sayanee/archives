@@ -1,7 +1,10 @@
 ---
 layout: post
 title: wine glass shapes
+categories:
+- Learning
 ---
+
 
 Ever saw those beautifully shaped glasses and wondered exactly what they were for? I just found out:
 

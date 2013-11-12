@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:** 6 Thinking Hats
 - **Author:** Edward de Bono
 - **Year written/published:** 1985

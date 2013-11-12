@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 Glee!! I finally figured out the [Unicode](http://www.unicode.org/) stuff. It’s really cool how it can be used to insert loads of symbols and especially the alphabets of our mother tongue. Now, i know there are already freewares to write in Chinese or Tamil, but i couldn't really find one for my language. But after reading the [Unicode slogan](http://www.unicode.org/standard/WhatIsUnicode.html), i had a feeling i can type it out using my existing platform and programs i have.
 
 So briefly, here’s how you can blog in your own language in Wordpress.

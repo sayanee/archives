@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Hindi Alphabets
+categories:
+- Learning
 ---
+
 
 since i kinda forgot them...
 

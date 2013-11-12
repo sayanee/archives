@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ! '''Compare with'' vs ''Compare to'''
+categories:
+- Learning
 ---
+
 
 **Compare with** is used to place two things side by side for the purpose of examining their similarities or differences.
 

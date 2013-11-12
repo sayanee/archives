@@ -1,7 +1,10 @@
 ---
 layout: post
 title: batch processing in Photoshop - rename
+categories:
+- Learning
 ---
+
 
 so you have a folder of photos to be distributed and you want to sort of standardise the names... batch processing is a wonderful quick and easy way to do so. Here's how i learnt to do it...
 

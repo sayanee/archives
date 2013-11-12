@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/ts.jpg)
 
 I really wish I could show you all more... the actual pictures amidst the sky, the sea, the choppy waves and the sun.

@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: The 7 Habits of Highly Effective People
 - **Author**: [Stephen R. Covey ](http://en.wikipedia.org/wiki/Stephen_Covey)
 - **Year written/published**: 1989

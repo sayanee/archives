@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ! '''different from'' vs ''different than'''
+categories:
+- Learning
 ---
+
 
 So when should we use 'different from' and 'different than' ? **different from** is used to compare 2 nouns. E.g. The curtains in this room are different from the ones in my room. **different than** is often used in American English to compare a noun and a clause. E.g. Elaine's painting was veyr different than i has expected! Some related links:
 

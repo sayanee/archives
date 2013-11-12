@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Day Trade part-time
 - **Author**:John cook and Jeanette Szwec
 - **Year written/published**: 2000

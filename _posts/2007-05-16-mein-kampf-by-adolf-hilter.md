@@ -4,6 +4,7 @@ title: Mein Kampf (Vol.1) by Adolf Hilter
 categories:
 - Books
 ---
+
 - **Book Title:** [Mein Kampf ](http://en.wikipedia.org/wiki/Mein_Kampf)(My Struggle)
 - **Author:** [Adolf Hitler](http://en.wikipedia.org/wiki/Adolf_Hitler)
 - **Year written/published:** 1924

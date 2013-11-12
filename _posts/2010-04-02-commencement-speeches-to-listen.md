@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Commencement speeches to listen
+categories:
+- Learning
 ---
+
 
 Previously I posted the following amazing commencement speeches:
 

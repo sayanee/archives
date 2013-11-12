@@ -1,7 +1,10 @@
 ---
 layout: post
 title: free Photoshop resources
+categories:
+- Learning
 ---
+
 
 Photoshop brushes (\*.abr)
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: if-then & tenses
+categories:
+- Learning
 ---
+
 
 3 conditions...
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Australia map
+categories:
+- Learning
 ---
+
 
 The top 5 cities in Australia...
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 5.75 Questions You've Been Avoiding
+categories:
+- Learning
 ---
+
 
 So what are the questions?
 

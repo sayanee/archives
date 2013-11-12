@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:** Effective Project Management
 - **Author:** James P. Clements & Jack Gido
 - **Year written/published:** 2006

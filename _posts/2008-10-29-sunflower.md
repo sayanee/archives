@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Sunflower
+categories:
+- Learning
 ---
+
 
 - **Name**: Sunflower (French: Tournesols)
 - **Object**: Painting

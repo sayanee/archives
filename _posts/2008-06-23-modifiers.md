@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Modifiers
+categories:
+- Learning
 ---
+
 
 What is a [modifier](http://en.wikipedia.org/wiki/Grammatical_modifier)? In grammar, a modifier (or qualifier) is a word or sentence element that limits or qualifies another word, a phrase, or a clause.  There are 2 kinds of modifiers are:
 

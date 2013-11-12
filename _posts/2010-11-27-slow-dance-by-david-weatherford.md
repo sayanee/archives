@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Slow Dance by David Weatherford
+categories:
+- Learning
 ---
+
 Have you ever watched kids on a merry-go-round? <br>
 Or listened to the rain slapping on the ground?<br>
 Ever followed a butterfly’s erratic flight?<br>

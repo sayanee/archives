@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Like vs. Such as
+categories:
+- Learning
 ---
+
 
 **Like** means the author does not want the examples.
 

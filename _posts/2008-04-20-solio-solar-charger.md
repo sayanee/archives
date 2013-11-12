@@ -1,7 +1,10 @@
 ---
 layout: post
 title: SOLIO - solar charger
+categories:
+- Learning
 ---
+
 
 Here's another new gadget that i'm in love with: [SOLIO](http://www.solio.com/charger/). All it needs is the sun and it can charge almost any handheld device! Here are some of the [facts from the website](http://www.solio.com/charger/explore-solio/how-it-works.html):
 

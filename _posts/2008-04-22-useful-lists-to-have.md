@@ -1,7 +1,10 @@
 ---
 layout: post
 title: useful lists to have...
+categories:
+- Learning
 ---
+
 
 from [David Allen's site](http://www.davidco.com/tips_tools/tip2.html) and i found them useful...
 

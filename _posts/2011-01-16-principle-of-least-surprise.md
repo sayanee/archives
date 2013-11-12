@@ -1,7 +1,10 @@
 ---
 layout: post
 title: principle of least surprise
+categories:
+- Learning
 ---
+
 [POLA (Principle of Least Astonishment) or POLS (Principle of Least Surprise)](http://en.wikipedia.org/wiki/Principle_of_least_astonishment), from the [Philosophy of Ruby](http://linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html):
 
 > it's called the "principle of least surprise." I believe people want to express themselves when they program. They don't want to fight with the language. Programming languages must feel natural to programmers. I tried to make people enjoy programming and concentrate on the fun and creative part of programming when they use Ruby.

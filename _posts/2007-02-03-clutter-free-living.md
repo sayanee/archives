@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Clutter free living
+categories:
+- Learning
 ---
+
 
 Research has shown that 80% of what you store, you will NEVER use it again. De-clutter your life, throw away useless things to simply life. Get rid of excess junk at home.
 

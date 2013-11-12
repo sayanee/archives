@@ -4,6 +4,7 @@ title: iWoz by Steve Wozniak
 categories:
 - Books
 ---
+
 - **Book Title:** iWoz - Computer geek to cult icon - Getting to the Core of Apple's inventor
 - **Author**: Steve Wozniak
 - **Year written/published**: 2006

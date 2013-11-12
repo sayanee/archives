@@ -1,7 +1,10 @@
 ---
 layout: post
 title: GMAT blog listing
+categories:
+- Learning
 ---
+
 
 GMAT General
 

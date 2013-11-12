@@ -1,7 +1,10 @@
 ---
 layout: post
 title: How to learn any new language
+categories:
+- Learning
 ---
+
 
 Any new language - is there a specific set of instructions that one can follow to start off learning a totally new language?
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Quality of Living - Mercer's Ranking
+categories:
+- Learning
 ---
+
 
 the 2008 listing for world cities in the [higest Quality of Living](http://www.mercer.com/referencecontent.htm?idContent=1307990) is released... Europe cities dominate!
 

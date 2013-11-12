@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Nobel Prize Winners 2007
+categories:
+- Learning
 ---
+
 
 The [list ](http://nobelprize.org/nobel_prizes/lists/2007.html)is out:
 

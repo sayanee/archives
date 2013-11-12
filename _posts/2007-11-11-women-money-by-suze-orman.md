@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:** Women and Money - Owning the power to control your destiny
 - **Author:**Suze Orman
 - **Year written/published:** 2007

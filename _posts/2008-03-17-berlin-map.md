@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Berlin Map
+categories:
+- Learning
 ---
+
 
 Just walk along the Unter den Linden of Berlin and see the beautiful history and the Berlin people...
 

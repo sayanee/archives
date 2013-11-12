@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Some common file formats
+categories:
+- Learning
 ---
+
 
 for audio
 

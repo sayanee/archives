@@ -4,6 +4,7 @@ title: Start with WHY by Simon Sinek
 categories:
 - Books
 ---
+
 - **Book Title**: [Start with WHY](http://www.startwithwhy.com/) - How Great Leaders Inspire Everyone to Take Action
 - **Author**: [Simon Sinek](http://en.wikipedia.org/wiki/Simon_Sinek)
 - **Year written/published**: 2009

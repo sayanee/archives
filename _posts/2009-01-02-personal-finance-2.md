@@ -1,7 +1,10 @@
 ---
 layout: post
 title: personal finance...
+categories:
+- Learning
 ---
+
 
 [Everything You Ever Really Needed to Know About Personal Finance on the Back of Five Business Cards](http://www.thesimpledollar.com/2007/11/29/everything-you-ever-really-needed-to-know-about-personal-finance-on-the-back-of-five-business-cards/)
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 12 animals for Chinese Calendar
+categories:
+- Learning
 ---
+
 
 the 12 animals are:
 

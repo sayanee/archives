@@ -1,7 +1,10 @@
 ---
 layout: post
 title: For the want of a…
+categories:
+- Learning
 ---
+
 
 by Benjamin Franklin
 

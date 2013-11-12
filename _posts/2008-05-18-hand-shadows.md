@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Hand Shadows
+categories:
+- Learning
 ---
+
 
 Some links on how to create those shadows...
 

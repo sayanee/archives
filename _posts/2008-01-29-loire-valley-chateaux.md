@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Loire Valley chateaux
+categories:
+- Learning
 ---
+
 
 And i finally found a list of the [major castles in the Loire Valley](http://en.wikipedia.org/wiki/Category:Ch%C3%A2teaux_of_the_Loire_Valley), France:
 

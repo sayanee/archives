@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Blocking spam sites
+categories:
+- Learning
 ---
+
 
 Found another way of blocking spam sites / pop-up ads without using any pop-up blocking/heavy anti-virus softwares. Here's how...
 

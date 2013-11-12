@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Financial Websites
+categories:
+- Learning
 ---
+
 
 Yes, i know nothing about finances as of now, but i must explore all these sites and learn more!
 

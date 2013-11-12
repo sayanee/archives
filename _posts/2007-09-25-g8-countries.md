@@ -1,7 +1,10 @@
 ---
 layout: post
 title: G8 Countries
+categories:
+- Learning
 ---
+
 
 the [G8 countries ](http://en.wikipedia.org/wiki/G8)include...
 

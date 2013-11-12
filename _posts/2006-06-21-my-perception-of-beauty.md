@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 [Flickr ](http://flickr.com/explore/interesting/7days/ "Interesting pics on Flickr")is just amazing. While I was cooped up in my room, the internet was my world and while I couldn’t really stare at the computer screen for long, the images that I saw remained in my mind for much much longer. It was really impressionable and I found 3 people who could catch that certain type of image and turn them into an art piece that really made me reflect.
 
 [Antimethod](http://flickr.com/photos/antimethod/ "Antimethod in Flickr") aka Cole. His ability to put some magic of levitation and mystery is simply superb... it reminds me about all the Fauvism, Expressionism and Surrealism. I’m amazed how he puts his photographs as paintings and [I read ](http://www.flickrz.info/topics/antimethod/ "Interview with Antimethod")that he actually puts in 8 hours of digital editing behind each of them.... superb. Check out his famous piece – [One Would](http://flickr.com/photos/antimethod/31409920/).

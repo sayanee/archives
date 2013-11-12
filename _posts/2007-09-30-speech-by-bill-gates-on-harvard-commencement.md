@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Speech by Bill Gates on Harvard Commencement
+categories:
+- Learning
 ---
+
 
 some speeches are really worth it... like this one...
 

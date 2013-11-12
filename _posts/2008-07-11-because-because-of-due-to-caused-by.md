@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ! '''Because'', ''because of'', ''due to'' & ''caused by'''
+categories:
+- Learning
 ---
+
 
 What are the differences among these words?
 

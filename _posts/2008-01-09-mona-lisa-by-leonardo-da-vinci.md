@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Mona Lisa by Leonardo da Vinci
+categories:
+- Learning
 ---
+
 
 After seeing too many famous beautiful paintings (albeit from a book), i decided to start a list of paintings. architectures, Music and a little summary and a picture on it just like book reviews. First up...
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Golden Ratio
+categories:
+- Learning
 ---
+
 
 [Divine Proportion](http://en.wikipedia.org/wiki/Golden_ratio) or the Phi as correct to the first 1000 decimal places...
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The lists i keep
+categories:
+- Learning
 ---
+
 
 Inspired by [lifehack's lists of lists](http://www.lifehack.org/articles/productivity/9-lists-to-keep-updated-and-keep-handy.html), i decided to share my list of things that i keep updated. I keep these 7 lists pretty updated:
 

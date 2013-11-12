@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Understanding Exposure - How to shoot great photographs with a film or digital camera
 - **Author**: Bryan Peterson
 - **Year written/published**: 2004

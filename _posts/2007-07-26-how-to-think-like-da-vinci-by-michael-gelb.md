@@ -1,7 +1,10 @@
 ---
 layout: post
 title: How to think like Da Vinci by Michael Gelb
+categories:
+- Learning
 ---
+
 - **Book Title**: How to think like Leonardo Da Vinci: 7 steps to the Genius Every day
 - **Author**: Micahel J. Gelb
 - **Year written/published**:  1998

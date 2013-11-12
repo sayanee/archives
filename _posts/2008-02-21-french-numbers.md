@@ -1,7 +1,10 @@
 ---
 layout: post
 title: French Numbers
+categories:
+- Learning
 ---
+
 
 French numerals are same as the English or the American. But for [handwriting French numerals](http://www.cliffsnotes.com/WileyCDA/CliffsReviewTopic/Numbers.topicArticleId-25559,articleId-25469.html) is slightly different.
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: IDEO - Deep Dive
+categories:
+- Learning
 ---
+
 
 These 3 video shows creativity at work at [IDEO](http://www.ideo.com/)
 

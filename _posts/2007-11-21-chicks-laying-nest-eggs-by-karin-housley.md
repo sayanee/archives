@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Chicks Laying Nest Eggs - how 10 skirts beat the pants off wall street - .. and how you can, too!
 - **Author**: Karin Housely
 - **Year written/published:** 2001

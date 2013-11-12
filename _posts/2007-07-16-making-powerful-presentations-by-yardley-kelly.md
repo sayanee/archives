@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**:Making Powerful Presentations using Neuro-Linguistic Programming
 - **Authors**: Gary Yardley & Jan Kelly
 - **Year written/published**: 1994

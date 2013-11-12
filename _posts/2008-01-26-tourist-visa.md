@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Tourist VISA
+categories:
+- Learning
 ---
+
 
 Some links on visa...
 

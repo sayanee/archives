@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Zaanse Schans for windmills
+categories:
+- Learning
 ---
+
 
 - **Place**: [Zaanse Schans](http://www.zaanseschans.nl/) beside river Zaan, North Netherlands
 - **Famous**: Windmills... there are still 6 working mills there

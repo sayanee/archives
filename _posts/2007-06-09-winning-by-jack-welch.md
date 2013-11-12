@@ -4,6 +4,7 @@ title: Winning by Jack Welch
 categories:
 - Books
 ---
+
 - **Book Title**: Winning
 - **Author**: Jack Welch and Suzy Welch
 - **About the Author**: [Jack Welch ](http://en.wikipedia.org/wiki/Jack_Welch)has been the CEO of General Electric from 1981 to 2001

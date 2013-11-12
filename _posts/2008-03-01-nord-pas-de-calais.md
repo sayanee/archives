@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Nord-Pas de Calais
+categories:
+- Learning
 ---
+
 
 at the very north of France, near the belgium border, this region is known as [Nord-Pas de Calais](http://en.wikipedia.org/wiki/Nord-Pas-de-Calais) and it has the following major towns/villages:
 

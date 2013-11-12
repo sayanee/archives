@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/beer_glass_amsterdam.jpg)
 
 **Chef:** You are sure you don't wanna try some Dutch beer?

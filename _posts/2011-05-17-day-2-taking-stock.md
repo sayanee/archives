@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Day 2 Taking Stock
+categories:
+- Learning
 ---
+
 I haven't updated my learnings for a while and that's coz I got stuck with my Todo App when I was trying to associate Users with each of their Task List and restrict the view for other users. So, I went back to the basics and followed through [an awesome Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book), which taught me a lot of things and I hope to share them right here!
 
 ## Rails Resources

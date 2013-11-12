@@ -4,6 +4,7 @@ title: Chaos by James Gleick
 categories:
 - Books
 ---
+
 - **Book Title**: Chaos: The Amazing Science of the Unpredictable
 - **Author**: James Gleick
 - **Year written/published**: 1987

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Lessons from Singularity Summer
+categories:
+- Learning
 ---
+
 A [very thoughtful list from Alison](http://networkedblogs.com/7yQ9u):
 
 1. **You are only as good as the people you surround yourself with.**

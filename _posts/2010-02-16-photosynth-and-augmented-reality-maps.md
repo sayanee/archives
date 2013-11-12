@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Photosynth and Augmented reality maps
+categories:
+- Learning
 ---
+
 
 Just saw 2 brilliant TED Talks by Blaise Aguera y Arcas One on Photosynth And the other one on augmented reality maps
 

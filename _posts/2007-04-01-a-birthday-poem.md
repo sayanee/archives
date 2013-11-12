@@ -1,7 +1,10 @@
 ---
 layout: post
 title: A birthday poem
+categories:
+- Learning
 ---
+
 
 From Michael Brin to his son [Sergey Brin](http://en.wikipedia.org/wiki/Sergey_Brin), the co-founder of Google on Sergey's birthday...
 

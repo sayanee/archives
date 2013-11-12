@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 According to bobbi brown, you are a make-up virgin if:
 
 - you are stunned that you have somehow reached adulthood without the first clue about wearing makeup

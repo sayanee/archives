@@ -1,7 +1,10 @@
 ---
 layout: post
 title: around Venice!
+categories:
+- Learning
 ---
+
 
 [Around Venezia](http://vimeo.com/12358381) from [Icam](http://vimeo.com/user869654) on [Vimeo](http://vimeo.com).
 

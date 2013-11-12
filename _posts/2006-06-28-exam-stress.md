@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/str2.jpg)
 
 **3 exam pieces   (90 marks)**

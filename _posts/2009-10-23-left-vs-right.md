@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Left vs Right
+categories:
+- Learning
 ---
+
 
 I cannot make this picture big enough to be read... but there are many interesting details in them!
 

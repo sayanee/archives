@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Zen Habits
+categories:
+- Learning
 ---
+
 
 Some links from the [Zen Habits](http://zenhabits.net/)...
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Some astronomy wonders
+categories:
+- Learning
 ---
+
 
 Been reading my lecture notes... and here are some things that strikes me as really wondrous... i didn't know all these before!
 

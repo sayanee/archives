@@ -1,7 +1,10 @@
 ---
 layout: post
 title: French Vocabulary - School
+categories:
+- Learning
 ---
+
 
 school vocabulary...
 

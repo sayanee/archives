@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Bengali Alphabets
+categories:
+- Learning
 ---
+
 
 I kinda forgot their order... so here's the vowels... and the consonants some links on these alphabets...
 

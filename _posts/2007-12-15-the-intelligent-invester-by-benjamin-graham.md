@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:** The Intelligent Investor - The Classic text on Value Investing
 - **Author:** [Benjamin Graham](http://en.wikipedia.org/wiki/Benjamin_Graham)
 - **Year written/published:** 1949

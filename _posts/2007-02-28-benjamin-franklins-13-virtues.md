@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Benjamin Franklin’s 13 Virtues
+categories:
+- Learning
 ---
+
 
 [Benjamin Franklin](http://en.wikipedia.org/wiki/Benjamin_Franklin) is one of the Fathers of United States of America. A great leader and a Diplomat. It's definitely valuable to take a look at [his 13 virtues](http://www.flamebright.com/PTPages/Benjamin.asp) and the way he himself practised it:
 

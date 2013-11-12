@@ -3,7 +3,10 @@ layout: post
 title: Cashflow Quadrant by Robert Kiyosaki
 categories:
 - Books
+categories:
+
 ---
+
 
 
 - **Book Title**: Cashflow Quadrant-Rich dad's guide to financial freedom

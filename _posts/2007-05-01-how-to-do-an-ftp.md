@@ -1,7 +1,10 @@
 ---
 layout: post
 title: how to do an ftp
+categories:
+- Learning
 ---
+
 
 phew... finally figured out how to do file transfer. I think it's really important when u have your own domain and u need to transfer files and folders from your pc to the server and vice versa. Here's how i have learnt to do it :P
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Common French vocabulaire
+categories:
+- Learning
 ---
+
 
 Days of the week... **les jours de la semaine. **The french days of the week starts on monday
 

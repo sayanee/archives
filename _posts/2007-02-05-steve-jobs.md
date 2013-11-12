@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Steve Jobs
+categories:
+- Learning
 ---
+
 
 [Steve Jobs](http://en.wikipedia.org/wiki/Steve_Jobs) is the CEO of [Apple](http://www.apple.com/). Once he was kicked out of the company he founded.
 

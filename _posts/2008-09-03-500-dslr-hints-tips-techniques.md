@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: 500 Digital SLR Hints, Tips and Techniques - The easy, all-in-one guide to getting the Best out of your digital SLR
 - **Author**: Chris Weston
 - **Year written/published**: 2006

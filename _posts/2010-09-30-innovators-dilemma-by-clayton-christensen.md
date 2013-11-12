@@ -4,6 +4,7 @@ title: Innovator's Dilemma by Clayton Christensen
 categories:
 - Books
 ---
+
 - **Book Title**: The Innovator's Dilemma
 - **Author**: Clayton Christensen
 - **Year written/published**: 1997

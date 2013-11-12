@@ -1,7 +1,10 @@
 ---
 layout: post
 title: French Vocabulaire - Occupations
+categories:
+- Learning
 ---
+
 
 some common ones that i found in the list here...
 

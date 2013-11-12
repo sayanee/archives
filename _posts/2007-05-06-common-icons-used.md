@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Common icons used
+categories:
+- Learning
 ---
+
 
 I finally know where to get the common icons i see around in the internet like... ![](http://i29.photobucket.com/albums/c273/sweska/pdf.png)  or ![](http://i29.photobucket.com/albums/c273/sweska/comment.png)  and many many others... here are some of the links where we can download and use them :P i think this list of icons would be really handy for blogging or even web designing.
 

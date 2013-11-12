@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Perfecting the pitch
+categories:
+- Learning
 ---
+
 [Some insights into telling your story in a clear, short, easy-to-repeat format](http://www.garage.com/resources/perfectingpitch.shtml)...
 
 Cover Slide: Company name, location, tagline, presenter’s name and title

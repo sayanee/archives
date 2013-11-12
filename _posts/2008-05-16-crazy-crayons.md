@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Crazy Crayons
+categories:
+- Learning
 ---
+
 
 Got used broken crayons that you wanna throw away? Mail them to [Crazy Crayons ](http://crazycrayons.com/)and get a free crayon!
 

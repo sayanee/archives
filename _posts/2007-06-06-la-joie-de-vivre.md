@@ -1,7 +1,10 @@
 ---
 layout: post
 title: La joie de vivre
+categories:
+- Learning
 ---
+
 
 saw this in the Book by Dale Carnegie… Just for today…
 

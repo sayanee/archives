@@ -1,7 +1,10 @@
 ---
 layout: post
 title: books authored by Donald Trump
+categories:
+- Learning
 ---
+
 
 Donald Trump has written quite a few books...
 

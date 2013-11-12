@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Increasing virtual memory
+categories:
+- Learning
 ---
+
 
 in windows XP... how to do it...
 

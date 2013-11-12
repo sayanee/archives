@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Scientists and Units
+categories:
+- Learning
 ---
+
 
 Today we use many units that were actually once the surnames of eminent scientists... examples from [this site ](http://www.ukma.org.uk/whatis/writing.htm)includes a list of units scientists and engineers use everyday
 

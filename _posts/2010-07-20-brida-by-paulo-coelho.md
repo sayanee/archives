@@ -4,6 +4,7 @@ title: Brida by Paulo Coelho
 categories:
 - Books
 ---
+
 - **Book Title**: Brida
 - **Author**: Paulo Coelho
 - **Year written/published**: 2008

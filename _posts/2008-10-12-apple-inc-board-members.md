@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Apple Inc. Board members
+categories:
+- Learning
 ---
+
 
 An interesting line up of talent within the [board members of Apple](http://www.apple.com/pr/bios/bod.html):
 

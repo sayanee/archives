@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Scandinavia and Nordic
+categories:
+- Learning
 ---
+
 
 [Scandinavia](http://en.wikipedia.org/wiki/Scandinavia) is a region in Northern Europe which is centred around the Scandinavian Peninsula and it usually refers to the 3 modern countries of...
 

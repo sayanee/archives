@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Some useful MATLAB codes/functions
+categories:
+- Learning
 ---
+
 
 Everytime i'll forget them even though i use it a lot of time... here are some frequent ones...to remind if there's a next time :P
 

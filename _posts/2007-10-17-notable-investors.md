@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Notable Investors
+categories:
+- Learning
 ---
+
 
 from whom we can all learn from...
 

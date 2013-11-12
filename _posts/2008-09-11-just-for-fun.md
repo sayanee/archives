@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Just for fun
+categories:
+- Learning
 ---
+
 
 [I found this](http://www.craigslist.org/about/best/sfo/66795671.html) really funny and strangely truely...
 

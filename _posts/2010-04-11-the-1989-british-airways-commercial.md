@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The 1989 British Airways commercial
+categories:
+- Learning
 ---
+
 
 Some things incite childhood memories ... does this ring a bell for you? :)
 

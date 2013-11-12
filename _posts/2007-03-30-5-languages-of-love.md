@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 5 Languages of Love
+categories:
+- Learning
 ---
+
 
 The [Five Languages of Love is written by Gary Chapman](http://www.fivelovelanguages.com/learn.html)...
 

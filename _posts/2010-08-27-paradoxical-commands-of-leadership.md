@@ -1,7 +1,10 @@
 ---
 layout: post
 title: paradoxical commands of leadership
+categories:
+- Learning
 ---
+
 Here's a gem to start off the week. These are the "Paradoxical Commandments of Leadership," by Kent Keith ( [source](http://www.paradoxicalcommandments.com/origin.html)):
 
 1. People are illogical, unreasonable, and self-centered. Love them anyway.

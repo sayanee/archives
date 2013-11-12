@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 4 Levels of Consciousness
+categories:
+- Learning
 ---
+
 The Four Stages
 
 1. Unconscious Incompetence

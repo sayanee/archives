@@ -4,6 +4,7 @@ title: When Genius Failed
 categories:
 - Books
 ---
+
 - **Book Title**: When Genius Failed - The Rise and Fall of Long-Term Capital Management
 - **Author**: Roger Lowenstein
 - **Year written/published**: 2000

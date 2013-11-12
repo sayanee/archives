@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 I had always been intrigued by the astronomy and the study of universe. But it was only a few months back that i went for a few [telescope viewing sessions](http://www.sci-ctr.edu.sg/ssc/otmovie.jsp?type=8&root=82&parent=82&cat=110) and one weekend i managed to sneak out my way to [Pulau Semakau](http://en.wikipedia.org/wiki/Pulau_Semakau) for a star gazing night! For the first time in my life i caught the constellations and planets through the telescope... and i caught our very own moon.
 
 ![Screen shot 2009-10-17 at PM 10.15.11](/img/Screen-shot-2009-10-17-at-PM-10.15.11.jpg "Screen shot 2009-10-17 at PM 10.15.11")

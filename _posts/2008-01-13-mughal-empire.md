@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Mughal Empire
+categories:
+- Learning
 ---
+
 
 [Mughal Empire](http://en.wikipedia.org/wiki/Mughal_Empire) (1526 – 1857) rulers...
 

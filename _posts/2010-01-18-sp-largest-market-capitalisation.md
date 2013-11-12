@@ -1,7 +1,10 @@
 ---
 layout: post
 title: S&P Largest Market Capitalisation
+categories:
+- Learning
 ---
+
 
 The [Index component weight of stock in S&P 500!](http://www.indexarb.com/indexComponentWtsSP500.html)
 

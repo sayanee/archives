@@ -4,6 +4,7 @@ title: Europe through the backdoor by Rick Steves
 categories:
 - Books
 ---
+
 - **Book Title**: Rick Steves' Europe Through the Back Door 2006
 - **Author**: [Rick Steves](http://www.ricksteves.com/)
 - **Year written/published**: 2005

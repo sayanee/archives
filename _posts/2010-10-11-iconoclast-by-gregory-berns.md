@@ -4,6 +4,7 @@ title: Iconoclast by Gregory Berns
 categories:
 - Books
 ---
+
 - **Book Title**: Iconoclast - A neuroscientist reveals how to think differently
 - **Author**: Gregory Berns
 - **Year written/published**: 2008

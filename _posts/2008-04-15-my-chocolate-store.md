@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/choc_fridge.jpg)
 
 I got this pic for mom to show her all the chocolates i got from Berlin and Brussels... they are all piled up in my little fridge!

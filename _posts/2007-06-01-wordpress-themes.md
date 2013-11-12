@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Wordpress Theme intro
+categories:
+- Learning
 ---
+
 
 To look around for a nice theme, we can scout around [here](http://themes.wordpress.net/).
 

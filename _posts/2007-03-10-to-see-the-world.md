@@ -1,7 +1,10 @@
 ---
 layout: post
 title: To see the world…
+categories:
+- Learning
 ---
+
 
 One of my favourite inspiring poem extracts is from [Auguries of Innocence ](http://www.artofeurope.com/blake/bla3.htm)by [William Blake](http://en.wikipedia.org/wiki/William_Blake). The first 4 lines are truly magnificent... it says something so empowering...
 

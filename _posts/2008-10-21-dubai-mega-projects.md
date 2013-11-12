@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Dubai Mega Projects
+categories:
+- Learning
 ---
+
 
 Wow! Dubai has been spinning some very interesting [Mega Projects](http://www.dreamsofdubai.com/dubai-mega-projects/):
 

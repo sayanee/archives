@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Dyson bladeless fan!
+categories:
+- Learning
 ---
+
 
 World's first bladeless fan! I want one for my room!
 

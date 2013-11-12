@@ -1,7 +1,10 @@
 ---
 layout: post
 title: my own annual appraisal
+categories:
+- Learning
 ---
+
 
 I thought [this article was really good ](http://chrisguillebeau.com/3x5/how-to-conduct-your-own-annual-review/)in explaining the way we can review the past year and the year ahead of us. I especailly love the idea of keeping a list of Metrics ...
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Regions of Netherlands
+categories:
+- Learning
 ---
+
 
 the regions in Netherlands includes:
 

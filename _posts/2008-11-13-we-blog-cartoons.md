@@ -1,7 +1,10 @@
 ---
 layout: post
 title: We blog Cartoons
+categories:
+- Learning
 ---
+
 
 ![cartoon from www.weblogcartoons.com](http://www.weblogcartoons.com/cartoons/the-mountain.gif)
 

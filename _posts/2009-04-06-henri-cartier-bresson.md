@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Henri Cartier-Bresson
+categories:
+- Learning
 ---
+
 
 Cartier-Bresson was a famous French photographer who is the father of candid street photography. He famously said:
 

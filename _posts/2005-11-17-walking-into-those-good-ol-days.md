@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 I was cooped up in my room for the past 3 days, so my mom urged me to go out for a walk. I went around my block and a bit further away until I could see my primary school building. It’s no longer my primary school now…it’s elvin’s primary school. Since it’s the school holidays it was totally deserted. I went near the back gate and Hola!!! It was OPEN…I just happily strolled into the deserted quiet premise and memories came back flooding…
 
 I took some pics with my hp. The building architecture is still the same but time changed it somehow. But I could still feel the noise around me.

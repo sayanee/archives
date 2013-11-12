@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Ivy League
+categories:
+- Learning
 ---
+
 
 Ivy League is a group of 8 colleges in North-Western United States that has come to represent academic excellence as well as prestige...
 

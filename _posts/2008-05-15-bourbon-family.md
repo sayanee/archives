@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Bourbon Family
+categories:
+- Learning
 ---
+
 
 Bourbon Family has an important monarchy and ruling history in Europe. According to the wiki:
 

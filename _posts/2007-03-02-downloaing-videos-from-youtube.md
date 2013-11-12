@@ -1,7 +1,10 @@
 ---
 layout: post
 title: extracting videos from internet
+categories:
+- Learning
 ---
+
 
 Woohooo!!! i finally know how to do this.. This works for Youtube and also Google Videos. yeah finally here's how...
 

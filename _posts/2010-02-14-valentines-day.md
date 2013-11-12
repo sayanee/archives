@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Valentine's Day
+categories:
+- Learning
 ---
+
 
 I got a lovely yellow rose this year, so I decided to capture it and share the friendship... :)
 

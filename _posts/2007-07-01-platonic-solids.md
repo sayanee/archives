@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Platonic Solids
+categories:
+- Learning
 ---
+
 
 [Platonic Solids](http://en.wikipedia.org/wiki/Platonic_solid) are regular polyhedron: eg. Tetrahedron, Hexahedron, Octahedron, Dodecahedron Icosahedron.
 

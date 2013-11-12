@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 8 Books to read
+categories:
+- Learning
 ---
+
 
 While travelling, I have also collected 8 names of books to read so far. These books range from fictions to business & financial strategies to history... Nothing beats having a little list of things to read soon. I hope to collect more along in my journeys!
 

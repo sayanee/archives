@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Bill Gates
+categories:
+- Learning
 ---
+
 
 Who doesn't know [Bill Gates](http://en.wikipedia.org/wiki/Bill_Gates)?? Richest man, the founder of Microsoft and read more about him [here ](http://www.microsoft.com/presspass/exec/billg/default.mspx)and [there](http://money.cnn.com/2006/03/30/news/newsmakers/gates_howiwork_fortune/index.htm)...
 

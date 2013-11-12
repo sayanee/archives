@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Spread Spectrum techniques
+categories:
+- Learning
 ---
+
 
 2 major types of Spread Spectrum are:
 

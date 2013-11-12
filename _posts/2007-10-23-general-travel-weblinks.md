@@ -1,7 +1,10 @@
 ---
 layout: post
 title: General Travel Weblinks
+categories:
+- Learning
 ---
+
 
 Wanted to have a list of handy sites when travelling...  and i'll keep updating whenever i find more :) General...
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Urban legend on T. J. Watson
+categories:
+- Learning
 ---
+
 
 [Read this story a few times ](http://www.abc.net.au/catapult/indepth/s1330199.htm)here and there...
 

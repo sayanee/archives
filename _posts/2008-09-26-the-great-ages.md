@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The great Ages
+categories:
+- Learning
 ---
+
 
 The ages defining the human evolution and civilisation of mankind statrting with the Ice Age whcih ended at about 10,000 BC. The other 3 great ages defining the Pre-history of mankind are..
 

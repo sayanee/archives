@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: How to have a Beautiful Mind
 - **Author**: Edward de Bono
 - **Year written/published**: 2004

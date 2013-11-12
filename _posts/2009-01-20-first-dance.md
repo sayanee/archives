@@ -1,7 +1,10 @@
 ---
 layout: post
 title: first dance
+categories:
+- Learning
 ---
+
 
 Barack and Michelle... congrats!
 

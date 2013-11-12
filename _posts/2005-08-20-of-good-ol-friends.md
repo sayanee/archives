@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/jc_11.jpg)
 
 Anand has come back from London for the hols, so a gathering was initiated in the science canteen yesterday. Sitting at a very strategic position in the science canteen, we were talking total crap from 11 am till 3 plus and every other friend that happened to pass by joined in the crap talk. Villa, Bao, Calvin, Daniel…all joined us one by one. Even Ridz came down all the way from NTU! Janine and calvin are working in NUH as research intern and will be here for a year away from Melbourne Uni.

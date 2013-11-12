@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Camera brands and models
+categories:
+- Learning
 ---
+
 
 because i wanna know more. Here are the top 6 brands of [camera brands in Flickr](http://flickr.com/cameras/):
 

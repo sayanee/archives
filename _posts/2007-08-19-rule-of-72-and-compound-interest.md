@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Rule of 72 and Compound Interest
+categories:
+- Learning
 ---
+
 
 Albert Einstein once said that [Compound Interest ](http://en.wikipedia.org/wiki/Compound_interest)and the [rule of 72 ](http://en.wikipedia.org/wiki/Rule_of_72)is...
 

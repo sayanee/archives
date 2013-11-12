@@ -1,7 +1,10 @@
 ---
 layout: post
 title: inserting Google Maps in webpage (easy way)
+categories:
+- Learning
 ---
+
 
 here's how to embed it in a really easy manner...
 

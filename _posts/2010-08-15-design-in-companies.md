@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Design in companies
+categories:
+- Learning
 ---
+
 
 [10 Things CEOs Need to Know About Design ](http://www.slideshare.net/novaurora/10-things-ceos-need-to-know-about-design "10 Things CEOs Need to Know About Design ")
 

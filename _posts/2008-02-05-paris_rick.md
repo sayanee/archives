@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:** Paris 2006
 - **Author:** Rick Steves
 - **Year written/published:** 2006

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: restrictive and non-restrictive clauses
+categories:
+- Learning
 ---
+
 
 **Restricitive Clauses** limit the possible meaning of a preceding subject. [uses _that,_ no comma]
 

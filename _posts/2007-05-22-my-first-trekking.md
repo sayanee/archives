@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 Went for my first trek during the weekend to **Gunung Datuk**, Tampin, Malaysia. It's been a fantastic experience and more importantly a memorable one because it's technically the first time i ventured out to an overseas country... don't count India and Singapore!! How country bumpkin :P And yes, it's my official grad trip!
 
 ![](/img/datuk41.jpg)

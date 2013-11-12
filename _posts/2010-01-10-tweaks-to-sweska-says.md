@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Tweaks to Sweska Says...
+categories:
+- Learning
 ---
+
 
 It's been 4 and a half years since [my first post](/this-is-the-start/).
 

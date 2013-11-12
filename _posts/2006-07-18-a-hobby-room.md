@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 You know this father and daughter relationship... we don’t really say our deep thoughts and feelings to each other, but somehow we just know. I can already imagine what would be his greatest joy - **a hobby room**.
 
 A hobby room with a **laptop  + Internet** will be there in one corner so that he can learn some other programming languages and software. I think he's one cool tech-savvy dad. At the age of 45 he learnt computers and today he's programming customised software for his clients. I know he wants to learn more.

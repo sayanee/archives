@@ -1,7 +1,10 @@
 ---
 layout: post
 title: for novice photographers
+categories:
+- Learning
 ---
+
 
 i really loved the points in [this article ](http://digital-photography-school.com/blog/11-tips-for-beginner-photographers/)from one of my fav blogs, DPS... tips for beginner photographers... and i couldn't agree more especially with number 3. And with a small point and shoot and free web resource, anyone can simply enjoy photography :) ... the tips are...
 

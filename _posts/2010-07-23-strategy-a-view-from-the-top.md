@@ -4,6 +4,7 @@ title: Strategy - A View from the Top
 categories:
 - Books
 ---
+
 - **Book Title**: Strategy: A View From The Top (An Executive Perspective)
 - **Author**: John A. Pearce, Cornelis A. De Kluyver
 - **Year written/published**: 2006

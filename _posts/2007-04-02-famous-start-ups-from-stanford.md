@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Famous Start Ups from Stanford
+categories:
+- Learning
 ---
+
 
 Some famous names...
 

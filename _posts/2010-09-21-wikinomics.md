@@ -4,6 +4,7 @@ title: Wikinomics
 categories:
 - Books
 ---
+
 - **Book Title**: Wikinomics: How Mass Collaboration Changes Everything
 - **Author**: Don Tapscott and Anthony D. Williams
 - **Year written/published**: 2006

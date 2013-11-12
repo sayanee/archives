@@ -4,6 +4,7 @@ title: Do more faster by @techstars
 categories:
 - Books
 ---
+
 - **Book Title**: Do More Faster - TechStars Lessons to Accelerate your Startup
 - **Author**: David Cohen & Brad Feld
 - **Some extracts**:

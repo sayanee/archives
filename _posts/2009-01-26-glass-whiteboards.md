@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Glass whiteboards
+categories:
+- Learning
 ---
+
 
 glass whtieboards are fast replacing the traditional ones... and [here's](http://www.glasswhiteboards.com.au/about.php) why i love it!
 

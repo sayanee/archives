@@ -1,7 +1,10 @@
 ---
 layout: post
 title: from Value of Science
+categories:
+- Learning
 ---
+
 
 ...by Richard Feynman
 

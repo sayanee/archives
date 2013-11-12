@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Murphy's Laws
+categories:
+- Learning
 ---
+
 
 this is funny... [Murphy's Laws](http://en.wikipedia.org/wiki/Murphy's_law)...
 

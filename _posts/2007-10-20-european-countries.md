@@ -1,7 +1,10 @@
 ---
 layout: post
 title: European Countries
+categories:
+- Learning
 ---
+
 
 Europe can be viewed as divisions.... here's a list along with the countries' capital cities... **Eastern Europe:**
 

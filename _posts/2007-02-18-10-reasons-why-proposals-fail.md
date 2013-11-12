@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 10 Reasons why Proposals Fail
+categories:
+- Learning
 ---
+
 
 from [source:](http://www.instigatorblog.com/top-10-reasons-why-proposals-fail/2007/02/07/) Instigator Blog Here are 10 reasons why proposals fail:
 

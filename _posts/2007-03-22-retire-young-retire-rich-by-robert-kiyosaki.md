@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 one thing that i learnt from this book is the Leverage of Habits:
 
 1. Hire a Bookkeeper

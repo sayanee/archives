@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 I'm [knitting again](/im-knitting) and this time i'm up for more designs.
 
 It's amazing how beautiful patterns come out with only 2 types of stitches: [knit and purl](http://knitting.about.com/od/stitchglossary/Learn_to_Knit_Knitting_Stitch_Pattern_Glossary.htm) :D And i'm getting faster in counting the number of knits and purls and dropping lesser stitches. It's all about maths in knitting... just keep counting and see your pattern grow!

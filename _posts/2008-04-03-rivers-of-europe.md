@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Rivers of Europe
+categories:
+- Learning
 ---
+
 
 [Rivers of europe](http://en.wikipedia.org/wiki/List_of_rivers_of_Europe)... the main ones include...
 

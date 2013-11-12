@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 10 terms for basic photography
+categories:
+- Learning
 ---
+
 
 and so i learnt the 10 important terms for the basics of photography:
 

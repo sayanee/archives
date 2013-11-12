@@ -4,6 +4,7 @@ title: Art of lean software development
 categories:
 - Books
 ---
+
 - **Title**: [The Art of Lean Software Development](http://oreilly.com/catalog/9780596517311)
 
 [Values](http://agilemanifesto.org/):

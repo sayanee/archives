@@ -1,7 +1,7 @@
 ---
 layout: post
-tile: Railway Signalling
 ---
+
 
 What is [railway signalling](http://www.google.com/search?q=railway+signalling)?? It is a system of controlling the trains on the tracks safely so as to avoid any colliding or jamming. here are some links to read more...
 

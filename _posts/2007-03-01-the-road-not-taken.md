@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The Road not taken
+categories:
+- Learning
 ---
+
 
 One of my favourite poems by [Robert Frost](http://en.wikipedia.org/wiki/Robert_Frost)... and yes, it's something to think about. The road not taken in life...
 

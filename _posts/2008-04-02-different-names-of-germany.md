@@ -1,7 +1,10 @@
 ---
 layout: post
 title: different names of Germany
+categories:
+- Learning
 ---
+
 
 I was wondering why Germany has so many completely [different sounding names ](http://en.wikipedia.org/wiki/Names_for_Germany)for different languages. Eg. in German the country is known as **Deutschland**, in French as **Allemagne,** and in Polish as **Niemcy**. So in general i found there are 6 different names for Germany:
 

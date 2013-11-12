@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 4 trends in the future of tech
+categories:
+- Learning
 ---
+
 
 I truly believe that technology today is ultimately the manifestation of human imagination.
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Lorem Ipsum
+categories:
+- Learning
 ---
+
 
 Remember that [_Lorem Ipsum_ ](http://en.wikipedia.org/wiki/Lorem_Ipsum)passage? We use it when we do not want the reader to be distracted by the words. Layout artists for brochure/newsletter designs use them! And where did it [originate](http://www.loremipsum.net/about.html) from? Quite an interesting stuff i read! And here a bit of the Lorem Ipsum itself...
 

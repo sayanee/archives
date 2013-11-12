@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Nobel Laureate Facts
+categories:
+- Learning
 ---
+
 
 I found some [interesting facts about Nobel Laureates](http://nobelprize.org/nobel_prizes/nobelprize_facts.html) multiple prizes...
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Europe Travel Links
+categories:
+- Learning
 ---
+
 
 General...
 

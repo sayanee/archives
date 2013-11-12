@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Before you start
+categories:
+- Learning
 ---
+
 [Questions to ask yourself](http://www.readwriteweb.com/start/2009/05/10-things-be-clear-about-before-start-company.php)...
 
 1. Is this your first venture?

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Subordinate Clause
+categories:
+- Learning
 ---
+
 
 Structure of a sentence with a subordinate clause goes like this:
 

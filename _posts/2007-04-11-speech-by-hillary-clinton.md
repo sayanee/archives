@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Speech by Hillary CLinton
+categories:
+- Learning
 ---
+
 
 The [full speech](http://americanrhetoric.com/speeches/hillaryclintonbeijingspeech.htm) for United Nations Fourth World Conference on Women Plenary Session in 1995, Beijing.
 

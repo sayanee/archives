@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Richest person in the world
+categories:
+- Learning
 ---
+
 
 This is [according to the Forbes magazine](http://www.forbes.com/lists/2006/10/Worth_1.html)... this is top 10
 

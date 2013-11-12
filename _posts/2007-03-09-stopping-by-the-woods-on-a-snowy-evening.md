@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Stopping by the woods on a snowy Evening
+categories:
+- Learning
 ---
+
 
 I just love the way Robert Frost can bring out the surface meaning as well as the menaing that is deeper within. It's just beautiful...  Stopping by the woods on a Snowy Evening by Robert Frost
 

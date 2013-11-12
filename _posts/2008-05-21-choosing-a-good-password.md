@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Choosing a good password
+categories:
+- Learning
 ---
+
 
 How to choose a good password with high password strength? A good password is hard to guess and yet easy to remember!
 

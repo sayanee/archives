@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:** Magic Ladder to Success
 - **Author**: Napolean Hill
 - **Year written/published**:

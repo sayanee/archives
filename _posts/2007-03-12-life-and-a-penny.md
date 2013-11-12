@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Life and a penny
+categories:
+- Learning
 ---
+
 
 A beautiful poem about life and money... found in the excerpts of Think and Grow rich by Napolean Hill...
 

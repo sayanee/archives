@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Negotiating a great work contract
+categories:
+- Learning
 ---
+
 
 From [sound money tips](http://soundmoneytips.com/article/25854):
 

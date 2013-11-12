@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Who Took my Money? Why Slow investors lose and fast money wins!
 - **Author**: Robert Kiyosaki
 - **Year written/published:** 2004

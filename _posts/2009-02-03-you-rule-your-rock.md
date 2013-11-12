@@ -1,7 +1,10 @@
 ---
 layout: post
 title: you rule! your rock!
+categories:
+- Learning
 ---
+
 
 how awesome is this pic :D
 

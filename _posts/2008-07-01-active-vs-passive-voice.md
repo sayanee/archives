@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Active vs Passive Voice
+categories:
+- Learning
 ---
+
 
 **Active Voice** is usually preferred.
 

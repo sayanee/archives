@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Schengen Visa
+categories:
+- Learning
 ---
+
 
 With a border-less Europe travel for 90 days, the [Schengen](http://en.wikipedia.org/wiki/Schengen_Agreement) VISA for tourists and travellers is the answer. [Recently](http://www.auswaertiges-amt.de/diplo/en/Infoservice/FAQ/VisumFuerD/Schengenerweiterung.html), apart from the already included
 

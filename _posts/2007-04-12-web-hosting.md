@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Web hosting
+categories:
+- Learning
 ---
+
 
 Some web hosting names... because i'm looking for one :) and i'm learning about the features they all provide...
 

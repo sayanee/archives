@@ -1,7 +1,10 @@
 ---
 layout: post
 title: How to hack your own travel channel life by Adri
+categories:
+- Learning
 ---
+
 
 I have the fortune to know [Adri](http://popagandhi.com/) as a friend and listen to adventures for nearly 4 years now.. her slides that she presented during the [BarCamp](http://www.barcamp.org/BarCampSingapore4)
 

@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: The Mind of the leader - Havard Business Review
 - **Year written/published**: 2005
 - **Some extracts**: 

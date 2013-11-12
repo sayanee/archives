@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/cantDo.jpg)
 
 This cartoon in **Straits Times** is soooo funny...thankx Alvin for pointing it out to me!

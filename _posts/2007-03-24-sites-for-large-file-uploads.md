@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Sites for large file uploads
+categories:
+- Learning
 ---
+
 
 
 - [the upload](http://www.theupload.com/)

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: pi - the mathematical constant
+categories:
+- Learning
 ---
+
 
 so pi is the most important mathematical constant... it is real and irrational. Here's the first 1000 decimals... check out the [1 million decimal place](http://www.gutenberg.org/etext/50)... nobody had been able to find a pattern in any of these decimal places...
 

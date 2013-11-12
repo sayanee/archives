@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 So there was I…
 
 as a gal of 14 probably, sitting in the canteen during her French class break. Monsieur Lim just went through a passage about technology and the [TGV](http://en.wikipedia.org/wiki/TGV). And she sat there wondering, “Wouldn’t it be really great, if one day I can go to France to work on technology?” Yes i _did_ have that thought once…naaahhh…. technology…. engineer… too complicated stuff for her.

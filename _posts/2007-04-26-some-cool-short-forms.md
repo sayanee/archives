@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Some cool short forms
+categories:
+- Learning
 ---
+
 
 Engineering - wireless communication and networks is filled with short forms! And here are some really cool ones... hahha.... and [there are more here](http://www.activexperts.com/activmonitor/windowsmanagement/misc/acronyms/)!
 

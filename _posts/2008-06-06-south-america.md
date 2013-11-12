@@ -1,7 +1,10 @@
 ---
 layout: post
 title: South America
+categories:
+- Learning
 ---
+
 
 **Countries of South America**: Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela
 

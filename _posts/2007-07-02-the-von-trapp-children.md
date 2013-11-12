@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The Von Trapp family children
+categories:
+- Learning
 ---
+
 
 [The Sound of Music ](http://www.imdb.com/title/tt0059742/)is undoubtedly one of my fav Musical, especially the version in the 1965 movie. This picture shows when the 7 kids were acting in the movie.
 

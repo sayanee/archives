@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Normal Distribution
+categories:
+- Learning
 ---
+
 
 Normal distribution/Gaussian distribution has many applications. All normal density curves satisfy the following property:
 

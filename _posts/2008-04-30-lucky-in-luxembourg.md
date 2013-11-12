@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 I have some story to tell about my weekend in [Luxembourg City](http://en.wikipedia.org/wiki/Luxembourg_(city)). This city is filled with deep valleys and forts and I spent the morning roaming along the [Wenzel Walk ](http://www.aluxembourgattraction.com/luxembourg-attractions/the-wenzel-walk.htm)high up at the edges of the cliff. And by the time it was afternoon, i went further down into the valley and took my 2 hours of idle thoughts beside the stream. So can you spot where i took the afternoon pic from the morning shot? uuuuuhh... plain bliss strolling up and down the valleys and forts of Luxembourg!
 
 ![](/img/luxembourg_valley_petrusse.jpg)

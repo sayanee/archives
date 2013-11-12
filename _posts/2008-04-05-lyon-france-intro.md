@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Lyon (France) intro
+categories:
+- Learning
 ---
+
 
 some links about the 3rd largest city in France... Some general news about lyon
 

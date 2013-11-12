@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ooooohh!! Finally finished reading controversial Da Vinci Code by Dan Brown. Great book and I loved it!! The book was like a high-speed race...events unfolding one after another as the heroes Langdon and Sophie tried to break the codes to get the next clues. Something like a dramatic treasure hunt. I'm more into non-fiction, but i loved this booked because it deals with issues that I already like and read about...things like Golden Ratio, Phi, Fibonacci Sequence, anagrams and mysteries embedded in history. The occasional la langue francais made me realize that hmmm...I might not have forgotten so much French after all! C'est bien! N'est pas?
 
 It also rekindled interest in certain issues like... Paintings and Leonardo da Vinci--> This book dealt with famous paintings like Vitruvian man, Madonna of the Rocks, The Last Supper and of course The Mona Lisa. Dan Brown explained the hidden meanings behind these paintings.

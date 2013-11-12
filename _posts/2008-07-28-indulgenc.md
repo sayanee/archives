@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 24. Indulgence
+categories:
+- Learning
 ---
+
 
 From Tau De Ching
 

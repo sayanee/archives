@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/fd.jpg)
 
 **Warning:** Tech-savvy pals please don’t laugh, but I know you guys will help me out more  :D

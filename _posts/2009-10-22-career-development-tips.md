@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Career development tips
+categories:
+- Learning
 ---
+
 
 Some [career advice](https://www4.gsb.columbia.edu/publicoffering/post/726855/CEO+Leadership+Advice%3A+Know+Thyself) from the CEO of Booz and Company:
 

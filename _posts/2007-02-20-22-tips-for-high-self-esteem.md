@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 22 tips for high self-esteem
+categories:
+- Learning
 ---
+
 
 here's a great list... [from source](http://ririanproject.com/2007/02/01/wake-up-feeling-great-with-these-22-tips-for-high-self-esteem/)
 

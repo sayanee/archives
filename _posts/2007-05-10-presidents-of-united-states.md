@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Presidents of United States
+categories:
+- Learning
 ---
+
 
 In chronological order, here's the first 10 names with their start date of presidency... i know the ones in italics
 - _1 George Washington 30 Apr 1789_  2 John Adams  04 Mar 1797 

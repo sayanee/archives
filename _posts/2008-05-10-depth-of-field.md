@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Depth of Field
+categories:
+- Learning
 ---
+
 
 **Depth of Field** (DOF) is the portion of the photograph that is in focus as compared to the rest of the areas of the photo.
 

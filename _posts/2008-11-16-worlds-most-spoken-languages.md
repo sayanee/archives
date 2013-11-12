@@ -1,7 +1,10 @@
 ---
 layout: post
 title: World's most spoken languages
+categories:
+- Learning
 ---
+
 
 I went through a few list and these 10 languages kep coming up as the 10 most spoken languages in the world...
 

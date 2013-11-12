@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 Finished reading **Angels and Demons** by **Dan Brown**. Just like what Firdaus said, you can see patterns in his books – massive treasure hunts, unlocking historical clues, ancient secret societies, a complex plot unraveling within a night and an ultimate chase for the villain and the truth amidst a mixture of fact and fiction. This time Brown explored Rome and its countless churches along with historical personalities like Galileo, Copernicus and Bernini. The plot involves **ambigrams** and here’s a brilliant diamond one consisting of 4 ancient elements – Earth, Air, Fire, Water. Rotate these by 180 degrees and you’ll see the same!...Brilliant is the artist who designed this…
 
 ![](/img/angel31.jpg)

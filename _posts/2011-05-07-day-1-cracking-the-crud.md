@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Day 1 Cracking the CRUD
+categories:
+- Learning
 ---
+
 Hello everyone!
 
 A couple of months ago, when I first started with Rails, I took a loooong time to get all the setup and configuration. So, fret not if this happens to you :) I still have a long way to go, but it seems some of the stuff do get easier! So, let's see how's the todo app for now...

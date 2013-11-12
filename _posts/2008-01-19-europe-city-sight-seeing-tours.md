@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Europe city sight seeing tours
+categories:
+- Learning
 ---
+
 
 some links about city tours... and i'll update it as and when i find some other links. Google "city sightseeing tours" to know many related links. France:
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Appositives
+categories:
+- Learning
 ---
+
 
 **Appositives** are nouns or a group of words used often with modifiers. 
 

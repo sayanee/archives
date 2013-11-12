@@ -1,7 +1,10 @@
 ---
 layout: post
 title: CERN - the particle accelerator
+categories:
+- Learning
 ---
+
 
 [CERN ](http://public.web.cern.ch/Public/Welcome.html)- French **C**onseil **E**uropéen pour la **R**echerche **N**ucléaire, or European Council for Nuclear Research - is the particle physics laboratory. Some facts...
 - it has the world's largest particle accelerator

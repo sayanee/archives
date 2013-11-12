@@ -4,6 +4,7 @@ title: Autobiography of Benjamin Franklin
 categories:
 - Books
 ---
+
 - **Book Title:** Franklin's Autobiography
 - **Author:** [Benjamin Franklin](http://en.wikipedia.org/wiki/Benjamin_Franklin)
 - **Year written/published**: 1791 Summary:

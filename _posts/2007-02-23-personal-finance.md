@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Personal Finance
+categories:
+- Learning
 ---
+
 
 Some Free excel sheet documents for us to track our personal finance expenses :D
 

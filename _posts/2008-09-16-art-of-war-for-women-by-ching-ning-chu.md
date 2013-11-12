@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: The Art of War for women - Sun Tzu's ancient strategies and wisdom for winning at work
 - **Author**: Ching-Ning Chu
 - **My Comments**: I liked this book... short and to-the-point! Very applicable!

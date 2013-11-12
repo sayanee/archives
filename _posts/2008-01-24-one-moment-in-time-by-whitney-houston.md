@@ -1,7 +1,10 @@
 ---
 layout: post
 title: One Moment in Time by Whitney Houston
+categories:
+- Learning
 ---
+
 
 Each day I live I want to be A day to give The best of me I'm only one But not alone My finest day Is yet unknown
 

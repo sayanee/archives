@@ -4,6 +4,7 @@ title: Cascading Style Sheets
 categories:
 - Books
 ---
+
 - **Book Title:** Cascading Style Sheets: Separating Content from Presentation
 - **Authors:** Owen Briggs, Steven Champeon, Eric Costello, Matt Patterson with contributions from Dave Shea, John Simons, Michael Switzer, Dan Rubin, Michael Pick, Cornelia Lange
 - **Year written/published:** 2004

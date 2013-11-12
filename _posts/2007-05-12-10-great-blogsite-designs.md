@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 9 great blog/site designs
+categories:
+- Learning
 ---
+
 
 these are the few that catches my eye...
 

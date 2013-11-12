@@ -1,7 +1,10 @@
 ---
 layout: post
 title: common french verbs
+categories:
+- Learning
 ---
+
 
 they are....
 

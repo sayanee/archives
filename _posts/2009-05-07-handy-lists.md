@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Handy Lists
+categories:
+- Learning
 ---
+
 
 As written in Lifehack, there's a [great list of 9 things that we should keep handy](http://www.lifehack.org/articles/productivity/9-lists-to-keep-updated-and-keep-handy.html):
 

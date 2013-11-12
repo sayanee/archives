@@ -1,7 +1,10 @@
 ---
 layout: post
 title: JK Rowling's Harvard Commencement Speech
+categories:
+- Learning
 ---
+
 
 [J.K. Rowling Speaks at Harvard Commencement](http://vimeo.com/1711302) from [Harvard Magazine](http://vimeo.com/harvard) on [Vimeo](http://vimeo.com).
 

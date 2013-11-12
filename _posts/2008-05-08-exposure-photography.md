@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Exposure (photography)
+categories:
+- Learning
 ---
+
 
 **Exposure** is the amount of light falling on the image sensor of a DSLR.
 

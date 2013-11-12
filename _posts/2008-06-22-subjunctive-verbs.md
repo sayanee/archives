@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Subjunctive Verbs
+categories:
+- Learning
 ---
+
 
 [Subjunctive ](http://en.wikipedia.org/wiki/Subjunctive)is a special rare verb in English. The structure is extremely simple:
 - **be (past)**  - I were, you were, he/ she/it were, we were, they were

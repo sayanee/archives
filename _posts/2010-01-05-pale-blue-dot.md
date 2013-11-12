@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Pale Blue Dot
 - **Author**: Carl Sagan
 - **Year written/published**: 1997

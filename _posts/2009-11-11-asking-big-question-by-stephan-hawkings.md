@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Asking Big question - by Stephen Hawkings
+categories:
+- Learning
 ---
+
 
 One amazing insight into this scientist's thoughts...
 

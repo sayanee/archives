@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 You are at the top when...
 
 1. You clearly understand that failure is an event, not a person; that yesterday ended last night, and today is your brand new day

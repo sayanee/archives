@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: The Power of NOW – A Guide to Spiritual Enlightenment
 - **Author**: Ekhart Tolle
 - **Year written/published**: 1999

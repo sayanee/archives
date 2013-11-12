@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 On Sunday i went to the MacRitchie Tree Top Trail with Karyn...a 10 km hike. A walk filled with photography, physiotherapy, crap jokes, observing the fellow joggers, catching up with each other and most importantly the serenity in the vicinity of nature.
 
 ![](/img//k.jpg)

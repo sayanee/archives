@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Dunkerque
+categories:
+- Learning
 ---
+
 
 Dunkerque is situated at the north of France, facing the North Sea, at the Belgium border. Some links about Dunkerque...
 

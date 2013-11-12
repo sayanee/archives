@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Computer Networking
+categories:
+- Learning
 ---
+
 
 When a set of computers/devices are connected to exchange data, the networks possible are:
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Before starting a business
+categories:
+- Learning
 ---
+
 Fantastic list... from [Venture Beat](http://entrepreneur.venturebeat.com/2010/08/19/8-things-i-wish-i-knew-before-starting-a-business/)...
 
 1. Things take longer than you ever imagine

@@ -4,6 +4,7 @@ title: Silicon Valley Edge
 categories:
 - Books
 ---
+
 - **Book Title**: Silicon Valley Edge - A Habitat for Innovation and Entrepreneurship
 - **Author**: Lee, Miller, Hancock, Rowen
 - **Year written/published**: 2000

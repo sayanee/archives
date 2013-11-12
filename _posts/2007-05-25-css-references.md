@@ -1,7 +1,10 @@
 ---
 layout: post
 title: CSS references
+categories:
+- Learning
 ---
+
 
 some sites...
 

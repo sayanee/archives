@@ -1,7 +1,10 @@
 ---
 layout: post
 title: SET Puzzle
+categories:
+- Learning
 ---
+
 
 SET Puzzle is an awesome brain teaser game. According the to NYtimes, the instructions go something like this:
 

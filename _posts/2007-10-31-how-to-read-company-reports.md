@@ -1,7 +1,10 @@
 ---
 layout: post
 title: how to read company reports
+categories:
+- Learning
 ---
+
 
 Public listed companies' [annual reports](http://en.wikipedia.org/wiki/Annual_report) are found freely on their websites for their shareholders and they can be pretty long, but i found that browsing through gave an immense view about business and finances. There must surely be a better way to analyse them...
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: french grammar - avoir (to have)
+categories:
+- Learning
 ---
+
 
 avoir (to have)
 

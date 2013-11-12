@@ -1,7 +1,10 @@
 ---
 layout: post
 title: TED talk on Soft Power
+categories:
+- Learning
 ---
+
 
 It's been ages since i have heard the _righ_t description of a 21st century India... Shashi Tharoor says it beautifully...
 

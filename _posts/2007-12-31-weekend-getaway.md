@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 Guess where i was this weekend!
 
 ![](/img/seaside_764350782421.jpg)

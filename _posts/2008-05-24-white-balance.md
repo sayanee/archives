@@ -1,7 +1,10 @@
 ---
 layout: post
 title: White Balance
+categories:
+- Learning
 ---
+
 
 **White Balance (WB)** is the process of rendering the colours in the photograph so that it appears more neutral. Some times there is a blue or yellow cast and this can be removed with shifting the white balance so that original white colours looks white!
 

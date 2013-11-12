@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Father Forgets
+categories:
+- Learning
 ---
+
 
 Father Forgets by W. Linvingston. Be fore you criticise again... read this. It was printed in reader's digest and has been a favourtie for decades.
 

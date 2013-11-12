@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Open Office
+categories:
+- Learning
 ---
+
 
 I was trying out the [Open Office ](http://www.openoffice.org/)softwares. It basically consists of...
 

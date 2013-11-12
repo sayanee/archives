@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Millitary Ranks
+categories:
+- Learning
 ---
+
 
 I often get confused in the hierarchy of the [Millitary rank](http://en.wikipedia.org/wiki/Military_rank) names. Of course, it is complex and there are many different types for different cultures and army, navy, air force.. so here's it in really brief...
 

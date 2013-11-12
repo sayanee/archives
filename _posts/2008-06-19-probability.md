@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Probability
+categories:
+- Learning
 ---
+
 
 **Probability A and B**
 - P(A) + P(A’) = 1

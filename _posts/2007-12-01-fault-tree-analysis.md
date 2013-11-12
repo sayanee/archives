@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Fault Tree Analysis
+categories:
+- Learning
 ---
+
 
 Another reliability and safty analysis is the [Fault Tree Analysis](http://www.weibull.com/basics/fault-tree/index.htm). What is interesting is the way they use Logic Gates to analysis any occurence of faults in a system. Some more sites...
 

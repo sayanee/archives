@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Note Taking
+categories:
+- Learning
 ---
+
 
 ![](/img/cornell-layout1.jpg "cornell-layout1")
 

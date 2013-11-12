@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Clothing size
+categories:
+- Learning
 ---
+
 
 [Clothing Sizes](http://en.wikipedia.org/wiki/Clothing_sizes) for women
 

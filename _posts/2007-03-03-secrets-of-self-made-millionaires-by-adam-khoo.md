@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 I liked it, although i had a slight difficulty drilling in all the financial terms i have never heard before! It's my first ever book on finance/investment... or whatever they mean :P I learnt a lot and to point out a couple of learning points here...
 
 **9 Habits of Millionaires:**

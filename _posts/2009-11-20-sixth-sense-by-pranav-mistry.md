@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Sixth Sense by Pranav Mistry
+categories:
+- Learning
 ---
+
 
 One amazing invention by genius, Pranav Mistry. And Sixth Sense will be open source!
 

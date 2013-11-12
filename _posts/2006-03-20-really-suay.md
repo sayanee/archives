@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 I am on a row of hitting and injuring myself since the weekend!
 
 1. hit my **head** on my study table when i was about to get up from the floor

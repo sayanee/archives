@@ -4,6 +4,7 @@ title: Open Business Models
 categories:
 - Books
 ---
+
 ![](/img/open-business-models.jpeg "open-business-models")
 
 - **Title**:** Open Business Models - How to thrive in the New Innovation Landscape

@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 From using [wordpress.com ](http://wordpress.com/)to [wordpress.org](http://wordpress.org/) Shifting the posts...
 
 - Manage -> Export -> Wordpress in wordpress.com

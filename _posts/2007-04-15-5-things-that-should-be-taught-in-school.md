@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 5 things that should be taught in school…
+categories:
+- Learning
 ---
+
 
 And [they are](http://briankim.net/blog/2007/03/top-5-things-that-should-be-taught-in-every-school/)...
 

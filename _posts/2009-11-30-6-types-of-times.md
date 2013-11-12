@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 6 types of times
+categories:
+- Learning
 ---
+
 
 [These are six key types of time which we need](http://www.pickthebrain.com/blog/6-types-of-time-which-are-you-missing/):
 

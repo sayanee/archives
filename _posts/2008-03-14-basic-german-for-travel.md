@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Basic German for travel
+categories:
+- Learning
 ---
+
 
 Some collective words...
 

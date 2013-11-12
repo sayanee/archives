@@ -1,7 +1,10 @@
 ---
 layout: post
 title: East Europe map
+categories:
+- Learning
 ---
+
 
 According to the UN, east europe consists of:
 

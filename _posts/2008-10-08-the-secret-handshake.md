@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: The Secret Handshake – Mastering the Politics of Business Inner Circle
 - **Author**: Kathleen Kelley Reardon
 - **Year written/published**: 2001

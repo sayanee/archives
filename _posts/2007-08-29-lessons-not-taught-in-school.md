@@ -1,7 +1,10 @@
 ---
 layout: post
 title: lessons not taught in school...
+categories:
+- Learning
 ---
+
 
 I like this article - [21 Critical Life Lessons you didn't learn in School](http://johnplaceonline.com/achieve-balance/21-critical-life-lessons-you-didnt-learn-in-school/)... how true!
 

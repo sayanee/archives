@@ -1,7 +1,10 @@
 ---
 layout: post
 title: the trial of Socrates
+categories:
+- Learning
 ---
+
 
 Socrates. Statement at trial condemning him to death, 399BC, Athens. I need to read this. It is a puzzling even till today as to why a Greek society which was democratic would sentence a 70 year old philospher to death and that philosopher had been teaching for life. One excerpt from his speech...
 

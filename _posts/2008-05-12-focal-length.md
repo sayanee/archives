@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Focal Length
+categories:
+- Learning
 ---
+
 
 **Focal length** of a camera lens system is a measure of how strongly it converges (focuses) light. A photographic lens is used in a camera to make images of the objects on the film or other image sensors.
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Madurodam (Netherlands)
+categories:
+- Learning
 ---
+
 
 Madurodam is a miniature Holland themes park in Hague. The moment i saw the pictures, i loved the concept of it all. Some links...
 

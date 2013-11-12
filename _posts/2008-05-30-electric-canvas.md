@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Electric Canvas
+categories:
+- Learning
 ---
+
 
 I'm in love with this new art form that i saw - [Electric Canvas](http://www.theelectriccanvas.com.au/). These artists transforms huge building facades into magnificent designs and themes using only light projections. Now talk about arts, physics and engineering all coming into play!
 

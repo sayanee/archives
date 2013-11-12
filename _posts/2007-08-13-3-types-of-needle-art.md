@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 3 types of Needle Art
+categories:
+- Learning
 ---
+
 
 Been dabbling with these 3 types of needle work... Knitting, Tatting and Crochet... it's been awesome :P
 

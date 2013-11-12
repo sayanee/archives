@@ -1,7 +1,10 @@
 ---
 layout: post
 title: holding company and conglomerate company
+categories:
+- Learning
 ---
+
 
 i'm learning about many dimensions of a corporation. Some companies deals with consumer goods - food, industrial resources while others deals with services - airline, hotel, insurance, hospital, etc. And some companies operate to deal with purely other businesses!
 

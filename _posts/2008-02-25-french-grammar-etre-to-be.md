@@ -1,7 +1,10 @@
 ---
 layout: post
 title: french grammar - Être (To Be)
+categories:
+- Learning
 ---
+
 
 verb _Être_ (To Be)
 

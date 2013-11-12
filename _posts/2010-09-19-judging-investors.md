@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Judging investors
+categories:
+- Learning
 ---
+
 [How I judge investors](http://www.metamorphblog.com/2010/03/how-i-judge-investors-.html)... And this works even when you are looking for a mentor or even writing down the qualities of your next envisioned boss.
 
 1. Intelligence

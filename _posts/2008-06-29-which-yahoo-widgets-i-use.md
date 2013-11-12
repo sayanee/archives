@@ -1,7 +1,10 @@
 ---
 layout: post
 title: which yahoo widgets i use...
+categories:
+- Learning
 ---
+
 
 few of them on the desktop...
 

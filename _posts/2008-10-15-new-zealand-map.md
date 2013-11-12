@@ -1,7 +1,10 @@
 ---
 layout: post
 title: New Zealand map
+categories:
+- Learning
 ---
+
 
 ![](/img/new_zealand_map.gif)
 

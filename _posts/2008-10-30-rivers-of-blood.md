@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Rivers of blood
+categories:
+- Learning
 ---
+
 
 [Rivers of Blood](http://en.wikipedia.org/wiki/Rivers_of_Blood_speech) is a speech by Enoch Powell, a Conservative Member of Parliament, who made this speech in 1968. This speech is one of the most controversial ones and it talks about the huge influx of immigrants and its implications to Britain.  The [full text of the speech is found here](http://www.telegraph.co.uk/opinion/main.jhtml?xml=/opinion/2007/11/06/do0607.xml&page=1).
 

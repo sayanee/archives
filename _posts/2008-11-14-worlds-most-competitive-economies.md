@@ -1,7 +1,10 @@
 ---
 layout: post
 title: World's most competitive economies
+categories:
+- Learning
 ---
+
 
 the [rankings](http://www.weforum.org/en/initiatives/gcp/Global%20Competitiveness%20Report/index.htm)...
 

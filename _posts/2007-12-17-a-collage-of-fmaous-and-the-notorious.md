@@ -1,7 +1,10 @@
 ---
 layout: post
 title: a collage of famous and the notorious
+categories:
+- Learning
 ---
+
 
 Loved this pic that one of my friends put us... [view large](/img/FamousPeople.jpg). SO how many people can you identify?? :P
 

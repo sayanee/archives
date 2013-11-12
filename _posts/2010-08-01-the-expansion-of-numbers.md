@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The expansion of numbers
+categories:
+- Learning
 ---
+
 
 > There are 10^11 stars in the galaxy. That used to be a huge number. But it's only a hundred billion. It's less than the national deficit! We used to call them astronomical numbers. Now we should call them economical numbers. ~ Richard Feynman
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Manage work stress
+categories:
+- Learning
 ---
+
 
 and [55 tips](http://embraceliving.net/blog/2009/01/55-tips-to-manage-work-stress/) for it. Some of them include...
 

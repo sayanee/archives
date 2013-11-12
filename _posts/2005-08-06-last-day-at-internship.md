@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/mutiple_tracking.gif)
 
 YESTERDAY was **FRIDAY**!!!...it was my final presentation to the IBN Scientists and the Director...so how did it go??? As i said before, we tested the presentation from our laptop and we did not shut it down and brought it straight to the conference room. All set! 4pm...The directors enter...and jazz and me presented LAST...our Multiple Particle Tracking Project.

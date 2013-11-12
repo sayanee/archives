@@ -1,7 +1,10 @@
 ---
 layout: post
 title: blue collar and white collar
+categories:
+- Learning
 ---
+
 
 [White collar](http://en.wikipedia.org/wiki/White-collar_worker) refers to salaried professionals white
 

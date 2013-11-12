@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ! 'French Vocabulaire: perpositions'
+categories:
+- Learning
 ---
+
 
 found a nice neat little list in the [link](http://french.about.com/library/weekly/aa010800.htm) here:
 

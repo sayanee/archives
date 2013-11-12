@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Map of Middle East
+categories:
+- Learning
 ---
+
 
 Countries of Middl East includes... Algeria, Bahrain, Egypt, Iran, Iraq, Israel, Jordan, Kuwait,  Lebanon, Libya, Morocco, Oman, Palestine, Qatar, Saudi Arabia, Sudan,  Syria, Tunisia, Turkey, United Arab Emirates, Yemen
 

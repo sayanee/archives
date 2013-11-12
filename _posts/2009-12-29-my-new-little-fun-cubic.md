@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/cubic-logo-transparent-200.png)
 
 Ok! Here it goes... after a few months of secrecy and setting up, I have finally decided to say that my new project in partnership with a friend is online now! Project [Cubic](http://cubic.chin.ee/) is about capturing moments with a little Haiku.

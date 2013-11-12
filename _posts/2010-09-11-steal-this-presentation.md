@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Steal this presentation
+categories:
+- Learning
 ---
+
 Packed with juicy tactics for an impactful presentation!
 
 *[STEAL THIS PRESENTATION! ](http://www.slideshare.net/GlobalGossip/steal-this-presentation-5038209 "STEAL THIS PRESENTATION! ")

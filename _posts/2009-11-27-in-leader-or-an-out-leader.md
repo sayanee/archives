@@ -1,7 +1,10 @@
 ---
 layout: post
 title: In leader or an Out leader
+categories:
+- Learning
 ---
+
 
 From the [Harvard Business article](http://blogs.harvardbusiness.org/corkindale/2009/11/are_you_an_in_or_an_out_leader.html):
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 7 Cosmic Principles of Hermes Trismegistos
+categories:
+- Learning
 ---
+
 
 i came across this another spiritual principles from ancient times... and [ this article summarises it beautifully](http://youcreatereality.com/blog/index.php/2008/06/the-seven-cosmic-principles-of-hermes-trismegistos-hermetic-laws/).
 

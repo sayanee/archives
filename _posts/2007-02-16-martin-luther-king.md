@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Martin Luther King
+categories:
+- Learning
 ---
+
 
 His famous speech "I have a dream" is probably one of the most inspirational speech in the history. watch the video him delivering this speech... [the words ](http://usinfo.state.gov/usa/infousa/facts/democrac/38.htm)are so powerful and inspiring!
 

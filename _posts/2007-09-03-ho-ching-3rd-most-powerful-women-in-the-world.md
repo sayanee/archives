@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ! 'Ho Ching: 3rd most powerful women in the World'
+categories:
+- Learning
 ---
+
 
 As compared to the [last year Forbes ranking](http://www.forbes.com/lists/2006/11/06women_The-100-Most-Powerful-Women_Rank.html) No. 36, this year a Singaporean woman is ranked No. 3... Here's the [Forbes list for 2007](http://www.forbes.com/lists/2007/11/biz-07women_The-100-Most-Powerful-Women_Rank.html)... surely an inspiring list...
 

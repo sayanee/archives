@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Origami USA
+categories:
+- Learning
 ---
+
 
 I saw some beautiful paper craft yesterday that were part of the [5OSME event in Singapore](http://www.origami-usa.org/5osme).
 

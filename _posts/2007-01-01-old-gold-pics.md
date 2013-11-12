@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 I don't like to do monotonous mundane mechanical stuff... quite normal !!
 
 But somehow I think I can spend hours scanning in really old family photos and editing and restoring them - old photos from mom's and dad's childhood. I'm glad I did about quite a lot because now hours are being spent in looking at them. Like what _jethimoni_ says, the real fun is in looking at these photos together in a whole bunch with cousins and family.

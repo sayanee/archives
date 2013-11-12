@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Parallelism and Connectives
+categories:
+- Learning
 ---
+
 
 In Grammar, [Parallelism ](http://en.wikipedia.org/wiki/Parallelism_(grammar))is a balance of 2 or more similar words, phrases and structures. [For example](http://leo.stcloudstate.edu/grammar/parallelism.html) : 
 

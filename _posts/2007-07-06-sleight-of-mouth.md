@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Sleight of Mouth
+categories:
+- Learning
 ---
+
 
 [Sleight of Mouth](http://en.wikipedia.org/wiki/Sleight_of_mouth)is a technique of patterns for re-framing any negative statements. And i think it's a powerful list of 14 patterns for persuasion or influencing people...
 

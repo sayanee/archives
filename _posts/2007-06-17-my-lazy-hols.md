@@ -1,7 +1,10 @@
 ---
 layout: post
 title: my lazy hols...
+categories:
+- Learning
 ---
+
 
 don't ask me what i'm doing... i'm slacking big time! I'm supposed to be having a care-free mind enjoying the last bit of my hols... i mean i have just graduated right!! Somehow it ain't really happening... mind is totally cluttered up with the future thoughts.
 

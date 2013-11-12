@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Plea for lean software
+categories:
+- Learning
 ---
+
 [Niklaus Wirth](http://en.wikipedia.org/wiki/Niklaus_Wirth) takes an interesting view on while the hardware speed is growing, the softwares are becoming "fatter" - [A plea for lean software](http://d.linux-bg.org/download/docs/wirth.pdf) (pdf).
 
 2 laws...

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Map of Iran
+categories:
+- Learning
 ---
+
 
 I want to go to [Iran](http://en.wikipedia.org/wiki/Iran). The land of Persian, ancient history, Persian poetry and Tehran.
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: saying from Carl Sagan
+categories:
+- Learning
 ---
+
 
 A perspective on religion and science
 

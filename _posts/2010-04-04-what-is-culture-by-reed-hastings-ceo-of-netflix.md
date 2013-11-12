@@ -1,7 +1,10 @@
 ---
 layout: post
 title: What is Culture - by Reed Hastings, CEO of Netflix
+categories:
+- Learning
 ---
+
 
 A very reflective slides on company culture by the CEO of Netflix
 

@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 I'm blogging while waiting for the varnish and glue to harden up on my hand. Then i shall sandpaper my fingers and try to take them of. I tried pouring thinner on my hand and i made my hand surface worse!! how to take off all these mess!!!!! I can't take out my contacts without cleaning my hand. Ok maybe i can take them out and throw them away since they are disposable. But tomorrow i won't be able to wear them!!! And I don't wanna roam in campus with my geeky specs....ultimate degradation of my reputation ....@\*&#(@\*&#%@#!!!!!!!!!!!!!!
 
 Yesterday was sooooo bad. I'll never forget the difference between Sim Lim Tower and Sim Lim Square! But one thing that really kept me going was those really nice letters from my little bros. Ok they are not little....they are in upper secondary.

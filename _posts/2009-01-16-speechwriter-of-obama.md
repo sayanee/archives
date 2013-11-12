@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Speechwriter of Obama
+categories:
+- Learning
 ---
+
 
 [Jon Favreau](http://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter\)#cite_note-Wolffe-1), just 27 years old, is the official Director of Speech for Obama. And the close communication between Favreau and Obama goes into [the process of the final speech writing](http://www.guardian.co.uk/world/2009/jan/20/barack-obama-inauguration-us-speech)...
 

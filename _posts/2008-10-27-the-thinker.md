@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The Thinker
+categories:
+- Learning
 ---
+
 
 - **Name**: The Thinker (French: Le Penseur)
 - **Object**: Sculpture

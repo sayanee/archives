@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/akriti_1.jpg)
 
 Just returned from meeting up with Akriti…and a lot of things are on my mind. It was a good meeting up…there were 10 of us and of course Gaya, the star was there. Hmmmm….the suspense that we all have been waiting for was finally revealed. As liling said…_this mystery man whom we are referring to none other than ...........\*drum rolls\*..........!! our good ol' Angshuman-da! \*clashing cymbals\*!!!!!! _Gosh!! So exciting…love can indeed strike you at the most unexpected places and unexpected times!

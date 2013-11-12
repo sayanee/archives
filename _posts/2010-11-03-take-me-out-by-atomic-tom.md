@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Take Me Out by Atomic Tom
+categories:
+- Learning
 ---
+
 What a superb improvisation...
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/NAllFWSl998" frameborder="0" allowfullscreen></iframe>

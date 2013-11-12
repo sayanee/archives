@@ -4,6 +4,7 @@ title: Dead Sea Scrolls by Carsten Peter Thiede
 categories:
 - Books
 ---
+
 - **Book Title**: The Dead Sea Scrolls and the Jewish Origins of Christianity
 - **Author**: Carsten Peter Thiede
 - **Year written/published**: 2000

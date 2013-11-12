@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Hipster PDA
+categories:
+- Learning
 ---
+
 
 Ever wondered if there's a way to do GTD without notebooks and digital equipments? Well, there's hipster PDA!
 

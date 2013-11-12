@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 Ok, before i go to mug for my 2 remaining deadlines this week, i just thought of sharing my last 2 undergrad projects with all of you. Download them and have fun
 
 1. Astronomy project - [Origin of Life on Earth  ](/docs/newsletter.pdf) ![](/img/pdf.png)

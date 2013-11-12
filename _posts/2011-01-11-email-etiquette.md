@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Email etiquette
+categories:
+- Learning
 ---
+
 [From 99 percent](http://the99percent.com/tips/6975/Email-Etiquette-for-the-Super-Busy):
 
 1. Be concise

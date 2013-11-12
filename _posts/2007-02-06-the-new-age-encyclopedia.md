@@ -1,7 +1,10 @@
 ---
 layout: post
 title: the new age Encyclopedia
+categories:
+- Learning
 ---
+
 
 Do you remember storing book shelves of really thick books called encyclopedia?? Well, we don't need to waste space on them anymore... welcome to the internet version of encyclopedia: [WIKIPEDIA](http://en.wikipedia.org/wiki/Main_Page) We students just love wikipedia because:
 

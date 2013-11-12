@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ! '''rather than'' vs ''insead of'''
+categories:
+- Learning
 ---
+
 
 What is the difference between _rather than_ and _instead of_ ?
 

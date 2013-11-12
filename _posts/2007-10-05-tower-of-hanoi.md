@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Tower of Hanoi
+categories:
+- Learning
 ---
+
 
  To transfer and rebuild the tower around one of the initially empty pegs such that:
 

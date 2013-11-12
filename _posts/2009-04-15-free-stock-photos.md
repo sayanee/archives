@@ -1,7 +1,10 @@
 ---
 layout: post
 title: free stock photos
+categories:
+- Learning
 ---
+
 
 [awesome article by the tutorial blog](http://tutorialblog.org/25-places-to-find-awesome-stock-photos-—-free-and-cheap/) lists down 25 sites for free stock photos:
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: '#10 Pulse of Design Exploration with Linus Lim'
+categories:
+- Learning
 ---
+
 A Friday night out and dinner with Linus! I took him on a tour of the [heartland university](http://www.smu.edu.sg/) and we sat down chatting on his Pulses of Design Exploration.
 
 Linus Lim is a web designer, a [Fireworks enthusiast](http://fireworksinterviews.com/) and [Creative Crew](http://creativecrew.org.sg/) VP, he has been my mentor in picking web design tools! So I thought of catching a dinner with him and ask him his journey on design exploration and some of the tools he loves to use. So let's hear from Linus about his design exploration on drawing, [Free Hand](http://www.adobe.com/products/freehand/), printing, [Photoshop](http://www.adobe.com/products/photoshop.html), [Flash](http://www.adobe.com/products/flash.html), Visual Arts and of course [Fireworks](http://www.adobe.com/products/fireworks.html).

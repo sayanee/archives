@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Global Industry Classification Standard
+categories:
+- Learning
 ---
+
 
 How many ways can you divided the entire economy into market segment? [GICS shows one of the ways](http://en.wikipedia.org/wiki/Global_Industry_Classification_Standard). Here are 10 ways...
 

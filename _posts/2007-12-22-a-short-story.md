@@ -1,7 +1,10 @@
 ---
 layout: post
 title: a short story
+categories:
+- Learning
 ---
+
 
 a short story… I read from Brian Tracy… more on his book another day and for now it’s the short story…
 

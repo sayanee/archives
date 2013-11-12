@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 What Google is to Internet Search, Photoshop has become the verb for saying digital graphic manipulation. And ooooohhh!!! I just gotta photoshop more and more. Some of my friends were asking me how do i edit and make the pic collages. While i have loads to learn, i'll just share with you what i usually do with photos and photoshop and how i am still learning.
 
 **The Software** I use Photoshop CS2 and you can also try a [30 day free trial version ](http://www.adobe.com/downloads/alphabetical.html#sort-j)on the net. Like a million others out there would say, photoshop is a simply brilliant software. I always like to trace back in history to how it all started in 1989. I think it's really nostalgic to see the [Version 1 of Photoshop](http://creativebits.org/the_first_version_of_photoshop) and as you travel through time take a look at the [splashes of photoshop](http://www.guidebookgallery.org/splashes/photoshop). Interesting eh!!

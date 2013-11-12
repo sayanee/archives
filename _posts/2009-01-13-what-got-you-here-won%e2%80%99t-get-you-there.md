@@ -3,14 +3,8 @@ layout: post
 title: What got you here won’t get you there
 categories:
 - Book Reviews
-- Life Skills
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
+
 **Book Title:** What got you here won’t get you there - - How successful people become even more successful ** Author**: Marshal Goldsmith ** Year written/published:** 2007 ** Book Source:** [Google Books](http://books.google.com/books?id=PivdAAAACAAJ&dq=Marshall+Goldsmith+what+got+you+here) ** Some extracts**: They are transactional flaws performed by one person against other. They are:
 1. Wining too much
 2. Adding too much value – the overwhelming desire to add our 2 cents to every discussion

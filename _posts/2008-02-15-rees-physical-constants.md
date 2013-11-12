@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Rees' physical constants
+categories:
+- Learning
 ---
+
 
 there are only 6 major constants according to [Martin Rees](http://en.wikipedia.org/wiki/Sir_Martin_Rees):
 

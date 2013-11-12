@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 50 Most important people in the web
+categories:
+- Learning
 ---
+
 
 from the [main list](http://news.yahoo.com/s/pcworld/20070305/tc_pcworld/129301)... 
 

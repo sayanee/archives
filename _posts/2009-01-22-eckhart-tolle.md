@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Eckhart Tolle
+categories:
+- Learning
 ---
+
 
 [Eckhart Tolle](http://en.wikipedia.org/wiki/Eckhart_Tolle) is the new age spiritual speaker and writer.
 

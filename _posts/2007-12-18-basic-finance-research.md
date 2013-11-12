@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Basic finance research
+categories:
+- Learning
 ---
+
 
 ok some of my friends have been asking... so here's how we can all find out a bit more simpy from online research easy research. NOTE: the examples are not recommendations, but mere illustrations. these are not the only and most efficient ways... i'm just sharing freely as a beginner on what i know :) hope it helps.
 

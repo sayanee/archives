@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Ordinary People, Extraordinary Wealth: 8 secrets of how Ordinary Americans became successful investors and you can be to!
 - **Author**: Ric Edelman
 - **Year written/published**: 2001

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: If you think I've lost the battle...
+categories:
+- Learning
 ---
+
 
 A beautiful Dutch Poem
 

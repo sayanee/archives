@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Shutter Speed
+categories:
+- Learning
 ---
+
 
 **Shutter Speed** is the length of time the camera shutter is open and it is alos known as the exposure **time**.
 

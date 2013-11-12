@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:** Create your own future - How to master 12 critical factors of unlimited success
 - **Author:** Brian Tracy
 - **Year written/published:** 2002

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Napolean's Coronation
+categories:
+- Learning
 ---
+
 
 [Napolean](http://en.wikipedia.org/wiki/Napoleon_I_of_France) I's coronation on 2 december 1804 ... "Sacre of the Emperor Napoleon I and the crowning of the Empress Joséphine in the cathedral of Notre-Dame of Paris", by Jacques-Louis David...
 

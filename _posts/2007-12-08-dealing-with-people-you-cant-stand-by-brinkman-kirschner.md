@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:** Dealing with People you can't stand - How to bring out the best in People at their - worst
 - **Authors:** Dr. Rick Brinkman & Dr. Rick Kirschner
 - **Year written/published:** 1994

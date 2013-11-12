@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Somewhere out there…
+categories:
+- Learning
 ---
+
 
 Love this song...
 

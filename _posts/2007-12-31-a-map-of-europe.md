@@ -1,7 +1,10 @@
 ---
 layout: post
 title: a map of europe
+categories:
+- Learning
 ---
+
 
 saw this Europe map's interpretation in [strange maps](http://strangemaps.wordpress.com/2007/12/23/227/), one of my fav blogs
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: iPhone battery care
+categories:
+- Learning
 ---
+
 
 Apple has laid out some really [good tips on the iPhone battery](http://www.apple.com/batteries/iphone.html) care:
 

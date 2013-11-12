@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: How to get Rich - The Secrets of Business Success from the star of the Apprentice
 - **Author**: [Donald J. Trump ](http://en.wikipedia.org/wiki/Donald_trump)
 - **Year written/published**: 2004

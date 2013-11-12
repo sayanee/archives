@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 _Madames et Monsiuers_ Before it was too long, i was whisked away from Charles de Gaulles along l'autoroute A2 towards north of France. Darlings Sweska is finally in France!!!
 
 ![](/img/border_highway.jpg)

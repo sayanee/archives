@@ -4,6 +4,7 @@ title: Blog Design Solutions
 categories:
 - Books
 ---
+
 - **Book Title:** Blog Design Solutions
 - **Authors:** Andy Budd, Simon Collison, Chris J. Davis, Michael Meilemann, John Oxton, David Powers, Richard Rutter, Phil Sherry
 - **Year written/published:** 2006

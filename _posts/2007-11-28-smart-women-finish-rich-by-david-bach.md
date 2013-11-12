@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:** Smart Women finish Rich
 - **Author:**David Bach
 - **Year written/published:** 1999

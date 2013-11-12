@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 After 4 years of undergrad studies, i can finally go on to the next stage of my life! The academic gown surely made us look much more intellectual :P
 
 ![](/img/comm0707.jpg)

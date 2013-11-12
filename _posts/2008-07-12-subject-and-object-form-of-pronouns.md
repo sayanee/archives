@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Subject and Object form of Pronouns
+categories:
+- Learning
 ---
+
 
 There are 2 forms of pronouns:
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Megacity of the world
+categories:
+- Learning
 ---
+
 
 [Megacity](http://en.wikipedia.org/wiki/Megacity) is defined as an urban area with population of more than 10 million people... and here are the top few city names...
 

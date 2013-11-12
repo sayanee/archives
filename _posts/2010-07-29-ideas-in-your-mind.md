@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ideas in your mind
+categories:
+- Learning
 ---
+
 I just found some [gem articles of Paul Graham](http://www.paulgraham.com/articles.html) and the one on [top ideas strikes a chord](http://www.paulgraham.com/top.html)..
 
 > You can't directly control where your thoughts drift. If you're controlling them, they're not drifting. But you can control them indirectly, by controlling what situations you let yourself get into. That has been the lesson for me: be careful what you let become critical to you. Try to **get yourself into situations where the most urgent problems are ones you want to think about**...

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Relative pronoun vs. participle
+categories:
+- Learning
 ---
+
 
 So what is the difference between these sentences?
 

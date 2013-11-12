@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Cologne, Germany
+categories:
+- Learning
 ---
+
 
 Cologne, Kölle, Köln of Koeln... the 4th largest city in Germany after Berlin, Hamburg and Munich. And yes, Eau de Cologne is from right here!! Some landmarks to see...
 

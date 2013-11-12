@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Parallelism
+categories:
+- Learning
 ---
+
 
 Some phrases of Parallelism in english:
 

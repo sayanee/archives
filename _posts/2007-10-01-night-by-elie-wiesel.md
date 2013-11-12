@@ -6,6 +6,7 @@ categories:
 ---
 
 
+
 - **Book Title**: Night
 - **Author**: [Elie Wiesel](http://en.wikipedia.org/wiki/Elie_Wiesel) - a holocaust survivor, a nobel peace prize winner, author and political activist
 - **Year written/published**: 1958

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Amish - 18th century lifestyle today!
+categories:
+- Learning
 ---
+
 
 There is a group of people living today with no electricity and computers because they choose to live in the 18th century lifestyle. They are Protestant people living in Lacaster, Pennsylvania... called the Pennsylvanian Dutch! Amazing! Some links on these people called the Amish :)
 

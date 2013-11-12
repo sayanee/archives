@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 On my way home from the Victoria Concert Hall that day, I saw the most clearest blue sky as the evening sun rays hit one of the tall buildings.
 
 We don't really see clear blue skies here right??

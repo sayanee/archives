@@ -1,7 +1,10 @@
 ---
 layout: post
 title: office politics
+categories:
+- Learning
 ---
+
 
 I really don't know anything about this since i have not started work, but i thought that this  [article](http://www.bnet.com/2403-13070_23-93243.html) shows a really good grasp on how to deal with office politics...
 

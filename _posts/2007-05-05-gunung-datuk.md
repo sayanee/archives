@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Gunung Datuk
+categories:
+- Learning
 ---
+
 
 Because i'll be going there soon :P Peak name: Gunung Datuk Place: Malaysia, Asia Elevation: 884 metres / 2900 feet and some links for more reading:
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Snapping Shrimp
+categories:
+- Learning
 ---
+
 
 How amazing it is that a little shrimp can blast water at high speed with temperatures equal to the surface of the Sun!
 

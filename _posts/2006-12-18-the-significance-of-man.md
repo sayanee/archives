@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 Every now and then [digg](http://digg.com/videos_educational/the_scale_of_some_stuff_in_the_universe) will feature videos like this comparing the size of the Earth with some humongous stars out there in the galaxies...
 
 And every time I see this kind of things, it makes me think we are really so so tiny in the ultimate face of the universe, and yet we always fight about our differences and pieces of land in this tiny Earth. Man is insignificant. Nothing.

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ! '''who'' vs ''whom'''
+categories:
+- Learning
 ---
+
 
 **Who**
 

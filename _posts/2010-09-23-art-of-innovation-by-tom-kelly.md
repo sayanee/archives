@@ -4,6 +4,7 @@ title: Art of Innovation by Tom Kelly
 categories:
 - Books
 ---
+
 - **Book Title**: The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm
 - **Author**: Tom Kelly, General Manager of IDEO
 - **Book Source**: [Amazon](http://www.amazon.com/Art-Innovation-Lessons-Creativity-Americas/dp/0385499841)

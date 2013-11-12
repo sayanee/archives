@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Complex question
+categories:
+- Learning
 ---
+
 
 [Complex question](http://en.wikipedia.org/wiki/Fallacy_of_many_questions) presupposes a hidden meaning.
 

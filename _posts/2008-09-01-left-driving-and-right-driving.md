@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Left driving and Right driving
+categories:
+- Learning
 ---
+
 
 Ever wondered why some countries have [left hand driving and others have right hand driving](http://en.wikipedia.org/wiki/Driving_on_the_left_or_right)?? Here's an interesting [peak at the history and origin](http://users.telenet.be/worldstandards/driving%20on%20the%20left.htm#history)...
 

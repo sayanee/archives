@@ -4,6 +4,7 @@ title: Worldly Philosophers
 categories:
 - Books
 ---
+
 - **Book Title**: The Worldly Philosophers: The Lives, Times And Ideas Of The Great Economic Thinkers
 - **Author**: Robert L. Heilbroner
 - **Year written/published**: 1953

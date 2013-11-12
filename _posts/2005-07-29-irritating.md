@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/ppt.jpg)
 
 After days of preparing our wonderful 10 minutes power point slide...we were **READY** to present it to the Corporate Staff yesterday. Jazz and me were so proud of our super-imposed graphics and animations. We wanted to explain our **multiple particle tracking** project well.yesterday...

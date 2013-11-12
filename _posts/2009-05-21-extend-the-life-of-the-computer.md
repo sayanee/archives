@@ -1,7 +1,10 @@
 ---
 layout: post
 title: extend the life of the computer
+categories:
+- Learning
 ---
+
 
 some neat tips from the Howcast:
 

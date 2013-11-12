@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Richest Countries in the world
+categories:
+- Learning
 ---
+
 
 the rankings...
 

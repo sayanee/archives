@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:** S.U.M.O (Shut Up, Move On) The Straight Talking guide to creating and enjoying a brilliant life
 - **Author:** Paul McGee
 - **Year written/published:** 2005

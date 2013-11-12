@@ -4,6 +4,7 @@ title: Interview Power by Tom Washington
 categories:
 - Books
 ---
+
 - **Book Title:** Interview Power: Selling yourself Face to Face
 - **Author:** Tom Washington
 - **Year written/published:** 1995

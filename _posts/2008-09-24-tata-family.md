@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Tata family
+categories:
+- Learning
 ---
+
 
 some famous [Tata family members ](http://www.tatacentralarchives.com/Heritage/FamilyTree.Pdf)have immense contribution to the Indian economy ... The following lists the period of Chaimanship of the Tata Group.
 

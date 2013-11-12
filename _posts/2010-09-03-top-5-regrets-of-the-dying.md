@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Top 5 regrets of the Dying
+categories:
+- Learning
 ---
+
 From the [original article](http://ezinearticles.com/?Top-Five-Regrets-of-the-Dying&id=3268063)...
 
 1. I wish I'd had the courage to live a life true to myself, not the life others expected of me.

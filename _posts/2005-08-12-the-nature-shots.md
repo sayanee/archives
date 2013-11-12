@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The Nature shots
+categories:
+- Learning
 ---
+
 
 ![](http://photos22.flickr.com/33369347_5222d0566a.jpg)
 

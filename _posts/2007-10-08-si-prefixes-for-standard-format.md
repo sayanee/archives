@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Metric System Prefixes
+categories:
+- Learning
 ---
+
 
 to denote very small numbers or very large numbers, we use standard prefixes... 
 

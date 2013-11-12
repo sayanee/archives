@@ -4,6 +4,7 @@ title: Rocket surgery made easy
 categories:
 - Books
 ---
+
 - **Book Title**: [Rocket Surgery Made Easy](http://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)
 - **Author**: Steve Krug
 - **Some extracts**:

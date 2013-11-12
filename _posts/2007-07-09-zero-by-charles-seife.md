@@ -4,6 +4,7 @@ title: Zero by Charles Seife
 categories:
 - Books
 ---
+
 - **Book Title**: Zero - The Biography of a Dangerous Idea
 - **Author**: Charles Seife
 - **Year written/published**: 2000

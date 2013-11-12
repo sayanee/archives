@@ -1,7 +1,10 @@
 ---
 layout: post
 title: iPhone PCB
+categories:
+- Learning
 ---
+
 
 iPhone PCB
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 'Habit #1- fixed schedule'
+categories:
+- Learning
 ---
+
 
 Friends always ask me how I manage work and school. Frankly, I did not manage them well so far.
 

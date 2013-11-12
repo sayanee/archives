@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 10 free apps that I use for design & development
+categories:
+- Learning
 ---
+
 I have been using a bunch of application for inspiration, design, database, coding, testing and versioning purposes on my MAC OS Lion machine. I bought some apps and today i wanted to share the ones that are available for free. Here are my top 10 that I use frequently.
 
 **1. LittleSnapper** (<a href="http://www.realmacsoftware.com/littlesnapper/">download</a>) for inspiration

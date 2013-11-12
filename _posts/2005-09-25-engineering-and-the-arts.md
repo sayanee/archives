@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 ![](/img/piano.jpg)
 
 Break is over and now it’s really time to dive in. In fact I think I was having a 5 months break since May. So what have I done so far…I really wonder. My piano teacher is going to France for 3 weeks!!!! I’m drooling….she’ll be in Paris for 5 days, then Loudre and Province. She has asked me to be a good girl and continue playing piano and improve my sight reading. I promised her and of course I’ll be definitely playing a lot of piano… _\*\* sweska squeals\*\*_

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Questions to ask
+categories:
+- Learning
 ---
+
 
 ![](/img/question.jpg "question")
 

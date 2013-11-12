@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Champion Chip
+categories:
+- Learning
 ---
+
 
 Marathon runner typically wear this little chip on their shoe and tie it up with their shoe lace. And this chip can actually track the distance taken and the time!! In many international running races, this chip is used for a more accurate analysis of both distance and time taken.
 

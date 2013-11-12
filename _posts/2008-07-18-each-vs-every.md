@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ! '''each'' vs ''every'''
+categories:
+- Learning
 ---
+
 
 **Each**
 

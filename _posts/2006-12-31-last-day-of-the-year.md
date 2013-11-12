@@ -5,6 +5,7 @@ categories:
 - Musing
 ---
 
+
 You know what!! My fever seems to [always come at the most anti-climatic time](/plans-abandoned/) :P
 
 It's about 9pm here and soon all my cousins and relatives will be out together for a countdown and i'll be bored at home. Keep me company in MSN please! I somehow think i'm not alone... like me there's uzyn and des. Actually i see 18 friends online. We'll countdown online! Join me!! Haha! Oh.. how can i forget... my 7 year old cousin will also be at home with me! But still, i'm just slightly sad... i mean the chance to countdown with cousins comes only once in 2 or 3 years and stupid sweska!!

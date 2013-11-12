@@ -4,6 +4,7 @@ title: The Speed Reading Book by Tony Buzan
 categories:
 - Books
 ---
+
 - **Book Title:** The Speed Reading Book
 - **Author:** Tony Buzan
 - **Year written/published:** 1971

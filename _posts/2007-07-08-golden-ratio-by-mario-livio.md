@@ -4,6 +4,7 @@ title: Golden Ratio by Mario Livio
 categories:
 - Books
 ---
+
 - **Book Title**: The Golden Ratio - The story of Phi, the World's Most Astonishing Number
 - **Author**: Mario Livio
 - **Year written/published**: 2002

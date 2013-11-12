@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**: Delivering - A Path To Profits, Passion, and Purpose
 - **Author**: Tony Hsieh
 - **Year written/published**: 2010

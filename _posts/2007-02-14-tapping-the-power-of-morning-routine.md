@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Tapping the power of morning routine…
+categories:
+- Learning
 ---
+
 
 you might wanna look at what time you go to work and what you do before going to office...
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: That vs. Which
+categories:
+- Learning
 ---
+
 
 When to use _that_ and when to use _which_?
 

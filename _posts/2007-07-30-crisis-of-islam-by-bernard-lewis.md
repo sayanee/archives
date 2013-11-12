@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title**:The Crisis of Islam: Holy War and Unholy Terror
 - **Author**: Bernard Lewis
 - **Year written/published**: 2003

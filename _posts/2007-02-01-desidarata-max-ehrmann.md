@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Desidarata - Max Ehrmann
+categories:
+- Learning
 ---
+
 
 There are many written down lists of leading a way of life. I like Desidarata because it is practical, and yet it tells you to go silently and humbly. Read more about [Desidarata](http://en.wikipedia.org/wiki/Desiderata) and here's the full excerpt...
 

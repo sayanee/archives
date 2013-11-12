@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Clarke's 3 laws
+categories:
+- Learning
 ---
+
 
 [Arthur C. Clarke](http://en.wikipedia.org/wiki/Arthur_C._Clarke "Arthur C. Clarke") formulated the following three laws:
 

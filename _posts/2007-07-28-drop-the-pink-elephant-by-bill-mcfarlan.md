@@ -5,6 +5,7 @@ categories:
 - Books
 ---
 
+
 - **Book Title:** Drop the Pink Elephant: 15 ways to say what you mean - and mean what you say
 - **Author**: Bill Mc Farlan
 - **Year written/published:** 2003

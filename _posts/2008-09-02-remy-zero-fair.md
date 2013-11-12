@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Remy Zero - Fair
+categories:
+- Learning
 ---
+
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/JbGTzJcyjGI" frameborder="0" allowfullscreen></iframe>
 

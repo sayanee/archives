@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The next warren buffet
+categories:
+- Learning
 ---
+
 
 Warren Buffet, the world's second richest man says this about the qualities a person should have if he wants to be the next warren buffet...
 

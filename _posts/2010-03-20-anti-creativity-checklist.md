@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Anti-Creativity Checklist
+categories:
+- Learning
 ---
+
 
 [My Anti-Creativity Checklist](http://vimeo.com/10175915) from [Youngme Moon](http://vimeo.com/user3383164) on [Vimeo](http://vimeo.com).
 

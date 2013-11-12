@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Future of Books by IDEO
+categories:
+- Learning
 ---
+
 [The Future of the Book.](http://vimeo.com/15142335) from [IDEO](http://vimeo.com/ideo) on [Vimeo](http://vimeo.com).
 
 
