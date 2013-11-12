@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Enigmatic HDR
+categories:
+- Musing
 ---
 
 ![](http://static.flickr.com/37/105257024_4ec37dde63.jpg)

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: On my way home…
+categories:
+- Musing
 ---
 
 On my way home from the Victoria Concert Hall that day, I saw the most clearest blue sky as the evening sun rays hit one of the tall buildings.

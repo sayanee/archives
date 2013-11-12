@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Spring Cleaning
+categories:
+- Musing
 ---
 
 Yeah!! I finally managed to pack my messy messy room and also clean up and arrange all the files in the hard disk and laptop... strange how spring cleaning also means dealing with soft copy files as well.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Must Watch!
+categories:
+- Musing
 ---
 
 I'll definitely watch [this](http://www.comingsoon.net/news/topnews.php?id=7198)! It is releasing around 18 or 19 May and it's just nice because my exams will end my then.

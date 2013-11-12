@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Connections and Relations
+categories:
+- Musing
 ---
 
 3 cousins got married within the span of 1.5 years and I didn’t attend a single one!!! _\*sobs\* _ Saw my cousin brother’s **wedding** pics....so warmly...all the relatives from around the world united to celebrate the creation of another generation, addition of another family, union of 2 people. Obviously a **transition** could be seen... you could see the transition of leadership from the grand-parents generation to my parents’ generations. My mom laughed and said she’s becoming an auntie-in-law to so many of my cousins. The groom’s mother told mom that she cannot imagine being a mother-in-law now... she still feels so young at heart. I also cannot imagine this transition... it’s all subtle, but change is inevitable.All the pics reminded me of the old photographs of the previous generation... striking resemblance, only time has changed.

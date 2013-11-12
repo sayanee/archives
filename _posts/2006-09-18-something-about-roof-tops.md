@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Something about Roof Tops
+categories:
+- Musing
 ---
 
 There's something about open spacious roof tops and me. 

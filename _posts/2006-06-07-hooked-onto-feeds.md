@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Hooked onto Feeds
+categories:
+- Musing
 ---
 
-** ![](/img/fd.jpg) Warning:** Tech-savvy pals please don’t laugh, but I know you guys will help me out more  :D
+![](/img/fd.jpg)
+
+**Warning:** Tech-savvy pals please don’t laugh, but I know you guys will help me out more  :D
 
 Ok so I have finally discovered what is [RSS](http://en.wikipedia.org/wiki/RSS_%28file_format%29) or [Feeds](http://faq.wordpress.com/2006/04/19/feeds-stats-readers-and-more/). I shall try my best to explain from a novice point of view because this is really useful in saving time and surfing the net in a smart way.
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Completion of 2 stars
+categories:
+- Musing
 ---
 
 ![](/img/ts.jpg)

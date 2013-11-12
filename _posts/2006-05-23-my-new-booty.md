@@ -1,6 +1,8 @@
 ---
 layout: post
 title: My New Booty!!!
+categories:
+- Musing
 ---
 
 Can't wait... simply can't wait... the sea calls. Me and karyn are excited and yet apprehensive. Will we be able to overcome the challenge?? Yeah!! We will... coz we believe!

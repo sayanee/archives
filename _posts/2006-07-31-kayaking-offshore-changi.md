@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Kayaking offshore Changi
+categories:
+- Musing
 ---
 
-After [my 2 star experience](/2006/05/27/mixed-adventure/)... here comes my 3 star training.
+After [my 2 star experience](/mixed-adventure)... here comes my 3 star training.
 
 The [3 star syllabus](http://www.scf.org.sg/Awards/Personal3.html) is challenging and you realise that you are no longer a novice kayaker struggling to keep your kayak straight. Every stroke demands some kind of tilting or edging the kayak. You also discover a new group a muscles that are aching... the torso muscles because you keep using them and the knees to edge the kayak. Capsize drill is such a norm that you can comfortably stay under water and overturned. But most importantly even if you complete this training course, it doesn't mean that you are a certified 3 star kayaker. You have an assessment!!!!!!
 

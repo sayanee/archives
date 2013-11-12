@@ -11,7 +11,11 @@ I went to gym 11 out of 12 days to try out EVERY SINGLE different type of 30+ cl
 
 ![](/img/salutation.jpg)
 
-**Most Pro-feeling: Body Pump** Felt like a pro carrying long rods, weight plates and steps to work out!! Never knew weight lifting could be this fun! Lifting barbells and doing bench press, shoulder press...blah blah. Guess how much i was carrying?!?!??!....2 KG and i was dieing 1/2 an hour into the class, while this guy beside me carried 20 kg....10 times more @(\*#&^#&\*^#\* !!!!!  **Most Crazy: Latino Jam** And I LOVED latino jam... coz I like the funky and groovy instructor... he was the same one as Amore and I THINK he recognised me and went...ooooohhhh traitor traitor...hehe! Anyway I could not obviously catch up with all the groovy shakes, so the last 1/2 an hour I was just shaking and turning and trying to act like shakira hopelessly... ledole lele! **Most sweat-out: Body Combat** This is very similar to Kick boxing or cardo kick... you really sparkle with sweat at the end of it... just love it!!
+**Most Pro-feeling: Body Pump** Felt like a pro carrying long rods, weight plates and steps to work out!! Never knew weight lifting could be this fun! Lifting barbells and doing bench press, shoulder press...blah blah. Guess how much i was carrying?!?!??!....2 KG and i was dieing 1/2 an hour into the class, while this guy beside me carried 20 kg....10 times more @(\*#&^#&\*^#\* !!!!! 
+
+**Most Crazy: Latino Jam** And I LOVED latino jam... coz I like the funky and groovy instructor... he was the same one as Amore and I THINK he recognised me and went...ooooohhhh traitor traitor...hehe! Anyway I could not obviously catch up with all the groovy shakes, so the last 1/2 an hour I was just shaking and turning and trying to act like shakira hopelessly... ledole lele!
+
+**Most sweat-out: Body Combat** This is very similar to Kick boxing or cardo kick... you really sparkle with sweat at the end of it... just love it!!
 
 **Most soul-to-divine connection: Body Balance** A combination of pilates, yoga and tai chi... om namaste! Tried Tai Chi for the first time and I can only marvel at the similarities and the reasons of yoga and tai chi - a remarkable reminder how the world essentially thinks the same way! And I just loved the music - energising and relaxing!
 
@@ -19,4 +23,6 @@ So that was my basic first 2 weeks...love it!! Today i went in the evening and i
 
 Sigh...2 more weeks to school opening...
 
-**Current Goal:** Must TRY to go for those morning classes even during term time!! **Current Mood:** Excited about the up-coming all girls outings!!!!
+**Current Goal:** Must TRY to go for those morning classes even during term time!!
+
+**Current Mood:** Excited about the up-coming all girls outings!!!!

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Mid Term Break
+categories:
+- Musing
 ---
 
 …and the first day spent in school from 9 am to 7pm for only one module haha! But I’m glad to finally see the joy in their eyes after 1 week at 445pm! It was all because of a 3 line of code!!!! This is debugging! My most nerve-racking semester is gonna go into full swing in a week’s time. My most challenging semester...Because I am taking 3 level 3000 modules Because for the first time I got 5 days a week timetable when I always had 4 days a week timetable Because I have this really challenging project to build a remote controlled amphibious vehicle Because my timetable is totally bad bad bad with 2 days out of 5 days having only an hour lesson Because for the first time I have a 4 hour LONELY break

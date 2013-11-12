@@ -1,6 +1,8 @@
 ---
 layout: post
 title: These Youngsters
+categories:
+- Musing
 ---
 
 When i surf around... i come across awesome talent, creativity and most importantly bravery to plunge into something never ventured before. I am inspired and stunned by their imagination and determination. But even more stunning is their age... they are so young. Ok correction - as old as me and barely into their 20s. And i truly salute their courage of this generation... my generation.
