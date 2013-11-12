@@ -3,10 +3,7 @@ layout: post
 title: Multiple Streams of Income by Robert G. Allen
 categories:
 - Books
-categories: Routing things, Unexpected things, other people delegated to you, your dreams and goals…. this will leave you with surprise! If you’re not careful, the routine things, emergencies and other people’s monkeys will take up most of your time and this will leave you no time for working on your dreams.
-15. Learn to love the word NO
 ---
-
 - **Book Title:** Multiple Streams of Income: How to generate a lifetime of unlimited wealth!
 - **Author:** Robert G. Allen
 - **Year written/published:** 2000

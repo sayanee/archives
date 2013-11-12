@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to hack your own travel channel life by Adri
+title: How to hack your own travel channel life
 categories:
 - Learning
 ---

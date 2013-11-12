@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#9 Pulse of Visual Communications with Stefano Virgilli'
+title: '#9 Pulse of Visual Communications with Stefano'
 categories:
 - Learning
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Online Stock Market Investing by Alexander Davidson
+title: Online Stock Market Investing
 categories:
 - Books
 ---

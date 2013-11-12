@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time Line Therapy by Tad James & Wyatt Woodsmall
+title: Time Line Therapy
 categories:
 - Books
 ---

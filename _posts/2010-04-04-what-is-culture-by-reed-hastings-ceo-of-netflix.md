@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Culture - by Reed Hastings, CEO of Netflix
+title: What is Culture
 categories:
 - Learning
 ---

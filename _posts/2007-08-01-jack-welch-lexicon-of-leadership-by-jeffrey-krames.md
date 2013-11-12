@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jack Welch Lexicon of Leadership by Jeffrey Krames
+title: Jack Welch Lexicon of Leadership
 categories:
 - Learning
 ---

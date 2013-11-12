@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Effective Project Management by Clements & Gido
+title: Effective Project Management
 categories:
 - Books
 ---

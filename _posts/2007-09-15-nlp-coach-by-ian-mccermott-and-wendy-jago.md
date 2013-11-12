@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NLP Coach by Ian McCermott and Wendy Jago
+title: NLP Coach by McCermott and Jago
 categories:
 - Books
 ---

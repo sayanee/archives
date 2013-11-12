@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pleasure of Finding things out by Richard Feynman
+title: Pleasure of Finding things out
 categories:
 - Books
 ---

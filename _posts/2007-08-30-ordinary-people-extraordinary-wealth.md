@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ordinary People Extraordinary Wealth by Ric Edelman
+title: Ordinary People Extraordinary Wealth
 categories:
 - Books
 ---

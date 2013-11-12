@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Career Portfolio Workbook by Satterthwaite & D’orsi
+title: Career Portfolio Workbook
 categories:
 - Books
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: High Tech Personal Efficiency Program by Kerry Gleeson
+title: High Tech Personal Efficiency Program
 categories:
 - Books
 ---

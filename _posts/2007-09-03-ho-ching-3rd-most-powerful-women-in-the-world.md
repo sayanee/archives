@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ! 'Ho Ching: 3rd most powerful women in the World'
+title: ! 'Ho Ching: 3rd most powerful women'
 categories:
 - Learning
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dealing with People you can't stand by Brinkman & Kirschner
+title: Dealing with People you can't stand
 categories:
 - Books
 ---

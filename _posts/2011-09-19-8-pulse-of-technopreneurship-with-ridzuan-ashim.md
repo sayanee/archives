@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ! '#8 Pulse of Technopreneurship with Ridzuan Ashim'
+title: ! '#8 Pulse of Technopreneurship with Ridzuan'
 categories:
 - Learning
 ---

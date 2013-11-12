@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Secrets of Self-Made Millionaires by Adam Khoo
+title: Secrets of Self-Made Millionaires
 categories:
 - Books
 ---

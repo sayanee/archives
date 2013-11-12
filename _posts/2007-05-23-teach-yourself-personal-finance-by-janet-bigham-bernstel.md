@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teach yourself Personal Finance by Janet Bigham Bernstel
+title: Teach yourself Personal Finance
 categories:
 - Books
 ---

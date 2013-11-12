@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7 Habits of Highly Effective People by Stephen Covey
+title: 7 Habits of Highly Effective People by Covey
 categories:
 - Books
 ---

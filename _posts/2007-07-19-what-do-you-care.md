@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What do you care what other people think by Feynman
+title: What do you care what other people think
 categories:
 - Books
 ---

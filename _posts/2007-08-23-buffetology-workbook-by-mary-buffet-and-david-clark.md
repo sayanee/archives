@@ -1,13 +1,9 @@
 ---
 layout: post
-title: Buffetology Workbook by Mary Buffet and David Clark
+title: Buffetology Workbook
 categories:
 - Books
-categories: the healthy consumer monopoly type business and the sick commodity type business
-- A consumer monopoly is a type of business that sells a brand name product or has a unique position that allows it to act like a monopoly.
 ---
-
-
 - **Book Title**: The Buffetology Workbook - Value Investing the Warren Buffet Way
 - **Authors**: Mary Buffet and David Clark
 - **About the Author**: Mary Buffet is the former daughter-in-law od Warren Buffet

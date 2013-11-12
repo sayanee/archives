@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#6 Pulse of tech innovation with Chris @HPLabs!'
+title: '#6 Pulse of tech innovation with @HPLabs'
 categories:
 - Learning
 ---

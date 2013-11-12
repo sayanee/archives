@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hiking, Camping and Great Outdoors by Michael Mouland
+title: Hiking, Camping and Great Outdoors
 categories:
 - Books
 ---

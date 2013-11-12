@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beginner’s American History by D. H. Montgomery
+title: Beginner’s American History
 categories:
 - Books
 ---

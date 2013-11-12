@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Monk who sold his Ferrari by Robin Sharma
+title: The Monk who sold his Ferrari
 categories:
 - Books
 ---

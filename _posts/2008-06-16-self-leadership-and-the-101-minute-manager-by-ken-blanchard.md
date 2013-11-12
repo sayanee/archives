@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Self Leadership and the 101 Minute Manager by Ken Blanchard
+title: Self Leadership and the 101 Minute Manager
 categories:
 - Books
 ---

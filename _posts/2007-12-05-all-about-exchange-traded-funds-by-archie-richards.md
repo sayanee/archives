@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All about exchange traded funds by Archie Richards
+title: All about exchange traded funds
 categories:
 - Books
 ---

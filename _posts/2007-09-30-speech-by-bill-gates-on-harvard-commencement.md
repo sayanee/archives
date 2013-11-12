@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech by Bill Gates on Harvard Commencement
+title: Commencement Speech by Bill Gates
 categories:
 - Learning
 ---

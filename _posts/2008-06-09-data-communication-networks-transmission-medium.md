@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Communication Networks - Transmission medium
+title: Data Communication Networks
 categories:
 - Learning
 ---
