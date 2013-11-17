@@ -1,8 +1,6 @@
 .site
   margin: 1em auto
   width: $width-fixed
-  background-color: #fff
-  padding: 1em
 
 .posts
   list-style-type: none
@@ -14,7 +12,23 @@
       right: 0
       top: 0
     a
-      &:link, &:active
+      text-decoration: none
+      &:link, &:visited
         color: $black
       &:hover, &:active
-        color: $primary
+        color: $grey
+
+.categories
+  list-style: none
+  text-align: center
+  border-top: 6px double $black
+  border-bottom: 6px double $black
+  padding: .5em 0
+  margin-bottom: 2em
+  li
+    display: inline
+    margin: 0 2em
+  a
+    text-decoration: none
+    &:hover, &:active
+      color: $grey
