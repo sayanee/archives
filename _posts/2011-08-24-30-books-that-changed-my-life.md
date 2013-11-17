@@ -84,7 +84,7 @@ I hope you too can find some gems of life within some of these books! If you too
 18. [Art of War](/the-art-of-war-by-sun-tzu/) by Sun Tzu [ancient military strategies for winning the war]
 
   > The supreme act of war is to subdue the enemy **without fighting**
-19. Getting Things Done(/getting-things-done-by-david-allen) by David Allen [how to get things done in a mind like water]
+19. [Getting Things Done](/getting-things-done-by-david-allen) by David Allen [how to get things done in a mind like water]
 
   > The methods I present here are all based on 2 key objectives 1). **Capturing all the things** that need to get done – now, later, someday, big, little or in between – into a logical and trusted system outside of your head and off your mind 2). Disciplining yourself to make front-end decisions about all of the inputs you let into your life so that you will always **have a plan for ‘next actions'** that you can implement or renegotiate at any moment.
 20./the-little-prince/"> The Little Prince by Antoine de Exupery [life's simpleness through a story]
@@ -99,7 +99,7 @@ I hope you too can find some gems of life within some of these books! If you too
 
   > Every **sound** is born out of **silence**, dies back into silence, and during its life span is surrounded by silence. **Silence enables the sound to be.** It is an intrinsic but un-manifested part of every sound, every musical note, every song, every word. The **un-manifested is present** in this world as silence. This is why it has been said that nothing in this world is so like God as silence.
 
-23. /crossing-the-chasm/">Crossing the Chasm by Geoffrey Moore [introducing technology in the market]
+23. [Crossing the Chasm](/crossing-the-chasm) by Geoffrey Moore [introducing technology in the market]
 
   > Crossing the chasm required moving from an environment of support among the **visionaries** back into one of skepticism among the **pragmatists**. It means moving form the familiar ground of **product-oriented** issues to the unfamiliar ground of **market-oriented** ones, and from familiar audience of like minded specialists to the unfamiliar audience of essentially uninterested generalists.
 
