@@ -8,7 +8,7 @@ a
   &:link, &:visited
     color: $black
   &:hover, &:active
-    color: $black
+    color: $grey
 
 .title
   color: $black
@@ -17,5 +17,30 @@ a
   margin: 0
   font-weight: 400
   text-transform: uppercase
+  padding: 0.2em 0 0 0
   a
     text-decoration: none
+    &:hover, &:active
+      background-color: lighten($grey, 20%)
+      color: $black
+
+.tagline, .quote
+  margin: 0
+  text-align: center
+
+.quote
+  font-size: .8em
+  color: $grey
+  font-style: italic
+
+.meta
+  font-style: italic
+  border-top: 1px solid lighten($grey, 5%)
+  border-bottom: 1px solid lighten($grey, 5%)
+  font-size: .8em
+  padding: .2em 0
+  color: lighten($grey, 5%)
+
+blockquote
+  border-left: 5px solid $grey
+  padding: 0 0 0 1em
