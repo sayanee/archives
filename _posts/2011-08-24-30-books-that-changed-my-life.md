@@ -87,7 +87,8 @@ I hope you too can find some gems of life within some of these books! If you too
 19. [Getting Things Done](/getting-things-done-by-david-allen) by David Allen [how to get things done in a mind like water]
 
   > The methods I present here are all based on 2 key objectives 1). **Capturing all the things** that need to get done – now, later, someday, big, little or in between – into a logical and trusted system outside of your head and off your mind 2). Disciplining yourself to make front-end decisions about all of the inputs you let into your life so that you will always **have a plan for ‘next actions'** that you can implement or renegotiate at any moment.
-20./the-little-prince/"> The Little Prince by Antoine de Exupery [life's simpleness through a story]
+
+20. [The Little Prince](/the-little-prince)  by Antoine de Exupery [life's simpleness through a story]
 
   > “Here is my secret. It is very simple: one sees well only with the heart. The essential is invisible to the eyes.”
 
