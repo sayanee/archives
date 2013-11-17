@@ -29,7 +29,7 @@ I hope you too can find some gems of life within some of these books! If you too
 
 5. [Art &amp; Fear](/art-fear) by David Bayles and Ted Orland [Making Art and it's uncanny similarities with coding]
 
-  > What you need to know about the **next piece** is contained in the** last piece**. The place to learn about your **materials** is in the last use of your materials. The place to learn about your **execution** is in your execution. The best information about what you **love** is in your last contact with what you love. Put simply, **your work is your guide**: a complete, comprehensive, limitless reference book on your work.
+  > What you need to know about the **next piece** is contained in the **last piece**. The place to learn about your **materials** is in the last use of your materials. The place to learn about your **execution** is in your execution. The best information about what you **love** is in your last contact with what you love. Put simply, **your work is your guide**: a complete, comprehensive, limitless reference book on your work.
 
 6. [How to be Free](/how-to-be-free-by-tom-hodgkinson) by Tom Hodkingson [Oh Yeah! Free life, Create your own, be happy! ]
 
@@ -45,7 +45,7 @@ I hope you too can find some gems of life within some of these books! If you too
 
 9. [Anything You want](/anything-you-want-by-sivers) by Derek Divers [Organic ideas, happiness minus the MBA]
 
-  > But “revolution” is a term that people use only when you’re successful. Before that, you’re just a quirky person who does things differently. **People think revolution needs to involve loud provocations**, fists in the air, and bloodshed. But if you think true love looks like Romeo and Juliet, you’ll overlook a great relationship that grows slowly…**When you’re on to something great, it won’t feel like revolution**. It’ll feel like **uncommon sense**.
+  > But “revolution” is a term that people use only when you’re successful. Before that, you’re just a quirky person who does things differently. **People think revolution needs to involve loud provocations**, fists in the air, and bloodshed. But if you think true love looks like Romeo and Juliet, you’ll overlook a great relationship that grows slowly… **When you're on to something great, it won’t feel like revolution**. It’ll feel like **uncommon sense**.
 
 10. [God Delusion](/god-delusion-by-richard-dawkins/) by Richard Dawkins [A deeply religious non-believer]
 
@@ -57,11 +57,11 @@ I hope you too can find some gems of life within some of these books! If you too
 
 12. [Losing my Virginity](/losing-my-virginity-by-richard-branson) by Richard Branson [Autobiography]
 
-  > Convention dictates that a company should look after its shareholders first, its customers next and last of all worry about its employees. Virgin does the opposite. For us, our **employees matter most**. It just seems common sense to me that if you start off with a happy,** well-motivated workforce**, you’re much more likely to have **happy customers**. And in due course the resulting profits will make you s**hareholders happy**.
+  > Convention dictates that a company should look after its shareholders first, its customers next and last of all worry about its employees. Virgin does the opposite. For us, our **employees matter most**. It just seems common sense to me that if you start off with a happy, **well-motivated workforce**, you’re much more likely to have **happy customers**. And in due course the resulting profits will make you **shareholders happy**.
 
 13. [Stumbling on Happiness](/stumbling-on-happiness) by Daniel Gilbert [How to be happy and striking psychological tests]
 
-  > wonderful things are especially wonderful for the first time they happen, but** their wonderfulness wanes with repetition**. … another way to beat habituation is to increase the amount of time that separates repetitions of the experience.
+  > wonderful things are especially wonderful for the first time they happen, but **their wonderfulness wanes with repetition**. … another way to beat habituation is to increase the amount of time that separates repetitions of the experience.
 
 14. [Start with WHY](start-with-why) by Simon Sinek [Why first, then how and what]
 
@@ -105,7 +105,7 @@ I hope you too can find some gems of life within some of these books! If you too
 
 24. [Brief History of Time](/brief-history-of-time-by-stephen-hawking) by Stephen Hawkings [cosmological history of the universe]
 
-  > The discovery of a complete unified theory, therefore, may not aid the survival of our species. It may not even affect our lifestyle. But ever since the dawn of civilization, people have not been content to see e**vents as unconnected and inexplicable**. They have craved an understanding of the underlying order in the world. Today we still yearn to know **why we are here** and **where we came from**. Humanity’s **deepest desire for knowledge is justification enough** for our continuing quest. And our goal is nothing less than a complete description of the universe we live in.
+  > The discovery of a complete unified theory, therefore, may not aid the survival of our species. It may not even affect our lifestyle. But ever since the dawn of civilization, people have not been content to see **events as unconnected and inexplicable**. They have craved an understanding of the underlying order in the world. Today we still yearn to know **why we are here** and **where we came from**. Humanity’s **deepest desire for knowledge is justification enough** for our continuing quest. And our goal is nothing less than a complete description of the universe we live in.
 
 25. [Tao Te Ching](/tao-te-ching-by-lao-tzu/) by Lao Tzu [ancient teachings]
 
@@ -119,7 +119,7 @@ I hope you too can find some gems of life within some of these books! If you too
 
 26. [Best Software Writings](/best-software-writing-by-spolsky) by Joel Spolsky &amp; other Authors [best software practices and thoughts]
 
-  > With the ubiquity of the Internet today, one of the best ways to build awareness of your product is to** develop it “in the open”**… Developing software takes time. Doing it in the “open” can be a great way of using that time to build awareness as you go.
+  > With the ubiquity of the Internet today, one of the best ways to build awareness of your product is to **develop it “in the open”** … Developing software takes time. Doing it in the “open” can be a great way of using that time to build awareness as you go.
 
 27. [Intelligent Investor](/the-intelligent-invester-by-benjamin-graham) by Benjamin Graham [value and security investing]
 
