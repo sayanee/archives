@@ -20,4 +20,4 @@ Yesterday was like......bleah....our serial cable **BOTH BROKE!!!!** and today w
 
 But despite all these....yeah i'm really blessed to have cool friends around who'll stay with you to bitch around and help you when you are desperately in need ...i mean lilin and jia..they willing lent us their serial cables and huiling, kanghao, des willingly helped us with that 5pm dealine.....
 
-oooooooooooofffffffffff......what a hectic and running-around day! i'm staying at home for the next 2 days... hey i'm NOT skipping school!! Tomorrow is my free day and thursday i only got a 2 hours lecture. _\*\*sweska sleeps\*\*_
+oooooooooooofffffffffff......what a hectic and running-around day! i'm staying at home for the next 2 days... hey i'm NOT skipping school!! Tomorrow is my free day and thursday i only got a 2 hours lecture. *sweska sleeps*

@@ -54,10 +54,10 @@ $ heroku open
 
 **Time Taken:** 5 days
 
-**Fun Stuff done today: **My [Code in Github](https://github.com/sayanee/My-Todo) and my [app in Heroku](http://my-todo.heroku.com/)!
+**Fun Stuff done today:** My [Code in Github](https://github.com/sayanee/My-Todo) and my [app in Heroku](http://my-todo.heroku.com/)!
 
-**Next Objective: **Build a [CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) implementation for my Todo list from scratch without using the magical Scaffold of Rails!
+**Next Objective:** Build a [CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) implementation for my Todo list from scratch without using the magical Scaffold of Rails!
 
-So, what are your thoughts? If you are not a coder, better still - let me know what your ideal todo would look like and what features would you love? You only need to [look at the app right here ](http://my-todo.heroku.com/)to comment. If you are also new to Rails, I would be happy to learn together and if you are advanced, I would also love to hear your suggestions on how best I can learn the fundamentals E.g. my mentor told me to not use the magical  [Scaffold](http://www.viget.com/extend/rails-3-generators-scaffolding/) to understand the core, etc.
+So, what are your thoughts? If you are not a coder, better still - let me know what your ideal todo would look like and what features would you love? You only need to [look at the app right here ](http://my-todo.heroku.com/)to comment. If you are also new to Rails, I would be happy to learn together and if you are advanced, I would also love to hear your suggestions on how best I can learn the fundamentals E.g. my mentor told me to not use the magical [Scaffold](http://www.viget.com/extend/rails-3-generators-scaffolding/) to understand the core, etc.
 
 I hope my journey will be fun, open and in the end build something that someone else out there will also find it valuable ... so join me :)

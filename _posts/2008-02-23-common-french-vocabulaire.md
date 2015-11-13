@@ -6,7 +6,7 @@ categories:
 ---
 
 
-Days of the week... **les jours de la semaine. **The french days of the week starts on monday
+Days of the week... **les jours de la semaine** The french days of the week starts on monday
 
 1. monday  **Lundi**
 2. tuesday **Mardi**

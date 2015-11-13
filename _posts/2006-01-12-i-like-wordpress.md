@@ -22,6 +22,6 @@ But how do I **customise** the layout like blogspot?? I can't seem to get hold o
 
 I discovered Wordpress last year, but how come on earth i didn't bother to open an account to try it until NOW?? Especailly since I was playing with other blogging spheres like Livejournal, Xanga, ebloggy...blah blah...
 
-But until the next hols this will be my blog. Blogspot has taught me a lot because of it's tremendous ability to add 3rd party stuff + template pages which can be customised! I learnt some html stuff with dreamweaver to help me, I learnt how to blog with flash and pictures. I have learnt so much that even Ash says that i'm becoming a tech-savvy gal _\*\*ahem\*\*_ Next hols i'll experiment a lot with wordpress!! I have a feeling that wordpress is written in PHP.
+But until the next hols this will be my blog. Blogspot has taught me a lot because of it's tremendous ability to add 3rd party stuff + template pages which can be customised! I learnt some html stuff with dreamweaver to help me, I learnt how to blog with flash and pictures. I have learnt so much that even Ash says that i'm becoming a tech-savvy gal *ahem* Next hols i'll experiment a lot with wordpress!! I have a feeling that wordpress is written in PHP.
 
 Any more fun stuff in Wordpress??? Tech gurus please have your say...

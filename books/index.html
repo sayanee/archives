@@ -5,7 +5,10 @@ title: Books reviews
 
 <div id="home">
   <ul class="posts">
-    {% for post in site.categories.books %}<li><a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li>
+    {% for post in site.categories.books %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li>
     {% endfor %}
   </ul>
+
+  <p>See more of her <a href="https://books.sayan.ee">reading notes</a>.</p>
 </div>

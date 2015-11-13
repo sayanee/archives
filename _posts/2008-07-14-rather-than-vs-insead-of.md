@@ -10,4 +10,4 @@ What is the difference between _rather than_ and _instead of_ ?
 
 **Rather than** suggests preference or choice. 
 
-**Instead of **suggests replacement.
+**Instead of** suggests replacement.

@@ -28,4 +28,4 @@ Birth of religions
 
 Amidst a fictitious plot, the book constantly dealt with the harmony of Religion and Science. It deals heavily with contrasts – good and evil, God and devil, ying and yang, dark and night….Angels and Demons. …demons…devil, evil or Shaitan…Shaitan is Islamic. It means ‘adversary’…God’s adversary. Shaitan is the root of an English word…**Satan**. It suddenly strike me that Shaithan in Hindi and Shoithan in Bengali mean the same. The spoken form of devil is so similar in languages spanning from East Asia, Middle East to Europe and America.
 
-The** world ultimately speaks the same language**…doesn’t it?
+The **world ultimately speaks the same language** …doesn’t it?

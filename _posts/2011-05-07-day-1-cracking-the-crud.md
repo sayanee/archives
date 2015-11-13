@@ -56,9 +56,9 @@ end
 $ git rm file-to-delete.rb
 ```
 
-**Time Taken: **4 hours [it wasn't even 4 hours when I first tried following a tutorial! It was around 10 hours :) ]
+**Time Taken:** 4 hours [it wasn't even 4 hours when I first tried following a tutorial! It was around 10 hours :) ]
 
-**Fun Stuff completed: **Todo now has the functions of CRUD (Create, Read, Update, Delete)
+**Fun Stuff completed:** Todo now has the functions of CRUD (Create, Read, Update, Delete)
 ![](/img/day0.jpg "day0")
 
 [peer](https://github.com/sayanee/My-Todo/tree/915ba0735c817040ed605831b202158025be69b5) into the code, [play](http://my-todo.heroku.com/) with the app

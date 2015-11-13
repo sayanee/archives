@@ -8,8 +8,8 @@ categories:
 
 There are 2 forms of pronouns:
 
-1. **subject **form: I, you, he, she, it, we, they
-2. **object **form: me, you, him, her, it, us, them
+1. **subject** form: I, you, he, she, it, we, they
+2. **object** form: me, you, him, her, it, us, them
 
 These 2 forms are not interchangeable.
 - _Wrong_: My sister and me wanted to take a hike!

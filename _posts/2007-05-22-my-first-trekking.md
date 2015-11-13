@@ -10,7 +10,7 @@ Went for my first trek during the weekend to **Gunung Datuk**, Tampin, Malaysia.
 
 ![](/img/datuk41.jpg)
 
-It all started after we reached the **Tampin **town at 1230pm and we started trek up the hill at 3pm. Like a very cuckoo first time trekker i carried a super heavy backpack all the way up up through the rugged terrain. But we all made it after 3 hours of climbing up huffing and puffing.
+It all started after we reached the **Tampin** town at 1230pm and we started trek up the hill at 3pm. Like a very cuckoo first time trekker i carried a super heavy backpack all the way up up through the rugged terrain. But we all made it after 3 hours of climbing up huffing and puffing.
 
 My trekking mates were an awesome bunch... upon reaching the summit, we set up 2 tents to sleep on the summit overnight. It was sort of a base near the top of the Gunung Datuk hill. Toilet was in the heavenly bushes and we had a fun time staying overnight with grasshopers and ants. Burning leaches was one of our fav activites :shocked:
 

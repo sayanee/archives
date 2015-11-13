@@ -40,6 +40,6 @@ Maximising vs finding product cycles...
 
 Steve Jobs and the turn around...
 
-> But remember that when Jobs returned to Apple in 1996, he was doing so as the co-founder and CEO of NeXT computer, a marginal computer workstation company which Apple purchased for less than $500M. Let’s just say he didn’t have the benefit of the doubt. What he **did have:** the founder’s courage to innovate despite the doubters**.
+> But remember that when Jobs returned to Apple in 1996, he was doing so as the co-founder and CEO of NeXT computer, a marginal computer workstation company which Apple purchased for less than $500M. Let’s just say he didn’t have the benefit of the doubt. What he did have: **the founder’s courage to innovate despite the doubters**.
 
 I shall leave the rest for you to read on your own :)
