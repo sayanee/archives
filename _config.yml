@@ -9,4 +9,4 @@ exclude: ['sass', 'node_modules', 'Gruntfile.js', 'package.json', 'readme.md', '
 markdown: redcarpet
 redcarpet:
   extensions: ['no_intra_emphasis', 'fenced_code_blocks', 'autolink', 'tables', 'with_toc_data']
-url: http://archives.sayan.ee
+url: https://archives.sayan.ee

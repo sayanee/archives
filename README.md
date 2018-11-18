@@ -1,17 +1,17 @@
-#Sayanee's Blog
+# Blog Archives
 
 > my old blog
 
-##install
+## Install
 
-1. install packages `gem install github-pages && npm i`
+Install packages `gem install github-pages && npm i`
 
-##getting started
+## Getting started
 
 1. start the jekyll server: `npm start`
-- command line watch for css and javascript: `npm run watch`
+1. command line watch for css and javascript: `npm run watch`
 
-#License
+## License
 
 The source code is under [MIT License](/LICENSE).
 
