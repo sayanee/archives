@@ -6,7 +6,6 @@ tags: blog, archives, old, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012
 destination: ./_publish
 permalink: /:title
 exclude: ['sass', 'node_modules', 'Gruntfile.js', 'package.json', 'readme.md', 'js', 'automation', 'CNAME', 'LICENSE']
-markdown: redcarpet
 redcarpet:
   extensions: ['no_intra_emphasis', 'fenced_code_blocks', 'autolink', 'tables', 'with_toc_data']
 url: http://localhost:4000
